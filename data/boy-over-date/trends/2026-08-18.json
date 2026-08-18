@@ -5,11 +5,25 @@
     "total_books": 20,
     "new_count": 0,
     "dropped_count": 0,
-    "avg_heat": 108950,
-    "total_heat": 2179000,
+    "avg_heat": 110900,
+    "total_heat": 2218000,
     "first_day": true
   },
   "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
     {
       "name": "都市高武",
       "trend": {
@@ -39,21 +53,7 @@
       }
     },
     {
-      "name": "都市生活",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
-      "name": "东方玄幻",
+      "name": "都市高手",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -95,7 +95,7 @@
       }
     },
     {
-      "name": "都市高手",
+      "name": "都市生活",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -110,20 +110,6 @@
     },
     {
       "name": "末世危机",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
-      "name": "明星娱乐",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,

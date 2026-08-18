@@ -11,14 +11,14 @@
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
-      "rank": 3,
-      "heat": 0
+      "rank": 4,
+      "heat": 1
     },
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 5,
-      "heat": 506000
+      "heat": 504000
     },
     {
       "board": "boy-hot-month",
@@ -32,7 +32,7 @@
       "d": "2026-08-18",
       "b": "boy-hot-date",
       "r": 5,
-      "h": 506000
+      "h": 504000
     },
     {
       "d": "2026-08-18",
@@ -43,8 +43,8 @@
     {
       "d": "2026-08-18",
       "b": "boy-update-date",
-      "r": 3,
-      "h": 0
+      "r": 4,
+      "h": 1
     }
   ]
 }

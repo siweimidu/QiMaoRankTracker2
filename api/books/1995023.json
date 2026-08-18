@@ -9,24 +9,24 @@
   "word_count_text": "262.38万字",
   "latest": [
     {
-      "board": "boy-hot-date",
-      "board_name": "男生大热日榜",
-      "rank": 9,
-      "heat": 384000
-    },
-    {
       "board": "boy-hot-month",
       "board_name": "男生大热月榜",
       "rank": 9,
       "heat": 13186000
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 10,
+      "heat": 383000
     }
   ],
   "history": [
     {
       "d": "2026-08-18",
       "b": "boy-hot-date",
-      "r": 9,
-      "h": 384000
+      "r": 10,
+      "h": 383000
     },
     {
       "d": "2026-08-18",

@@ -13,7 +13,7 @@
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -27,7 +27,7 @@
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -41,8 +41,8 @@
         "status": "连载中",
         "word_count_text": "443.88万字",
         "word_count": 4438800,
-        "heat": 0,
-        "platform_trend": "",
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",

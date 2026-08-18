@@ -6,7 +6,7 @@
     "new_count": 0,
     "dropped_count": 0,
     "avg_heat": 1,
-    "total_heat": 30,
+    "total_heat": 28,
     "first_day": true
   },
   "categories": [
@@ -67,7 +67,7 @@
       }
     },
     {
-      "name": "玄幻仙侠",
+      "name": "无限快穿",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -81,7 +81,7 @@
       }
     },
     {
-      "name": "都市奇幻",
+      "name": "远古大陆",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "name": "无限快穿",
+      "name": "玄幻仙侠",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,

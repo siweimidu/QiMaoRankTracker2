@@ -6,40 +6,12 @@
     "new_count": 0,
     "dropped_count": 0,
     "avg_heat": 1,
-    "total_heat": 31,
+    "total_heat": 28,
     "first_day": true
   },
   "categories": [
     {
       "name": "东方玄幻",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
-      "name": "都市高武",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
-      "name": "幻想修真",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -67,7 +39,21 @@
       }
     },
     {
-      "name": "都市高手",
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
+    {
+      "name": "都市高武",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -95,20 +81,6 @@
       }
     },
     {
-      "name": "异世大陆",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
       "name": "奇门秘术",
       "trend": {
         "new_count": 0,
@@ -123,7 +95,35 @@
       }
     },
     {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
+    {
       "name": "衍生同人",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
+    {
+      "name": "都市高手",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,

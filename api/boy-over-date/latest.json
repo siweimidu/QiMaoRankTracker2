@@ -15,6 +15,10 @@
       "url": "api/boy-over-date/latest/all.json"
     },
     {
+      "name": "东方玄幻",
+      "url": "api/boy-over-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
+    },
+    {
       "name": "都市高武",
       "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
@@ -23,12 +27,8 @@
       "url": "api/boy-over-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
-    },
-    {
-      "name": "东方玄幻",
-      "url": "api/boy-over-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
+      "name": "都市高手",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "奇门秘术",
@@ -39,16 +39,12 @@
       "url": "api/boy-over-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
     {
-      "name": "都市高手",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+      "name": "都市生活",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "末世危机",
       "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
-    },
-    {
-      "name": "明星娱乐",
-      "url": "api/boy-over-date/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
     },
     {
       "name": "异世大陆",

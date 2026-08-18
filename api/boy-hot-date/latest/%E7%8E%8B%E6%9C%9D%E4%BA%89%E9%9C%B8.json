@@ -13,7 +13,7 @@
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 299000,
+    "total_heat": 290000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -27,7 +27,7 @@
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -41,10 +41,10 @@
         "status": "连载中",
         "word_count_text": "184.25万字",
         "word_count": 1842500,
-        "heat": 299000,
-        "platform_trend": "rise",
+        "heat": 290000,
+        "platform_trend": "drop",
         "badge": "",
-        "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\r\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
+        "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
         "latest_chapter": " 第855章  收服燕无双",
         "updated_at": "2026-08-17 18:10:13",

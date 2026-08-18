@@ -5,8 +5,8 @@
     "total_books": 20,
     "new_count": 0,
     "dropped_count": 0,
-    "avg_heat": 79500,
-    "total_heat": 1590000,
+    "avg_heat": 81900,
+    "total_heat": 1638000,
     "first_day": true
   },
   "categories": [
@@ -96,20 +96,6 @@
     },
     {
       "name": "诸天万界",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      }
-    },
-    {
-      "name": "恐怖灵异",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,

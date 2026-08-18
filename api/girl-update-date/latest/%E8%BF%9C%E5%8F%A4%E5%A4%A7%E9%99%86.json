@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-update-date",
+    "name": "女生更新日榜",
+    "channel": "female",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "远古大陆",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 2,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "SSSSSSSSSSSSS级恶雌降临",
+        "book_id": 9896397,
+        "url": "https://www.qimao.com/shuku/9896397/",
+        "author": "陶陶都很甜",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%99%B6%E9%99%B6%E9%83%BD%E5%BE%88%E7%94%9C_14/",
+        "major": "古代言情",
+        "minor": "远古大陆",
+        "major_id": 2,
+        "minor_id": 282,
+        "minor_url": "https://www.qimao.com/shuku/a-2-282-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "90万字",
+        "word_count": 900000,
+        "heat": 2,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "改了名字，原名《穿成恶雌，反派大佬们夜夜争宠》《穿越兽世：恶雌降临，兽夫超宠的》\n江念念一朝穿越到看过的兽世小说恶毒女配身上，按照剧情，原主因虐待兽夫，最后兽夫们集体黑化，将她挫骨扬灰后，成了本书与男女主对抗到最后的大反派。\n回头看着身旁五个小可怜，江念念陷入沉思。\n他们真的会是日后的大反派么？\n数年后。\n江念念：这明明就是纯情到不行的纯爱战士啊!\n纯情白狐少主：念念，今晚我陪你好不好？\n腹黑玄王蛇：江念念，今晚是不是该轮到我了？\n俊美鲛人：念念，还想要粉色珍珠么...\n冷峻鹰王：念念，我的翅膀好像有些不对劲\n外人面前骄傲不逊雪狼王乖乖趴在脚边，小声开口：汪~",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3299/9896397_360x480.jpg?time=1779159472",
+        "latest_chapter": " 第422章  你似乎比我还紧张",
+        "updated_at": "2026-08-17 22:37:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "远古大陆"
+      }
+    ]
+  }
+}

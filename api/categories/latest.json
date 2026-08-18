@@ -37,11 +37,6 @@
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
     },
     {
-      "name": "幻想修真",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
       "name": "现代军事",
       "major": "军事",
       "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
@@ -55,11 +50,6 @@
       "name": "诸天万界",
       "major": "玄幻奇幻",
       "url": "api/categories/latest/%E8%AF%B8%E5%A4%A9%E4%B8%87%E7%95%8C.json"
-    },
-    {
-      "name": "恐怖灵异",
-      "major": "奇闻异事",
-      "url": "api/categories/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
     },
     {
       "name": "古典仙侠",
@@ -82,11 +72,6 @@
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "明星娱乐",
-      "major": "都市",
-      "url": "api/categories/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
-    },
-    {
       "name": "异世大陆",
       "major": "玄幻奇幻",
       "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
@@ -95,6 +80,11 @@
       "name": "虚拟网游",
       "major": "游戏",
       "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
+    },
+    {
+      "name": "幻想修真",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "衍生同人",
@@ -160,6 +150,11 @@
       "name": "网游电竞",
       "major": "游戏竞技",
       "url": "api/categories/latest/%E7%BD%91%E6%B8%B8%E7%94%B5%E7%AB%9E.json"
+    },
+    {
+      "name": "远古大陆",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E8%BF%9C%E5%8F%A4%E5%A4%A7%E9%99%86.json"
     }
   ]
 }

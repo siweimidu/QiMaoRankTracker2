@@ -5,8 +5,8 @@
     "total_books": 20,
     "new_count": 0,
     "dropped_count": 0,
-    "avg_heat": 213250,
-    "total_heat": 4265000,
+    "avg_heat": 210700,
+    "total_heat": 4214000,
     "first_day": true
   },
   "categories": [
@@ -53,7 +53,7 @@
       }
     },
     {
-      "name": "年代重生",
+      "name": "都市奇幻",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -67,7 +67,7 @@
       }
     },
     {
-      "name": "都市奇幻",
+      "name": "年代重生",
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
