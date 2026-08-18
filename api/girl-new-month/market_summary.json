@@ -1,0 +1,158 @@
+{
+  "board": {
+    "slug": "girl-new-month",
+    "name": "女生新书月榜"
+  },
+  "date": "2026-08-18",
+  "period_days": 30,
+  "overview": {
+    "text": "**全站风向（规则统计）**\n\n- 跨榜：《盖世神医》(同时上榜4榜)、《荒古武神》(同时上榜4榜)、《离婚后她惊艳了世界》(同时上榜4榜)\n- 高产作者：化十(2本)、如鱼(2本)、白木木(2本)\n- 高频题材词：重生(92)、豪门(75)、总裁(74)、总裁豪门(67)、宅斗(51)、玄幻(48)、穿越(48)、东方玄幻(37)",
+    "ai_source": "rule"
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "年代重生",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "宫闱宅斗",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "现代悬疑",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "玄幻仙侠",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "种田经商",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    }
+  ],
+  "keywords": [
+    {
+      "word": "重生",
+      "count": 11
+    },
+    {
+      "word": "年代",
+      "count": 9
+    },
+    {
+      "word": "总裁",
+      "count": 9
+    },
+    {
+      "word": "豪门",
+      "count": 9
+    },
+    {
+      "word": "总裁豪门",
+      "count": 8
+    },
+    {
+      "word": "宅斗",
+      "count": 6
+    },
+    {
+      "word": "空间",
+      "count": 4
+    },
+    {
+      "word": "炮灰",
+      "count": 3
+    },
+    {
+      "word": "萌宝",
+      "count": 3
+    },
+    {
+      "word": "军婚",
+      "count": 2
+    },
+    {
+      "word": "真假千金",
+      "count": 2
+    },
+    {
+      "word": "系统",
+      "count": 2
+    },
+    {
+      "word": "追妻",
+      "count": 2
+    },
+    {
+      "word": "追妻火葬场",
+      "count": 2
+    },
+    {
+      "word": "和离",
+      "count": 1
+    },
+    {
+      "word": "女配",
+      "count": 1
+    },
+    {
+      "word": "年代文",
+      "count": 1
+    },
+    {
+      "word": "幼崽",
+      "count": 1
+    },
+    {
+      "word": "悬疑",
+      "count": 1
+    },
+    {
+      "word": "无限流",
+      "count": 1
+    },
+    {
+      "word": "种田",
+      "count": 1
+    },
+    {
+      "word": "经商",
+      "count": 1
+    },
+    {
+      "word": "马甲",
+      "count": 1
+    }
+  ],
+  "genre_groups": [
+    {
+      "name": "现代言情",
+      "count": 14,
+      "total_heat": 25306000,
+      "change": 14
+    },
+    {
+      "name": "古代言情",
+      "count": 5,
+      "total_heat": 5637000,
+      "change": 5
+    },
+    {
+      "name": "幻想言情",
+      "count": 1,
+      "total_heat": 2494000,
+      "change": 1
+    }
+  ]
+}

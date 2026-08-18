@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "古典仙侠",
+    "major": "武侠仙侠",
+    "count": 1,
+    "total_heat": 359000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 15,
+        "title": "凡人仙骨",
+        "book_id": 11995896,
+        "url": "https://www.qimao.com/shuku/11995896/",
+        "author": "帝者",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B8%9D%E8%80%85_14/",
+        "major": "武侠仙侠",
+        "minor": "古典仙侠",
+        "major_id": 205,
+        "minor_id": 52,
+        "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "43.33万字",
+        "word_count": 433300,
+        "heat": 359000,
+        "platform_trend": "rise",
+        "badge": "飙升28名",
+        "intro": "这世上，有人背天而行，每走一步便碎一块凡骨，换一块仙骨。\r\n百步人仙，千步地仙，万步天仙。\r\n文王八百步，撑起王朝八千年国祚。\r\n我叫林罪，一个意外来到这个怪诞世界的 985 医学生。\r\n所有人都说，我一块骨头，迈入 仙门一步就是极限。\r\n但他们不知道，我有一个坐忘石。\r\n凡被我审判的恶人，在我的天路上，都替我走一步。\r\n我走了百步，人间帝王向我称臣。\r\n走了千步，地府阴司为我开道。\r\n至于万步……\r\n我还没走到，诸天便已黄昏。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3999/11995896_360x480.jpg?time=1779023018",
+        "latest_chapter": " 第205章  【叩天内榜】第200名",
+        "updated_at": "2026-08-17 23:50:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古典仙侠"
+      }
+    ]
+  }
+}

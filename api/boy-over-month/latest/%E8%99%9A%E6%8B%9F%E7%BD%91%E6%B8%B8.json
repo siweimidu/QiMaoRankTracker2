@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-over-month",
+    "name": "男生完结月榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "虚拟网游",
+    "major": "游戏",
+    "count": 1,
+    "total_heat": 2901000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 14,
+        "title": "网游：开局刮刮乐，觉醒唯一SSS天赋",
+        "book_id": 1984430,
+        "url": "https://www.qimao.com/shuku/1984430/",
+        "author": "亦晨",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%A6%E6%99%A8_14/",
+        "major": "游戏",
+        "minor": "虚拟网游",
+        "major_id": 75,
+        "minor_id": 232,
+        "minor_url": "https://www.qimao.com/shuku/a-75-232-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "300.74万字",
+        "word_count": 3007400,
+        "heat": 2901000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "开局一张刮刮乐，喜中全服唯一SSS级天赋【灵魂之火】！\n自此，林墨开始了他的无敌之路。\n烧装备，获得装备进化点！\n新手木剑=银铁剑=流银巨剑=创世之刃=碎世·流光剑！\n烧技能，获得技能进化点！\n急速射击=二连射=三连射=五连射=诛天·七星连射！\n烧宠物，获得宠物进化点！\n白狐=三尾妖狐=六尾魔狐=九尾神狐=狐仙=狐族圣女=天惑·狐族女帝！\n三年后，当神谕吞噬现实，灭世主神引领虚空虫族大军降临的那一刻。\n世界各国相继沦陷。\n林墨手握金色神武，脚踏远古不朽级地狱魔龙，一道SSS级禁咒技能瞬杀侵入大夏的【虚空死神·诺斯】！\n面对东瀛、灯塔、日不落等帝国强者的求救信号。\n林墨脚踩虚空死神的尸体，蔑视诸国。\n“跪下来。”\n“求我！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/761/2282572_360x480.jpg?time=1745832225",
+        "latest_chapter": " 第1404章  愿这盛世，如你我所愿（大结局）",
+        "updated_at": "2026-06-30 19:11:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "虚拟网游"
+      }
+    ]
+  }
+}

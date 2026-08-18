@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-18",
+  "board": "girl-hot-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 18779350,
+    "total_heat": 375587000,
+    "first_day": true
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "首日收录，暂无趋势对比",
+        "ai_source": "first-day"
+      }
+    }
+  ]
+}

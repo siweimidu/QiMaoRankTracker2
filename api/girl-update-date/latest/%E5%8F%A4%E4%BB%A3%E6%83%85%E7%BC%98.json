@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-update-date",
+    "name": "女生更新日榜",
+    "channel": "female",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "古代情缘",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 1,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "皇妃来自地府，百鬼退散",
+        "book_id": 10374897,
+        "url": "https://www.qimao.com/shuku/10374897/",
+        "author": "月漠",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E6%BC%A0_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "93.33万字",
+        "word_count": 933300,
+        "heat": 1,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\r\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\r\n她是槐下冤魂，他是人间凶神。\r\n一纸婚约，将一人一鬼强行绑作夫妻。\r\n他查案，她查仇。\r\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\r\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\r\n白天同床异梦，针锋相对；\r\n夜里暗潮涌动，暧昧丛生。\r\n一桩桩人间血案，一层层尘封旧怨。\r\n当真相破土而出，\r\n穿越三百年的魂，\r\n竟成了这位冷血煞神唯一的软肋与疯魔。\r\n一人一鬼，天生一对。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
+        "latest_chapter": " 第448章  不是天灾，是人祸",
+        "updated_at": "2026-08-17 22:27:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古代情缘"
+      }
+    ]
+  }
+}

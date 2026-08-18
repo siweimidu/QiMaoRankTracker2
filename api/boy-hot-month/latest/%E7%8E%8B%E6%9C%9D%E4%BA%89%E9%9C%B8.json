@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-hot-month",
+    "name": "男生大热月榜",
+    "channel": "male",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "王朝争霸",
+    "major": "玄幻奇幻",
+    "count": 1,
+    "total_heat": 9612000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 13,
+        "title": "大周第一武夫",
+        "book_id": 2074426,
+        "url": "https://www.qimao.com/shuku/2074426/",
+        "author": "醉不致死",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%86%89%E4%B8%8D%E8%87%B4%E6%AD%BB_14/",
+        "major": "玄幻奇幻",
+        "minor": "王朝争霸",
+        "major_id": 202,
+        "minor_id": 218,
+        "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "184.25万字",
+        "word_count": 1842500,
+        "heat": 9612000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\r\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
+        "latest_chapter": " 第855章  收服燕无双",
+        "updated_at": "2026-08-17 18:10:13",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "王朝争霸"
+      }
+    ]
+  }
+}

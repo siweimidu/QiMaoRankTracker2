@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>书籍详情 · 七猫风向标</title>
+  <meta name="description" content="七猫风向标书籍详情：排名与热度双轴历史曲线、跨榜在榜情况与更新预警。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230065fd'/><text x='50' y='70' font-size='56' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>Q</text></svg>">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    /* 主题防闪烁：在渲染前确定明暗（默认跟随系统） */
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('qm-theme'); } catch (e) { /* 隐私模式 */ }
+      if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
+</head>
+<body>
+
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">猫</span>
+        <span class="brand-text">
+          <span class="brand-name">七猫风向标</span>
+          <span class="brand-sub">书籍详情 · 排名 × 热度历史曲线</span>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <button class="btn btn-icon theme-toggle" type="button" aria-label="切换主题">🌙</button>
+        <a class="btn" href="index.html">📚 总览</a>
+        <a class="btn" href="trend.html">📈 风向标</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="bookMain">
+      <!-- 头部信息 -->
+      <section class="section" style="margin-top:var(--space-5);">
+        <div class="panel">
+          <div class="book-hero" id="bookHero">
+            <div class="sk sk-cover" style="width:132px;height:176px;border-radius:var(--radius-sm);"></div>
+            <div class="book-hero-info">
+              <div class="sk sk-line w60 h18"></div>
+              <div class="sk sk-line w40"></div>
+              <div class="sk sk-line w80"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 历史曲线 -->
+      <section class="section">
+        <div class="panel">
+          <div class="panel-head">
+            <h2 class="panel-title">排名 × 热度 历史曲线</h2>
+            <span class="ai-source">左轴排名（倒序） · 右轴热度（万）</span>
+          </div>
+          <div class="panel-body">
+            <div class="chart-box" id="historyChart" style="min-height:400px;"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 简介 / 更新信息 -->
+      <section class="section">
+        <div class="panel">
+          <div class="panel-head"><h2 class="panel-title">简介与更新</h2></div>
+          <div class="panel-body" id="bookDetail">
+            <div class="sk sk-line w80"></div>
+            <div class="sk sk-line w60"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container" style="display:flex;flex-wrap:wrap;gap:8px 20px;">
+      <span>数据来源：七猫中文网排行榜（每日自动抓取）</span>
+      <a href="index.html">返回总览看板</a>
+      <a href="https://github.com/siweimidu/QiMaoRankTracker2" target="_blank" rel="noopener">GitHub 仓库</a>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/book.js"></script>
+</body>
+</html>

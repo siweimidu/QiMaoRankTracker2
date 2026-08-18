@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-collect-date",
+    "name": "女生收藏日榜",
+    "channel": "female",
+    "type": "collect",
+    "type_name": "收藏榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "古代情缘",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 0,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 14,
+        "title": "王妃她不讲武德",
+        "book_id": 211040,
+        "url": "https://www.qimao.com/shuku/211040/",
+        "author": "棠花落",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%A3%A0%E8%8A%B1%E8%90%BD_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "376.16万字",
+        "word_count": 3761600,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "",
+        "intro": "小说改编影视剧《皇妃她不讲武德》爱奇艺视频热播中！宁孤舟把剑架在棠妙心的脖子上：“你除了偷怀本王的崽，还有什么事瞒着本王？”\n她拿出一大堆令牌：“玄门、鬼医门、黑虎寨、听风楼……只有这些了！”\n话落，邻国玉玺从她身上掉了下来，他：“……”\n她眼泪汪汪：“这些都是老东西们逼我继承的！”\n众大佬：“你再装！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/70/209949_360x480.jpg?time=1638354041",
+        "latest_chapter": " 第1857章  逃跑的女帝（大结局）",
+        "updated_at": "2023-12-02 09:22:15",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "古代情缘"
+      }
+    ]
+  }
+}

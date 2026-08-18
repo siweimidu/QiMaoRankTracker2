@@ -1,0 +1,50 @@
+{
+  "book_id": 1655407,
+  "title": "鸿蒙霸体诀",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/270336_1659697789_360x480.jpg",
+  "author": "鱼初见",
+  "intro": "十万年前，九位风姿卓绝，独断万古的女帝，妖后，被封印于鸿蒙金塔之中。\n十万年后，少年萧诺，被家族迫害，沦为弃子。阴差阳错之下，开启鸿蒙金塔，修炼霸体神诀，成就无上神体。\n自此诸天仙魔，皆将烟消云散。",
+  "minor": "东方玄幻",
+  "status": "连载中",
+  "word_count_text": "941.96万字",
+  "latest": [
+    {
+      "board": "boy-update-date",
+      "board_name": "男生更新日榜",
+      "rank": 3,
+      "heat": 0
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 5,
+      "heat": 506000
+    },
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 5,
+      "heat": 18313000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-date",
+      "r": 5,
+      "h": 506000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-month",
+      "r": 5,
+      "h": 18313000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-update-date",
+      "r": 3,
+      "h": 0
+    }
+  ]
+}

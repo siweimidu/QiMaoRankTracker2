@@ -1,0 +1,50 @@
+{
+  "board": {
+    "slug": "boy-collect-date",
+    "name": "男生收藏日榜",
+    "channel": "male",
+    "type": "collect",
+    "type_name": "收藏榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "types": [
+    {
+      "name": "全部",
+      "url": "api/boy-collect-date/latest/all.json"
+    },
+    {
+      "name": "东方玄幻",
+      "url": "api/boy-collect-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-collect-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+    },
+    {
+      "name": "异世大陆",
+      "url": "api/boy-collect-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
+    },
+    {
+      "name": "末世危机",
+      "url": "api/boy-collect-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "架空历史",
+      "url": "api/boy-collect-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
+    },
+    {
+      "name": "热血校园",
+      "url": "api/boy-collect-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
+      "name": "都市高武",
+      "url": "api/boy-collect-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
+      "name": "奇门秘术",
+      "url": "api/boy-collect-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+    }
+  ]
+}

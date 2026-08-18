@@ -1,0 +1,3340 @@
+{
+  "generated_at": "2026-08-18T10:24:15",
+  "days_retained": 90,
+  "books": {
+    "195958": {
+      "title": "盖世神医",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
+      "author": "狐颜乱语",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 1,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 1,
+          "h": 1362000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 1,
+          "h": 43735000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 18,
+          "h": 2
+        }
+      ]
+    },
+    "1809361": {
+      "title": "逍遥四公子",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
+      "author": "修果",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 2,
+          "h": 798000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 2,
+          "h": 27131000
+        }
+      ]
+    },
+    "1834789": {
+      "title": "警报！真龙出狱！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
+      "author": "红透半边天",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 3,
+          "h": 710000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 3,
+          "h": 26442000
+        }
+      ]
+    },
+    "1880008": {
+      "title": "吞天神体",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1872928_360x480.jpg?time=1774947942",
+      "author": "化十",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 4,
+          "h": 521000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 4,
+          "h": 19008000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 4,
+          "h": 1
+        }
+      ]
+    },
+    "1655407": {
+      "title": "鸿蒙霸体诀",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/270336_1659697789_360x480.jpg",
+      "author": "鱼初见",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 5,
+          "h": 506000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 5,
+          "h": 18313000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 3,
+          "h": 0
+        }
+      ]
+    },
+    "1761978": {
+      "title": "葬神棺",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/479/1434782_360x480.jpg?time=1734080492",
+      "author": "浮生一诺",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 18,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 6,
+          "h": 462000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 6,
+          "h": 16119000
+        }
+      ]
+    },
+    "216404": {
+      "title": "荒古武神",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
+      "author": "化十",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 7,
+          "h": 427000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 7,
+          "h": 15210000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 1,
+          "h": 427000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 1,
+          "h": 15210000
+        }
+      ]
+    },
+    "1982360": {
+      "title": "步步登阶",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
+      "author": "江湖如梦",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 8,
+          "h": 397000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 8,
+          "h": 15122000
+        }
+      ]
+    },
+    "1995023": {
+      "title": "边关兵王",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
+      "author": "青岳",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 9,
+          "h": 384000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 9,
+          "h": 13186000
+        }
+      ]
+    },
+    "2028957": {
+      "title": "桃花劫",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/821/2462694_360x480.jpg?time=1755851848",
+      "author": "推窗望岳",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 10,
+          "h": 383000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 10,
+          "h": 11963000
+        }
+      ]
+    },
+    "10297272": {
+      "title": "让你冒充太子，你咋登基了？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3433/10297272_360x480.jpg?time=1774892715",
+      "author": "张正经",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 11,
+          "h": 370000
+        }
+      ]
+    },
+    "12465015": {
+      "title": "从骑奴到大乾武圣",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
+      "author": "一嘟噜葡萄",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 12,
+          "h": 308000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 1,
+          "h": 308000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 4,
+          "h": 1494000
+        }
+      ]
+    },
+    "2074426": {
+      "title": "大周第一武夫",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
+      "author": "醉不致死",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 13,
+          "h": 299000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 13,
+          "h": 9612000
+        }
+      ]
+    },
+    "1710753": {
+      "title": "舔狗反派只想苟，女主不按套路走！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
+      "author": "我是愤怒",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 19,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 14,
+          "h": 297000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 11,
+          "h": 10859000
+        }
+      ]
+    },
+    "207105": {
+      "title": "傲世潜龙",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
+      "author": "西装暴徒",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 15,
+          "h": 280000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 14,
+          "h": 9399000
+        }
+      ]
+    },
+    "2078908": {
+      "title": "我在都市修了个野仙",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
+      "author": "大温柔",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 16,
+          "h": 265000
+        }
+      ]
+    },
+    "1882754": {
+      "title": "边军悍卒",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
+      "author": "木有金箍",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 17,
+          "h": 259000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 12,
+          "h": 9856000
+        }
+      ]
+    },
+    "1655967": {
+      "title": "吞噬九重天",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
+      "author": "屠刀成佛",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 18,
+          "h": 258000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 18,
+          "h": 7932000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 13,
+          "h": 4
+        }
+      ]
+    },
+    "1767940": {
+      "title": "混沌塔",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/483/1446010_360x480.jpg?time=1720575032",
+      "author": "惊蛰落月",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 19,
+          "h": 258000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 15,
+          "h": 9108000
+        }
+      ]
+    },
+    "1729484": {
+      "title": "凡尘飞仙",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
+      "author": "齐甲",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-date",
+          "r": 20,
+          "h": 228000
+        }
+      ]
+    },
+    "2023697": {
+      "title": "男人野性",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/810/2429111_360x480.jpg?time=1757065054",
+      "author": "月下冰河",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 16,
+          "h": 8647000
+        }
+      ]
+    },
+    "12179937": {
+      "title": "四次入伍，我被军区拉进黑名单！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
+      "author": "因果逆转",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 17,
+          "h": 8190000
+        }
+      ]
+    },
+    "2063605": {
+      "title": "九阴九阳",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/882/2643190_360x480.jpg?time=1757347533",
+      "author": "仗剑修真",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 19,
+          "h": 7707000
+        }
+      ]
+    },
+    "10046268": {
+      "title": "史上最狂悍卒",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3349/10046268_360x480.jpg?time=1770100323",
+      "author": "东一方",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-hot-month",
+          "r": 20,
+          "h": 7401000
+        }
+      ]
+    },
+    "12565608": {
+      "title": "高武严父，永远比儿子高五个境界",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
+      "author": "邯郸财阀",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 2,
+          "h": 151000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 12,
+          "h": 486000
+        }
+      ]
+    },
+    "12357096": {
+      "title": "爷爷托梦后，我靠戒指掌控万界",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4120/12357096_360x480.jpg?time=1781940481",
+      "author": "一缕微光",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 3,
+          "h": 141000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 14,
+          "h": 434000
+        }
+      ]
+    },
+    "12647139": {
+      "title": "让你当个替身，你咋君临天下",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
+      "author": "骑着蜗牛追奔驰",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 4,
+          "h": 104000
+        }
+      ]
+    },
+    "12180918": {
+      "title": "都市第一狠人",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
+      "author": "云城太守",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 5,
+          "h": 90000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 5,
+          "h": 1133000
+        }
+      ]
+    },
+    "12257385": {
+      "title": "盗梦千年",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
+      "author": "咸鱼老白",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 6,
+          "h": 86000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 3,
+          "h": 1520000
+        }
+      ]
+    },
+    "9999144": {
+      "title": "我想躺平当保安，女神非要来纠缠",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
+      "author": "我在丛中笑",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 7,
+          "h": 81000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 11,
+          "h": 612000
+        }
+      ]
+    },
+    "12026346": {
+      "title": "我一杂役，怎么成掌门孩子他爹了？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
+      "author": "三月雨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 8,
+          "h": 77000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 2,
+          "h": 1638000
+        }
+      ]
+    },
+    "12050460": {
+      "title": "都市极品大邪修",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4017/12050460_360x480.jpg?time=1782281522",
+      "author": "粮满仓",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 9,
+          "h": 75000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 1,
+          "h": 1711000
+        }
+      ]
+    },
+    "12605832": {
+      "title": "重生70：猎山猎水猎人生",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
+      "author": "指能生金",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 10,
+          "h": 61000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 20,
+          "h": 305000
+        }
+      ]
+    },
+    "12337881": {
+      "title": "斩神刀",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
+      "author": "四眼秀才",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 11,
+          "h": 54000
+        }
+      ]
+    },
+    "12086658": {
+      "title": "边军第一悍卒",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1780058420",
+      "author": "叶听澜",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 12,
+          "h": 48000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 19,
+          "h": 321000
+        }
+      ]
+    },
+    "12556227": {
+      "title": "徒儿你都元婴了，下山找你未婚妻吧",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4186/12556227_360x480.jpg?time=1783490729",
+      "author": "最后的黄金回旋",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 13,
+          "h": 44000
+        }
+      ]
+    },
+    "12286983": {
+      "title": "金妆贵人",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4096/12286983_360x480.jpg?time=1785828124",
+      "author": "借东风",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 14,
+          "h": 44000
+        }
+      ]
+    },
+    "12514650": {
+      "title": "被关女子监狱五年，出狱后我医武双绝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
+      "author": "蓝莓是只猫",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 15,
+          "h": 43000
+        }
+      ]
+    },
+    "12625923": {
+      "title": "女总裁重生后，非逼我娶校花",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
+      "author": "南风拂玉竹",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 16,
+          "h": 41000
+        }
+      ]
+    },
+    "11834034": {
+      "title": "诗仙，诗圣，镇国公！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
+      "author": "月出长安",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 17,
+          "h": 41000
+        }
+      ]
+    },
+    "12451245": {
+      "title": "网游：普攻加力量，劲大就是真理！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451245_360x480.jpg?time=1781515316",
+      "author": "懒惰的帅比",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 18,
+          "h": 39000
+        }
+      ]
+    },
+    "12284916": {
+      "title": "只想安静种个地，门口怎么天天堵豪车？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4095/12284916_360x480.jpg?time=1780468483",
+      "author": "孤独的四爷",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 19,
+          "h": 32000
+        }
+      ]
+    },
+    "12382644": {
+      "title": "诡异游戏：我的天赋有亿点强",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4128/12382644_360x480.jpg?time=1781157117",
+      "author": "离火加农炮",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-date",
+          "r": 20,
+          "h": 30000
+        }
+      ]
+    },
+    "11816829": {
+      "title": "重回80：打猎打渔，一人养活四家",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3939/11816829_360x480.jpg?time=1776786034",
+      "author": "六月的狼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 6,
+          "h": 768000
+        }
+      ]
+    },
+    "11988894": {
+      "title": "六扇门第一悍捕",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3997/11988894_360x480.jpg?time=1780989850",
+      "author": "爆裂无声",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 7,
+          "h": 752000
+        }
+      ]
+    },
+    "12194178": {
+      "title": "乱世猎户：从分家到定鼎江山",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4065/12194178_360x480.jpg?time=1784828887",
+      "author": "苍髯木",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 8,
+          "h": 731000
+        }
+      ]
+    },
+    "11673846": {
+      "title": "极品小国公",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11673846_360x480.jpg?time=1779959284",
+      "author": "知名气人作者",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 9,
+          "h": 731000
+        }
+      ]
+    },
+    "11901855": {
+      "title": "九帝塔",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
+      "author": "飞鱼牛牛",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 10,
+          "h": 623000
+        }
+      ]
+    },
+    "12386847": {
+      "title": "凶猛小山医",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4129/12386847_360x480.jpg?time=1781169862",
+      "author": "就爱吃牛肉",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 13,
+          "h": 439000
+        }
+      ]
+    },
+    "11995896": {
+      "title": "凡人仙骨",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3999/11995896_360x480.jpg?time=1779023018",
+      "author": "帝者",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 15,
+          "h": 359000
+        }
+      ]
+    },
+    "12183366": {
+      "title": "觉醒透视眼后，美女总裁坐不住了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4062/12183366_360x480.jpg?time=1780224949",
+      "author": "醉西风",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 16,
+          "h": 348000
+        }
+      ]
+    },
+    "12606405": {
+      "title": "二本没毕业，你怎么登上福布斯了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
+      "author": "任逍游",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 17,
+          "h": 343000
+        }
+      ]
+    },
+    "12151335": {
+      "title": "说好佛系捕鱼，你怎么蓝鳍金枪爆仓？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4051/12151335_360x480.jpg?time=1780163930",
+      "author": "一只有文化的老狗",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-new-month",
+          "r": 18,
+          "h": 329000
+        }
+      ]
+    },
+    "2052700": {
+      "title": "小司机的美女总裁老婆",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
+      "author": "最爱老板娘",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 2,
+          "h": 198000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 2,
+          "h": 7044000
+        }
+      ]
+    },
+    "214783": {
+      "title": "山野诡闻笔记",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
+      "author": "吴大胆",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 3,
+          "h": 143000
+        }
+      ]
+    },
+    "1675640": {
+      "title": "镇天神医",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
+      "author": "五杯咖啡",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 4,
+          "h": 128000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 4,
+          "h": 4660000
+        }
+      ]
+    },
+    "1864493": {
+      "title": "打到北极圈了，你让我继承皇位？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
+      "author": "橡皮泥",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 5,
+          "h": 120000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 6,
+          "h": 4414000
+        }
+      ]
+    },
+    "1747899": {
+      "title": "无敌六皇子",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
+      "author": "梁山老鬼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 7,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 6,
+          "h": 117000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 7,
+          "h": 4226000
+        }
+      ]
+    },
+    "214789": {
+      "title": "我和软萌女友的恋爱日常",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+      "author": "佛系和尚",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 6,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 7,
+          "h": 109000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 5,
+          "h": 4418000
+        }
+      ]
+    },
+    "1860026": {
+      "title": "世子无双",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
+      "author": "宁峥",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 8,
+          "h": 96000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 9,
+          "h": 3920000
+        }
+      ]
+    },
+    "1821655": {
+      "title": "最狂邪医",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
+      "author": "笑红尘",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 9,
+          "h": 89000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 8,
+          "h": 3978000
+        }
+      ]
+    },
+    "1758273": {
+      "title": "重生2000：从追求青涩校花同桌开始",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
+      "author": "痞子老妖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 10,
+          "h": 87000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 13,
+          "h": 2916000
+        }
+      ]
+    },
+    "1849458": {
+      "title": "荒古圣体：在娘胎开始悟道",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
+      "author": "鱼生",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 11,
+          "h": 87000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 11,
+          "h": 3703000
+        }
+      ]
+    },
+    "197091": {
+      "title": "民间诡闻实录",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
+      "author": "罗樵森",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 2,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 12,
+          "h": 82000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 15,
+          "h": 2812000
+        }
+      ]
+    },
+    "1850580": {
+      "title": "我非池中物",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
+      "author": "夜泊秦淮",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 13,
+          "h": 77000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 16,
+          "h": 2471000
+        }
+      ]
+    },
+    "219542": {
+      "title": "全球灾变之末日游戏",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
+      "author": "我爱吃猫片",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 17,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 14,
+          "h": 75000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 17,
+          "h": 2339000
+        }
+      ]
+    },
+    "1989239": {
+      "title": "财戒",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
+      "author": "嚣张农民",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 15,
+          "h": 61000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 10,
+          "h": 3786000
+        }
+      ]
+    },
+    "1838355": {
+      "title": "离婚后，前妻姐崩溃了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/549/1646218_360x480.jpg?time=1754557669",
+      "author": "洛王",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 16,
+          "h": 60000
+        }
+      ]
+    },
+    "1952564": {
+      "title": "天后老婆狂卷工作，我躺平被全网直播",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/695/2084260_360x480.jpg?time=1747624134",
+      "author": "九州大翘嘴",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 17,
+          "h": 58000
+        }
+      ]
+    },
+    "1809733": {
+      "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
+      "author": "一脸糊涂",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 18,
+          "h": 55000
+        }
+      ]
+    },
+    "1994990": {
+      "title": "前脚离婚，后脚我成了顶级神豪",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
+      "author": "当仁不让",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 19,
+          "h": 55000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 12,
+          "h": 3210000
+        }
+      ]
+    },
+    "1812061": {
+      "title": "神医出狱",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
+      "author": "天下龟一",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-date",
+          "r": 20,
+          "h": 55000
+        }
+      ]
+    },
+    "2014393": {
+      "title": "掌门怀孕，关我一个杂役什么事",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/793/2376988_360x480.jpg?time=1754997545",
+      "author": "雨夜终曲",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 3,
+          "h": 4854000
+        }
+      ]
+    },
+    "1984430": {
+      "title": "网游：开局刮刮乐，觉醒唯一SSS天赋",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/761/2282572_360x480.jpg?time=1745832225",
+      "author": "亦晨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 14,
+          "h": 2901000
+        }
+      ]
+    },
+    "9955095": {
+      "title": "一觉醒来后，死对头校花竟然叫我老公",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
+      "author": "金猫作者鸭",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 18,
+          "h": 2172000
+        }
+      ]
+    },
+    "1961147": {
+      "title": "重生1981：从深山打猎开始崛起",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
+      "author": "意通明",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 19,
+          "h": 2062000
+        }
+      ]
+    },
+    "10503027": {
+      "title": "重生八零：用半袋白米换了个资本家老婆",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3502/10503027_360x480.jpg?time=1774199170",
+      "author": "狼性佛心",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-over-month",
+          "r": 20,
+          "h": 2010000
+        }
+      ]
+    },
+    "152973": {
+      "title": "最强学霸系统",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/201376_360x480.jpg?time=1602468941",
+      "author": "佛系和尚",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 3,
+          "h": 0
+        }
+      ]
+    },
+    "215780": {
+      "title": "绝世强龙",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216931_360x480.jpg?time=1742968055",
+      "author": "张龙虎",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 4,
+          "h": 0
+        }
+      ]
+    },
+    "151066": {
+      "title": "我掌管着万界钱庄",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200220_360x480.jpg?time=1638409404",
+      "author": "师小生",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 5,
+          "h": 0
+        }
+      ]
+    },
+    "215169": {
+      "title": "寒门枭士",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214936_360x480.jpg?time=1742968038",
+      "author": "北川",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 8,
+          "h": 0
+        }
+      ]
+    },
+    "151584": {
+      "title": "极品戒指",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200305_360x480.jpg?time=1638408457",
+      "author": "淮阴小侯",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 9,
+          "h": 0
+        }
+      ]
+    },
+    "149774": {
+      "title": "不败战神",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200108_360x480.jpg?time=1638409326",
+      "author": "必焱",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 10,
+          "h": 0
+        }
+      ]
+    },
+    "149769": {
+      "title": "九阳武神",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200123_360x480.jpg?time=1638409326",
+      "author": "我吃面包",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 11,
+          "h": 0
+        }
+      ]
+    },
+    "213092": {
+      "title": "吞噬古帝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/211893_1645000226_360x480.jpg",
+      "author": "黑白仙鹤",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 12,
+          "h": 0
+        }
+      ]
+    },
+    "209898": {
+      "title": "我能采集万物",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/70/207406_360x480.jpg?time=1638354473",
+      "author": "存叶",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 13,
+          "h": 0
+        }
+      ]
+    },
+    "211057": {
+      "title": "我有七个无敌师父",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/70/209458_360x480.jpg?time=1638354240",
+      "author": "小骨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 14,
+          "h": 0
+        }
+      ]
+    },
+    "198189": {
+      "title": "原来我是世外高人",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204641_360x480.jpg?time=1638355192",
+      "author": "葡萄",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 15,
+          "h": 0
+        }
+      ]
+    },
+    "208895": {
+      "title": "神级进化动物杀手团",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/206727_360x480.jpg?time=1638354611",
+      "author": "九把火",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 16,
+          "h": 0
+        }
+      ]
+    },
+    "152136": {
+      "title": "进化之从蚂蚁开始",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/201124_360x480.jpg?time=1638408263",
+      "author": "小晨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-collect-date",
+          "r": 20,
+          "h": 0
+        }
+      ]
+    },
+    "11895729": {
+      "title": "我爹让我弑君，陛下却把公主赐给我",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
+      "author": "云飞乱",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 1,
+          "h": 0
+        }
+      ]
+    },
+    "213697": {
+      "title": "葬天神帝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
+      "author": "我爱弹棉花",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 2,
+          "h": 0
+        }
+      ]
+    },
+    "9836358": {
+      "title": "开局自曝系统，父皇举国助我娶妻",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3279/9836358_360x480.jpg?time=1772440022",
+      "author": "卿柒",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 5,
+          "h": 1
+        }
+      ]
+    },
+    "11556534": {
+      "title": "让你当炉做鼎，你炼阴阳证大道？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3853/11556534_360x480.jpg?time=1783684018",
+      "author": "茶巨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 6,
+          "h": 0
+        }
+      ]
+    },
+    "12212670": {
+      "title": "九转仙葫",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
+      "author": "西山落尘",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 7,
+          "h": 0
+        }
+      ]
+    },
+    "1971590": {
+      "title": "众仙俯首",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
+      "author": "咸鱼老白",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 8,
+          "h": 1
+        }
+      ]
+    },
+    "9928068": {
+      "title": "全体起立，SSS狂龙出狱！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
+      "author": "火财神",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 9,
+          "h": 2
+        }
+      ]
+    },
+    "1924831": {
+      "title": "有帝族背景还开挂，我无敌了！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/654/1960135_360x480.jpg?time=1742464871",
+      "author": "不太勇敢",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 10,
+          "h": 2
+        }
+      ]
+    },
+    "12560163": {
+      "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4187/12560163_360x480.jpg?time=1782205579",
+      "author": "善良的大灰狼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 11,
+          "h": 1
+        }
+      ]
+    },
+    "11757063": {
+      "title": "斗罗V：趁小舞青涩，忽悠她做老婆",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3920/11757063_360x480.jpg?time=1776322953",
+      "author": "鸳鸯另丫头",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 12,
+          "h": 0
+        }
+      ]
+    },
+    "1982358": {
+      "title": "天黑请点灯",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
+      "author": "罗樵森",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 14,
+          "h": 0
+        }
+      ]
+    },
+    "2008158": {
+      "title": "葬神渊",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/784/2349392_360x480.jpg?time=1747360787",
+      "author": "韩想娶白",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 15,
+          "h": 1
+        }
+      ]
+    },
+    "1800823": {
+      "title": "修仙从神秘小鼎开始",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/505/1512118_360x480.jpg?time=1711704309",
+      "author": "以云为墨",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 16,
+          "h": 3
+        }
+      ]
+    },
+    "12371697": {
+      "title": "医仙，将军，少年侯！谁与争锋！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
+      "author": "杏雨书风",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 17,
+          "h": 2
+        }
+      ]
+    },
+    "1754203": {
+      "title": "玲珑塔",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
+      "author": "一丝凉意",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 19,
+          "h": 6
+        }
+      ]
+    },
+    "12606348": {
+      "title": "死前考核",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606348_360x480.jpg?time=1784385499",
+      "author": "魂燚",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "boy-update-date",
+          "r": 20,
+          "h": 5
+        }
+      ]
+    },
+    "1879266": {
+      "title": "封总，太太想跟你离婚很久了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1873260_360x480.jpg?time=1733737290",
+      "author": "云中觅",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 1,
+          "h": 2526000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 1,
+          "h": 62477000
+        }
+      ]
+    },
+    "1803283": {
+      "title": "皇叔借点功德，王妃把符画猛了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/512/1534117_360x480.jpg?time=1778636506",
+      "author": "安卿心",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 17,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 2,
+          "h": 913000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 2,
+          "h": 32195000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 9,
+          "h": 3
+        }
+      ]
+    },
+    "222767": {
+      "title": "离婚后她惊艳了世界",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/82/245473_1648091517_360x480.jpg",
+      "author": "明婳",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 4,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 3,
+          "h": 839000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 3,
+          "h": 30048000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 1,
+          "h": 0
+        }
+      ]
+    },
+    "2085985": {
+      "title": "朱门春闺",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/914/2740964_360x480.jpg?time=1761528709",
+      "author": "琼玉",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 4,
+          "h": 732000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 4,
+          "h": 28691000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 11,
+          "h": 0
+        }
+      ]
+    },
+    "2072940": {
+      "title": "第五年重逢，驰先生再度失控",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/893/2676796_360x480.jpg?time=1760969446",
+      "author": "锦锦不是妖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 5,
+          "h": 703000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 5,
+          "h": 26696000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 1,
+          "h": 703000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 1,
+          "h": 26696000
+        }
+      ]
+    },
+    "1726987": {
+      "title": "大佬十代单传，我为他一胎生四宝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/440/1319050_360x480.jpg?time=1706144634",
+      "author": "白生米",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 6,
+          "h": 460000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 7,
+          "h": 15532000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 6,
+          "h": 1
+        }
+      ]
+    },
+    "9903723": {
+      "title": "盛总，太太让您签的是去父留子协议",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3302/9903723_360x480.jpg?time=1769476836",
+      "author": "吟雾",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 7,
+          "h": 431000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 6,
+          "h": 15959000
+        }
+      ]
+    },
+    "2048050": {
+      "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/856/2566014_360x480.jpg?time=1756189899",
+      "author": "缓缓归",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 8,
+          "h": 414000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 12,
+          "h": 14300000
+        }
+      ]
+    },
+    "1982356": {
+      "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266285_360x480.jpg?time=1756369154",
+      "author": "乐恩",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 9,
+          "h": 383000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 8,
+          "h": 15361000
+        }
+      ]
+    },
+    "1830569": {
+      "title": "凤池生春",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
+      "author": "秦安安",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 10,
+          "h": 369000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 2,
+          "h": 369000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 6,
+          "h": 8485000
+        }
+      ]
+    },
+    "2067317": {
+      "title": "八年冷淡你提离婚，我签字你疯什么",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
+      "author": "严以妃",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 11,
+          "h": 351000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 15,
+          "h": 11731000
+        }
+      ]
+    },
+    "9527521": {
+      "title": "离婚后，沈总彻夜白头悔疯了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3176/9527521_360x480.jpg?time=1770861857",
+      "author": "一世从欢",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 12,
+          "h": 342000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 17,
+          "h": 11447000
+        }
+      ]
+    },
+    "2019227": {
+      "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
+      "author": "三十嘉",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 13,
+          "h": 339000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 11,
+          "h": 14433000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 3,
+          "h": 339000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 2,
+          "h": 14433000
+        }
+      ]
+    },
+    "1836527": {
+      "title": "凰宫梦",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/545/1634043_360x480.jpg?time=1758178885",
+      "author": "蓝九九",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 14,
+          "h": 319000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 14,
+          "h": 12325000
+        }
+      ]
+    },
+    "10373634": {
+      "title": "霍二爷，新婚请克制！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3458/10373634_360x480.jpg?time=1778484086",
+      "author": "墨墨卿卿",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 15,
+          "h": 294000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 13,
+          "h": 12860000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 4,
+          "h": 0
+        }
+      ]
+    },
+    "2065888": {
+      "title": "解春衫",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
+      "author": "随山月",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 16,
+          "h": 279000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 16,
+          "h": 11533000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 4,
+          "h": 279000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 3,
+          "h": 11533000
+        }
+      ]
+    },
+    "2074363": {
+      "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
+      "author": "柠檬小丸子",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 17,
+          "h": 274000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 18,
+          "h": 10817000
+        }
+      ]
+    },
+    "11539740": {
+      "title": "形婚两年不同房，改嫁大佬被宠坏",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1775356186",
+      "author": "小满年",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 18,
+          "h": 253000
+        }
+      ]
+    },
+    "9920208": {
+      "title": "穿成星际废雌，捡漏SSS级兽夫赢麻了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3307/9920208_360x480.jpg?time=1769234664",
+      "author": "伊淼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 19,
+          "h": 250000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 10,
+          "h": 14600000
+        }
+      ]
+    },
+    "11663199": {
+      "title": "玉帐春",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3888/11663199_360x480.jpg?time=1778126471",
+      "author": "秋仪",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-date",
+          "r": 20,
+          "h": 248000
+        }
+      ]
+    },
+    "9902187": {
+      "title": "神算嫡女不好惹，回京嘎嘎乱杀",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3301/9902187_360x480.jpg?time=1769762096",
+      "author": "玖笑1",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 9,
+          "h": 14695000
+        }
+      ]
+    },
+    "10359876": {
+      "title": "通房妩媚，清冷世子又又又破戒了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3454/10359876_360x480.jpg?time=1773020496",
+      "author": "韶光煮雪",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 19,
+          "h": 10024000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 10,
+          "h": 0
+        }
+      ]
+    },
+    "1699328": {
+      "title": "大佬归来，假千金她不装了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
+      "author": "骑着猫的小鱼干",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 16,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-hot-month",
+          "r": 20,
+          "h": 9863000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 7,
+          "h": 227000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 4,
+          "h": 9863000
+        }
+      ]
+    },
+    "12264417": {
+      "title": "她玩火",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
+      "author": "如鱼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 1,
+          "h": 193000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 7,
+          "h": 1637000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 15,
+          "h": 2
+        }
+      ]
+    },
+    "12127944": {
+      "title": "首辅无嗣？小通房却一胎三宝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4043/12127944_360x480.jpg?time=1779328050",
+      "author": "满地梨花雪",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 2,
+          "h": 176000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 6,
+          "h": 1655000
+        }
+      ]
+    },
+    "12214737": {
+      "title": "冷淡七年，离婚后被顶级大佬追着宠",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4072/12214737_360x480.jpg?time=1780052801",
+      "author": "星星口袋",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 3,
+          "h": 162000
+        }
+      ]
+    },
+    "11498553": {
+      "title": "薄总，婚后请节制！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3833/11498553_360x480.jpg?time=1781168473",
+      "author": "我是宝宝",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 4,
+          "h": 161000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 1,
+          "h": 6560000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 16,
+          "h": 2
+        }
+      ]
+    },
+    "11851533": {
+      "title": "京少不育，小保姆却怀了他的崽",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3951/11851533_360x480.jpg?time=1786202062",
+      "author": "借点酒",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 5,
+          "h": 143000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 12,
+          "h": 932000
+        }
+      ]
+    },
+    "12127308": {
+      "title": "姻缘被抢，重生后高冷老公为她撑腰",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4043/12127308_360x480.jpg?time=1781251752",
+      "author": "一颗花花",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 6,
+          "h": 91000
+        }
+      ]
+    },
+    "11510034": {
+      "title": "误入惊悚聊天群，我成内部员工",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3837/11510034_360x480.jpg?time=1775539260",
+      "author": "弦泠兮",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 7,
+          "h": 88000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 3,
+          "h": 3353000
+        }
+      ]
+    },
+    "12001281": {
+      "title": "不熟，但和冷脸糙汉同居了！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4001/12001281_360x480.jpg?time=1781179580",
+      "author": "雪泥",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 8,
+          "h": 85000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 2,
+          "h": 3659000
+        }
+      ]
+    },
+    "12261993": {
+      "title": "余生高嫁",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4088/12261993_360x480.jpg?time=1786711256",
+      "author": "简眠",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 9,
+          "h": 68000
+        }
+      ]
+    },
+    "12193602": {
+      "title": "八零女配睡了就跑，高冷军少追疯了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4065/12193602_360x480.jpg?time=1784022566",
+      "author": "安鲤",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 10,
+          "h": 63000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 17,
+          "h": 573000
+        }
+      ]
+    },
+    "12285861": {
+      "title": "婚情告急！太太揣崽跑路了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4096/12285861_360x480.jpg?time=1780476323",
+      "author": "月影千帆",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 11,
+          "h": 52000
+        }
+      ]
+    },
+    "12315174": {
+      "title": "宫女朔宁",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4106/12315174_360x480.jpg?time=1780883297",
+      "author": "关墨兮",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 12,
+          "h": 50000
+        }
+      ]
+    },
+    "1939902": {
+      "title": "疯犬玫瑰",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/636/1905281_360x480.jpg?time=1736792489",
+      "author": "二喜",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 13,
+          "h": 49000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 4,
+          "h": 2576000
+        }
+      ]
+    },
+    "12297855": {
+      "title": "替嫁七零残疾军少？我反手搞科研成国宝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4100/12297855_360x480.jpg?time=1784094812",
+      "author": "煎bingo子",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 14,
+          "h": 48000
+        }
+      ]
+    },
+    "11897640": {
+      "title": "引他失控",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11897640_360x480.jpg?time=1783586433",
+      "author": "一燕云歌笑",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 15,
+          "h": 40000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 11,
+          "h": 1217000
+        }
+      ]
+    },
+    "12265746": {
+      "title": "七零，咸鱼假千金带空间下乡躺赢",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12265746_360x480.jpg?time=1780386908",
+      "author": "橘灯照岁",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 16,
+          "h": 38000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 16,
+          "h": 589000
+        }
+      ]
+    },
+    "11822070": {
+      "title": "认错未婚夫，冷面军长不放人了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3941/11822070_360x480.jpg?time=1776845840",
+      "author": "麻辣宽粉",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 17,
+          "h": 37000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 10,
+          "h": 1375000
+        }
+      ]
+    },
+    "12099141": {
+      "title": "天才降临，傅总，该你养娃了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4034/12099141_360x480.jpg?time=1786179970",
+      "author": "宴礼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 18,
+          "h": 37000
+        }
+      ]
+    },
+    "11891991": {
+      "title": "寡婚三年我改嫁大佬，渣前夫悔进ICU",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3964/11891991_360x480.jpg?time=1779418745",
+      "author": "星星向荣",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 19,
+          "h": 37000
+        }
+      ]
+    },
+    "11678595": {
+      "title": "爹仙尊，娘魔尊，我嘎嘎乱杀",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3893/11678595_360x480.jpg?time=1776046486",
+      "author": "琉璃先生",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-date",
+          "r": 20,
+          "h": 35000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 5,
+          "h": 2494000
+        }
+      ]
+    },
+    "11903526": {
+      "title": "离婚后遇到缩小版的自己，他失控了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11903526_360x480.jpg?time=1779170196",
+      "author": "明媚骄阳小妖妖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 8,
+          "h": 1536000
+        }
+      ]
+    },
+    "11767725": {
+      "title": "拒做通房后，高冷世子他疯魔了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3923/11767725_360x480.jpg?time=1784098221",
+      "author": "辞辞不吃糖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 9,
+          "h": 1521000
+        }
+      ]
+    },
+    "11816211": {
+      "title": "外室登堂？状元嫡女踹翻全家",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3939/11816211_360x480.jpg?time=1777253665",
+      "author": "悠然小宝",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 13,
+          "h": 872000
+        }
+      ]
+    },
+    "11718738": {
+      "title": "妾万福",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718738_360x480.jpg?time=1783568075",
+      "author": "染仙衣",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 14,
+          "h": 832000
+        }
+      ]
+    },
+    "11765325": {
+      "title": "重生大灾年，空间囤粮旺全家",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3922/11765325_360x480.jpg?time=1778232729",
+      "author": "灼漪",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 15,
+          "h": 757000
+        }
+      ]
+    },
+    "12134931": {
+      "title": "我才五岁，怎么就成军区团宠了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
+      "author": "团子大王",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 18,
+          "h": 472000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 14,
+          "h": 2
+        }
+      ]
+    },
+    "10473186": {
+      "title": "碰触成瘾",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3492/10473186_360x480.jpg?time=1774859074",
+      "author": "fishhh",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 19,
+          "h": 431000
+        }
+      ]
+    },
+    "12206070": {
+      "title": "沈小姐，傅先生等你三年了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4069/12206070_360x480.jpg?time=1779876532",
+      "author": "燃北",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-new-month",
+          "r": 20,
+          "h": 396000
+        }
+      ]
+    },
+    "215243": {
+      "title": "第一瞳术师",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
+      "author": "喵喵大人",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 2,
+          "h": 0
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 5,
+          "h": 247000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 7,
+          "h": 8165000
+        }
+      ]
+    },
+    "1994117": {
+      "title": "婚后上瘾",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
+      "author": "苏不迟",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 6,
+          "h": 234000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 5,
+          "h": 8828000
+        }
+      ]
+    },
+    "1981956": {
+      "title": "柔弱医修今天也在背地里暴打魔尊",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
+      "author": "白木木",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 8,
+          "h": 198000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 11,
+          "h": 5324000
+        }
+      ]
+    },
+    "1658048": {
+      "title": "六年后，我携四个幼崽炸翻前夫家",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
+      "author": "相思一顾",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 9,
+          "h": 190000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 9,
+          "h": 7235000
+        }
+      ]
+    },
+    "1803136": {
+      "title": "第一凤女",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
+      "author": "十二妖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 10,
+          "h": 176000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 8,
+          "h": 7849000
+        }
+      ]
+    },
+    "2053898": {
+      "title": "皑如山上雪",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
+      "author": "街灯读我",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 11,
+          "h": 173000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 10,
+          "h": 5682000
+        }
+      ]
+    },
+    "1764505": {
+      "title": "我团宠小师妹，嚣张点怎么了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432610_360x480.jpg?time=1704683308",
+      "author": "瑰夏",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 12,
+          "h": 153000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 20,
+          "h": 4333000
+        }
+      ]
+    },
+    "1979356": {
+      "title": "阴当",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
+      "author": "北派无尽夏",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 13,
+          "h": 145000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 12,
+          "h": 5230000
+        }
+      ]
+    },
+    "1839513": {
+      "title": "逃婚三年，江少的花心人设崩了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/550/1649331_360x480.jpg?time=1717642444",
+      "author": "绘绘",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 14,
+          "h": 137000
+        }
+      ]
+    },
+    "10034568": {
+      "title": "惯坏她",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
+      "author": "再寻再寻",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 15,
+          "h": 134000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 18,
+          "h": 4373000
+        }
+      ]
+    },
+    "2061856": {
+      "title": "王府里来了个捡破烂的崽崽",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
+      "author": "三颗小石头",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 16,
+          "h": 134000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 17,
+          "h": 4529000
+        }
+      ]
+    },
+    "1872563": {
+      "title": "为奴三年后，整个侯府跪求我原谅",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
+      "author": "莫小弃",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 17,
+          "h": 115000
+        }
+      ]
+    },
+    "1943722": {
+      "title": "重回拜师日，偏心师尊靠边站",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/675/2022677_360x480.jpg?time=1744704209",
+      "author": "观云涧",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 18,
+          "h": 114000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 13,
+          "h": 5155000
+        }
+      ]
+    },
+    "1866390": {
+      "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/595/1784376_360x480.jpg?time=1726332415",
+      "author": "福宝贝",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 19,
+          "h": 106000
+        },
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 15,
+          "h": 4757000
+        }
+      ]
+    },
+    "1764634": {
+      "title": "七零：最硬糙汉被媳妇撩红了眼",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432477_360x480.jpg?time=1751961822",
+      "author": "一尾小锦鲤",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-date",
+          "r": 20,
+          "h": 92000
+        }
+      ]
+    },
+    "1963904": {
+      "title": "他说不爱，婚后却沦陷了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/720/2158496_360x480.jpg?time=1778636499",
+      "author": "如鱼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 14,
+          "h": 4784000
+        }
+      ]
+    },
+    "1803024": {
+      "title": "神算萌妻：傅太太才是玄学真大佬",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/509/1524039_360x480.jpg?time=1709703740",
+      "author": "易小升",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 16,
+          "h": 4631000
+        }
+      ]
+    },
+    "2080234": {
+      "title": "重生八零：拒婚后转嫁高冷军少",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/908/2721851_360x480.jpg?time=1761112244",
+      "author": "小白蛇",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-over-month",
+          "r": 19,
+          "h": 4368000
+        }
+      ]
+    },
+    "151581": {
+      "title": "神医毒妃不好惹",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200636_360x480.jpg?time=1638408371",
+      "author": "姑苏小七",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 1,
+          "h": 0
+        }
+      ]
+    },
+    "215639": {
+      "title": "陆少的隐婚罪妻",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/217310_360x480.jpg?time=1638350813",
+      "author": "白七诺",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 3,
+          "h": 0
+        }
+      ]
+    },
+    "150200": {
+      "title": "夫人总想气我",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/35/102387_360x480.jpg?time=1638409582",
+      "author": "竹子不哭",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 5,
+          "h": 0
+        }
+      ]
+    },
+    "200456": {
+      "title": "在他深情中陨落",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204906_360x480.jpg?time=1638355068",
+      "author": "浮生三千",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 6,
+          "h": 0
+        }
+      ]
+    },
+    "217770": {
+      "title": "全师门就我一个废柴",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/76/225450_360x480.jpg?time=1638349406",
+      "author": "白木木",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 7,
+          "h": 0
+        }
+      ]
+    },
+    "213148": {
+      "title": "你的情深我不配",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/211917_360x480.jpg?time=1638353595",
+      "author": "恋简",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 8,
+          "h": 0
+        }
+      ]
+    },
+    "217117": {
+      "title": "我有七个大佬哥哥",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/75/224081_360x480.jpg?time=1638349798",
+      "author": "垂耳兔",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 9,
+          "h": 0
+        }
+      ]
+    },
+    "211498": {
+      "title": "掌上齐眉",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210499_360x480.jpg?time=1638353827",
+      "author": "锦一",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 10,
+          "h": 0
+        }
+      ]
+    },
+    "113609": {
+      "title": "逆天狂妃",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/34/100089_360x480.jpg?time=1638348885",
+      "author": "尘沐沐",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 11,
+          "h": 0
+        }
+      ]
+    },
+    "213502": {
+      "title": "小皇叔腹黑又难缠",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212650_360x480.jpg?time=1638353443",
+      "author": "一碧榶榶",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 12,
+          "h": 0
+        }
+      ]
+    },
+    "197111": {
+      "title": "暴君的替嫁小毒妃",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204404_1670557320_360x480.jpg",
+      "author": "奶油胖芙",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 13,
+          "h": 0
+        }
+      ]
+    },
+    "211040": {
+      "title": "王妃她不讲武德",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/70/209949_360x480.jpg?time=1638354041",
+      "author": "棠花落",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 14,
+          "h": 0
+        }
+      ]
+    },
+    "213822": {
+      "title": "夺凤台",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213002_1645150838_360x480.jpg",
+      "author": "杨酒七",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 15,
+          "h": 0
+        }
+      ]
+    },
+    "211869": {
+      "title": "大佬总想跟我抢儿砸",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/211646_360x480.jpg?time=1638353726",
+      "author": "江墨甜",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 18,
+          "h": 0
+        }
+      ]
+    },
+    "215476": {
+      "title": "学霸女王马甲多",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216451_360x480.jpg?time=1638350875",
+      "author": "灰夫人",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 19,
+          "h": 0
+        }
+      ]
+    },
+    "158511": {
+      "title": "重生迷死摄政王",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/202724_360x480.jpg?time=1629769774",
+      "author": "言夕",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-collect-date",
+          "r": 20,
+          "h": 0
+        }
+      ]
+    },
+    "10469241": {
+      "title": "逃荒前，我靠穿现代囤了百亿物资",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
+      "author": "文月樱",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 2,
+          "h": 0
+        }
+      ]
+    },
+    "11615952": {
+      "title": "媚君侧",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3872/11615952_360x480.jpg?time=1783934412",
+      "author": "昔也",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 3,
+          "h": 2
+        }
+      ]
+    },
+    "9951162": {
+      "title": "笨蛋美人当团宠，师兄们抢疯了！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3318/9951162_360x480.jpg?time=1769620689",
+      "author": "燃枫",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 5,
+          "h": 2
+        }
+      ]
+    },
+    "12511992": {
+      "title": "我刚和离，冷戾权臣夜夜求三胎",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4171/12511992_360x480.jpg?time=1782494668",
+      "author": "喵大仙儿",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 7,
+          "h": 1
+        }
+      ]
+    },
+    "12799185": {
+      "title": "退婚后我成了陆太太，前男友疯了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12799185_360x480.jpg?time=1786940221",
+      "author": "古辰桃瑶",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 8,
+          "h": 1
+        }
+      ]
+    },
+    "9923838": {
+      "title": "诡异直播，早死的老公是疯批boss",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3308/9923838_360x480.jpg?time=1774405962",
+      "author": "瞌睡鱼",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 12,
+          "h": 1
+        }
+      ]
+    },
+    "12267756": {
+      "title": "八零兽语小娇媳：靠卖山货带全家暴富",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4090/12267756_360x480.jpg?time=1784356827",
+      "author": "一块板砖",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 13,
+          "h": 2
+        }
+      ]
+    },
+    "10374897": {
+      "title": "皇妃来自地府，百鬼退散",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
+      "author": "月漠",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 17,
+          "h": 1
+        }
+      ]
+    },
+    "11679189": {
+      "title": "全民求生，我的岛屿是世界最后净土",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3894/11679189_360x480.jpg?time=1776072344",
+      "author": "有西瓜味的风",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 18,
+          "h": 3
+        }
+      ]
+    },
+    "11512461": {
+      "title": "一枕春深",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3838/11512461_360x480.jpg?time=1776072488",
+      "author": "晨露嫣然",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 19,
+          "h": 5
+        }
+      ]
+    },
+    "11820759": {
+      "title": "家有玄妻，百邪不侵！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3941/11820759_360x480.jpg?time=1786607714",
+      "author": "雪落听风",
+      "points": [
+        {
+          "d": "2026-08-18",
+          "b": "girl-update-date",
+          "r": 20,
+          "h": 2
+        }
+      ]
+    }
+  }
+}

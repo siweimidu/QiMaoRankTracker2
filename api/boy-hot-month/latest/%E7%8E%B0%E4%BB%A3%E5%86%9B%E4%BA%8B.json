@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-hot-month",
+    "name": "男生大热月榜",
+    "channel": "male",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "现代军事",
+    "major": "军事",
+    "count": 1,
+    "total_heat": 8190000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "四次入伍，我被军区拉进黑名单！",
+        "book_id": 12179937,
+        "url": "https://www.qimao.com/shuku/12179937/",
+        "author": "因果逆转",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%A0%E6%9E%9C%E9%80%86%E8%BD%AC_14/",
+        "major": "军事",
+        "minor": "现代军事",
+        "major_id": 60,
+        "minor_id": 61,
+        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "70.56万字",
+        "word_count": 705600,
+        "heat": 8190000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\r\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\r\n六年，整整六年！\r\n你知道班长们是怎么过的吗？\r\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\r\n如今他终于滚蛋了！\r\n花花世界，灯红酒绿，老子自由了！\r\n下一秒，脑海炸响：\r\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\r\n林毅：？？？我刚退伍仨小时，你就让我回去？\r\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\r\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\r\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\r\n“爸，爷爷，我决定了，我要第四次入伍！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
+        "latest_chapter": " 第304章  一千打八千？这不闹呢嘛！",
+        "updated_at": "2026-08-17 16:21:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "现代军事"
+      }
+    ]
+  }
+}

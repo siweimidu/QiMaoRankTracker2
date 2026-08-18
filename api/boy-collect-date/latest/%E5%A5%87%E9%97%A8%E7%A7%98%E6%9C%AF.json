@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-collect-date",
+    "name": "男生收藏日榜",
+    "channel": "male",
+    "type": "collect",
+    "type_name": "收藏榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "奇门秘术",
+    "major": "奇闻异事",
+    "count": 1,
+    "total_heat": 0,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 2,
+        "title": "民间诡闻实录",
+        "book_id": 197091,
+        "url": "https://www.qimao.com/shuku/197091/",
+        "author": "罗樵森",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
+        "major": "奇闻异事",
+        "minor": "奇门秘术",
+        "major_id": 204,
+        "minor_id": 231,
+        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "243.5万字",
+        "word_count": 2435000,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "",
+        "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
+        "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
+        "updated_at": "2021-10-12 11:14:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 3,
+        "stale_update": true,
+        "category": "奇门秘术"
+      }
+    ]
+  }
+}

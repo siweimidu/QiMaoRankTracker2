@@ -1,0 +1,50 @@
+{
+  "book_id": 219542,
+  "title": "全球灾变之末日游戏",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
+  "author": "我爱吃猫片",
+  "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
+  "minor": "末世危机",
+  "status": "已完结",
+  "word_count_text": "502.3万字",
+  "latest": [
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 14,
+      "heat": 75000
+    },
+    {
+      "board": "boy-over-month",
+      "board_name": "男生完结月榜",
+      "rank": 17,
+      "heat": 2339000
+    },
+    {
+      "board": "boy-collect-date",
+      "board_name": "男生收藏日榜",
+      "rank": 17,
+      "heat": 0
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-collect-date",
+      "r": 17,
+      "h": 0
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-date",
+      "r": 14,
+      "h": 75000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-month",
+      "r": 17,
+      "h": 2339000
+    }
+  ]
+}

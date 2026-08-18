@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>风向标 · 七猫风向标</title>
+  <meta name="description" content="七猫风向标：AI 全站风向、赛道分布、黑马雷达、热门作者与跨榜常青树。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230065fd'/><text x='50' y='70' font-size='56' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>Q</text></svg>">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    /* 主题防闪烁：在渲染前确定明暗（默认跟随系统） */
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('qm-theme'); } catch (e) { /* 隐私模式 */ }
+      if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
+</head>
+<body>
+
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">猫</span>
+        <span class="brand-text">
+          <span class="brand-name">风向标</span>
+          <span class="brand-sub">AI 风向 · 赛道分布 · 黑马雷达 · 热门作者</span>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <button class="btn btn-icon theme-toggle" type="button" aria-label="切换主题">🌙</button>
+        <a class="btn" href="index.html">📚 总览</a>
+        <a class="btn hide-sm" href="https://github.com/siweimidu/QiMaoRankTracker2" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- 周期切换 -->
+    <div class="tabs-block">
+      <div class="tabs-row" id="periodTabs" role="tablist" aria-label="统计周期"></div>
+      <div class="board-meta" id="periodMeta"></div>
+    </div>
+
+    <!-- 周期聚合：排名跃升 / 热度增长 -->
+    <section class="section">
+      <div class="duo-grid">
+        <div class="panel">
+          <div class="panel-head"><h2 class="panel-title">排名跃升 TOP10</h2><span class="ai-source" id="riseHint">周期内名次上升</span></div>
+          <div class="panel-body"><ul class="rank-list" id="riseList"></ul></div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><h2 class="panel-title">热度增长 TOP10</h2><span class="ai-source" id="heatHint">周期内热度增量</span></div>
+          <div class="panel-body"><ul class="rank-list" id="heatList"></ul></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- AI 风向卡 -->
+    <section class="section">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title">AI 全站风向</h2>
+          <span class="ai-source" id="aiSource">加载中</span>
+        </div>
+        <div class="panel-body"><div class="ai-card-content" id="aiCard">正在加载风向分析…</div></div>
+      </div>
+    </section>
+
+    <!-- 赛道分布 + 高频题材 -->
+    <section class="section">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title">赛道分布 · 大热榜分类热度 TOP15</h2>
+          <div class="chips" id="genreChannel"></div>
+        </div>
+        <div class="panel-body"><div class="chart-box" id="genreChart"></div></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title">高频题材关键词</h2>
+          <span class="ai-source">字号随出现次数缩放</span>
+        </div>
+        <div class="panel-body"><div class="word-cloud" id="wordCloud"></div></div>
+      </div>
+    </section>
+
+    <!-- 黑马榜 -->
+    <section class="section" id="horses">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title">黑马雷达</h2>
+          <span class="ai-source" id="horseDate">按黑马分降序 · TOP20</span>
+        </div>
+        <div class="panel-body table-wrap">
+          <table class="data-table" id="horseTable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>书名</th>
+                <th>作者</th>
+                <th class="hide-sm">分类</th>
+                <th class="hide-sm">榜单</th>
+                <th>排位</th>
+                <th>热度增长</th>
+                <th>黑马分</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+          <div class="state-block" id="horseEmpty" hidden>暂无黑马数据（需至少两日快照对比）</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 热门作者 + 常青树 -->
+    <section class="section">
+      <div class="duo-grid">
+        <div class="panel">
+          <div class="panel-head"><h2 class="panel-title">热门作者榜</h2><span class="ai-source">TOP30 摘要</span></div>
+          <div class="panel-body table-wrap">
+            <table class="data-table" id="authorTable">
+              <thead>
+                <tr><th>#</th><th>作者</th><th>作品</th><th>在榜</th><th>总热度</th></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><h2 class="panel-title">跨榜常青树</h2><span class="ai-source">同时在榜 ≥2 个榜单</span></div>
+          <div class="panel-body table-wrap">
+            <table class="data-table" id="evergreenTable">
+              <thead>
+                <tr><th>#</th><th>书名</th><th class="hide-sm">作者</th><th>在榜</th><th class="hide-sm">最佳名次</th><th>总热度</th></tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container" style="display:flex;flex-wrap:wrap;gap:8px 20px;">
+      <span>数据来源：七猫中文网排行榜（每日自动抓取）</span>
+      <a href="index.html">返回总览看板</a>
+      <a href="https://github.com/siweimidu/QiMaoRankTracker2" target="_blank" rel="noopener">GitHub 仓库</a>
+      <span id="footGen"></span>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/trend.js"></script>
+</body>
+</html>

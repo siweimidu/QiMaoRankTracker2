@@ -1,0 +1,133 @@
+# ============================================================
+#  手动强制重跑：清除断点状态与指定日期快照后完整重抓重建。
+#
+#  与 scrape.yml 的区别：
+#    - scrape 重跑时会依据 task_state 跳过当日已完成项（增量续跑）；
+#    - 本工作流先删除 task_state 与当日快照，实现"从零重跑"。
+#
+#  注意：七猫榜单页为实时页面，无法回溯抓取历史日期，
+#  重抓得到的始终是当前榜单数据（写入当天日期的快照文件）；
+#  reset_date 主要用于丢弃损坏/中断的当日数据后强制重建。
+# ============================================================
+name: 手动强制重跑
+
+on:
+  workflow_dispatch:
+    inputs:
+      boards:
+        description: '榜单 slug 子集（逗号分隔，留空 = 全部 16 个）'
+        required: false
+        default: ''
+        type: string
+      reset_date:
+        description: '强制重跑的日期（YYYYMMDD，留空 = 今天）：删除该日断点状态与快照后重抓重建'
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  # 与 scrape.yml / pages.yml 共用一组，串行执行防止互相踩踏
+  group: qimao-rank-pages
+  cancel-in-progress: false
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  force-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 确定重跑日期并清除断点状态
+        run: |
+          INPUT="${{ github.event.inputs.reset_date }}"
+          if [ -z "$INPUT" ]; then
+            DATE=$(date +'%Y%m%d')
+          else
+            DATE="$INPUT"
+          fi
+          echo "重跑日期: $DATE（北京时间 $(date +'%Y-%m-%d %H:%M')）"
+          # 删除该日断点状态文件，使爬虫不再跳过已完成项
+          rm -fv data/*/task_state_${DATE}.json data/categories/task_state_${DATE}.json
+          # 删除该日快照，强制完整重抓（历史日期的快照删除后无法找回，请谨慎填写）
+          rm -fv data/*/snapshots/ranks_${DATE}.json data/categories/snapshots/ranks_${DATE}.json || true
+
+      - name: 安装 Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 强制重抓榜单（L1 榜单层 + L2 分类层）
+        run: python scrape_qimao_ranks.py
+        env:
+          QM_BOARDS: ${{ github.event.inputs.boards }}
+
+      - name: 重新构建 latest 数据与静态 API（含 AI 分析）
+        run: python scripts/build_latest.py
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
+          API_MODEL: ${{ secrets.API_MODEL }}
+
+      - name: 校验 JSON 产物
+        run: |
+          python - <<'PY'
+          import glob, json, sys
+          files = sorted(set(
+              glob.glob('api/**/*.json', recursive=True)
+              + glob.glob('data/**/*.json', recursive=True)))
+          if not files:
+              print('[JSON 校验失败] 未找到任何 JSON 产物')
+              sys.exit(1)
+          for f in files:
+              try:
+                  json.load(open(f, encoding='utf-8'))
+              except Exception as e:
+                  print(f'[JSON 校验失败] {f}: {e}')
+                  sys.exit(1)
+          print(f'[JSON 校验通过] 共 {len(files)} 个文件')
+          PY
+
+      - name: 提交并推送数据变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data api
+          if git diff --staged --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "[Force] 强制重跑榜单抓取与构建 $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main || true
+            git push || (sleep 5 && git pull --rebase origin main && git push)
+          fi
+
+      # ---- 部署 GitHub Pages（官方 actions/deploy-pages 现代流程）----
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传 Pages 站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-hot-month",
+    "name": "男生大热月榜",
+    "channel": "male",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "都市生活",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 15122000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 8,
+        "title": "步步登阶",
+        "book_id": 1982360,
+        "url": "https://www.qimao.com/shuku/1982360/",
+        "author": "江湖如梦",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B1%9F%E6%B9%96%E5%A6%82%E6%A2%A6_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "269.11万字",
+        "word_count": 2691100,
+        "heat": 15122000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
+        "latest_chapter": " 第1280章  不会辜负",
+        "updated_at": "2026-08-17 00:17:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市生活"
+      }
+    ]
+  }
+}

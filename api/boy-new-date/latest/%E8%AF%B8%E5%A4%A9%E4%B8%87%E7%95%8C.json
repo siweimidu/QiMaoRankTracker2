@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "诸天万界",
+    "major": "玄幻奇幻",
+    "count": 1,
+    "total_heat": 54000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 11,
+        "title": "斩神刀",
+        "book_id": 12337881,
+        "url": "https://www.qimao.com/shuku/12337881/",
+        "author": "四眼秀才",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%9B%E7%9C%BC%E7%A7%80%E6%89%8D_14/",
+        "major": "玄幻奇幻",
+        "minor": "诸天万界",
+        "major_id": 202,
+        "minor_id": 217,
+        "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.69万字",
+        "word_count": 386900,
+        "heat": 54000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "昔年天才，蛰隐五年，强势回归！\r\n从此，人为鱼肉，我为刀俎！\r\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\r\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
+        "latest_chapter": " 第174章  不快",
+        "updated_at": "2026-08-18 06:02:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "诸天万界"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+# ============================================================
+#  Pages 兜底部署：前端静态文件（html/css/js）变更时从 main 分支
+#  根目录整站部署到 GitHub Pages，也可随时手动触发。
+#
+#  数据管线（scrape.yml / force_update.yml）已在自身流程末尾部署
+#  Pages，本工作流只负责"改了页面但没跑数据"的场景，避免重复。
+# ============================================================
+name: Pages 兜底部署
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'trend.html'
+      - 'book.html'
+      - 'css/**'
+      - 'js/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  # 与 scrape.yml / force_update.yml 共用一组，串行执行防止并发部署
+  group: qimao-rank-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传 Pages 站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

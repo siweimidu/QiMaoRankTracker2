@@ -1,0 +1,134 @@
+{
+  "board": {
+    "slug": "boy-hot-month",
+    "name": "男生大热月榜"
+  },
+  "date": "2026-08-18",
+  "period_days": 30,
+  "overview": {
+    "text": "**全站风向（规则统计）**\n\n- 跨榜：《盖世神医》(同时上榜4榜)、《荒古武神》(同时上榜4榜)、《离婚后她惊艳了世界》(同时上榜4榜)\n- 高产作者：化十(2本)、如鱼(2本)、白木木(2本)\n- 高频题材词：重生(92)、豪门(75)、总裁(74)、总裁豪门(67)、宅斗(51)、玄幻(48)、穿越(48)、东方玄幻(37)",
+    "ai_source": "rule"
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "架空历史",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市高手",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "商战职场",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市高武",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市生活",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "王朝争霸",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "现代军事",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    }
+  ],
+  "keywords": [
+    {
+      "word": "玄幻",
+      "count": 10
+    },
+    {
+      "word": "东方玄幻",
+      "count": 7
+    },
+    {
+      "word": "穿越",
+      "count": 6
+    },
+    {
+      "word": "历史",
+      "count": 5
+    },
+    {
+      "word": "诸天",
+      "count": 4
+    },
+    {
+      "word": "系统",
+      "count": 3
+    },
+    {
+      "word": "万界",
+      "count": 2
+    },
+    {
+      "word": "杀伐果断",
+      "count": 2
+    },
+    {
+      "word": "争霸",
+      "count": 1
+    },
+    {
+      "word": "兵王",
+      "count": 1
+    },
+    {
+      "word": "宗门",
+      "count": 1
+    },
+    {
+      "word": "无敌",
+      "count": 1
+    },
+    {
+      "word": "都市高武",
+      "count": 1
+    }
+  ],
+  "genre_groups": [
+    {
+      "name": "玄幻奇幻",
+      "count": 8,
+      "total_heat": 103009000,
+      "change": 8
+    },
+    {
+      "name": "都市",
+      "count": 7,
+      "total_heat": 126167000,
+      "change": 7
+    },
+    {
+      "name": "历史",
+      "count": 4,
+      "total_heat": 57574000,
+      "change": 4
+    },
+    {
+      "name": "军事",
+      "count": 1,
+      "total_heat": 8190000,
+      "change": 1
+    }
+  ]
+}

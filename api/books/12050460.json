@@ -1,0 +1,38 @@
+{
+  "book_id": 12050460,
+  "title": "都市极品大邪修",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4017/12050460_360x480.jpg?time=1782281522",
+  "author": "粮满仓",
+  "intro": "叶风怎么也没想到，和冰山女董一夜荒唐后，命运发生了改变……",
+  "minor": "都市高手",
+  "status": "连载中",
+  "word_count_text": "43.65万字",
+  "latest": [
+    {
+      "board": "boy-new-month",
+      "board_name": "男生新书月榜",
+      "rank": 1,
+      "heat": 1711000
+    },
+    {
+      "board": "boy-new-date",
+      "board_name": "男生新书日榜",
+      "rank": 9,
+      "heat": 75000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-new-date",
+      "r": 9,
+      "h": 75000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-new-month",
+      "r": 1,
+      "h": 1711000
+    }
+  ]
+}

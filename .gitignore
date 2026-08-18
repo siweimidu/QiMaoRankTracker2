@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.probe/
+# data/ 下的 task_state 为运行时续跑产物应忽略，snapshots 需要提交
+data/**/task_state_*.json

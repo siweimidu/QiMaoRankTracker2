@@ -1,0 +1,54 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "types": [
+    {
+      "name": "全部",
+      "url": "api/boy-new-month/latest/all.json"
+    },
+    {
+      "name": "架空历史",
+      "url": "api/boy-new-month/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
+    },
+    {
+      "name": "乡村生活",
+      "url": "api/boy-new-month/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "东方玄幻",
+      "url": "api/boy-new-month/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+    },
+    {
+      "name": "都市高武",
+      "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "王朝争霸",
+      "url": "api/boy-new-month/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
+    },
+    {
+      "name": "古典仙侠",
+      "url": "api/boy-new-month/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "商战职场",
+      "url": "api/boy-new-month/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
+    }
+  ]
+}

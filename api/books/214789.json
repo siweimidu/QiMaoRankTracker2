@@ -1,0 +1,50 @@
+{
+  "book_id": 214789,
+  "title": "我和软萌女友的恋爱日常",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+  "author": "佛系和尚",
+  "intro": "甜甜的治愈文，带你重回校园时代！",
+  "minor": "热血校园",
+  "status": "已完结",
+  "word_count_text": "300.01万字",
+  "latest": [
+    {
+      "board": "boy-over-month",
+      "board_name": "男生完结月榜",
+      "rank": 5,
+      "heat": 4418000
+    },
+    {
+      "board": "boy-collect-date",
+      "board_name": "男生收藏日榜",
+      "rank": 6,
+      "heat": 0
+    },
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 7,
+      "heat": 109000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-collect-date",
+      "r": 6,
+      "h": 0
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-date",
+      "r": 7,
+      "h": 109000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-month",
+      "r": 5,
+      "h": 4418000
+    }
+  ]
+}

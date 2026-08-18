@@ -1,0 +1,42 @@
+{
+  "board": {
+    "slug": "girl-new-month",
+    "name": "女生新书月榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "types": [
+    {
+      "name": "全部",
+      "url": "api/girl-new-month/latest/all.json"
+    },
+    {
+      "name": "总裁豪门",
+      "url": "api/girl-new-month/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
+    },
+    {
+      "name": "年代重生",
+      "url": "api/girl-new-month/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+    },
+    {
+      "name": "宫闱宅斗",
+      "url": "api/girl-new-month/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
+    },
+    {
+      "name": "现代悬疑",
+      "url": "api/girl-new-month/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
+    },
+    {
+      "name": "玄幻仙侠",
+      "url": "api/girl-new-month/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "种田经商",
+      "url": "api/girl-new-month/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
+    }
+  ]
+}

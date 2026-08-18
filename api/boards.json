@@ -1,0 +1,324 @@
+{
+  "generated_at": "2026-08-18T10:24:15",
+  "boards": [
+    {
+      "slug": "boy-hot-date",
+      "name": "男生大热日榜",
+      "channel": "male",
+      "type": "hot",
+      "type_name": "大热榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "商战职场",
+        "幻想修真",
+        "架空历史",
+        "王朝争霸",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-hot-month",
+      "name": "男生大热月榜",
+      "channel": "male",
+      "type": "hot",
+      "type_name": "大热榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "商战职场",
+        "架空历史",
+        "王朝争霸",
+        "现代军事",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-new-date",
+      "name": "男生新书日榜",
+      "channel": "male",
+      "type": "new",
+      "type_name": "新书榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "乡村生活",
+        "恐怖灵异",
+        "架空历史",
+        "诸天万界",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-new-month",
+      "name": "男生新书月榜",
+      "channel": "male",
+      "type": "new",
+      "type_name": "新书榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "乡村生活",
+        "古典仙侠",
+        "商战职场",
+        "架空历史",
+        "王朝争霸",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-over-date",
+      "name": "男生完结日榜",
+      "channel": "male",
+      "type": "over",
+      "type_name": "完结榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "奇门秘术",
+        "异世大陆",
+        "明星娱乐",
+        "末世危机",
+        "架空历史",
+        "热血校园",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-over-month",
+      "name": "男生完结月榜",
+      "channel": "male",
+      "type": "over",
+      "type_name": "完结榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "奇门秘术",
+        "末世危机",
+        "架空历史",
+        "热血校园",
+        "虚拟网游",
+        "都市生活",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-collect-date",
+      "name": "男生收藏日榜",
+      "channel": "male",
+      "type": "collect",
+      "type_name": "收藏榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "奇门秘术",
+        "异世大陆",
+        "末世危机",
+        "架空历史",
+        "热血校园",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "boy-update-date",
+      "name": "男生更新日榜",
+      "channel": "male",
+      "type": "update",
+      "type_name": "更新榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "东方玄幻",
+        "古典仙侠",
+        "奇门秘术",
+        "幻想修真",
+        "异世大陆",
+        "架空历史",
+        "衍生同人",
+        "都市高手",
+        "都市高武"
+      ]
+    },
+    {
+      "slug": "girl-hot-date",
+      "name": "女生大热日榜",
+      "channel": "female",
+      "type": "hot",
+      "type_name": "大热榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "宫闱宅斗",
+        "异世幻想",
+        "总裁豪门"
+      ]
+    },
+    {
+      "slug": "girl-hot-month",
+      "name": "女生大热月榜",
+      "channel": "female",
+      "type": "hot",
+      "type_name": "大热榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "宫闱宅斗",
+        "异世幻想",
+        "总裁豪门"
+      ]
+    },
+    {
+      "slug": "girl-new-date",
+      "name": "女生新书日榜",
+      "channel": "female",
+      "type": "new",
+      "type_name": "新书榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "宫闱宅斗",
+        "年代重生",
+        "总裁豪门",
+        "玄幻仙侠",
+        "现代悬疑"
+      ]
+    },
+    {
+      "slug": "girl-new-month",
+      "name": "女生新书月榜",
+      "channel": "female",
+      "type": "new",
+      "type_name": "新书榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "宫闱宅斗",
+        "年代重生",
+        "总裁豪门",
+        "玄幻仙侠",
+        "现代悬疑",
+        "种田经商"
+      ]
+    },
+    {
+      "slug": "girl-over-date",
+      "name": "女生完结日榜",
+      "channel": "female",
+      "type": "over",
+      "type_name": "完结榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "古代情缘",
+        "宫闱宅斗",
+        "年代重生",
+        "总裁豪门",
+        "玄幻仙侠",
+        "都市奇幻"
+      ]
+    },
+    {
+      "slug": "girl-over-month",
+      "name": "女生完结月榜",
+      "channel": "female",
+      "type": "over",
+      "type_name": "完结榜",
+      "period": "month",
+      "period_name": "月榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "宫闱宅斗",
+        "年代重生",
+        "总裁豪门",
+        "玄幻仙侠",
+        "都市奇幻"
+      ]
+    },
+    {
+      "slug": "girl-collect-date",
+      "name": "女生收藏日榜",
+      "channel": "female",
+      "type": "collect",
+      "type_name": "收藏榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "古代情缘",
+        "宫闱宅斗",
+        "总裁豪门",
+        "权谋天下",
+        "玄幻仙侠"
+      ]
+    },
+    {
+      "slug": "girl-update-date",
+      "name": "女生更新日榜",
+      "channel": "female",
+      "type": "update",
+      "type_name": "更新榜",
+      "period": "date",
+      "period_name": "日榜",
+      "latest_date": "2026-08-18",
+      "book_count": 20,
+      "categories": [
+        "古代情缘",
+        "宫闱宅斗",
+        "年代重生",
+        "总裁豪门",
+        "无限快穿",
+        "玄幻仙侠",
+        "种田经商",
+        "网游电竞",
+        "都市奇幻"
+      ]
+    }
+  ]
+}

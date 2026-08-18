@@ -1,0 +1,199 @@
+{
+  "board": {
+    "slug": "girl-update-date",
+    "name": "女生更新日榜"
+  },
+  "date": "2026-08-18",
+  "period_days": 1,
+  "overview": {
+    "text": "**全站风向（规则统计）**\n\n- 跨榜：《盖世神医》(同时上榜4榜)、《荒古武神》(同时上榜4榜)、《离婚后她惊艳了世界》(同时上榜4榜)\n- 高产作者：化十(2本)、如鱼(2本)、白木木(2本)\n- 高频题材词：重生(92)、豪门(75)、总裁(74)、总裁豪门(67)、宅斗(51)、玄幻(48)、穿越(48)、东方玄幻(37)",
+    "ai_source": "rule"
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "总裁豪门",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "年代重生",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "网游电竞",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "玄幻仙侠",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市奇幻",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "古代情缘",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "无限快穿",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "种田经商",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    }
+  ],
+  "keywords": [
+    {
+      "word": "重生",
+      "count": 10
+    },
+    {
+      "word": "总裁",
+      "count": 9
+    },
+    {
+      "word": "宅斗",
+      "count": 6
+    },
+    {
+      "word": "总裁豪门",
+      "count": 6
+    },
+    {
+      "word": "系统",
+      "count": 6
+    },
+    {
+      "word": "豪门",
+      "count": 6
+    },
+    {
+      "word": "空间",
+      "count": 5
+    },
+    {
+      "word": "玄学",
+      "count": 4
+    },
+    {
+      "word": "先婚后爱",
+      "count": 3
+    },
+    {
+      "word": "和离",
+      "count": 3
+    },
+    {
+      "word": "种田",
+      "count": 3
+    },
+    {
+      "word": "年代",
+      "count": 2
+    },
+    {
+      "word": "权臣",
+      "count": 2
+    },
+    {
+      "word": "穿越",
+      "count": 2
+    },
+    {
+      "word": "追妻",
+      "count": 2
+    },
+    {
+      "word": "双强",
+      "count": 1
+    },
+    {
+      "word": "团宠",
+      "count": 1
+    },
+    {
+      "word": "囤货",
+      "count": 1
+    },
+    {
+      "word": "女配",
+      "count": 1
+    },
+    {
+      "word": "对照组",
+      "count": 1
+    },
+    {
+      "word": "快穿",
+      "count": 1
+    },
+    {
+      "word": "无CP",
+      "count": 1
+    },
+    {
+      "word": "末世",
+      "count": 1
+    },
+    {
+      "word": "洗白",
+      "count": 1
+    },
+    {
+      "word": "穿书",
+      "count": 1
+    },
+    {
+      "word": "经商",
+      "count": 1
+    },
+    {
+      "word": "美食",
+      "count": 1
+    },
+    {
+      "word": "追妻火葬场",
+      "count": 1
+    }
+  ],
+  "genre_groups": [
+    {
+      "name": "现代言情",
+      "count": 9,
+      "total_heat": 12,
+      "change": 9
+    },
+    {
+      "name": "古代言情",
+      "count": 8,
+      "total_heat": 12,
+      "change": 8
+    },
+    {
+      "name": "幻想言情",
+      "count": 2,
+      "total_heat": 3,
+      "change": 2
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_heat": 3,
+      "change": 1
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜"
+  },
+  "date": "2026-08-18",
+  "period_days": 1,
+  "overview": {
+    "text": "**全站风向（规则统计）**\n\n- 跨榜：《盖世神医》(同时上榜4榜)、《荒古武神》(同时上榜4榜)、《离婚后她惊艳了世界》(同时上榜4榜)\n- 高产作者：化十(2本)、如鱼(2本)、白木木(2本)\n- 高频题材词：重生(92)、豪门(75)、总裁(74)、总裁豪门(67)、宅斗(51)、玄幻(48)、穿越(48)、东方玄幻(37)",
+    "ai_source": "rule"
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市高手",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市高武",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "东方玄幻",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "都市生活",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "乡村生活",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "诸天万界",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "恐怖灵异",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    }
+  ],
+  "keywords": [
+    {
+      "word": "历史",
+      "count": 6
+    },
+    {
+      "word": "游戏",
+      "count": 4
+    },
+    {
+      "word": "穿越",
+      "count": 4
+    },
+    {
+      "word": "系统",
+      "count": 4
+    },
+    {
+      "word": "都市高武",
+      "count": 4
+    },
+    {
+      "word": "重生",
+      "count": 4
+    },
+    {
+      "word": "万界",
+      "count": 3
+    },
+    {
+      "word": "灵异",
+      "count": 3
+    },
+    {
+      "word": "诸天",
+      "count": 3
+    },
+    {
+      "word": "东方玄幻",
+      "count": 2
+    },
+    {
+      "word": "修仙",
+      "count": 2
+    },
+    {
+      "word": "年代",
+      "count": 2
+    },
+    {
+      "word": "战神",
+      "count": 2
+    },
+    {
+      "word": "末世",
+      "count": 2
+    },
+    {
+      "word": "玄幻",
+      "count": 2
+    },
+    {
+      "word": "网游",
+      "count": 2
+    },
+    {
+      "word": "争霸",
+      "count": 1
+    },
+    {
+      "word": "宗门",
+      "count": 1
+    },
+    {
+      "word": "扮猪吃虎",
+      "count": 1
+    },
+    {
+      "word": "特种兵",
+      "count": 1
+    },
+    {
+      "word": "神医",
+      "count": 1
+    }
+  ],
+  "genre_groups": [
+    {
+      "name": "都市",
+      "count": 12,
+      "total_heat": 842000,
+      "change": 12
+    },
+    {
+      "name": "历史",
+      "count": 4,
+      "total_heat": 501000,
+      "change": 4
+    },
+    {
+      "name": "玄幻奇幻",
+      "count": 3,
+      "total_heat": 217000,
+      "change": 3
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_heat": 30000,
+      "change": 1
+    }
+  ]
+}

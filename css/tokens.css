@@ -1,0 +1,126 @@
+/* ============================================================
+   七猫风向标 · 豆包设计 token 层
+   主色 #0065fd · 明暗双主题 · 边框分隔优先的紧凑仪表盘风格
+   基础圆角 19.2px（--radius-lg）· 节奏单位 3.84px
+   ============================================================ */
+
+:root {
+  color-scheme: light;
+
+  /* ---- 语义色（亮色主题）---- */
+  --background: #ffffff;
+  --foreground: #0e1115;
+  --card: #ffffff;
+  --card-foreground: #0e1115;
+  --muted: #eff1f4;
+  --muted-foreground: #7f8d9f;
+  --border: #e7eaef;
+  --primary: #0065fd;
+  --primary-foreground: #ffffff;
+  --primary-soft: #e5e9ff;
+  --primary-soft-foreground: #00266b;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --success: #16a34a;
+  --success-soft: #e8f7ee;
+  --warning: #d97706;
+  --warning-soft: #fdf3e3;
+  --rise: #16a34a;   /* 上升 · 涨 */
+  --drop: #ef4444;   /* 下降 · 跌 */
+  --new: #7c3aed;    /* 新上榜 · 蓝紫 */
+  --new-soft: #f1e9fe;
+  --gold: #b45309;   /* 徽章金 */
+  --gold-soft: #fdf6e3;
+  --skeleton-a: #eff1f4;
+  --skeleton-b: #f8f9fb;
+
+  /* ---- 图表色板（与主题联动）---- */
+  --chart-1: #0065fd;
+  --chart-2: #557fff;
+  --chart-3: #00c39a;
+  --chart-4: #7c3aed;
+  --chart-5: #f59e0b;
+  --chart-label: #7f8d9f;
+  --chart-split: #e7eaef;
+  --chart-tooltip-bg: #ffffff;
+  --chart-tooltip-text: #0e1115;
+
+  /* ---- 字体 ---- */
+  --font-sans: "Stack Sans Text", -apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", Consolas, "SF Mono", "Courier New", monospace;
+
+  /* ---- 圆角系列（基础 19.2px）---- */
+  --radius-xs: 4.8px;
+  --radius-sm: 9.6px;
+  --radius: 14.4px;
+  --radius-lg: 19.2px;
+  --radius-full: 999px;
+
+  /* ---- 间距系列（节奏单位 3.84px）---- */
+  --space-1: 3.84px;
+  --space-2: 7.68px;
+  --space-3: 11.52px;
+  --space-4: 15.36px;
+  --space-5: 19.2px;
+  --space-6: 23.04px;
+  --space-8: 30.72px;
+  --space-10: 38.4px;
+
+  /* ---- 字号系列 ---- */
+  --text-2xs: 10.5px;
+  --text-xs: 12px;
+  --text-sm: 13px;
+  --text-base: 14px;
+  --text-md: 15px;
+  --text-lg: 18px;
+  --text-xl: 22px;
+  --text-2xl: 28px;
+
+  /* ---- 其它 ---- */
+  --header-h: 61.6px;
+  --shadow-card: 0 1px 2px rgba(14, 17, 21, 0.03);
+}
+
+html.dark {
+  color-scheme: dark;
+
+  /* ---- 语义色（暗色主题）---- */
+  --background: #0e1115;
+  --foreground: #eff1f4;
+  --card: #151920;
+  --card-foreground: #eff1f4;
+  --muted: #1d232c;
+  --muted-foreground: #afbbcb;
+  --border: #2a323d;
+  --primary: #0065fd;
+  --primary-foreground: #ffffff;
+  --primary-soft: #00266b;
+  --primary-soft-foreground: #bfdbfe;
+  --destructive: #f87171;
+  --destructive-foreground: #ffffff;
+  --success: #34d399;
+  --success-soft: #0c2b22;
+  --warning: #fbbf24;
+  --warning-soft: #33270c;
+  --rise: #34d399;
+  --drop: #f87171;
+  --new: #a78bfa;
+  --new-soft: #241a3d;
+  --gold: #f5b942;
+  --gold-soft: #332a12;
+  --skeleton-a: #1d232c;
+  --skeleton-b: #232a34;
+
+  /* ---- 图表色板（暗色）---- */
+  --chart-1: #3b82f6;
+  --chart-2: #60a5fa;
+  --chart-3: #2dd4bf;
+  --chart-4: #a78bfa;
+  --chart-5: #fbbf24;
+  --chart-label: #8b9aab;
+  --chart-split: #2a323d;
+  --chart-tooltip-bg: #1d232c;
+  --chart-tooltip-text: #eff1f4;
+
+  --shadow-card: none;
+}

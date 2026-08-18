@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-hot-month",
+    "name": "女生大热月榜",
+    "channel": "female",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "异世幻想",
+    "major": "幻想言情",
+    "count": 1,
+    "total_heat": 14600000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 10,
+        "title": "穿成星际废雌，捡漏SSS级兽夫赢麻了",
+        "book_id": 9920208,
+        "url": "https://www.qimao.com/shuku/9920208/",
+        "author": "伊淼",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BC%8A%E6%B7%BC_14/",
+        "major": "幻想言情",
+        "minor": "异世幻想",
+        "major_id": 4,
+        "minor_id": 285,
+        "minor_url": "https://www.qimao.com/shuku/a-4-285-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "91.05万字",
+        "word_count": 910500,
+        "heat": 14600000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【兽世+微群像+修罗场+雄竞】(内有伪骨科)\r\n穿成星际兽世作精废雌假千金，姜知夏看着自己众叛亲离、流放饿死的结局，果断掀桌不干了。\r\n真千金还有两年回归？那就趁现在！抢人、攒钱、抱大腿！\r\n男主们她不敢抢，那女主鱼塘里那些被她抛弃，利用，践踏的备胎们，她可就照单全收了！\r\n沦落在奴隶场的狼族少年陆决，奄奄一息躺在笼中，她果断捡走！\r\n被家族虐待心理扭曲后毁容抑郁的天才治疗师苏尘，看我把小苦瓜捞出来！\r\n被女主当作提款机，被家族当作棋子的狐族小妖精宁逸，直接收到碗里来！\r\n满眼仇恨的阴郁联邦弃子慕华烨，野性不羁的星盗头子墨沉渊……\r\n不对啊，她只是想捞点女主鱼塘里的小苗苗，怎么都跑到她床上去了？\r\n就连她那个冷漠强势的养子大哥姜霆，看她的眼神也渐渐不对劲起来……\r\n都说她是C级废雌，皇室之耻，只会追着雄性跑。\r\n直到她二次觉醒，成为帝国唯一的SSS级雌性，战场安抚、星盗收编、联邦建交，一手掌控帝国命脉。\r\n真千金女主携系统回归，怎么自己看上的雄性们，都比不过那个废雌身边的兽夫了？还根本撬不动这些墙角！\r\n姜知夏被自家一个个捡来的兽夫搂紧，揉腰大叹气：“救命！真有点吃不消了！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3307/9920208_360x480.jpg?time=1769234664",
+        "latest_chapter": " 第404章  深入腹地",
+        "updated_at": "2026-08-18 08:17:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "异世幻想"
+      }
+    ]
+  }
+}

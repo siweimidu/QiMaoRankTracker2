@@ -1,0 +1,50 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "types": [
+    {
+      "name": "全部",
+      "url": "api/boy-new-date/latest/all.json"
+    },
+    {
+      "name": "架空历史",
+      "url": "api/boy-new-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+    },
+    {
+      "name": "都市高武",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
+      "name": "东方玄幻",
+      "url": "api/boy-new-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "乡村生活",
+      "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "诸天万界",
+      "url": "api/boy-new-date/latest/%E8%AF%B8%E5%A4%A9%E4%B8%87%E7%95%8C.json"
+    },
+    {
+      "name": "恐怖灵异",
+      "url": "api/boy-new-date/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
+    }
+  ]
+}

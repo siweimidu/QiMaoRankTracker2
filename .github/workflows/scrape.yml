@@ -1,0 +1,125 @@
+# ============================================================
+#  核心流水线：抓取 16 个榜单（L1 榜单层 + L2 分类层）
+#  -> 构建 latest 数据 / 静态 API / AI 分析 -> JSON 校验
+#  -> 提交 data/ 与 api/ -> 部署 GitHub Pages
+# ============================================================
+name: 每日榜单抓取与构建
+
+on:
+  schedule:
+    # UTC 23:30 = 北京时间（Asia/Shanghai）次日 07:30，错开整点调度高峰
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+    inputs:
+      boards:
+        description: '榜单 slug 子集（逗号分隔，如 boy-hot-date,girl-new-date；留空 = 全部 16 个）'
+        required: false
+        default: ''
+        type: string
+  push:
+    branches: [main]
+    # 仅当抓取/构建代码或本工作流自身变更时触发验证性全量运行；
+    # 前端文件（html/css/js）的变更交给 pages.yml 兜底部署，避免重复跑管线
+    paths:
+      - 'scrape_qimao_ranks.py'
+      - 'boards_config.py'
+      - 'scripts/build_latest.py'
+      - 'requirements.txt'
+      - '.github/workflows/scrape.yml'
+
+permissions:
+  contents: write   # 提交 data/ api/ 变更
+  pages: write      # 部署 GitHub Pages
+  id-token: write   # actions/deploy-pages 所需的 OIDC 令牌
+
+concurrency:
+  # 三个工作流（scrape / force_update / pages）共用一组，串行执行
+  # 防止并发写数据仓库 / 并发部署 Pages 互相踩踏
+  group: qimao-rank-pages
+  cancel-in-progress: false
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  scrape-build-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 抓取榜单（L1 榜单层 + L2 分类层）
+        run: python scrape_qimao_ranks.py
+        env:
+          # 手动触发且填写了 boards 参数时，只抓该榜单子集
+          QM_BOARDS: ${{ github.event.inputs.boards }}
+
+      - name: 构建 latest 数据与静态 API（含 AI 分析）
+        run: python scripts/build_latest.py
+        env:
+          # AI Secrets 透传：三者齐备才启用 AI，否则自动回退规则文案
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
+          API_MODEL: ${{ secrets.API_MODEL }}
+
+      - name: 校验 JSON 产物
+        run: |
+          python - <<'PY'
+          import glob, json, sys
+          files = sorted(set(
+              glob.glob('api/**/*.json', recursive=True)
+              + glob.glob('data/**/*.json', recursive=True)))
+          if not files:
+              print('[JSON 校验失败] 未找到任何 JSON 产物')
+              sys.exit(1)
+          for f in files:
+              try:
+                  json.load(open(f, encoding='utf-8'))
+              except Exception as e:
+                  print(f'[JSON 校验失败] {f}: {e}')
+                  sys.exit(1)
+          print(f'[JSON 校验通过] 共 {len(files)} 个文件')
+          PY
+
+      - name: 提交并推送数据变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data api
+          if git diff --staged --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "[Auto] 每日榜单快照与构建 $(date +'%Y-%m-%d %H:%M')"
+            # 简单容错：先 rebase 远端新提交；推送失败则等待后重试一次
+            git pull --rebase origin main || true
+            git push || (sleep 5 && git pull --rebase origin main && git push)
+          fi
+
+      # ---- 部署 GitHub Pages（官方 actions/deploy-pages 现代流程）----
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传 Pages 站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

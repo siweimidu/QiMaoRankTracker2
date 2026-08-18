@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-new-month",
+    "name": "女生新书月榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "种田经商",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 757000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 15,
+        "title": "重生大灾年，空间囤粮旺全家",
+        "book_id": 11765325,
+        "url": "https://www.qimao.com/shuku/11765325/",
+        "author": "灼漪",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%81%BC%E6%BC%AA_14/",
+        "major": "古代言情",
+        "minor": "种田经商",
+        "major_id": 2,
+        "minor_id": 16,
+        "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "48.36万字",
+        "word_count": 483600,
+        "heat": 757000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "重生+神笔空间+神医+小狼狗+甜甜恋爱\r\n生死一瞬重生十岁，惊喜发现娘还活着，弟弟还没养歪，一切都还来得及。\r\n前世莽苍岭的宝物现在到了我的手里，到手才知这神笔空间究竟有多逆天。\r\n延年益寿强身健体的灵泉水。\r\n这片空荡荡的黑土地早晚会被她种满珍贵药材。\r\n以及屋内多到看不完的绝世医书。\r\n前世悬壶济世的梦，在这一世要从她手里活成现实。\r\n刚得到宝物下山，就遇见表姐在她家妖言惑众，说她死在山里了。\r\n窝囊了一辈子，重活一世宋怀柠只想肆意潇洒的活着，只要自己够疯，够狠，谁都别想欺负她家人！\r\n哪曾想前世神笔的主人竟然也重生回来了。\r\n蚍蜉撼大树，现在的自己又怎是那种大人物的对手。\r\n识时务者为俊杰，偶尔苟一下也不是不行嘛，对吧。\r\n“如何？可有来信？”\r\n“启禀少将军，未曾。”\r\n.....\r\n宋怀柠：？？好像忘了点什么？\r\n“今日呢？”\r\n“不曾有少将军的信。”\r\n谢渊唇角挂起一抹危险的弧度：没良心的小家伙。\r\n“备马，我倒要看看有什么事比我还重要。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3922/11765325_360x480.jpg?time=1778232729",
+        "latest_chapter": " 第229章  好消息坏消息，你想先听哪个？",
+        "updated_at": "2026-08-17 22:16:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "种田经商"
+      }
+    ]
+  }
+}

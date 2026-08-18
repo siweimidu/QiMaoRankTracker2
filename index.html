@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>七猫风向标 · 全榜单总览</title>
+  <meta name="description" content="七猫小说全榜单每日追踪看板：排名、热度双维度趋势，黑马雷达与 AI 风向分析。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230065fd'/><text x='50' y='70' font-size='56' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>Q</text></svg>">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    /* 主题防闪烁：在渲染前确定明暗（默认跟随系统） */
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('qm-theme'); } catch (e) { /* 隐私模式 */ }
+      if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
+</head>
+<body>
+
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">猫</span>
+        <span class="brand-text">
+          <span class="brand-name">七猫风向标</span>
+          <span class="brand-sub">全榜单每日追踪 · 排名 × 热度双维趋势</span>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <button class="btn btn-icon theme-toggle" type="button" aria-label="切换主题">🌙</button>
+        <a class="btn" href="trend.html">📈 风向标</a>
+        <a class="btn hide-sm" href="https://github.com/siweimidu/QiMaoRankTracker2" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- 状态条 -->
+  <div class="status-strip">
+    <div class="container">
+      <div class="status-row" id="statusRow" hidden>
+        <span class="status-item">最后更新 <span class="num" id="stUpdated">-</span></span>
+        <span class="status-item">今日收录 <span class="num" id="stTotal">-</span> 本</span>
+        <span class="status-item">新上榜 <span class="num" id="stNew">-</span> 本</span>
+        <span class="status-item">黑马 <a href="trend.html#horses"><span class="num" id="stHorse">-</span> 本</a></span>
+        <span class="status-item">抓取于 <span class="num" id="stScraped">-</span></span>
+      </div>
+    </div>
+  </div>
+  <div class="missing-bar" id="missingBar" hidden>
+    <div class="container"><span>⚠</span><span id="missingText"></span></div>
+  </div>
+
+  <main class="container">
+    <!-- 两级 Tab -->
+    <div class="tabs-block">
+      <div class="tabs-row" id="channelTabs" role="tablist" aria-label="频道"></div>
+      <div class="l2-row">
+        <div class="type-tabs" id="typeTabs" role="tablist" aria-label="榜单类型"></div>
+        <div class="period-toggle" id="periodToggle" role="tablist" aria-label="周期"></div>
+      </div>
+      <div class="board-meta" id="boardMeta"></div>
+    </div>
+
+    <!-- 工具行 -->
+    <div class="toolbar" id="toolbar" hidden>
+      <div class="chips" id="catChips"></div>
+      <div class="search-input">
+        <input type="search" id="searchInput" placeholder="搜索书名 / 作者" autocomplete="off">
+      </div>
+      <select class="select-box" id="statusFilter" aria-label="状态筛选">
+        <option value="all">全部状态</option>
+        <option value="连载中">连载中</option>
+        <option value="已完结">已完结</option>
+      </select>
+      <select class="select-box" id="momentumFilter" aria-label="动势筛选">
+        <option value="all">全部动势</option>
+        <option value="up">上升</option>
+        <option value="down">下降</option>
+        <option value="new">新上榜</option>
+      </select>
+      <button class="btn" id="csvBtn" type="button" title="导出当前视图为 CSV">⬇ CSV</button>
+    </div>
+
+    <!-- 卡片流 -->
+    <div class="board-grid" id="boardGrid" aria-live="polite"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container" style="display:flex;flex-wrap:wrap;gap:8px 20px;">
+      <span>数据来源：七猫中文网排行榜（每日自动抓取）</span>
+      <a href="trend.html">风向标 · 黑马雷达</a>
+      <a href="https://github.com/siweimidu/QiMaoRankTracker2" target="_blank" rel="noopener">GitHub 仓库</a>
+      <span id="footGen"></span>
+    </div>
+  </footer>
+
+  <script src="js/common.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

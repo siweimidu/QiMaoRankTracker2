@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-update-date",
+    "name": "男生更新日榜",
+    "channel": "male",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "都市高手",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 2,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 9,
+        "title": "全体起立，SSS狂龙出狱！",
+        "book_id": 9928068,
+        "url": "https://www.qimao.com/shuku/9928068/",
+        "author": "火财神",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%81%AB%E8%B4%A2%E7%A5%9E_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "164.96万字",
+        "word_count": 1649600,
+        "heat": 2,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\r\n师父说喜欢一个女人是藏不住的。\r\n但喜欢两个以上，千万得藏好了。\r\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\r\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\r\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\r\n老子的人生名言——醒掌天下权，醉卧美人膝。\r\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
+        "latest_chapter": " 第552章  苍天有眼",
+        "updated_at": "2026-08-17 10:02:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "恐怖灵异",
+    "major": "奇闻异事",
+    "count": 1,
+    "total_heat": 30000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "诡异游戏：我的天赋有亿点强",
+        "book_id": 12382644,
+        "url": "https://www.qimao.com/shuku/12382644/",
+        "author": "离火加农炮",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A6%BB%E7%81%AB%E5%8A%A0%E5%86%9C%E7%82%AE_14/",
+        "major": "奇闻异事",
+        "minor": "恐怖灵异",
+        "major_id": 204,
+        "minor_id": 229,
+        "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.31万字",
+        "word_count": 373100,
+        "heat": 30000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "开局死刑犯，进入诡异游戏换取刑期。结果范辰进入诡异游戏后，幸运觉醒了“食灵者”唯一级天赋，诡异影响全部转化正向收益。煞气入体，我反向增强灵性！恶鬼诅咒，我血条反向加满！别人不敢用的灵异物品，我用。别人不敢接的任务，我接。吞噬灵异，无限增强。范辰表示：我的天赋真的有亿点强！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4128/12382644_360x480.jpg?time=1781157117",
+        "latest_chapter": " 第130章  来鑫商城：玩家进入这个副本，是要打工的！",
+        "updated_at": "2026-08-17 21:38:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "恐怖灵异"
+      }
+    ]
+  }
+}

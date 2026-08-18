@@ -1,0 +1,50 @@
+{
+  "book_id": 1747899,
+  "title": "无敌六皇子",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
+  "author": "梁山老鬼",
+  "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\r\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\r\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\r\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\r\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
+  "minor": "架空历史",
+  "status": "已完结",
+  "word_count_text": "350.25万字",
+  "latest": [
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 6,
+      "heat": 117000
+    },
+    {
+      "board": "boy-over-month",
+      "board_name": "男生完结月榜",
+      "rank": 7,
+      "heat": 4226000
+    },
+    {
+      "board": "boy-collect-date",
+      "board_name": "男生收藏日榜",
+      "rank": 7,
+      "heat": 0
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-collect-date",
+      "r": 7,
+      "h": 0
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-date",
+      "r": 6,
+      "h": 117000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-month",
+      "r": 7,
+      "h": 4226000
+    }
+  ]
+}

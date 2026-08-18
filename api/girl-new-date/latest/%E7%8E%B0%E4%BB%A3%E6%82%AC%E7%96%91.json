@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "girl-new-date",
+    "name": "女生新书日榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "现代悬疑",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 88000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 7,
+        "title": "误入惊悚聊天群，我成内部员工",
+        "book_id": 11510034,
+        "url": "https://www.qimao.com/shuku/11510034/",
+        "author": "弦泠兮",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%BC%A6%E6%B3%A0%E5%85%AE_14/",
+        "major": "现代言情",
+        "minor": "现代悬疑",
+        "major_id": 1,
+        "minor_id": 312,
+        "minor_url": "https://www.qimao.com/shuku/a-1-312-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "48.49万字",
+        "word_count": 484900,
+        "heat": 88000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【无限流+微恐+轻松+金手指+不固定cp+副本+爽文】\r\n林音希在女生宿舍里，被怪物杀死了九十九次。\r\n第一百次睁眼，她还没来得及逃，手机先震了一下。\r\n一个顶着兔子头像的人，拉进奇怪的聊天群。\r\n【女生宿舍楼一号楼剥皮怪工作安排群】\r\n群成员全是之前在宿舍里追杀过她的怪物。\r\n【兔子饲养员：五楼的收纳师社恐正在工作，请其他员工不要打扰。】\r\n【剥皮怪003：滋啦啦……新同事记得领新手礼包……】\r\n【道具师：美美发照片。】\r\n林音希这才发现，那些追杀人类的怪物，所做出的一切行动群里都能看见。\r\n而她，被误认成了人形实体，被拉进群里打工。\r\n于是，林音希加入越来越多的实体群聊，她在群里潜水偷情报，用表情包和实体聊天维持身份。\r\n只要露出一点点破绽，她就会死翘翘。\r\n聊着聊着，林音希发现，自己进入的群越来越高级，她也渐渐的接近实体的管理层。\r\n实体：聊了那么久，面个基？\r\n林音希：退网中，勿扰，谢谢。\r\n下一秒。\r\n她的手机再次震动。\r\n【别装了】\r\n【我就在你身后】\r\nps：副本集合了解密、大逃杀、规则怪谈、都市怪谈、角色扮演、类收容所设定等等，元素过多。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3837/11510034_360x480.jpg?time=1775539260",
+        "latest_chapter": " 第227章  禁闭室11",
+        "updated_at": "2026-08-18 08:17:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "现代悬疑"
+      }
+    ]
+  }
+}

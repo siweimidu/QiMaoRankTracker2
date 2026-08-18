@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-hot-date",
+    "name": "男生大热日榜",
+    "channel": "male",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "幻想修真",
+    "major": "武侠仙侠",
+    "count": 1,
+    "total_heat": 228000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "凡尘飞仙",
+        "book_id": 1729484,
+        "url": "https://www.qimao.com/shuku/1729484/",
+        "author": "齐甲",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%BD%90%E7%94%B2_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "583.78万字",
+        "word_count": 5837800,
+        "heat": 228000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "一个普通的农村少年，偶然得到聚宝盆，凭借其复制能力，得到海量资源，走上修行一途……仙路悠悠，普通少年的飞仙之路……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
+        "latest_chapter": " 第2487章  龙吟",
+        "updated_at": "2026-08-17 20:11:18",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "幻想修真"
+      }
+    ]
+  }
+}

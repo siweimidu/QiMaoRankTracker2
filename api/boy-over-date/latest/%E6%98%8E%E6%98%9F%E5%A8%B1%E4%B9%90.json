@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-over-date",
+    "name": "男生完结日榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "明星娱乐",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 58000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "天后老婆狂卷工作，我躺平被全网直播",
+        "book_id": 1952564,
+        "url": "https://www.qimao.com/shuku/1952564/",
+        "author": "九州大翘嘴",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E5%B7%9E%E5%A4%A7%E7%BF%98%E5%98%B4_14/",
+        "major": "都市",
+        "minor": "明星娱乐",
+        "major_id": 203,
+        "minor_id": 46,
+        "minor_url": "https://www.qimao.com/shuku/a-203-46-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "207.15万字",
+        "word_count": 2071500,
+        "heat": 58000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "抠门贪财的沈旗最大的梦想就是跟着天后女总裁吃软饭，却被天后李欢歌发现沈旗并不简单。\n于是天后领养了一个男孩，并且偷偷报名了一档直播带娃的节目。\n平时五音不全的沈旗，变成了堪比国家队的演唱能力。\n平时最无感乐器，十八般乐器却手到擒来。\n不仅能弹会唱，竟然还会创作。\n天后不在家，沈旗教育孩子的方式完全超出了所有人的认知。\n当沈旗沾沾自喜之时，岂不知他的全能已经被全网曝光。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/695/2084260_360x480.jpg?time=1747624134",
+        "latest_chapter": " 第930章  大翘嘴想这样说——【终篇感言】",
+        "updated_at": "2025-12-31 00:12:37",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "明星娱乐"
+      }
+    ]
+  }
+}

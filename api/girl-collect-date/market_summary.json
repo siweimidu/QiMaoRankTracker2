@@ -1,0 +1,133 @@
+{
+  "board": {
+    "slug": "girl-collect-date",
+    "name": "女生收藏日榜"
+  },
+  "date": "2026-08-18",
+  "period_days": 1,
+  "overview": {
+    "text": "**全站风向（规则统计）**\n\n- 跨榜：《盖世神医》(同时上榜4榜)、《荒古武神》(同时上榜4榜)、《离婚后她惊艳了世界》(同时上榜4榜)\n- 高产作者：化十(2本)、如鱼(2本)、白木木(2本)\n- 高频题材词：重生(92)、豪门(75)、总裁(74)、总裁豪门(67)、宅斗(51)、玄幻(48)、穿越(48)、东方玄幻(37)",
+    "ai_source": "rule"
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "宫闱宅斗",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "玄幻仙侠",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "古代情缘",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    {
+      "name": "权谋天下",
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    }
+  ],
+  "keywords": [
+    {
+      "word": "豪门",
+      "count": 11
+    },
+    {
+      "word": "总裁",
+      "count": 9
+    },
+    {
+      "word": "总裁豪门",
+      "count": 9
+    },
+    {
+      "word": "宅斗",
+      "count": 6
+    },
+    {
+      "word": "穿越",
+      "count": 4
+    },
+    {
+      "word": "团宠",
+      "count": 3
+    },
+    {
+      "word": "大佬",
+      "count": 3
+    },
+    {
+      "word": "炮灰",
+      "count": 2
+    },
+    {
+      "word": "重生",
+      "count": 2
+    },
+    {
+      "word": "双强",
+      "count": 1
+    },
+    {
+      "word": "和离",
+      "count": 1
+    },
+    {
+      "word": "替嫁",
+      "count": 1
+    },
+    {
+      "word": "玄学",
+      "count": 1
+    },
+    {
+      "word": "甜宠",
+      "count": 1
+    },
+    {
+      "word": "真假千金",
+      "count": 1
+    },
+    {
+      "word": "萌宝",
+      "count": 1
+    },
+    {
+      "word": "追妻",
+      "count": 1
+    },
+    {
+      "word": "追妻火葬场",
+      "count": 1
+    }
+  ],
+  "genre_groups": [
+    {
+      "name": "现代言情",
+      "count": 9,
+      "total_heat": 0,
+      "change": 9
+    },
+    {
+      "name": "古代言情",
+      "count": 8,
+      "total_heat": 0,
+      "change": 8
+    },
+    {
+      "name": "幻想言情",
+      "count": 3,
+      "total_heat": 0,
+      "change": 3
+    }
+  ]
+}

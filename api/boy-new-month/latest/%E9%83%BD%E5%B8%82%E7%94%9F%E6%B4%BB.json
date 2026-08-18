@@ -1,0 +1,60 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "category": {
+    "name": "都市生活",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 1133000,
+    "trend": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "首日收录，暂无趋势对比",
+      "ai_source": "first-day"
+    },
+    "books": [
+      {
+        "rank": 5,
+        "title": "都市第一狠人",
+        "book_id": 12180918,
+        "url": "https://www.qimao.com/shuku/12180918/",
+        "author": "云城太守",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E5%9F%8E%E5%A4%AA%E5%AE%88_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "45.92万字",
+        "word_count": 459200,
+        "heat": 1133000,
+        "platform_trend": "rise",
+        "badge": "飙升27名",
+        "intro": "出狱后，四叔接我进城，说跟着他三年就能买房买车。\r\n可转眼，他被人陷害破产，欠债八千万。临死前他拉着我的手央求：“小勇，以后你四婶，就拜托你照顾了……”\r\n四叔的话还没说完，就咽了气，但我明白他话里的意思。\r\n为了还债、报仇，我赤手空拳闯出一片天。\r\n村霸、仇人、还有那些藏在幕后的黑手，我一个都不会放过。\r\n这一路，我遇到了很多女人。有富家千金、医生、总裁、明星……\r\n我从最底层往上爬，吃土咽血，一步一步登上巅峰。\r\n我叫陆小勇，后来，他们都叫我——深城之王！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
+        "latest_chapter": " 第197章  逼上绝路",
+        "updated_at": "2026-08-16 23:18:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市生活"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "book_id": 216404,
+  "title": "荒古武神",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
+  "author": "化十",
+  "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
+  "minor": "东方玄幻",
+  "status": "已完结",
+  "word_count_text": "864.16万字",
+  "latest": [
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 1,
+      "heat": 427000
+    },
+    {
+      "board": "boy-over-month",
+      "board_name": "男生完结月榜",
+      "rank": 1,
+      "heat": 15210000
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 7,
+      "heat": 427000
+    },
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 7,
+      "heat": 15210000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-date",
+      "r": 7,
+      "h": 427000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-month",
+      "r": 7,
+      "h": 15210000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-date",
+      "r": 1,
+      "h": 427000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-over-month",
+      "r": 1,
+      "h": 15210000
+    }
+  ]
+}

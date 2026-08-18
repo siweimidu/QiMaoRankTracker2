@@ -1,0 +1,38 @@
+{
+  "book_id": 1995023,
+  "title": "边关兵王",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
+  "author": "青岳",
+  "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
+  "minor": "架空历史",
+  "status": "连载中",
+  "word_count_text": "262.38万字",
+  "latest": [
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 9,
+      "heat": 384000
+    },
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 9,
+      "heat": 13186000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-date",
+      "r": 9,
+      "h": 384000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-month",
+      "r": 9,
+      "h": 13186000
+    }
+  ]
+}

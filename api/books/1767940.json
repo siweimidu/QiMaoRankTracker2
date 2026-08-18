@@ -1,0 +1,38 @@
+{
+  "book_id": 1767940,
+  "title": "混沌塔",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/483/1446010_360x480.jpg?time=1720575032",
+  "author": "惊蛰落月",
+  "intro": "女大三，抱金砖。女大三千，位列仙班。女大三十万，神界说了算。女大三千万，万界任你转。可我家娘子，大了9999万岁……",
+  "minor": "东方玄幻",
+  "status": "连载中",
+  "word_count_text": "415.11万字",
+  "latest": [
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 15,
+      "heat": 9108000
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 19,
+      "heat": 258000
+    }
+  ],
+  "history": [
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-date",
+      "r": 19,
+      "h": 258000
+    },
+    {
+      "d": "2026-08-18",
+      "b": "boy-hot-month",
+      "r": 15,
+      "h": 9108000
+    }
+  ]
+}

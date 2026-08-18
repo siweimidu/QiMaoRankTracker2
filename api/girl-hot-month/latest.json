@@ -1,0 +1,30 @@
+{
+  "board": {
+    "slug": "girl-hot-month",
+    "name": "女生大热月榜",
+    "channel": "female",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-08-18",
+  "types": [
+    {
+      "name": "全部",
+      "url": "api/girl-hot-month/latest/all.json"
+    },
+    {
+      "name": "总裁豪门",
+      "url": "api/girl-hot-month/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
+    },
+    {
+      "name": "宫闱宅斗",
+      "url": "api/girl-hot-month/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
+    },
+    {
+      "name": "异世幻想",
+      "url": "api/girl-hot-month/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
+    }
+  ]
+}
