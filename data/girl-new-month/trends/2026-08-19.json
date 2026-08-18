@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-19",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1671850,
+    "total_heat": 33437000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：强取豪夺与追妻火葬场仍是核心叙事逻辑，高位者（总裁/权贵）与底层/平民女性的身份落差制造了强烈的冲突感。\n**读者偏好**：读者热衷于“上位者失控”的情绪张力，偏好带有禁忌感、契约婚姻及带有强控制欲属性的男性角色。\n**变动解读**：本期榜单呈现极高的稳定性，头部作品统治力强，短期内缺乏新秀突围，显示出该赛道用户对既定套路的高度忠诚。\n**值得关注**：如《薄总，婚后请节制！》等头部作品通过“婚后撩拨”与“强制控制”的互动模式，持续稳固流量基本盘。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：军婚题材与重生炮灰逆袭构成双引擎，空间金手指与真假千金元素是标配，强化了“带崽”与“治愈”的温馨向叙事。\n**读者偏好**：读者青睐“冷面军官被野性女主驯服”的反差感，以及通过个人奋斗弥补前世遗憾、打脸极品亲戚的爽感。\n**变动解读**：榜单整体处于横盘整理期，未出现剧烈洗牌，反映出该类目读者对同质化爽点结构的认可度与惯性阅读倾向。\n**值得关注**：具备“强性格反差”（如保姆与军官）的作品在互动性与情感张力上表现更佳，是该品类后续突破的关键点。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：传统宅斗逐渐弱化，转而向“强人设情感互动”靠拢，如“心机通房”、“疯批首辅”等标签强调了角色间的博弈与拉扯。\n**读者偏好**：读者热衷于“身份低微但手段高明”的女主设定，偏好将宅斗背景作为情感催化剂，而非单纯的阴谋算计。\n**变动解读**：榜单结构极其稳固，无新书上榜，说明当前市场对“强取豪夺+身份错位”类古言的需求已趋于饱和，竞争进入存量博弈阶段。\n**值得关注**：带有“读心术”、“双向掉马”等轻快叙事元素的古言，在保持宅斗爽感的同时降低了阅读门槛，更易留存用户。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代悬疑」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

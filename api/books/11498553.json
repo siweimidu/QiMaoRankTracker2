@@ -23,8 +23,8 @@
     {
       "board": "girl-update-date",
       "board_name": "女生更新日榜",
-      "rank": 17,
-      "heat": 1
+      "rank": 16,
+      "heat": 0
     }
   ],
   "history": [
@@ -45,6 +45,24 @@
       "b": "girl-update-date",
       "r": 17,
       "h": 1
+    },
+    {
+      "d": "2026-08-19",
+      "b": "girl-new-date",
+      "r": 2,
+      "h": 167000
+    },
+    {
+      "d": "2026-08-19",
+      "b": "girl-new-month",
+      "r": 1,
+      "h": 6560000
+    },
+    {
+      "d": "2026-08-19",
+      "b": "girl-update-date",
+      "r": 16,
+      "h": 0
     }
   ]
 }

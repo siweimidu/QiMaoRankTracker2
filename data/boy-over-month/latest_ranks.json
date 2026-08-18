@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
-  "prev_date": null,
+  "date": "2026-08-19",
+  "prev_date": "2026-08-18",
   "books": [
     {
       "rank": 1,
@@ -506,6 +506,35 @@
     },
     {
       "rank": 18,
+      "title": "被关女子监狱三年，我修炼成仙了",
+      "book_id": 1697715,
+      "url": "https://www.qimao.com/shuku/1697715/",
+      "author": "一只狸猫",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
+      "major": "都市",
+      "minor": "都市高手",
+      "major_id": 203,
+      "minor_id": 220,
+      "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+      "status": "已完结",
+      "word_count_text": "760.62万字",
+      "word_count": 7606200,
+      "heat": 2226000,
+      "platform_trend": "drop",
+      "badge": "最新上榜",
+      "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
+      "latest_chapter": " 第1891章  番外",
+      "updated_at": "2026-08-17 18:03:16",
+      "rank_change": 0,
+      "heat_change": 0,
+      "is_new": true,
+      "boards_count": 2,
+      "stale_update": false,
+      "category": "都市高手"
+    },
+    {
+      "rank": 19,
       "title": "一觉醒来后，死对头校花竟然叫我老公",
       "book_id": 9955095,
       "url": "https://www.qimao.com/shuku/9955095/",
@@ -526,7 +555,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
       "latest_chapter": " 第489章  大结局",
       "updated_at": "2026-07-29 09:55:05",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -534,7 +563,7 @@
       "category": "都市生活"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "重生1981：从深山打猎开始崛起",
       "book_id": 1961147,
       "url": "https://www.qimao.com/shuku/1961147/",
@@ -555,179 +584,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
       "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
       "updated_at": "2026-05-31 22:43:07",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "都市高手"
-    },
-    {
-      "rank": 20,
-      "title": "重生八零：用半袋白米换了个资本家老婆",
-      "book_id": 10503027,
-      "url": "https://www.qimao.com/shuku/10503027/",
-      "author": "狼性佛心",
-      "author_url": "https://www.qimao.com/zuozhe/%E7%8B%BC%E6%80%A7%E4%BD%9B%E5%BF%83_14/",
-      "major": "都市",
-      "minor": "都市生活",
-      "major_id": 203,
-      "minor_id": 223,
-      "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "99.94万字",
-      "word_count": 999400,
-      "heat": 2010000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "上辈子，张正为自保，逼身为资本家小姐的妻子阮文秀与父亲断绝关系，对她百般折辱，最终报应临头，惨死街头。\n再睁眼，他回到了那个饥荒年代，回到阮文秀为了一口粮食，在苞米地里抓住他裤腿的那一刻。\n看着她面黄肌瘦却依旧动人的脸，张正心都碎了。\n这一次，他毫不犹豫地奉上半袋珍贵的白米，在她惊愕的目光中郑重承诺：“嫁给我，我养你，也养咱爸。”\n面对全村的反对和打压，他护她在身后。\n知识、远见、和对时代脉搏的精准把握，成了他最锋利的武器。\n从一穷二白到富甲一方，从遭人白眼的“黑五类家属”到人人巴结的商业新贵！\n张正的目标始终只有一个：把上辈子亏欠她的，千百倍地补偿回来！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3502/10503027_360x480.jpg?time=1774199170",
-      "latest_chapter": " 第495章  大结局",
-      "updated_at": "2026-07-30 21:46:05",
-      "rank_change": 0,
-      "heat_change": 0,
-      "is_new": false,
-      "boards_count": 1,
-      "stale_update": true,
-      "category": "都市生活"
     }
   ],
   "categories": [
-    {
-      "name": "都市生活",
-      "major": "都市",
-      "count": 4,
-      "total_heat": 9863000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      },
-      "books": [
-        {
-          "rank": 12,
-          "title": "前脚离婚，后脚我成了顶级神豪",
-          "book_id": 1994990,
-          "url": "https://www.qimao.com/shuku/1994990/",
-          "author": "当仁不让",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9_14/",
-          "major": "都市",
-          "minor": "都市生活",
-          "major_id": 203,
-          "minor_id": 223,
-          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "114.54万字",
-          "word_count": 1145400,
-          "heat": 3210000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏……\n次日……\n“尊敬的客户您好，您尾号9896的银行卡入账1000000.00元！”\n当神豪游戏变成现实，杜泽感叹：结婚？结个屁的婚！开最好的车，泡最靓的妞，这样的人生不香吗？",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
-          "latest_chapter": " 第541章  大结局",
-          "updated_at": "2025-11-19 11:51:10",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市生活"
-        },
-        {
-          "rank": 16,
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "url": "https://www.qimao.com/shuku/1850580/",
-          "author": "夜泊秦淮",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
-          "major": "都市",
-          "minor": "都市生活",
-          "major_id": 203,
-          "minor_id": 223,
-          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "340.6万字",
-          "word_count": 3406000,
-          "heat": 2471000,
-          "platform_trend": "rise",
-          "badge": "",
-          "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
-          "latest_chapter": " 第1631章  大结局",
-          "updated_at": "2026-01-01 00:43:17",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市生活"
-        },
-        {
-          "rank": 18,
-          "title": "一觉醒来后，死对头校花竟然叫我老公",
-          "book_id": 9955095,
-          "url": "https://www.qimao.com/shuku/9955095/",
-          "author": "金猫作者鸭",
-          "author_url": "https://www.qimao.com/zuozhe/%E9%87%91%E7%8C%AB%E4%BD%9C%E8%80%85%E9%B8%AD_14/",
-          "major": "都市",
-          "minor": "都市生活",
-          "major_id": 203,
-          "minor_id": 223,
-          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "106.33万字",
-          "word_count": 1063300,
-          "heat": 2172000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。” \n叶玄懵逼！老婆？孩子？他才大三啊！\n前一秒，叶玄刚和白月光表白。\n下一秒，他就到了校花的床上。\n问题是，校花还是他的死对头！\n他居然横跨时空，魂穿八年后！\n昔日温柔白月光，竟然变身绿茶捞女？\n八年后的他，婚内出轨，虐待女儿，与家人和兄弟反目。\n这对吗？",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
-          "latest_chapter": " 第489章  大结局",
-          "updated_at": "2026-07-29 09:55:05",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "都市生活"
-        },
-        {
-          "rank": 20,
-          "title": "重生八零：用半袋白米换了个资本家老婆",
-          "book_id": 10503027,
-          "url": "https://www.qimao.com/shuku/10503027/",
-          "author": "狼性佛心",
-          "author_url": "https://www.qimao.com/zuozhe/%E7%8B%BC%E6%80%A7%E4%BD%9B%E5%BF%83_14/",
-          "major": "都市",
-          "minor": "都市生活",
-          "major_id": 203,
-          "minor_id": 223,
-          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "99.94万字",
-          "word_count": 999400,
-          "heat": 2010000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "上辈子，张正为自保，逼身为资本家小姐的妻子阮文秀与父亲断绝关系，对她百般折辱，最终报应临头，惨死街头。\n再睁眼，他回到了那个饥荒年代，回到阮文秀为了一口粮食，在苞米地里抓住他裤腿的那一刻。\n看着她面黄肌瘦却依旧动人的脸，张正心都碎了。\n这一次，他毫不犹豫地奉上半袋珍贵的白米，在她惊愕的目光中郑重承诺：“嫁给我，我养你，也养咱爸。”\n面对全村的反对和打压，他护她在身后。\n知识、远见、和对时代脉搏的精准把握，成了他最锋利的武器。\n从一穷二白到富甲一方，从遭人白眼的“黑五类家属”到人人巴结的商业新贵！\n张正的目标始终只有一个：把上辈子亏欠她的，千百倍地补偿回来！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3502/10503027_360x480.jpg?time=1774199170",
-          "latest_chapter": " 第495章  大结局",
-          "updated_at": "2026-07-30 21:46:05",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "都市生活"
-        }
-      ]
-    },
     {
       "name": "东方玄幻",
       "major": "玄幻奇幻",
@@ -741,8 +606,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：传统废柴流与“娘胎流”稳居核心，强调开局金手指与极致的战力碾压感。\n**读者偏好**：读者热衷于修仙背景下的“降维打击”体验，偏向简单直接的爽感叙事。\n**变动解读**：本月榜单格局极其固化，前三名排名均未变动，显示出头部作品在长尾阶段的市场统治力极强。\n**值得关注**：题材创新点集中在“反套路”人设上，如杂役身份与掌门情感线的结合，具有较强的长线留存潜力。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -847,8 +712,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：以都市赘婿、神医下山、战神归来为核心驱动，高度依赖强人设与爽文套路。\n**读者偏好**：读者群体对“身份反转”和“武力值碾压”有刚性需求，倾向于阅读高节奏的复仇或逆袭剧情。\n**变动解读**：榜单呈现高度静止状态，说明该类目存量市场的用户粘性高，缺乏新鲜血液冲击现有排名。\n**值得关注**：多部上榜作品均已联动短剧或新书推广，优质IP的跨媒介联动已成为该类目维持热度的关键手段。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -953,8 +818,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：种田争霸流与“老六”权谋文占据主导，强调穿越后的资源开发与格局构建。\n**读者偏好**：读者更青睐“扮猪吃虎”式的发展路线，偏好主角通过现代思维在封建王朝实现降维打击。\n**变动解读**：榜单稳定性极高，头部作品竞争格局趋于平稳，短期内无新入局者挑战现有头部梯队。\n**值得关注**：头部作品普遍具备多平台版权开发（有声剧、短剧）背景，IP的泛娱乐化延伸已是该类目作品突围的核心门槛。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1047,6 +912,241 @@
       ]
     },
     {
+      "name": "都市高手",
+      "major": "都市",
+      "count": 3,
+      "total_heat": 8074000,
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生1981：从深山打猎开始崛起",
+            "book_id": 1961147,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：都市高手类目前呈现“异能鉴宝+特殊背景+重生年代”三足鼎立态势，核心爽点高度聚焦于身份反差与极速暴富。\n**读者偏好**：读者对带有强烈戏剧冲突的“软饭硬吃”及“出狱/重生逆袭”题材表现出持续的高热度偏好，偏爱强势无虐的爽文节奏。\n**变动解读**：新书《被关女子监狱三年，我修炼成仙了》成功上榜，证明了“特殊场景+女强退婚”的强冲突设定在都市分类中具备极强的吸睛属性。\n**值得关注**：建议关注“都市+异能/修仙”复合元素的潜力，此类题材在七猫用户群体中仍有较大裂变空间。",
+        "ai_source": "ai"
+      },
+      "books": [
+        {
+          "rank": 10,
+          "title": "财戒",
+          "book_id": 1989239,
+          "url": "https://www.qimao.com/shuku/1989239/",
+          "author": "嚣张农民",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
+          "major": "都市",
+          "minor": "都市高手",
+          "major_id": 203,
+          "minor_id": 220,
+          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "427.43万字",
+          "word_count": 4274300,
+          "heat": 3786000,
+          "platform_trend": "rise",
+          "badge": "",
+          "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
+          "latest_chapter": " 第2058章  超脱之境（大结局）",
+          "updated_at": "2026-06-28 23:17:17",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市高手"
+        },
+        {
+          "rank": 18,
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "url": "https://www.qimao.com/shuku/1697715/",
+          "author": "一只狸猫",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
+          "major": "都市",
+          "minor": "都市高手",
+          "major_id": 203,
+          "minor_id": 220,
+          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "760.62万字",
+          "word_count": 7606200,
+          "heat": 2226000,
+          "platform_trend": "drop",
+          "badge": "最新上榜",
+          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
+          "latest_chapter": " 第1891章  番外",
+          "updated_at": "2026-08-17 18:03:16",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": true,
+          "boards_count": 2,
+          "stale_update": false,
+          "category": "都市高手"
+        },
+        {
+          "rank": 20,
+          "title": "重生1981：从深山打猎开始崛起",
+          "book_id": 1961147,
+          "url": "https://www.qimao.com/shuku/1961147/",
+          "author": "意通明",
+          "author_url": "https://www.qimao.com/zuozhe/%E6%84%8F%E9%80%9A%E6%98%8E_14/",
+          "major": "都市",
+          "minor": "都市高手",
+          "major_id": 203,
+          "minor_id": 220,
+          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "213.75万字",
+          "word_count": 2137500,
+          "heat": 2062000,
+          "platform_trend": "rise",
+          "badge": "",
+          "intro": "刺骨寒风卷着雪沫子灌进茅草屋，陈大山看着怀里瘦成芦柴棒的赵慧兰，心脏像被冰锥扎穿！\n这是1981年，他那被后爹和亲妈磋磨多年，最终凄凉惨死的老婆，还活着！\n“媳妇，等着。”\n他抄起简陋的工具进山，转头就拎回两只野鸡，“从今往后，你碗里的肉得堆成山！”\n后爹又来耍横，他一脚就把老东西踹翻在地，“谁敢欺负我媳妇，我就跟谁拼命！”\n看到赵慧兰捧着油滋滋的野鸡肉，眼泪混着肉香往下掉，陈大山暗暗暗发誓：这一世，谁都别想伤她分毫！\n村里人眼红？欺负他们爹不疼妈不爱，没兄弟帮衬？\n那你们就看看我的拳头够不够硬，看看我这枪里的子弹认不认人！\n陈大山在山里把野猪一窝一窝的打，把山货土产成千上万斤地往外卖，万元户的招牌还没焐热，就成了村里第一个买拖拉机的主！\n赵慧兰拽着他的袖子小声劝，“大山，太高调了……”\n陈大山握紧她柔软的手，望着无尽的大山笑：“高调？这才叫活着！”\n从贫瘠山村到繁华都市，从山野猎户到时代大亨！\n陈大山踩着改革开放的浪潮，要把前世亏欠的愧疚和遗憾，一一补给身边这个笑起来眼里有光的姑娘，要在这波澜壮阔的年代，活出比前世耀眼百倍的人生！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
+          "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
+          "updated_at": "2026-05-31 22:43:07",
+          "rank_change": -1,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 1,
+          "stale_update": true,
+          "category": "都市高手"
+        }
+      ]
+    },
+    {
+      "name": "都市生活",
+      "major": "都市",
+      "count": 3,
+      "total_heat": 7853000,
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重生八零：用半袋白米换了个资本家老婆",
+            "book_id": 10503027,
+            "intro": "上辈子，张正为自保，逼身为资本家小姐的妻子阮文秀与父亲断绝关系，对她百般折辱，最终报应临头，惨死街头。\n再睁眼，他回到了那个饥荒年代，回到阮文秀为了一口粮食，在苞米地里抓住他裤腿的那一刻。\n看着她面黄"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "一觉醒来后，死对头校花竟然叫我老公",
+            "book_id": 9955095,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：该小类以“神豪系统”与“都市情感”为核心驱动，强调中年困境破局与青春甜宠的平衡，剧情逻辑向强情绪导向倾斜。\n**读者偏好**：读者高度青睐“离婚后逆袭”和“奶爸/多女主”设定，对于能够提供即时爽感与情感补偿的都市生活流内容粘性较高。\n**变动解读**：榜单整体趋于稳定，但《重生八零》类旧书掉榜，显示出读者对纯年代文的审美疲劳，更倾向于融合现代神豪爽点的快节奏作品。\n**值得关注**：日常流结合“意外奶爸”或“神豪系统”的轻爽文，依然是目前都市生活赛道最稳健的流量出口。",
+        "ai_source": "ai"
+      },
+      "books": [
+        {
+          "rank": 12,
+          "title": "前脚离婚，后脚我成了顶级神豪",
+          "book_id": 1994990,
+          "url": "https://www.qimao.com/shuku/1994990/",
+          "author": "当仁不让",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9_14/",
+          "major": "都市",
+          "minor": "都市生活",
+          "major_id": 203,
+          "minor_id": 223,
+          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "114.54万字",
+          "word_count": 1145400,
+          "heat": 3210000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏……\n次日……\n“尊敬的客户您好，您尾号9896的银行卡入账1000000.00元！”\n当神豪游戏变成现实，杜泽感叹：结婚？结个屁的婚！开最好的车，泡最靓的妞，这样的人生不香吗？",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
+          "latest_chapter": " 第541章  大结局",
+          "updated_at": "2025-11-19 11:51:10",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市生活"
+        },
+        {
+          "rank": 16,
+          "title": "我非池中物",
+          "book_id": 1850580,
+          "url": "https://www.qimao.com/shuku/1850580/",
+          "author": "夜泊秦淮",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
+          "major": "都市",
+          "minor": "都市生活",
+          "major_id": 203,
+          "minor_id": 223,
+          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "340.6万字",
+          "word_count": 3406000,
+          "heat": 2471000,
+          "platform_trend": "rise",
+          "badge": "",
+          "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
+          "latest_chapter": " 第1631章  大结局",
+          "updated_at": "2026-01-01 00:43:17",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市生活"
+        },
+        {
+          "rank": 19,
+          "title": "一觉醒来后，死对头校花竟然叫我老公",
+          "book_id": 9955095,
+          "url": "https://www.qimao.com/shuku/9955095/",
+          "author": "金猫作者鸭",
+          "author_url": "https://www.qimao.com/zuozhe/%E9%87%91%E7%8C%AB%E4%BD%9C%E8%80%85%E9%B8%AD_14/",
+          "major": "都市",
+          "minor": "都市生活",
+          "major_id": 203,
+          "minor_id": 223,
+          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "106.33万字",
+          "word_count": 1063300,
+          "heat": 2172000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。” \n叶玄懵逼！老婆？孩子？他才大三啊！\n前一秒，叶玄刚和白月光表白。\n下一秒，他就到了校花的床上。\n问题是，校花还是他的死对头！\n他居然横跨时空，魂穿八年后！\n昔日温柔白月光，竟然变身绿茶捞女？\n八年后的他，婚内出轨，虐待女儿，与家人和兄弟反目。\n这对吗？",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
+          "latest_chapter": " 第489章  大结局",
+          "updated_at": "2026-07-29 09:55:05",
+          "rank_change": -1,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 1,
+          "stale_update": true,
+          "category": "都市生活"
+        }
+      ]
+    },
+    {
       "name": "热血校园",
       "major": "都市",
       "count": 2,
@@ -1059,8 +1159,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：校园题材目前完全向“重生+恋爱养成”倾斜，叙事重心从早期的打架斗殴转向“弥补前世遗憾”的治愈系狗粮文。\n**读者偏好**：用户偏好具备强烈代入感的青春怀旧风，尤其青睐“重生+青梅校花+商业帝国”的配置，追求从青涩校园到事业有成的双重成就感。\n**变动解读**：榜单结构极其稳固，头部作品通过高甜、治愈的互动模式锁定了核心用户，短期内题材竞争壁垒较高。\n**值得关注**：此类作品的生命周期较长，重点在于情感羁绊的深度构建，建议持续关注“双向救赎”类校园文的增长趋势。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1124,83 +1224,6 @@
       ]
     },
     {
-      "name": "都市高手",
-      "major": "都市",
-      "count": 2,
-      "total_heat": 5848000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
-      },
-      "books": [
-        {
-          "rank": 10,
-          "title": "财戒",
-          "book_id": 1989239,
-          "url": "https://www.qimao.com/shuku/1989239/",
-          "author": "嚣张农民",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
-          "major": "都市",
-          "minor": "都市高手",
-          "major_id": 203,
-          "minor_id": 220,
-          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "427.43万字",
-          "word_count": 4274300,
-          "heat": 3786000,
-          "platform_trend": "rise",
-          "badge": "",
-          "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
-          "latest_chapter": " 第2058章  超脱之境（大结局）",
-          "updated_at": "2026-06-28 23:17:17",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市高手"
-        },
-        {
-          "rank": 19,
-          "title": "重生1981：从深山打猎开始崛起",
-          "book_id": 1961147,
-          "url": "https://www.qimao.com/shuku/1961147/",
-          "author": "意通明",
-          "author_url": "https://www.qimao.com/zuozhe/%E6%84%8F%E9%80%9A%E6%98%8E_14/",
-          "major": "都市",
-          "minor": "都市高手",
-          "major_id": 203,
-          "minor_id": 220,
-          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "213.75万字",
-          "word_count": 2137500,
-          "heat": 2062000,
-          "platform_trend": "rise",
-          "badge": "",
-          "intro": "刺骨寒风卷着雪沫子灌进茅草屋，陈大山看着怀里瘦成芦柴棒的赵慧兰，心脏像被冰锥扎穿！\n这是1981年，他那被后爹和亲妈磋磨多年，最终凄凉惨死的老婆，还活着！\n“媳妇，等着。”\n他抄起简陋的工具进山，转头就拎回两只野鸡，“从今往后，你碗里的肉得堆成山！”\n后爹又来耍横，他一脚就把老东西踹翻在地，“谁敢欺负我媳妇，我就跟谁拼命！”\n看到赵慧兰捧着油滋滋的野鸡肉，眼泪混着肉香往下掉，陈大山暗暗暗发誓：这一世，谁都别想伤她分毫！\n村里人眼红？欺负他们爹不疼妈不爱，没兄弟帮衬？\n那你们就看看我的拳头够不够硬，看看我这枪里的子弹认不认人！\n陈大山在山里把野猪一窝一窝的打，把山货土产成千上万斤地往外卖，万元户的招牌还没焐热，就成了村里第一个买拖拉机的主！\n赵慧兰拽着他的袖子小声劝，“大山，太高调了……”\n陈大山握紧她柔软的手，望着无尽的大山笑：“高调？这才叫活着！”\n从贫瘠山村到繁华都市，从山野猎户到时代大亨！\n陈大山踩着改革开放的浪潮，要把前世亏欠的愧疚和遗憾，一一补给身边这个笑起来眼里有光的姑娘，要在这波澜壮阔的年代，活出比前世耀眼百倍的人生！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
-          "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
-          "updated_at": "2026-05-31 22:43:07",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "都市高手"
-        }
-      ]
-    },
-    {
       "name": "虚拟网游",
       "major": "游戏",
       "count": 1,
@@ -1213,8 +1236,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：爽文套路化趋势明显，以“开局即巅峰”的数值膨胀与装备进化成长为核心卖点。\n**读者偏好**：读者热衷于简单直接的无敌流成长反馈，对“唯一性天赋”及“装备/技能进化”设定表现出极高粘性。\n**变动解读**：本月该类目榜单表现稳定，头部效应显著，存量作品统治力强，短期内缺乏新晋黑马冲击。\n**值得关注**：建议重点观察该类目后续是否会出现结合经营或策略元素的创新型网游文，以打破单一的数值升级疲劳。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1261,8 +1284,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：民俗恐怖与职业奇闻类题材表现稳健，强调强烈的代入感与神秘的行业色彩。\n**读者偏好**：读者倾向于碎片化的诡异故事叙事，对带有传统民俗禁忌及特殊职业（如接阴婆）的悬疑元素有固定偏好。\n**变动解读**：榜单呈现高度固化状态，经典长篇作品凭借稳定的口碑与内容体量持续占据头部，变动极小。\n**值得关注**：该题材具备极强的影视化改编潜力，IP的深度挖掘（如衍生短剧或漫改）是提升热度的关键。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1309,8 +1332,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "**题材趋势**：末世求生类题材核心逻辑已从单纯的生存转向“重生+杀伐果断”的个人英雄主义叙事。\n**读者偏好**：读者对于末日背景下的道德抉择与极度爽感有较高需求，倾向于主角在灾变中通过绝对武力实现阶级跃迁。\n**变动解读**：该类目本月榜单处于静默期，头部作品热度维持平稳，未见明显的新入局者挑战现有格局。\n**值得关注**：跨平台联动（如漫画化）已成为该题材作品延长生命周期、获取二次流量的重要运营手段。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1347,11 +1370,11 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 0,
-    "dropped_count": 0,
-    "avg_heat": 4155300,
-    "total_heat": 83106000,
-    "first_day": true
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 4166100,
+    "total_heat": 83322000,
+    "first_day": false
   },
   "keywords": [
     {
@@ -1396,7 +1419,11 @@
     },
     {
       "word": "年代",
-      "count": 2
+      "count": 1
+    },
+    {
+      "word": "战神",
+      "count": 1
     },
     {
       "word": "末世",

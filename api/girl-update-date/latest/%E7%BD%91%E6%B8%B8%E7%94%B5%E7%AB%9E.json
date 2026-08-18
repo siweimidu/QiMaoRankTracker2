@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "网游电竞",
     "major": "游戏竞技",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "top_fallers": [
+        {
+          "title": "全民求生，我的岛屿是世界最后净土",
+          "book_id": 11679189,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "全民求生，我的岛屿是世界最后净土",
+          "book_id": 11679189,
+          "heat_change": -2
+        }
+      ],
+      "summary": "**题材趋势**：网游类目进入存量竞争阶段，末世求生与基建种田元素依然是该题材的核心支撑点。\n**读者偏好**：读者对“大女主+无CP+空间基建”的设定有固定偏好，追求极致的求生爽感与资源收集的成就感。\n**变动解读**：排名出现明显下滑，显示该类目在当前榜单中竞争力减弱，急需新的爆款题材注入活力。\n**值得关注**：该题材在当前节点热度较低，创作者应考虑是否融入更多社交互动或情感线，以提升读者的阅读粘性。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 17,
         "title": "全民求生，我的岛屿是世界最后净土",
         "book_id": 11679189,
         "url": "https://www.qimao.com/shuku/11679189/",
@@ -39,17 +51,17 @@
         "minor_id": 25,
         "minor_url": "https://www.qimao.com/shuku/a-200-25-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "56.82万字",
-        "word_count": 568200,
-        "heat": 3,
+        "word_count_text": "57.23万字",
+        "word_count": 572300,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大女主+无CP+空间+基建+种田+有萌宠+天灾】\n一觉醒来，即将通关荒岛求生游戏的金小满被游戏意识告知，需要回到游戏降临的初始时间点，还是没有记忆的那种。\n不过好消息是，她可以将自己抽到的SSS级道具‘净化空间’一并带回去。\n求生的荒岛充满辐射，将动植物划分为一级到五级辐射程度，而玩家们可以食用的最多到二级辐射。\n在别的玩家辛劳一天尚不能果腹的时候，金小满已经通过净化空间将荒岛都转变为无辐射的存在，满地都是其他玩家求而不得的食物。\n雨季来临时，她就在安全屋中吃烤肉听雨，旱季来临时她带着雪糕冰西瓜追剧，寒季来临时她吃着火锅喝着奶茶看雪………\n其他玩家：羡慕的眼泪从嘴巴里流了出来！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3894/11679189_360x480.jpg?time=1776072344",
-        "latest_chapter": " 第270章  一往无前的小心思",
-        "updated_at": "2026-08-18 00:35:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第272章  出发探索暴风雪",
+        "updated_at": "2026-08-19 00:02:30",
+        "rank_change": -2,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

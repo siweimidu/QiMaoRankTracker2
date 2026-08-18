@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "凡人仙骨",
+          "book_id": 11995896,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：古典仙侠正向“概念创新”转型，通过设定差异化（如“仙骨替换”的物理量化修仙）来打破传统修仙的审美疲劳。\n**读者偏好**：读者对结合现代职业背景（医学生）与诡谲世界观的跨界设定表现出较高兴趣，倾向于逻辑严密的硬核成长流。\n**变动解读**：在缺乏新书供给的情况下，榜单呈现被动上浮趋势，反映出读者对高质量、设定新颖的古典仙侠作品存在缺口。\n**值得关注**：该类作品能否通过后续的“诡异世界观”铺陈实现口碑裂变，是该书能否冲击更高排名的核心变量。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "凡人仙骨",
         "book_id": 11995896,
         "url": "https://www.qimao.com/shuku/11995896/",
@@ -39,16 +45,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.33万字",
-        "word_count": 433300,
+        "word_count_text": "43.74万字",
+        "word_count": 437400,
         "heat": 359000,
         "platform_trend": "rise",
-        "badge": "飙升28名",
+        "badge": "飙升29名",
         "intro": "这世上，有人背天而行，每走一步便碎一块凡骨，换一块仙骨。\n百步人仙，千步地仙，万步天仙。\n文王八百步，撑起王朝八千年国祚。\n我叫林罪，一个意外来到这个怪诞世界的 985 医学生。\n所有人都说，我一块骨头，迈入 仙门一步就是极限。\n但他们不知道，我有一个坐忘石。\n凡被我审判的恶人，在我的天路上，都替我走一步。\n我走了百步，人间帝王向我称臣。\n走了千步，地府阴司为我开道。\n至于万步……\n我还没走到，诸天便已黄昏。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3999/11995896_360x480.jpg?time=1779023018",
-        "latest_chapter": " 第205章  【叩天内榜】第200名",
-        "updated_at": "2026-08-17 23:50:04",
-        "rank_change": 0,
+        "latest_chapter": " 第207章  诗涵，我会以第一之名，许你三生三世",
+        "updated_at": "2026-08-19 00:19:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

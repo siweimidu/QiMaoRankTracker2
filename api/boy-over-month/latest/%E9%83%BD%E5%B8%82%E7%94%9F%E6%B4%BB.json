@@ -8,22 +8,34 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 4,
-    "total_heat": 9863000,
+    "count": 3,
+    "total_heat": 7853000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "重生八零：用半袋白米换了个资本家老婆",
+          "book_id": 10503027,
+          "intro": "上辈子，张正为自保，逼身为资本家小姐的妻子阮文秀与父亲断绝关系，对她百般折辱，最终报应临头，惨死街头。\n再睁眼，他回到了那个饥荒年代，回到阮文秀为了一口粮食，在苞米地里抓住他裤腿的那一刻。\n看着她面黄"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "一觉醒来后，死对头校花竟然叫我老公",
+          "book_id": 9955095,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：该小类以“神豪系统”与“都市情感”为核心驱动，强调中年困境破局与青春甜宠的平衡，剧情逻辑向强情绪导向倾斜。\n**读者偏好**：读者高度青睐“离婚后逆袭”和“奶爸/多女主”设定，对于能够提供即时爽感与情感补偿的都市生活流内容粘性较高。\n**变动解读**：榜单整体趋于稳定，但《重生八零》类旧书掉榜，显示出读者对纯年代文的审美疲劳，更倾向于融合现代神豪爽点的快节奏作品。\n**值得关注**：日常流结合“意外奶爸”或“神豪系统”的轻爽文，依然是目前都市生活赛道最稳健的流量出口。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -85,7 +97,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "一觉醒来后，死对头校花竟然叫我老公",
         "book_id": 9955095,
         "url": "https://www.qimao.com/shuku/9955095/",
@@ -106,36 +118,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
         "latest_chapter": " 第489章  大结局",
         "updated_at": "2026-07-29 09:55:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "都市生活"
-      },
-      {
-        "rank": 20,
-        "title": "重生八零：用半袋白米换了个资本家老婆",
-        "book_id": 10503027,
-        "url": "https://www.qimao.com/shuku/10503027/",
-        "author": "狼性佛心",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%8B%BC%E6%80%A7%E4%BD%9B%E5%BF%83_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "99.94万字",
-        "word_count": 999400,
-        "heat": 2010000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "上辈子，张正为自保，逼身为资本家小姐的妻子阮文秀与父亲断绝关系，对她百般折辱，最终报应临头，惨死街头。\n再睁眼，他回到了那个饥荒年代，回到阮文秀为了一口粮食，在苞米地里抓住他裤腿的那一刻。\n看着她面黄肌瘦却依旧动人的脸，张正心都碎了。\n这一次，他毫不犹豫地奉上半袋珍贵的白米，在她惊愕的目光中郑重承诺：“嫁给我，我养你，也养咱爸。”\n面对全村的反对和打压，他护她在身后。\n知识、远见、和对时代脉搏的精准把握，成了他最锋利的武器。\n从一穷二白到富甲一方，从遭人白眼的“黑五类家属”到人人巴结的商业新贵！\n张正的目标始终只有一个：把上辈子亏欠她的，千百倍地补偿回来！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3502/10503027_360x480.jpg?time=1774199170",
-        "latest_chapter": " 第495章  大结局",
-        "updated_at": "2026-07-30 21:46:05",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "categories": [
     {
       "name": "都市高武",
@@ -150,11 +150,6 @@
       "name": "网游电竞",
       "major": "游戏竞技",
       "url": "api/categories/latest/%E7%BD%91%E6%B8%B8%E7%94%B5%E7%AB%9E.json"
-    },
-    {
-      "name": "远古大陆",
-      "major": "古代言情",
-      "url": "api/categories/latest/%E8%BF%9C%E5%8F%A4%E5%A4%A7%E9%99%86.json"
     }
   ]
 }

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {

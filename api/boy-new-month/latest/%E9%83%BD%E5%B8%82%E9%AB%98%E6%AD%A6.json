@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,15 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
+          "rank_change": 1
+        },
+        {
+          "title": "觉醒透视眼后，美女总裁坐不住了",
+          "book_id": 12183366,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "「都市高武」《高武严父，永远比儿子高五个境界》上升1位领涨。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -39,16 +50,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.52万字",
-        "word_count": 345200,
+        "word_count_text": "35.17万字",
+        "word_count": 351700,
         "heat": 486000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第163章  首战邪教武者！！！",
-        "updated_at": "2026-08-18 00:07:03",
-        "rank_change": 0,
+        "latest_chapter": " 第166章  熔骨剑！！",
+        "updated_at": "2026-08-19 00:07:06",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -56,7 +67,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "觉醒透视眼后，美女总裁坐不住了",
         "book_id": 12183366,
         "url": "https://www.qimao.com/shuku/12183366/",
@@ -68,16 +79,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.11万字",
-        "word_count": 381100,
+        "word_count_text": "38.54万字",
+        "word_count": 385400,
         "heat": 348000,
         "platform_trend": "rise",
-        "badge": "飙升22名",
+        "badge": "飙升23名",
         "intro": "和美女总裁一夜风流后，叶天意外觉醒透视眼。\n从此辨识天下奇珍异宝，犹如探囊取物。\n赌石，古玩字画，玉石翡翠，叶天只需一眼，可辩真伪！\n不仅如此，叶天还有一手活死人肉白骨的逆天针法，一针可定生死！\n你以为这就完了？\n不不不，叶天还是天下绝无仅有的阴阳圣体，无论修炼什么，都比其他人快一万倍！\n拥有如此逆天资质，叶天以后的人生路，注定要肆意活着！\n打最狠的敌人，喝最烈的酒，泡最靓的妞！\n美女总裁，豪门千金，美艳房东，性感老师……她们源源不断找到叶天，真的只是为了鉴宝？\n叶天的人生路，注定会五彩斑斓，绚烂多彩！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4062/12183366_360x480.jpg?time=1780224949",
-        "latest_chapter": " 第170章  惹不起的人",
-        "updated_at": "2026-08-17 14:51:02",
-        "rank_change": 0,
+        "latest_chapter": " 第172章  实力碾压",
+        "updated_at": "2026-08-18 14:06:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

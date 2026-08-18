@@ -8,22 +8,43 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 4,
-    "total_heat": 3277000,
+    "count": 5,
+    "total_heat": 3581000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "妖孽世子爷",
+          "book_id": 12314181
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "乱世猎户：从分家到定鼎江山",
+          "book_id": 12194178,
+          "rank_change": 1
+        },
+        {
+          "title": "极品小国公",
+          "book_id": 11673846,
+          "rank_change": 1
+        },
+        {
+          "title": "边军第一悍卒",
+          "book_id": 12086658,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：传统权谋与“底层逆袭+红颜助力”模式高度融合，系统化爽感与轻快节奏并重。\n**读者偏好**：读者热衷于“卑微开局+艳遇奇遇”的强反差设定，对“分家”、“赘婿”、“扮猪吃虎”等经典爽点需求旺盛。\n**变动解读**：榜单整体稳定性高，腰部作品通过连载累积热度实现集体上浮，反映出读者对长线叙事的认可。\n**值得关注**：《从骑奴到大乾武圣》以极高的热度断层领跑，验证了“极端开局+高频互动”在男性读者群体中的高转化率。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -56,7 +77,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "乱世猎户：从分家到定鼎江山",
         "book_id": 12194178,
         "url": "https://www.qimao.com/shuku/12194178/",
@@ -72,12 +93,12 @@
         "word_count": 497400,
         "heat": 731000,
         "platform_trend": "rise",
-        "badge": "飙升23名",
+        "badge": "飙升24名",
         "intro": "高洋穿越到大虞王朝，\n成了一个被全家压榨的窝囊猎户。\n当牛做马那么多年，他摔伤昏迷两天却连个郎中都不肯请。\n一怒之下，高洋当众分家。\n他上山打猎，从野鸡、野猪到狗熊、老虎……\n高洋凭借着一身本领，让自家粮肉满仓，逐渐富甲一方。\n王朝内乱、蛮夷入侵，战乱四起。\n他从一介猎户到拥兵自重，还天下一个太平。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4065/12194178_360x480.jpg?time=1784828887",
         "latest_chapter": " 第229章  升官！",
         "updated_at": "2026-08-18 09:10:06",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -85,7 +106,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "极品小国公",
         "book_id": 11673846,
         "url": "https://www.qimao.com/shuku/11673846/",
@@ -97,16 +118,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.02万字",
-        "word_count": 460200,
+        "word_count_text": "46.44万字",
+        "word_count": 464400,
         "heat": 731000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "别人忙着打打杀杀夺天下，我只想吃喝玩乐撩美人。\n上能逗笑公主，下能忽悠大侠，\n明明只想当个混吃等死的小闲人，\n偏偏桃花不断，麻烦缠身，风流债越欠越多。\n罢了罢了，那就一边逍遥，一边风流到底！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11673846_360x480.jpg?time=1779959284",
-        "latest_chapter": " 第223章  死人才会保密",
-        "updated_at": "2026-08-17 22:25:05",
-        "rank_change": 0,
+        "latest_chapter": " 第225章  春天还会远吗",
+        "updated_at": "2026-08-18 23:54:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -114,7 +135,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "边军第一悍卒",
         "book_id": 12086658,
         "url": "https://www.qimao.com/shuku/12086658/",
@@ -126,19 +147,48 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.88万字",
-        "word_count": 348800,
+        "word_count_text": "35.33万字",
+        "word_count": 353300,
         "heat": 321000,
         "platform_trend": "rise",
-        "badge": "飙升36名",
+        "badge": "飙升37名",
         "intro": "权谋+边军+热血+爽文\n现代青年唐舜魂穿战乱年代，成为边疆小兵。七国争霸，民不聊生，他刚睁眼就在尸堆里爬行。  \n杀敌立功升什长，赏了个美人，却要率九人断后送死。  \n从什长起步，步步升官，扮猪吃虎，暗中扩张，势力席卷乡镇县城。  \n手握兵权，心藏大志，一边平定内乱，一边对抗强国。最终扫灭七国，一统天下，登基为帝。  \n美人变皇后，兄弟成重臣，一个现代人的古代逆袭路就此封神。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1780058420",
-        "latest_chapter": " 第156章  雪巅诵彻从军行",
-        "updated_at": "2026-08-17 23:47:05",
-        "rank_change": 0,
+        "latest_chapter": " 第158章  节帅低叹灵州难",
+        "updated_at": "2026-08-18 23:53:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 20,
+        "title": "妖孽世子爷",
+        "book_id": 12314181,
+        "url": "https://www.qimao.com/shuku/12314181/",
+        "author": "夜行书生",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E8%A1%8C%E4%B9%A6%E7%94%9F_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "43.43万字",
+        "word_count": 434300,
+        "heat": 304000,
+        "platform_trend": "rise",
+        "badge": "飙升39名",
+        "intro": "穿越镇国九世子，迎娶大夏第一美人！\n萧星越本以为是天胡开局，岂料洞房时却被九公主李望舒踢下婚床。\n“碰我？你想得美！明日我就和离！当年我父皇只是利用你爹登基才答应婚事，你真以为自己配得上我？我要嫁也是嫁我的诗仙哥哥！”\n萧星越才知道，自从父兄战死，萧家已经被皇室当成弃子，这婚约不过是皇室为了自己名声，走个过场。\n萧星越当场写下休书：“要离也是老子休你！管家，马上给我找二十个花魁来侍寝！本世子看不上公主！”\n李望舒慌了：“你这么做我以后脸往哪放？传出去人人都会笑话我不如青楼女子！你休想！要侍寝本公主自己来！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4105/12314181_360x480.jpg?time=1780992923",
+        "latest_chapter": " 第197章  一掌定乾坤！",
+        "updated_at": "2026-08-18 00:02:25",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       }

@@ -11,8 +11,8 @@
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
-      "rank": 14,
-      "heat": 1
+      "rank": 13,
+      "heat": 0
     },
     {
       "board": "boy-hot-month",
@@ -45,6 +45,24 @@
       "b": "boy-update-date",
       "r": 14,
       "h": 1
+    },
+    {
+      "d": "2026-08-19",
+      "b": "boy-hot-date",
+      "r": 19,
+      "h": 260000
+    },
+    {
+      "d": "2026-08-19",
+      "b": "boy-hot-month",
+      "r": 18,
+      "h": 7932000
+    },
+    {
+      "d": "2026-08-19",
+      "b": "boy-update-date",
+      "r": 13,
+      "h": 0
     }
   ]
 }

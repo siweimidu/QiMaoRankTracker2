@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：传统玄幻框架下的“反套路”与“情感羁绊”成为核心卖点。\n**读者偏好**：读者倾向于高概念设定（如跨时空关联）或强冲突的爽点前置（如“杂役配掌门”的禁忌感）。\n**变动解读**：榜单结构极度稳定，缺乏新书冲击，存量书热度表现稳健。\n**值得关注**：两部作品均通过“强人设关联”制造钩子，说明在玄幻品类中，人际关系的深度绑定是留存读者的关键。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -68,15 +68,15 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.75万字",
-        "word_count": 457500,
+        "word_count_text": "46.17万字",
+        "word_count": 461700,
         "heat": 77000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "叶长天在路边摊买了一本阴阳造化诀，意外穿越成为太玄宗的一名杂役弟子。\n刚一穿越，他就被身中情毒的绝色掌门夏秋水逆推了。\n面对夏秋水的索取，叶长天不得不运转阴阳造化诀，然后他与夏秋水的修为就蹭蹭蹭地往上涨。\n从此以后，拒人于千里之外的高冷绝色掌门上瘾了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
-        "latest_chapter": " 第219章  叫小师叔会更刺激！",
-        "updated_at": "2026-08-17 20:42:03",
+        "latest_chapter": " 第221章  与仙族洛族有关的白玉京！",
+        "updated_at": "2026-08-18 23:24:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

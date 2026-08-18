@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "诸天万界",
     "major": "玄幻奇幻",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：诸天流题材在当前新书日榜中表现趋于平稳，整体热度处于中位区间。\n**读者偏好**：读者更倾向于具备“强势回归”、“快意恩仇”等高爽点元素的经典升级流作品。\n**变动解读**：本周期内该品类无新增、掉榜或位次变动，显示出当前头部作品的统治力较强，但市场活力稍显不足。\n**值得关注**：需密切观察该细分品类是否存在题材同质化导致的新书上榜乏力问题，以及后续是否有高热度新作冲击榜单。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 217,
         "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.69万字",
-        "word_count": 386900,
+        "word_count_text": "39.34万字",
+        "word_count": 393400,
         "heat": 49000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
-        "latest_chapter": " 第174章  不快",
-        "updated_at": "2026-08-18 06:02:06",
+        "latest_chapter": " 第177章  你可知道我是谁？",
+        "updated_at": "2026-08-19 06:02:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

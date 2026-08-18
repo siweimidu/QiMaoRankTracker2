@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：高武题材在头部呈现明显的“极致化”特征，即以医疗、战力等强功能性人设作为核心驱动，简化复杂世界观。\n**读者偏好**：读者偏好“全能型主角”，通过“生死掌控权”带来的绝对压制感，满足极致的爽点需求。\n**变动解读**：榜单呈现单点垄断态势，头部作品《盖世神医》热度远超其他品类，显示该题材在七猫生态中具备极高的吸金与吸睛能力。\n**值得关注**：高武题材的核心在于主角人设的“不可替代性”，即在都市背景下赋予主角凌驾于常规社会秩序之上的特殊权力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "894.38万字",
-        "word_count": 8943800,
+        "word_count_text": "894.99万字",
+        "word_count": 8949900,
         "heat": 43735000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4363章  抛开事实不谈！",
-        "updated_at": "2026-08-17 21:41:29",
+        "latest_chapter": " 第4366章  绝世天才？不过如此！",
+        "updated_at": "2026-08-19 00:40:34",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

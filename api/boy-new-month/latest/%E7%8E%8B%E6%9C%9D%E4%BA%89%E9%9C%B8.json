@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "六扇门第一悍捕",
+          "book_id": 11988894,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，以“体制内+金手指”为核心的强人设爽文仍是该细分领域的主流驱动力。\n**读者偏好**：读者更青睐“底层逆袭+职业升迁”的成长逻辑，对通过悟性系统实现权力阶层跃升的爽感诉求强烈。\n**变动解读**：本期榜单稳定性极高，头部产品通过稳健的内容输出实现了自然排名的微幅攀升，市场缺乏新入局者的冲击。\n**值得关注**：建议重点观察《六扇门第一悍捕》后续在“案件破获”与“朝堂争霸”节奏上的平衡，这是决定其长线留存的关键。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "六扇门第一悍捕",
         "book_id": 11988894,
         "url": "https://www.qimao.com/shuku/11988894/",
@@ -39,16 +45,16 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.55万字",
-        "word_count": 405500,
+        "word_count_text": "40.75万字",
+        "word_count": 407500,
         "heat": 752000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "飙升13名",
         "intro": "意外穿越大夏王朝，秦动成为了大夏六扇门最底层的一个小小协捕。\n眼看深陷负债，相依为命的童养媳都差点受辱抵债下，他突然觉醒了满级悟性，只要看过功法便能领悟学会。\n至此他在六扇门都踏上了一条登天之路，从正式捕快到银牌捕快，金牌捕快……\n“大人，我请你去怡红楼喝过茶呢？你还记得吗？”\n“秦金捕，只要您一句话，赴汤蹈火弟兄们都在所不辞！”\n“指挥使大人，天气冷了，加件黄袍吧。”\n谁在称无敌，哪个敢言不败？\n天才？天才也只是见到我的门槛！\n多年后秦动回首前尘，江湖与庙堂之上的敌人早已成为了自己座下累累白骨堆砌的王座。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3997/11988894_360x480.jpg?time=1780989850",
-        "latest_chapter": " 第144章  各有所向",
-        "updated_at": "2026-08-18 00:07:05",
-        "rank_change": 0,
+        "latest_chapter": " 第145章  抉择与影响",
+        "updated_at": "2026-08-19 00:07:07",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

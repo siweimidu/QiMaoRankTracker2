@@ -8,22 +8,33 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 5848000,
+    "count": 3,
+    "total_heat": 8074000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重生1981：从深山打猎开始崛起",
+          "book_id": 1961147,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：都市高手类目前呈现“异能鉴宝+特殊背景+重生年代”三足鼎立态势，核心爽点高度聚焦于身份反差与极速暴富。\n**读者偏好**：读者对带有强烈戏剧冲突的“软饭硬吃”及“出狱/重生逆袭”题材表现出持续的高热度偏好，偏爱强势无虐的爽文节奏。\n**变动解读**：新书《被关女子监狱三年，我修炼成仙了》成功上榜，证明了“特殊场景+女强退婚”的强冲突设定在都市分类中具备极强的吸睛属性。\n**值得关注**：建议关注“都市+异能/修仙”复合元素的潜力，此类题材在七猫用户群体中仍有较大裂变空间。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -56,7 +67,36 @@
         "category": "都市高手"
       },
       {
-        "rank": 19,
+        "rank": 18,
+        "title": "被关女子监狱三年，我修炼成仙了",
+        "book_id": 1697715,
+        "url": "https://www.qimao.com/shuku/1697715/",
+        "author": "一只狸猫",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "760.62万字",
+        "word_count": 7606200,
+        "heat": 2226000,
+        "platform_trend": "drop",
+        "badge": "最新上榜",
+        "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
+        "latest_chapter": " 第1891章  番外",
+        "updated_at": "2026-08-17 18:03:16",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 20,
         "title": "重生1981：从深山打猎开始崛起",
         "book_id": 1961147,
         "url": "https://www.qimao.com/shuku/1961147/",
@@ -77,7 +117,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
         "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
         "updated_at": "2026-05-31 22:43:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

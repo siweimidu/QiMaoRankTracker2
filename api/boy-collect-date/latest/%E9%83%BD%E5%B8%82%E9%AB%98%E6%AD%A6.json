@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：该品类处于极度沉寂期，传统都市医武与异能夺宝类题材面临市场疲软，缺乏新书注入。\n**读者偏好**：读者仍保留对“权势碾压”与“游戏现实化”等经典爽文结构的怀旧需求，但缺乏新鲜感。\n**变动解读**：榜单完全停滞，无任何热度波动，显示该品类在当前榜单周期内缺乏核心竞争力与用户活跃度。\n**值得关注**：需警惕题材老旧带来的用户流失，建议观察后续是否有具备强反转或创意设定的新书打破僵局。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "894.38万字",
-        "word_count": 8943800,
+        "word_count_text": "894.99万字",
+        "word_count": 8949900,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4363章  抛开事实不谈！",
-        "updated_at": "2026-08-17 21:41:29",
+        "latest_chapter": " 第4366章  绝世天才？不过如此！",
+        "updated_at": "2026-08-19 00:40:34",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

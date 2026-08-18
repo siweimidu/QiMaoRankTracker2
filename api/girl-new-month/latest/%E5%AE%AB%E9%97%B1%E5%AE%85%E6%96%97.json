@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：传统宅斗逐渐弱化，转而向“强人设情感互动”靠拢，如“心机通房”、“疯批首辅”等标签强调了角色间的博弈与拉扯。\n**读者偏好**：读者热衷于“身份低微但手段高明”的女主设定，偏好将宅斗背景作为情感催化剂，而非单纯的阴谋算计。\n**变动解读**：榜单结构极其稳固，无新书上榜，说明当前市场对“强取豪夺+身份错位”类古言的需求已趋于饱和，竞争进入存量博弈阶段。\n**值得关注**：带有“读心术”、“双向掉马”等轻快叙事元素的古言，在保持宅斗爽感的同时降低了阅读门槛，更易留存用户。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -68,15 +68,15 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.12万字",
-        "word_count": 491200,
+        "word_count_text": "49.54万字",
+        "word_count": 495400,
         "heat": 1521000,
         "platform_trend": "rise",
         "badge": "飙升10名",
         "intro": "【只想搞钱跑路社畜丫鬟 vs 偏要强取豪夺疯批世子】\n\n穿成永宁侯府丫鬟的第一天，社畜顾昭云和神秘男人春风一度，她只当被狗咬了，翻篇就忘。\n本来只想攒够银子赎身跑路，可那位表面光风霁月的世子爷不知怎么盯上了她。\n从暗示到明示再到当众宣誓主权——\n“世子妃，你逃不掉的。”\n顾昭云：我谢谢你，但我真的只想下班",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3923/11767725_360x480.jpg?time=1784098221",
-        "latest_chapter": " 第228章  便跟侯府再无干系了。",
-        "updated_at": "2026-08-17 21:37:04",
+        "latest_chapter": " 第230章  她要出府了",
+        "updated_at": "2026-08-18 21:37:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

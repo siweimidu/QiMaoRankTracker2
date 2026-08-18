@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T10:37:13",
-  "date": "2026-08-18",
+  "generated_at": "2026-08-19T07:47:17",
+  "date": "2026-08-19",
   "books": [
     {
       "book_id": 195958,
@@ -495,7 +495,7 @@
         "男生大热月榜",
         "男生更新日榜"
       ],
-      "best_rank": 14,
+      "best_rank": 13,
       "total_heat": 7932000
     },
     {
@@ -1311,24 +1311,6 @@
       "total_heat": 1217000
     },
     {
-      "book_id": 12134931,
-      "title": "我才五岁，怎么就成军区团宠了",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
-      "author": "团子大王",
-      "minor": "年代重生",
-      "boards_count": 2,
-      "boards": [
-        "girl-new-month",
-        "girl-update-date"
-      ],
-      "board_names": [
-        "女生新书月榜",
-        "女生更新日榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 472000
-    },
-    {
       "book_id": 1882754,
       "title": "边军悍卒",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
@@ -1363,6 +1345,24 @@
       ],
       "best_rank": 12,
       "total_heat": 3210000
+    },
+    {
+      "book_id": 12134931,
+      "title": "我才五岁，怎么就成军区团宠了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
+      "author": "团子大王",
+      "minor": "年代重生",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-month",
+        "girl-update-date"
+      ],
+      "board_names": [
+        "女生新书月榜",
+        "女生更新日榜"
+      ],
+      "best_rank": 12,
+      "total_heat": 472000
     },
     {
       "book_id": 1764505,
@@ -1525,6 +1525,24 @@
       ],
       "best_rank": 15,
       "total_heat": 9108000
+    },
+    {
+      "book_id": 1697715,
+      "title": "被关女子监狱三年，我修炼成仙了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
+      "author": "一只狸猫",
+      "minor": "都市高手",
+      "boards_count": 2,
+      "boards": [
+        "boy-over-date",
+        "boy-over-month"
+      ],
+      "board_names": [
+        "男生完结日榜",
+        "男生完结月榜"
+      ],
+      "best_rank": 15,
+      "total_heat": 2226000
     },
     {
       "book_id": 2074363,

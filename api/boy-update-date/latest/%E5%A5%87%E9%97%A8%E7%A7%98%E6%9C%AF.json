@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：民俗恐怖与克苏鲁风结合的题材，在细分市场中保持着极低但稳定的生存空间。\n**读者偏好**：受众倾向于具有强压抑感、高悬疑氛围以及“反套路”人设的诡异类故事。\n**变动解读**：本期榜单无任何变动，显示该品类在七猫平台目前处于极度边缘化状态，缺乏新书驱动流量。\n**值得关注**：罗樵森的作品凭借“人吃人”的黑暗基调维持在榜，证明此类风格在特定小众群体中仍有受众粘性。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "443.88万字",
-        "word_count": 4438800,
+        "word_count_text": "444.91万字",
+        "word_count": 4449100,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1634章  神霄分裂，杀之绝患！",
-        "updated_at": "2026-08-18 06:57:12",
+        "latest_chapter": " 第1638章  最弱的，不是罗彬！",
+        "updated_at": "2026-08-19 06:57:12",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

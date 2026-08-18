@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -19,11 +19,22 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "我想躺平当保安，女神非要来纠缠",
+          "book_id": 9999144,
+          "rank_change": 1
+        },
+        {
+          "title": "爷爷托梦后，我靠戒指掌控万界",
+          "book_id": 12357096,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "首日收录，暂无趋势对比",
-      "ai_source": "first-day"
+      "summary": "**题材趋势**：以“都市背景+超凡能力+桃花运”为核心，叙事逻辑聚焦于平凡生活与不凡身份的剧烈碰撞。\n**读者偏好**：读者偏好“被迫入世”的设定，热衷于杀手、修仙者等强力人设在都市中被动卷入桃花漩涡的爽点。\n**变动解读**：榜单呈现稳步上行趋势，中后段书籍通过题材积累热度，反映了都市类作品在存量竞争下的稳健表现。\n**值得关注**：《都市极品大邪修》以绝对优势占据榜首，证明该品类中“身份反差+都市异能”依然是转化率最高的基本盘。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +50,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.65万字",
-        "word_count": 436500,
+        "word_count_text": "44.23万字",
+        "word_count": 442300,
         "heat": 1711000,
         "platform_trend": "rise",
         "badge": "飙升15名",
         "intro": "叶风怎么也没想到，和冰山女董一夜荒唐后，命运发生了改变……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4017/12050460_360x480.jpg?time=1782281522",
-        "latest_chapter": " 第217章  遭不住了",
-        "updated_at": "2026-08-17 22:09:04",
+        "latest_chapter": " 第220章  想丰啊？进来吧~",
+        "updated_at": "2026-08-18 23:30:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +67,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "我想躺平当保安，女神非要来纠缠",
         "book_id": 9999144,
         "url": "https://www.qimao.com/shuku/9999144/",
@@ -68,16 +79,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.26万字",
-        "word_count": 332600,
+        "word_count_text": "33.67万字",
+        "word_count": 336700,
         "heat": 612000,
         "platform_trend": "rise",
-        "badge": "飙升37名",
+        "badge": "飙升38名",
         "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
-        "latest_chapter": " 第162章  集装箱货柜",
-        "updated_at": "2026-08-18 00:32:04",
-        "rank_change": 0,
+        "latest_chapter": " 第164章  请李老爷子",
+        "updated_at": "2026-08-19 01:14:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +96,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "爷爷托梦后，我靠戒指掌控万界",
         "book_id": 12357096,
         "url": "https://www.qimao.com/shuku/12357096/",
@@ -97,16 +108,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.33万字",
-        "word_count": 373300,
+        "word_count_text": "37.94万字",
+        "word_count": 379400,
         "heat": 434000,
         "platform_trend": "rise",
-        "badge": "飙升64名",
+        "badge": "飙升65名",
         "intro": "打工人的苦，林骁完整的体验了一遍，被现实压的无法喘息，女朋友的移情别恋，成了压垮他的最后一根稻草。\n爷爷托梦了。\n“不孝孙子，你终于跟那小娘们儿分手了！还不快给我烧纸！爷爷在坟头上给你留了宝贝呢！”\n空间戒指？通万界？跨界交换物资？\n末世世界，一碗水能换百两黄金？\n修真大陆，水果能换无上功法？\n林晓，站起来了！\n前任跪求复合？晚了！\n曾经风靡校园的校花主动倒追，末世的娇媚首领下跪认主，修真大陆的宗门圣女撒娇求包养！我还要你这烂货？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4120/12357096_360x480.jpg?time=1781940481",
-        "latest_chapter": " 第183章  瑶瑶礼物，终于开练！",
-        "updated_at": "2026-08-18 00:31:04",
-        "rank_change": 0,
+        "latest_chapter": " 第186章  病情如何？可以试试！",
+        "updated_at": "2026-08-19 00:57:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-18",
-  "prev_date": null,
+  "date": "2026-08-19",
+  "prev_date": "2026-08-18",
   "books": [
     {
       "rank": 1,
@@ -606,8 +606,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -828,8 +828,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -992,8 +992,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1127,8 +1127,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1204,8 +1204,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "首日收录，暂无趋势对比",
-        "ai_source": "first-day"
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1275,7 +1275,7 @@
     "dropped_count": 0,
     "avg_heat": 7812650,
     "total_heat": 156253000,
-    "first_day": true
+    "first_day": false
   },
   "keywords": [
     {
