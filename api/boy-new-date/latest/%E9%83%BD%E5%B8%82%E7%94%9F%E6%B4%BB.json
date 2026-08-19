@@ -8,26 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 124000,
+    "total_heat": 110000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：都市赛道持续深耕“强冲突+软饭硬吃”的爽感逻辑。\n**读者偏好**：读者对“被动卷入豪门/权势纠纷”以及“极具反差的职场/生活设定”有较高的接受度。\n**变动解读**：榜单处于固化期，现有书籍的题材辨识度较高，暂无新书入局挑战。\n**值得关注**：作品通过“职场实习+情感互动”的轻量化开局，精准切中都市读者的代入感需求。",
+      "top_fallers": [
+        {
+          "title": "都市第一狠人",
+          "book_id": 12180918,
+          "rank_change": -3
+        },
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "都市第一狠人",
+          "book_id": 12180918,
+          "heat_change": -13000
+        },
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势** 都市类进入存量竞争阶段，传统“江湖复仇”题材热度下滑，情感博弈与“职场+多角关系”题材占比提升。\n**读者偏好** 读者对常规都市节奏出现审美疲劳，更倾向于带有强反差、轻喜剧元素或情感纠葛较复杂的情节。\n**变动解读** 本期榜单头部作品热度普降，反映出都市生活类书籍在缺乏强驱动力更新时，用户留存面临挑战。\n**值得关注** 需重点关注《女总裁重生后》此类情感导向型作品，其叙事重心的偏移或将成为都市类的新风向。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 10,
         "title": "都市第一狠人",
         "book_id": 12180918,
         "url": "https://www.qimao.com/shuku/12180918/",
@@ -39,24 +61,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.56万字",
-        "word_count": 465600,
-        "heat": 80000,
+        "word_count_text": "47.2万字",
+        "word_count": 472000,
+        "heat": 67000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "出狱后，四叔接我进城，说跟着他三年就能买房买车。\n可转眼，他被人陷害破产，欠债八千万。临死前他拉着我的手央求：“小勇，以后你四婶，就拜托你照顾了……”\n四叔的话还没说完，就咽了气，但我明白他话里的意思。\n为了还债、报仇，我赤手空拳闯出一片天。\n村霸、仇人、还有那些藏在幕后的黑手，我一个都不会放过。\n这一路，我遇到了很多女人。有富家千金、医生、总裁、明星……\n我从最底层往上爬，吃土咽血，一步一步登上巅峰。\n我叫陆小勇，后来，他们都叫我——深城之王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
-        "latest_chapter": " 第200章  你是不是痛经啊",
-        "updated_at": "2026-08-18 23:38:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第203章  全都死了",
+        "updated_at": "2026-08-19 23:43:04",
+        "rank_change": -3,
+        "heat_change": -13000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "女总裁重生后，非逼我娶校花",
         "book_id": 12625923,
         "url": "https://www.qimao.com/shuku/12625923/",
@@ -68,17 +90,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.22万字",
-        "word_count": 352200,
-        "heat": 44000,
-        "platform_trend": "rise",
+        "word_count_text": "35.89万字",
+        "word_count": 358900,
+        "heat": 43000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第148章  曹昱发现情蛊的秘密！",
-        "updated_at": "2026-08-18 22:20:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第151章  专业杀手，被圈踢？",
+        "updated_at": "2026-08-19 17:34:04",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

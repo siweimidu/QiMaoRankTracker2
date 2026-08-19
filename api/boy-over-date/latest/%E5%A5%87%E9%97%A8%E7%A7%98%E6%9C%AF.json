@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 223000,
+    "total_heat": 216000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：民俗怪谈类题材持续走高，以“民间诡事+职业特殊化”为卖点，构建出具有浓厚中式恐怖色彩的叙事体系。\n**读者偏好**：读者热衷于捞尸、接阴、扎纸人等边缘化职业视角，追求猎奇体验与沉浸式的诡异氛围感。\n**变动解读**：榜单热度高度集中于两部头部作品，且排名处于静止状态，说明该垂直细分领域阅读人群固定，口碑效应明显。\n**值得关注**：作品通过“笔记”、“实录”等纪实感标题增强代入感，利用读者对传统民间禁忌的好奇心实现高热度留存。",
+      "top_fallers": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "heat_change": -7000
+        }
+      ],
+      "summary": "**题材趋势**：民俗恐怖与“职业化”诡事叙事（如捞尸、接阴婆）依然是该赛道的核心支撑，具备极高的垂直受众粘性。\n**读者偏好**：读者偏好纪实风格的“第一人称”叙事，通过诡异民俗带来的感官刺激获得沉浸式阅读体验。\n**变动解读**：榜单处于稳定期，虽无新晋作品，但现有两部作品热度表现稳健，显示出该题材具备极强的长尾效应。\n**值得关注**：民俗题材的地域性与文化深度是核心竞争力，创作时应注重挖掘具有差异化的民间传说以保持竞争力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -41,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "256.28万字",
         "word_count": 2562800,
-        "heat": 137000,
+        "heat": 130000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

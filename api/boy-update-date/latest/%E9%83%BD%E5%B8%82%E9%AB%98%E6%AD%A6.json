@@ -8,26 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 0,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "盖世神医",
+          "book_id": 195958,
+          "rank_change": 3
+        },
+        {
+          "title": "死前考核",
+          "book_id": 12606348,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 市场处于极度低迷的“存量真空期”，高武类目近期缺乏头部新品支撑，整体流量表现平淡。\n**读者偏好** 读者对“神医”类都市爽文及“死前考核”类高概念金手指设定仍有一定关注，但缺乏强有力的内容驱动。\n**变动解读** 榜单完全静止，没有任何新书入围或排名变动，显示该品类在七猫平台目前处于缺乏增量、用户活跃度较低的阶段。\n**值得关注** 需警惕该品类在平台的流量下滑风险，建议观察是否有具备强冲突、高概念的新书入场以激活市场。",
+      "heat_leaders": [
+        {
+          "title": "盖世神医",
+          "book_id": 195958,
+          "heat_change": 3
+        },
+        {
+          "title": "死前考核",
+          "book_id": 12606348,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势** 都市异能与爽文流派双线并进，强调“金手指”带来的阶层跃升与生死逆转，题材表现出显著的高爆发性特征。\n**读者偏好** 读者偏好具有强掌控感的主角形象，无论是“神医”类的情绪价值，还是“死前考核”带来的生存博弈感，均能有效吸引点击。\n**变动解读** 榜单变动剧烈，热度呈现明显的集聚效应，《盖世神医》热度大幅蹿升，印证了强人设爽文在都市类中的统治力。\n**值得关注** 《盖世神医》作为头部作品，其高热度表现说明都市题材依然是目前七猫男生榜单中最具吸金潜力的赛道。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 15,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -39,24 +61,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "894.99万字",
-        "word_count": 8949900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "895.61万字",
+        "word_count": 8956100,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4366章  绝世天才？不过如此！",
-        "updated_at": "2026-08-19 00:40:34",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第4369章  踩脸！狠狠地踩脸！",
+        "updated_at": "2026-08-19 20:27:31",
+        "rank_change": 3,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "死前考核",
         "book_id": 12606348,
         "url": "https://www.qimao.com/shuku/12606348/",
@@ -68,17 +90,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.7万字",
-        "word_count": 357000,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "36.31万字",
+        "word_count": 363100,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "很多人在经历过生死大劫之后，就会性情大变，人生也像开挂一样。\n那是因为每个人在临死前，都会进入一片死前考核空间。\n只要通过考核就能活过来，而且在考核空间获得的特殊能力也会带回现世。\n所谓大难不死必有后福其实就是这么来的，是真的开了挂！\n世上有极少部分人是从死前考核空间走出来的。\n而有些人，去过一次，还想再去…...\n凌无就是其中之一！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606348_360x480.jpg?time=1784385499",
-        "latest_chapter": " 第104章  你……岂止是有罪",
-        "updated_at": "2026-08-19 00:03:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第106章  没什么了不起的",
+        "updated_at": "2026-08-19 23:58:04",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

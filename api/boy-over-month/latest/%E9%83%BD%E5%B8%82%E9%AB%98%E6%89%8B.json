@@ -8,32 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
     "total_heat": 8074000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "重生1981：从深山打猎开始崛起",
-          "book_id": 1961147,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市高手类目前呈现“异能鉴宝+特殊背景+重生年代”三足鼎立态势，核心爽点高度聚焦于身份反差与极速暴富。\n**读者偏好**：读者对带有强烈戏剧冲突的“软饭硬吃”及“出狱/重生逆袭”题材表现出持续的高热度偏好，偏爱强势无虐的爽文节奏。\n**变动解读**：新书《被关女子监狱三年，我修炼成仙了》成功上榜，证明了“特殊场景+女强退婚”的强冲突设定在都市分类中具备极强的吸睛属性。\n**值得关注**：建议关注“都市+异能/修仙”复合元素的潜力，此类题材在七猫用户群体中仍有较大裂变空间。",
+      "summary": "**题材趋势**：题材呈现多元化趋势，融合了鉴宝捡漏、修仙异能与年代致富等强爽元素，强调“底层逆袭”的核心爽感。\n**读者偏好**：读者热衷于快节奏的身份反转与资源获取，对“特殊职业+金手指”带来的阶级跃迁类剧情有极高粘性。\n**变动解读**：本期榜单稳定性极高，三部作品排名均无变动，显示出该细分领域头部作品的护城河效应显著。\n**值得关注**：兼具“年代背景”与“生活烟火气”的作品（如《重生1981》）在高手类中表现稳健，显示出读者对怀旧叙事的认可。",
       "ai_source": "ai"
     },
     "books": [
@@ -83,14 +72,14 @@
         "word_count": 7606200,
         "heat": 2226000,
         "platform_trend": "drop",
-        "badge": "最新上榜",
+        "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
@@ -117,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
         "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
         "updated_at": "2026-05-31 22:43:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

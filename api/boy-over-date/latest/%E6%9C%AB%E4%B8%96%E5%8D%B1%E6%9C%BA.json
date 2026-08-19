@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 74000,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：末世题材聚焦于“杀伐果断”的残酷美学，系统化生存与强对抗是核心驱动力。\n**读者偏好**：读者更倾向于在极端环境下，主角通过重生或系统辅助打破道德枷锁，实现绝对权力的掌控。\n**变动解读**：榜单处于高位横盘状态，反映出该类完结作品在特定受众中存在极高的忠诚度，缺乏替代性作品冲击。\n**值得关注**：作品通过跨平台联动（如漫画化）延伸IP价值，是末世类头部作品运营的重要趋势。",
+      "top_fallers": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：末世题材呈现出向“杀伐果断”与“个人英雄主义”回归的趋势，强调爽感升级。\n**读者偏好**：读者偏爱极端的生存环境设定，以及主角在绝境中通过系统或特殊能力实现阶级跃迁的叙事。\n**变动解读**：排名微降且热度出现回落，显示该头部作品进入长尾期，市场对同质化末日设定的新鲜感有所减退。\n**值得关注**：跨媒体联动（如漫画上线）是延长作品生命周期的有效手段，建议关注此类IP多维开发带来的用户留存效果。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -41,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 74000,
+        "heat": 73000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

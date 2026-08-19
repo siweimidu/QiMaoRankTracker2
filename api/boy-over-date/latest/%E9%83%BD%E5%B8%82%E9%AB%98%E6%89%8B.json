@@ -8,26 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 184000,
+    "total_heat": 206000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "rank_change": 6
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：都市高手类目前处于平稳期，以极具冲突感的“出狱/退婚/捡漏”为核心爽点，高度依赖强人设与快节奏的开局叙事。\n**读者偏好**：读者倾向于“身份落差”带来的逆袭感，如战神退婚、鉴宝暴富、神医下山等经典桥段，对强爽文风的粘性极高。\n**变动解读**：本周期内无新书入榜或名次变动，显示该赛道头部完结作品结构极其稳固，读者留存度高，市场处于存量竞争阶段。\n**值得关注**：几部作品均通过极端身份设定（如女监、财戒、神医）迅速切入爽点，证明“身份反差+强冲突”仍是该品类长青的关键。",
+      "heat_leaders": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "heat_change": 24000
+        },
+        {
+          "title": "财戒",
+          "book_id": 1989239,
+          "heat_change": -1000
+        },
+        {
+          "title": "神医出狱",
+          "book_id": 1812061,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：都市高手类产品热度回升明显，内容向更加猎奇、快节奏的“出狱/监狱”设定倾斜。\n**读者偏好**：读者对带有强冲突、强反差（如监狱背景、战神退婚）的开篇情节极度敏感，追求阅读过程中的即时爽感。\n**变动解读**：《被关女子监狱三年，我修炼成仙了》热度激增2.4万，排名大幅跃升，验证了“奇观化开篇”在流量获取上的绝对优势。\n**值得关注**：该小类具备较强的爆发潜力，建议持续关注具备高话题性脑洞设定的新晋潜力股。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 9,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -41,15 +63,15 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 65000,
+        "heat": 89000,
         "platform_trend": "rise",
-        "badge": "最新上榜",
+        "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 6,
+        "heat_change": 24000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -70,15 +92,15 @@
         "status": "已完结",
         "word_count_text": "427.43万字",
         "word_count": 4274300,
-        "heat": 63000,
-        "platform_trend": "rise",
+        "heat": 62000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
         "latest_chapter": " 第2058章  超脱之境（大结局）",
         "updated_at": "2026-06-28 23:17:17",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -99,15 +121,15 @@
         "status": "已完结",
         "word_count_text": "419.7万字",
         "word_count": 4197000,
-        "heat": 56000,
-        "platform_trend": "rise",
+        "heat": 55000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
         "latest_chapter": " 第2033章  终究还是一场梦（结局）",
         "updated_at": "2026-03-13 23:00:18",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

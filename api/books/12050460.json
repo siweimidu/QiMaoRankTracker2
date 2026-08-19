@@ -6,7 +6,7 @@
   "intro": "叶风怎么也没想到，和冰山女董一夜荒唐后，命运发生了改变……",
   "minor": "都市高手",
   "status": "连载中",
-  "word_count_text": "44.23万字",
+  "word_count_text": "44.85万字",
   "latest": [
     {
       "board": "boy-new-month",
@@ -17,8 +17,8 @@
     {
       "board": "boy-new-date",
       "board_name": "男生新书日榜",
-      "rank": 9,
-      "heat": 71000
+      "rank": 11,
+      "heat": 65000
     }
   ],
   "history": [
@@ -42,6 +42,18 @@
     },
     {
       "d": "2026-08-19",
+      "b": "boy-new-month",
+      "r": 1,
+      "h": 1711000
+    },
+    {
+      "d": "2026-08-20",
+      "b": "boy-new-date",
+      "r": 11,
+      "h": 65000
+    },
+    {
+      "d": "2026-08-20",
       "b": "boy-new-month",
       "r": 1,
       "h": 1711000

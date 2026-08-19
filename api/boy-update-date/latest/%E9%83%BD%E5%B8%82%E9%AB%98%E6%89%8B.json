@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "heat_change": 2
+          "heat_change": -2
         }
       ],
-      "summary": "**题材趋势** 典型的都市爽文模式，通过“出狱”、“修真”、“后宫”等高频爽点元素的堆叠吸引男性用户。\n**读者偏好** 读者偏好快节奏、强情绪的都市修真文，尤其是带有强烈暧昧色彩和反套路剧情的作品。\n**变动解读** 头部作品虽排名下滑，但热度依然存在，说明在缺乏竞品挤压的情况下，该类目目前呈单点支撑状态。\n**值得关注** 后续需观察是否有新书能打破该类目目前的“独苗”局面，以验证该题材在当下的市场承载力。",
+      "summary": "**题材趋势**：传统“都市高手”题材依然保持着极高的市场韧性，爽点密集、多女主暧昧是核心驱动力。\n**读者偏好**：读者偏好强人设、快节奏、具有反套路幽默感的爽文叙事。\n**变动解读**：《全体起立，SSS狂龙出狱！》排名逆势上升，证明了“出狱+听劝+修真”的复合型爽文结构在当前环境下依然具备极强的吸睛能力。\n**值得关注**：该类作品通过标签化的“爽文”属性，能有效在都市赛道维持稳定的热度增长。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -51,17 +51,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "166.17万字",
-        "word_count": 1661700,
-        "heat": 3,
-        "platform_trend": "drop",
+        "word_count_text": "167.38万字",
+        "word_count": 1673800,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第555章  牺牲品",
-        "updated_at": "2026-08-18 10:02:07",
-        "rank_change": -2,
-        "heat_change": 2,
+        "latest_chapter": " 第558章  司马长空的传承？",
+        "updated_at": "2026-08-19 10:02:09",
+        "rank_change": 1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

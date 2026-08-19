@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：民俗恐怖与克苏鲁风结合的题材，在细分市场中保持着极低但稳定的生存空间。\n**读者偏好**：受众倾向于具有强压抑感、高悬疑氛围以及“反套路”人设的诡异类故事。\n**变动解读**：本期榜单无任何变动，显示该品类在七猫平台目前处于极度边缘化状态，缺乏新书驱动流量。\n**值得关注**：罗樵森的作品凭借“人吃人”的黑暗基调维持在榜，证明此类风格在特定小众群体中仍有受众粘性。",
+      "summary": "**题材趋势**：该小类目前处于极度冷门期，市场供给与活跃度极低。\n**读者偏好**：读者倾向于带有民俗恐怖、诡异生存元素的硬核悬疑风格。\n**变动解读**：存量作品《天黑请点灯》排名微降，显示出该细分领域缺乏新流量注入，用户黏性难以维持。\n**值得关注**：在市场缺乏竞争的情况下，若有高质量的民俗惊悚新作切入，极易占据头部流量入口。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -39,16 +45,16 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "444.91万字",
-        "word_count": 4449100,
+        "word_count_text": "445.93万字",
+        "word_count": 4459300,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1638章  最弱的，不是罗彬！",
-        "updated_at": "2026-08-19 06:57:12",
-        "rank_change": 0,
+        "latest_chapter": " 第1642章  白子之怒！逆徒成双！",
+        "updated_at": "2026-08-20 06:57:12",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "诸天万界",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 49000,
+    "total_heat": 48000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：诸天流题材在当前新书日榜中表现趋于平稳，整体热度处于中位区间。\n**读者偏好**：读者更倾向于具备“强势回归”、“快意恩仇”等高爽点元素的经典升级流作品。\n**变动解读**：本周期内该品类无新增、掉榜或位次变动，显示出当前头部作品的统治力较强，但市场活力稍显不足。\n**值得关注**：需密切观察该细分品类是否存在题材同质化导致的新书上榜乏力问题，以及后续是否有高热度新作冲击榜单。",
+      "top_fallers": [
+        {
+          "title": "斩神刀",
+          "book_id": 12337881,
+          "rank_change": -3
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "斩神刀",
+          "book_id": 12337881,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：诸天题材在当前榜单中表现疲软，整体热度呈现收缩态势，缺乏头部增量支撑。\n**读者偏好**：读者对传统“天才回归+杀伐果断”的爽文套路审美疲劳，导致单一作品难以维持热度稳定性。\n**变动解读**：《斩神刀》排名下滑3位且热度回落1000，显示该书在竞争中缺乏留存优势，面临被挤出榜单的风险。\n**值得关注**：该小类目前处于“一书独撑”的尴尬境地，急需题材创新或高热度新书入场以激活流量池。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 15,
         "title": "斩神刀",
         "book_id": 12337881,
         "url": "https://www.qimao.com/shuku/12337881/",
@@ -39,17 +51,17 @@
         "minor_id": 217,
         "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.34万字",
-        "word_count": 393400,
-        "heat": 49000,
+        "word_count_text": "39.99万字",
+        "word_count": 399900,
+        "heat": 48000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
-        "latest_chapter": " 第177章  你可知道我是谁？",
-        "updated_at": "2026-08-19 06:02:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第180章  血虎",
+        "updated_at": "2026-08-20 06:02:07",
+        "rank_change": -3,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

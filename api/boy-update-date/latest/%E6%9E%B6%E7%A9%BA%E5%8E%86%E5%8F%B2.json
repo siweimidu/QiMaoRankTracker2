@@ -8,21 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 2,
-    "total_heat": 14,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：聚焦“身份错位”带来的戏剧张力，强调权谋与情感线的结合，叙事核心偏向轻松爽感与角色反差。\n**读者偏好**：读者热衷于“双面身份”、“误会式宠溺”及“乱世崛起”的设定，对轻松幽默与高频反转的剧情买单意愿强。\n**变动解读**：本类目表现极其稳定，头部作品市场占有率高，未见明显的新书冲击或热度转移。\n**值得关注**：《医仙，将军，少年侯！谁与争锋！》以极高的热度断层领跑，说明读者对“种田+官场”的综合爽感需求依然旺盛。",
+      "top_fallers": [
+        {
+          "title": "医仙，将军，少年侯！谁与争锋！",
+          "book_id": 12371697,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "医仙，将军，少年侯！谁与争锋！",
+          "book_id": 12371697,
+          "heat_change": -13
+        }
+      ],
+      "summary": "**题材趋势**：侧重“身份错位”与“权谋博弈”，强调主角在多方势力夹缝中求生的紧张感。\n**读者偏好**：倾向于高反差的爽点设定，如“反贼之子变天子心腹”或“乱世郎中携美进阶”，追求身份逆袭带来的心理满足。\n**变动解读**：整体热度低迷且缺乏新面孔，存量作品排名波动小，显示出该品类在当前榜单中处于调整期。\n**值得关注**：建议重点关注具有强冲突开篇（如弑君/退婚/赐婚）的作品，这类“开局即危机”的架构在七猫男频仍有较强粘性。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,15 +51,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "68.46万字",
-        "word_count": 684600,
+        "word_count_text": "69.02万字",
+        "word_count": 690200,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
-        "latest_chapter": " 第216章  改活榜",
-        "updated_at": "2026-08-18 08:12:05",
+        "latest_chapter": " 第218章  八百四十七个死人",
+        "updated_at": "2026-08-19 08:12:07",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +68,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "医仙，将军，少年侯！谁与争锋！",
         "book_id": 12371697,
         "url": "https://www.qimao.com/shuku/12371697/",
@@ -68,17 +80,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.32万字",
-        "word_count": 413200,
-        "heat": 14,
-        "platform_trend": "rise",
+        "word_count_text": "41.76万字",
+        "word_count": 417600,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第176章  脱疽",
-        "updated_at": "2026-08-19 00:12:16",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第178章  查抄",
+        "updated_at": "2026-08-20 00:12:15",
+        "rank_change": -1,
+        "heat_change": -13,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

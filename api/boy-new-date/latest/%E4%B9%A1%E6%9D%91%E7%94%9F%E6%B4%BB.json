@@ -8,26 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 101000,
+    "total_heat": 110000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代怀旧与神豪种田流并行，强调“底层逆袭”与“反差爽感”。\n**读者偏好**：偏好具有强烈的地域色彩与时代背景，且伴有系统辅助的“资源变现”型爽文。\n**变动解读**：榜单热度平稳，未见大幅波动，反映出该品类读者群体忠诚度高，阅读习惯较为固定。\n**值得关注**：乡村背景下的“反差打脸”与“神级系统”组合，依然是目前吸引读者的核心配置。",
+      "top_risers": [
+        {
+          "title": "重生70：猎山猎水猎人生",
+          "book_id": 12605832,
+          "rank_change": 2
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "只想安静种个地，门口怎么天天堵豪车？",
+          "book_id": 12284916,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "重生70：猎山猎水猎人生",
+          "book_id": 12605832,
+          "heat_change": 6000
+        },
+        {
+          "title": "只想安静种个地，门口怎么天天堵豪车？",
+          "book_id": 12284916,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "**题材趋势** 乡村题材正经历从纯生活流向“年代+爽文+反差”的复合型叙事转型，娱乐性显著增强。\n**读者偏好** 读者偏好具有强代入感的重生年代文，以及带有系统经营属性、能提供即时反馈的乡村致富爽文。\n**变动解读** 《重生70》上升势头明显，反映出读者对年代狩猎题材及“纯爽文”节奏的更高青睐。\n**值得关注** 乡村生活类作品的“爽感”来源已从单纯的种田转变为快节奏的社会地位提升与资源掠夺。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 8,
         "title": "重生70：猎山猎水猎人生",
         "book_id": 12605832,
         "url": "https://www.qimao.com/shuku/12605832/",
@@ -39,24 +62,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.03万字",
-        "word_count": 440300,
-        "heat": 66000,
+        "word_count_text": "44.85万字",
+        "word_count": 448500,
+        "heat": 72000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第211章  寡妇门前是非多",
-        "updated_at": "2026-08-18 18:43:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第215章  与煤矿厂合作",
+        "updated_at": "2026-08-19 19:42:04",
+        "rank_change": 2,
+        "heat_change": 6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "只想安静种个地，门口怎么天天堵豪车？",
         "book_id": 12284916,
         "url": "https://www.qimao.com/shuku/12284916/",
@@ -68,17 +91,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.33万字",
-        "word_count": 353300,
-        "heat": 35000,
+        "word_count_text": "36.71万字",
+        "word_count": 367100,
+        "heat": 38000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【种田日常】＋【神级系统】＋【反差打脸】＋【乡村神豪】\n职场霸凌， 情场失意，无奈继承爷爷的果园\n本以为这辈子只能在泥地里当个苦哈哈的村夫，谁料竟觉醒神级系统\n开局一滴灵泉水，枯树瞬间抽新芽，酸涩野桃秒变人间仙果！\n从此，林昭彻底疯狂了！\n随手种出大白菜，惊动顶级私厨，几十位名厨连夜进山跪求合作；\n树上结出的几个破苹果，让身价百亿的首富亲自登门，只为抢第一口新鲜！\n林昭：“买菜？拿劳斯莱斯换也不卖，去后面拿号排队！”\n“唉，我靠，你堂堂首富怎么带头偷瓜，”\n林昭看着水泄不通的豪车车队，无奈长叹：\n我真的只想安静种个地，你们这群大佬天天堵在我家门口干什么？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4095/12284916_360x480.jpg?time=1780468483",
-        "latest_chapter": " 第77章  白云村马戏团",
-        "updated_at": "2026-08-18 23:54:02",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第80章  江大少的男人梦",
+        "updated_at": "2026-08-20 01:56:02",
+        "rank_change": -1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
