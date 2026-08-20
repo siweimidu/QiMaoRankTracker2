@@ -8,48 +8,59 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 3,
-    "total_heat": 247000,
+    "total_heat": 246000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "九帝塔",
-          "book_id": 11901855
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "我一杂役，怎么成掌门孩子他爹了？",
-          "book_id": 12026346,
-          "rank_change": 1
+          "title": "九帝塔",
+          "book_id": 11901855,
+          "rank_change": 4
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
+        {
+          "title": "我一杂役，怎么成掌门孩子他爹了？",
+          "book_id": 12026346,
+          "rank_change": -2
+        },
         {
           "title": "盗梦千年",
           "book_id": 12257385,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "九帝塔",
+          "book_id": 11901855,
           "heat_change": 5000
+        },
+        {
+          "title": "盗梦千年",
+          "book_id": 12257385,
+          "heat_change": -3000
         },
         {
           "title": "我一杂役，怎么成掌门孩子他爹了？",
           "book_id": 12026346,
-          "heat_change": -4000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势** 呈现出高概念化与强情感羁绊的融合趋势，从“宿命轮回”到“双修升级”，题材边界持续拓宽。\n**读者偏好** 读者更青睐带有强冲突感、快节奏互动及“女强/多女帝”元素的爽文，对设定新颖的玄幻作品粘性较高。\n**变动解读** 榜单稳定性较强，《九帝塔》的新入局显示出读者对“复仇+金手指”经典叙事的回归需求。\n**值得关注** 《盗梦千年》凭借情感深度稳居头部，建议创作者关注“情感+玄幻”的差异化叙事模式。",
+      "summary": "**题材趋势**：传统玄幻元素（女帝、挖骨、复仇）与创新设定（跨时空羁绊、反差向软饭流）并存，叙事风格趋于多元化。\n**读者偏好**：读者对高冲突、强情绪节奏敏感，无论是“炉鼎/赘婿”式的反差爽感，还是“废柴复仇”的经典爽文套路，均有稳定受众。\n**变动解读**：榜单进入存量博弈阶段，头部作品热度小幅回撤，《九帝塔》凭借经典复仇爽点实现排名逆势拉升，展现了强劲的读者留存能力。\n**值得关注**：《九帝塔》的上升趋势表明，在快节奏网文市场中，带有强烈标签（女帝、复仇、至宝）的传统玄幻结构依然是拉新利器。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -61,24 +72,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.79万字",
-        "word_count": 317900,
-        "heat": 131000,
-        "platform_trend": "rise",
+        "word_count_text": "32.62万字",
+        "word_count": 326200,
+        "heat": 128000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第136章  暗道",
-        "updated_at": "2026-08-19 07:01:04",
-        "rank_change": 0,
-        "heat_change": 5000,
+        "latest_chapter": " 第140章  炼器",
+        "updated_at": "2026-08-21 07:01:05",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "title": "我一杂役，怎么成掌门孩子他爹了？",
         "book_id": 12026346,
         "url": "https://www.qimao.com/shuku/12026346/",
@@ -90,24 +101,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.59万字",
-        "word_count": 465900,
-        "heat": 73000,
+        "word_count_text": "47.01万字",
+        "word_count": 470100,
+        "heat": 70000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "叶长天在路边摊买了一本阴阳造化诀，意外穿越成为太玄宗的一名杂役弟子。\n刚一穿越，他就被身中情毒的绝色掌门夏秋水逆推了。\n面对夏秋水的索取，叶长天不得不运转阴阳造化诀，然后他与夏秋水的修为就蹭蹭蹭地往上涨。\n从此以后，拒人于千里之外的高冷绝色掌门上瘾了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
-        "latest_chapter": " 第223章  争夺最后一块残图！",
-        "updated_at": "2026-08-19 22:56:05",
-        "rank_change": 1,
-        "heat_change": -4000,
+        "latest_chapter": " 第225章  天阳丹圣遗藏问世！",
+        "updated_at": "2026-08-20 17:03:02",
+        "rank_change": -2,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 14,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -119,18 +130,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.93万字",
-        "word_count": 359300,
-        "heat": 43000,
+        "word_count_text": "36.34万字",
+        "word_count": 363400,
+        "heat": 48000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第173章  剑道大会，垃圾玩意",
-        "updated_at": "2026-08-19 14:02:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第175章  打败自理，打赢担着",
+        "updated_at": "2026-08-21 00:28:03",
+        "rank_change": 4,
+        "heat_change": 5000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"

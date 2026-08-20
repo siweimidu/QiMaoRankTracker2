@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "皇妃来自地府，百鬼退散",
+          "book_id": 10374897,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "heat_change": -3
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：古言与灵异惊悚元素的跨界融合，“人鬼情未了”设定在古代情缘中依然占有一席之地。\n**读者偏好**：受众倾向于具有宿命感、强冲突的男女主人设，期待悬疑查案与深情羁绊并存的叙事结构。\n**变动解读**：当前该类目热度出现明显断层，尽管排名持平，但热度数值归零预示着该书正面临严重的读者流失风险。\n**值得关注**：由于缺乏新书入场，该类目急需具备强叙事张力或创新设定的作品来重新激活活跃度。",
+      "summary": "**题材趋势**：传统古言正剧式微，带有强灵异、玄幻色彩的“古言+诡秘”融合题材正呈现出细分市场的增长势头。\n**读者偏好**：读者对“强强联手”及“人鬼殊途”的极限拉扯设定青睐有加，倾向于探案与悬疑解密带来的爽感。\n**变动解读**：《皇妃来自地府，百鬼退散》排名稳步上升，反映出该类题材在低体量环境下仍具备较强的长尾吸睛能力。\n**值得关注**：在古言框架下融入民俗灵异与悬疑探案元素，是目前差异化突围的核心路径。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 12,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -45,17 +51,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "94.63万字",
-        "word_count": 946300,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "95.26万字",
+        "word_count": 952600,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第454章  疑是故人归",
-        "updated_at": "2026-08-19 22:37:06",
-        "rank_change": 0,
-        "heat_change": -3,
+        "latest_chapter": " 第457章  财神娘娘",
+        "updated_at": "2026-08-20 22:07:05",
+        "rank_change": 2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

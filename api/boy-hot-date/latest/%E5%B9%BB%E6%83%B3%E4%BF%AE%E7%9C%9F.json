@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 231000,
+    "total_heat": 235000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "凡尘飞仙",
-          "book_id": 1729484
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：幻想修真赛道近期迎来新进力量，传统“草根逆袭”叙事结合金手指设定依然是市场主流趋势。\n**读者偏好**：读者偏好成长曲线清晰、且带有“资源获取”类爽点的修仙作品，对“普通少年崛起”的设定具备天然接受度。\n**变动解读**：新书《凡尘飞仙》成功上榜，凭借聚宝盆这一经典外挂设定，迅速在赛道内占得一席之地。\n**值得关注**：新入局者的表现反映了读者对经典修仙流派的持续需求，后续重点关注该书在后续榜单中的热度留存与排名走势。",
+      "heat_leaders": [
+        {
+          "title": "凡尘飞仙",
+          "book_id": 1729484,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "**题材趋势**：传统修仙题材表现稳健，带有“金手指”辅助修炼的经典套路仍具备较强的读者黏性。\n**读者偏好**：读者偏好“草根逆袭+资源无限”的成长模式，对简单直接的修行爽点反馈良好。\n**变动解读**：榜单整体结构固化，头部作品《凡尘飞仙》热度微涨，反映出该类目在稳定受众群体中仍有增长空间。\n**值得关注**：该小类目前呈现单一头部垄断特征，市场亟需更多创新元素以激活活跃度。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "584.65万字",
-        "word_count": 5846500,
-        "heat": 231000,
-        "platform_trend": "drop",
+        "word_count_text": "585.12万字",
+        "word_count": 5851200,
+        "heat": 235000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "一个普通的农村少年，偶然得到聚宝盆，凭借其复制能力，得到海量资源，走上修行一途……仙路悠悠，普通少年的飞仙之路……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
-        "latest_chapter": " 第2491章  极境试炼",
-        "updated_at": "2026-08-19 20:17:19",
+        "latest_chapter": " 第2493章  伏央的震动",
+        "updated_at": "2026-08-20 21:07:20",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

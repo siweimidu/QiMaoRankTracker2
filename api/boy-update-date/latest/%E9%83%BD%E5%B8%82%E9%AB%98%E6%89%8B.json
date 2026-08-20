@@ -8,22 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
-    "total_heat": 1,
+    "count": 2,
+    "total_heat": 5,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "美女总裁，请上车",
+          "book_id": 2091347
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": 1
+          "rank_change": 4
         }
       ],
       "top_fallers": [],
@@ -31,15 +36,15 @@
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "heat_change": -2
+          "heat_change": 3
         }
       ],
-      "summary": "**题材趋势**：传统“都市高手”题材依然保持着极高的市场韧性，爽点密集、多女主暧昧是核心驱动力。\n**读者偏好**：读者偏好强人设、快节奏、具有反套路幽默感的爽文叙事。\n**变动解读**：《全体起立，SSS狂龙出狱！》排名逆势上升，证明了“出狱+听劝+修真”的复合型爽文结构在当前环境下依然具备极强的吸睛能力。\n**值得关注**：该类作品通过标签化的“爽文”属性，能有效在都市赛道维持稳定的热度增长。",
+      "summary": "**题材趋势**：都市爽文回归“入世”叙事，以“出狱”、“专属司机”等强戏剧冲突场景为切入点，融合暧昧与总裁元素。\n**读者偏好**：读者更青睐节奏明快、充满都市反差感与荷尔蒙气息的快节奏爽文，对“狂龙出狱”类经典桥段的接受度依然极高。\n**变动解读**：《全体起立，SSS狂龙出狱！》热度暴涨，显示出强力的读者粘性；新书《美女总裁，请上车》成功入榜，进一步激活了该赛道。\n**值得关注**：该品类热度集中度极高，头部作品正通过高互动性的标签（如“听劝”、“癫”）快速捕获读者注意力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 7,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -51,18 +56,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "167.38万字",
-        "word_count": 1673800,
-        "heat": 1,
+        "word_count_text": "168.6万字",
+        "word_count": 1686000,
+        "heat": 4,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第558章  司马长空的传承？",
-        "updated_at": "2026-08-19 10:02:09",
-        "rank_change": 1,
-        "heat_change": -2,
+        "latest_chapter": " 第561章  青禾求救",
+        "updated_at": "2026-08-20 10:02:07",
+        "rank_change": 4,
+        "heat_change": 3,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 20,
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "288.27万字",
+        "word_count": 2882700,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1761615817",
+        "latest_chapter": " 第1058章  诡异的村落！",
+        "updated_at": "2026-08-21 01:56:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "types": [
     {
       "name": "全部",
@@ -19,8 +19,8 @@
       "url": "api/boy-update-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
     {
-      "name": "都市高武",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+      "name": "都市高手",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "幻想修真",
@@ -31,10 +31,6 @@
       "url": "api/boy-update-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "异世大陆",
-      "url": "api/boy-update-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "古典仙侠",
       "url": "api/boy-update-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
@@ -43,16 +39,20 @@
       "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
+      "name": "异世大陆",
+      "url": "api/boy-update-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
+    },
+    {
       "name": "未来幻想",
       "url": "api/boy-update-date/latest/%E6%9C%AA%E6%9D%A5%E5%B9%BB%E6%83%B3.json"
     },
     {
-      "name": "都市高手",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
-    },
-    {
       "name": "衍生同人",
       "url": "api/boy-update-date/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
+    },
+    {
+      "name": "都市高武",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     }
   ]
 }

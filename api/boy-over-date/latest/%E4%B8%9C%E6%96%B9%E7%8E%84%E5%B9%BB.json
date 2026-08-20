@@ -8,44 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 524000,
+    "total_heat": 520000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "掌门怀孕，关我一个杂役什么事",
-          "book_id": 2014393,
-          "intro": "穿越修仙界，因灵脉低下，修炼资质如同废柴，林陌被卖到初圣宗当杂役。\n因清洁工作干得好，林陌得以进入掌门寝宫负责杂役一职。\n这一干就是百年。\n时年一百一十岁的林陌仍然停留在炼气期，白发苍苍寿元将尽。\n掌"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -1000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": 1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：头部效应极度集中，传统“废柴逆袭”与“胎穿悟道”等经典套路依然是市场的压舱石。\n**读者偏好**：读者热衷于超长周期、高成长性、开局即巅峰或具备极强金手指设定的爽文叙事。\n**变动解读**：榜单趋于固化，头部作品《荒古武神》断层领先，说明玄幻品类已进入存量竞争阶段，新书突围难度极大。\n**值得关注**：需监控该品类下沉市场的审美疲劳点，目前头部作品热度波动微小，市场期待更具创新性的叙事模版。",
+      "summary": "**题材趋势**：传统升级流与“胎穿/系统流”双雄并立，硬核战力设定仍是核心驱动力。\n**读者偏好**：读者倾向于极具爽感的“从零开始”式成长，尤其是对“开局即巅峰”的设定表现出极高粘性。\n**变动解读**：榜单结构极其稳固，头部作品呈现存量市场特征，热度小幅回落反映了完结作品的长尾效应。\n**值得关注**：头部作品《荒古武神》的压制力极强，后续同类作品若无创新性设定，短期内难以撼动格局。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,7 +47,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 435000,
+        "heat": 431000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -72,7 +55,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -94,14 +77,14 @@
         "word_count_text": "276.73万字",
         "word_count": 2767300,
         "heat": 89000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

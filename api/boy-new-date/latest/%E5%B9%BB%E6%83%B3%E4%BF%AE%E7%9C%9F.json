@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-21",
+  "category": {
+    "name": "幻想修真",
+    "major": "武侠仙侠",
+    "count": 1,
+    "total_heat": 48000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统凡人流叠加“金手指补全”设定，强调成长过程中的资源积累与逆袭爽感。\n**读者偏好**：读者对低开高走、通过特殊道具弥补资质缺陷的成长模式有较高接纳度。\n**变动解读**：新书《聚宝仙炉》以48000热度入榜，展示了该细分赛道对“资源翻倍”类爽文的持续需求。\n**值得关注**：该书通过“补天炉”的核心设定构建了明确的期待感，后续需关注其在长线更新中如何平衡升级节奏与爽点密度。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 13,
+        "title": "聚宝仙炉",
+        "book_id": 12452187,
+        "url": "https://www.qimao.com/shuku/12452187/",
+        "author": "我没偷懒",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%B2%A1%E5%81%B7%E6%87%92_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "32.53万字",
+        "word_count": 325300,
+        "heat": 48000,
+        "platform_trend": "rise",
+        "badge": "飙升17名",
+        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
+        "latest_chapter": " 第155章  恍如隔世",
+        "updated_at": "2026-08-21 00:12:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "幻想修真"
+      }
+    ]
+  }
+}

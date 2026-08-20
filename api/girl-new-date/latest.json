@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "types": [
     {
       "name": "全部",
@@ -29,10 +29,6 @@
     {
       "name": "现代悬疑",
       "url": "api/girl-new-date/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
-    },
-    {
-      "name": "玄幻仙侠",
-      "url": "api/girl-new-date/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     }
   ]
 }

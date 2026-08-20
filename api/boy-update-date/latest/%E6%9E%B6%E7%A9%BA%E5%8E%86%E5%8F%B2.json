@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "医仙，将军，少年侯！谁与争锋！",
-          "book_id": 12371697,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "医仙，将军，少年侯！谁与争锋！",
           "book_id": 12371697,
-          "heat_change": -13
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：侧重“身份错位”与“权谋博弈”，强调主角在多方势力夹缝中求生的紧张感。\n**读者偏好**：倾向于高反差的爽点设定，如“反贼之子变天子心腹”或“乱世郎中携美进阶”，追求身份逆袭带来的心理满足。\n**变动解读**：整体热度低迷且缺乏新面孔，存量作品排名波动小，显示出该品类在当前榜单中处于调整期。\n**值得关注**：建议重点关注具有强冲突开篇（如弑君/退婚/赐婚）的作品，这类“开局即危机”的架构在七猫男频仍有较强粘性。",
+      "summary": "**题材趋势** 市场处于低迷沉淀期，上榜作品均为典型的反差爽文架构，侧重于“身份错位”带来的戏剧冲突。\n**读者偏好** 倾向于开局带有强烈的生存压力或身份博弈，偏好“反贼/刺客”与“皇权/权谋”深度绑定的强冲突设定。\n**变动解读** 榜单固化严重，热度长期处于冰点，说明当前存量作品未能有效拉动读者活跃度。\n**值得关注** 《我爹让我弑君，陛下却把公主赐给我》的“伪装+入赘”模式，是目前该类目下最能调动读者爽点的套路。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,15 +45,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "69.02万字",
-        "word_count": 690200,
+        "word_count_text": "69.58万字",
+        "word_count": 695800,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
-        "latest_chapter": " 第218章  八百四十七个死人",
-        "updated_at": "2026-08-19 08:12:07",
+        "latest_chapter": " 第220章  改活榜前",
+        "updated_at": "2026-08-20 08:12:06",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -80,17 +74,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.76万字",
-        "word_count": 417600,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "42.2万字",
+        "word_count": 422000,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第178章  查抄",
-        "updated_at": "2026-08-20 00:12:15",
-        "rank_change": -1,
-        "heat_change": -13,
+        "latest_chapter": " 第180章  开拔",
+        "updated_at": "2026-08-21 00:12:16",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

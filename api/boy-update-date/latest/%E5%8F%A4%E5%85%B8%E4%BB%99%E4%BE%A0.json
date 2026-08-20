@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "众仙俯首",
           "book_id": 1971590,
-          "rank_change": -1
+          "rank_change": -4
         }
       ],
       "heat_leaders": [
         {
           "title": "众仙俯首",
           "book_id": 1971590,
-          "heat_change": 1
+          "heat_change": 3
         }
       ],
-      "summary": "**题材趋势**：回归“多情羁绊”与“前世今生”的修仙情感流叙事。\n**读者偏好**：读者更倾向于复杂的情感纠葛，如“斩情绝爱”与“众女纠缠”的反差，带有明显的后宫或修罗场色彩。\n**变动解读**：榜单流动性较差，仅存作品热度微调，反映该品类在当前日榜中处于相对固化的存量竞争阶段。\n**值得关注**：在纯粹的打怪升级之外，如何通过女性角色与主角的情感羁绊来增加故事厚度，是该题材持续留存的关键。",
+      "summary": "**题材趋势** 题材回归“传统修仙+多女主纠葛”的经典套路，市场热度集中在单一头部作品的拉锯上。\n**读者偏好** 偏好带有“重生复仇”与“情感羁绊”双重属性的叙事，读者对高浓度、多角色的情感互动反馈积极。\n**变动解读** 尽管单日排名出现下滑，但热度逆势增长，表明该书的核心受众群体粘性较高，具备较强的长尾效应。\n**值得关注** 《众仙俯首》作为该细分领域的独苗，其情感线的设计能否持续维持读者热度是后续观察重点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 13,
         "title": "众仙俯首",
         "book_id": 1971590,
         "url": "https://www.qimao.com/shuku/1971590/",
@@ -51,17 +51,17 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "370.44万字",
-        "word_count": 3704400,
-        "heat": 1,
+        "word_count_text": "371.12万字",
+        "word_count": 3711200,
+        "heat": 4,
         "platform_trend": "drop",
         "badge": "",
         "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死；\n今生，他斩情绝爱，一心向道，不料造化弄人。\n魔女指尖燃起业火：“本宫朱砂痣的位置...你倒是记得清楚。”\n玉女宗圣女剑锋凝霜：“你破了我的太上忘情，就想一走了之？”\n祸国妖妃巧笑嫣然：“与奴家知根知底者，唯夫君耳。”\n林落尘叹息一声：“我只想成仙做祖，让众仙俯首，不想谈什么情情爱爱！”\n妖妃闻言舔了舔红唇：“原来夫君你好这口啊，早说嘛！”\n林落尘望着追来的红颜，突然觉得，自己这一世，怕是死得比上一世更早......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
-        "latest_chapter": " 第1058章  老祖，这不对啊！",
-        "updated_at": "2026-08-20 07:01:11",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第1060章  恭送朱雀大人！",
+        "updated_at": "2026-08-21 07:01:11",
+        "rank_change": -4,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

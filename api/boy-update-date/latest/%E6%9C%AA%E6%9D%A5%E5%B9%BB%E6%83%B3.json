@@ -8,31 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "未来幻想",
     "major": "科幻",
     "count": 1,
     "total_heat": 1,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "别登月，月背有神",
-          "book_id": 12808782
+          "book_id": 12808782,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：科幻与神话结合的“新中式科幻”题材展现出一定的市场潜力。\n**读者偏好**：读者对融合了航天元素、旧神秩序与末世博弈的宏大叙事背景表现出兴趣。\n**变动解读**：《别登月，月背有神》作为新入榜作品，显示出读者对探索月球阴谋论等猎奇科幻题材的关注。\n**值得关注**：此类题材后续能否通过快节奏叙事留住读者，将决定其在榜单的留存深度。",
+      "summary": "**题材趋势**：未来幻想类目目前处于冷门期，市场份额极低，依靠单一作品支撑榜单。\n**读者偏好**：读者对“硬核科幻+神话解构”的融合题材表现出一定兴趣，尤其是将航天背景与古典神话结合的设定。\n**变动解读**：榜单仅存作品排名微升，显示出该题材在细分领域内仍有稳定的受众群体。\n**值得关注**：该作品以“旧神系统”对抗为核心，此类结合神秘学与科幻的叙事逻辑值得后续观察其热度持续性。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 19,
         "title": "别登月，月背有神",
         "book_id": 12808782,
         "url": "https://www.qimao.com/shuku/12808782/",
@@ -44,18 +45,18 @@
         "minor_id": 67,
         "minor_url": "https://www.qimao.com/shuku/a-64-67-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.71万字",
-        "word_count": 397100,
+        "word_count_text": "40.23万字",
+        "word_count": 402300,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "月球背面不是荒原，而是天庭废墟；不周山不是山，而是地月之间断裂的命运天柱。一个航天城打零工的青年，为救妹妹、寻父亲、夺回人间自主权，被迫与试图重启天庭秩序的旧神系统对抗到底。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4270/12808782_360x480.jpg?time=1784179347",
-        "latest_chapter": " 第206章  闻昭临签过两份协议",
-        "updated_at": "2026-08-19 08:30:06",
-        "rank_change": 0,
+        "latest_chapter": " 第210章  断柱计划现在才开始",
+        "updated_at": "2026-08-20 08:26:04",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "未来幻想"

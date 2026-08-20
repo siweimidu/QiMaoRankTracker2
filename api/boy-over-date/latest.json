@@ -8,11 +8,15 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "types": [
     {
       "name": "全部",
       "url": "api/boy-over-date/latest/all.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "都市高武",
@@ -21,14 +25,6 @@
     {
       "name": "架空历史",
       "url": "api/boy-over-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
-    },
-    {
-      "name": "都市高手",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
-    },
-    {
-      "name": "都市生活",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "东方玄幻",
@@ -41,6 +37,10 @@
     {
       "name": "热血校园",
       "url": "api/boy-over-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "末世危机",

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 290000,
+    "total_heat": 284000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,8 +21,14 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：王朝争霸类目目前呈现头部固化态势，单品支撑现象明显，市场缺乏新鲜血液冲击。\n**读者偏好**：读者对“小人物逆袭+家国天下”的传统爽文模式保持高粘性，带有一定权谋与武力进阶设定的作品更受青睐。\n**变动解读**：榜单结构高度稳定，当前无新进作品，现有头部作品《大周第一武夫》稳居榜单，热度表现平稳。\n**值得关注**：该细分赛道目前进入存量竞争阶段，后续需观察是否有具备强冲突、快节奏的黑马作品入局打破僵局。",
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": -6000
+        }
+      ],
+      "summary": "**题材趋势**：传统权谋与武道争霸题材在榜单中表现趋于平稳，市场进入存量博弈阶段。\n**读者偏好**：读者更青睐带有“底层崛起”与“强力介入世道”爽点的传统网文叙事。\n**变动解读**：本期榜单无新书注入，头部作品《大周第一武夫》虽热度小幅回落，但仍稳居榜位，显示出该品类目前缺乏强力竞品冲击。\n**值得关注**：需警惕该品类在缺乏新鲜血液补充的情况下，热度持续下滑的风险。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "185.62万字",
-        "word_count": 1856200,
-        "heat": 290000,
+        "word_count_text": "186.29万字",
+        "word_count": 1862900,
+        "heat": 284000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第861章  问答",
-        "updated_at": "2026-08-19 18:11:07",
+        "latest_chapter": " 第864章  彻底暴露（一）",
+        "updated_at": "2026-08-20 18:11:07",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

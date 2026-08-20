@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "无限快穿",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "诡异直播，早死的老公是疯批boss",
           "book_id": 9923838,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "诡异直播，早死的老公是疯批boss",
           "book_id": 9923838,
-          "heat_change": -2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：无限流与诡异直播题材结合依然是该细分领域的核心卖点，强调爽点与诡异氛围的平衡。\n**读者偏好**：读者更倾向于带有“继承遗产”、“疯批人设”等强设定、强反差的剧情，注重女主在副本中的生存与反转。\n**变动解读**：本期仅存的一本上榜书出现热度下滑及排名微降，显示该题材在当前榜单头部竞争力趋弱，缺乏新鲜血液注入。\n**值得关注**：需观察后续是否会有具备强互动性或独特“道具”设定的新书上榜，以打破目前的冷清局面。",
+      "summary": "**题材趋势**：无限流与“诡异直播”结合的题材持续迭代，强调高压环境下的反差感与金手指爽点。\n**读者偏好**：读者热衷于“冥币/遗产”等直观的财富暴富梗，以及在恐怖副本中通过非正常手段（如疯批boss关系）获利的叙事模式。\n**变动解读**：《诡异直播，早死的老公是疯批boss》热度小幅上扬，验证了“诡异+婚恋”的强冲突组合在快穿类目中的受众基础。\n**值得关注**：通过反常规的“诡异经营”或“诡异恋爱”设定，可有效提升快穿题材的趣味性与互动感。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 14,
         "title": "诡异直播，早死的老公是疯批boss",
         "book_id": 9923838,
         "url": "https://www.qimao.com/shuku/9923838/",
@@ -51,17 +51,17 @@
         "minor_id": 283,
         "minor_url": "https://www.qimao.com/shuku/a-4-283-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "83.83万字",
-        "word_count": 838300,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "83.96万字",
+        "word_count": 839600,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "众所周知，老公死后就能继承遗产\n\n　　好消息：云栀的老公死了，她继承了一百亿\n\n　　坏消息：是冥币\n\n　　就在云栀准备把老公挖出来揍一顿的时候，她被拉进了诡异游戏\n\n　　云栀发现，一百亿冥币居然在诡异世界有用\n\n　　等等，怎么她在副本里面遇见的变态痴汉boss，长得和她早死的塑料老公一模一样！？\n\n　　云栀一直以为她和塑料老公是闪婚联姻没有感情，但变成副本boss的男人却格外粘人\n\n　　变成boss的塑料老公：老婆我们不是一见钟情两情相悦然后结婚的吗？\n\n　　云栀：啊？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3308/9923838_360x480.jpg?time=1774405962",
-        "latest_chapter": " 第414章  诡异降临前（番外2）",
-        "updated_at": "2026-08-20 00:00:17",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第415章  番外（完）",
+        "updated_at": "2026-08-20 23:50:07",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

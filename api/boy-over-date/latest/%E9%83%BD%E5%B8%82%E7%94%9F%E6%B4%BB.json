@@ -8,82 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 3,
-    "total_heat": 192000,
+    "count": 2,
+    "total_heat": 144000,
     "trend": {
-      "new_count": 2,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "还不起人情债，我只好当她男朋友了",
-          "book_id": 1924828
-        },
-        {
-          "title": "甩我是吧？那就捡个校花回家当老婆",
-          "book_id": 9796413
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "前脚离婚，后脚我成了顶级神豪",
-          "book_id": 1994990,
-          "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏…"
+          "title": "甩我是吧？那就捡个校花回家当老婆",
+          "book_id": 9796413,
+          "intro": "【都市日常+爽文+单女主+无系统+病娇】\n全校都知道，苏清禾是不可攀折的高岭之花。\n她在开学典礼上弹钢琴的模样，成了无数男生青春里的白月光。\n江澈是个例外，他对校花什么的并不感冒。\n可一个月前，她离奇"
         }
       ],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "还不起人情债，我只好当她男朋友了",
+          "book_id": 1924828,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
+          "title": "还不起人情债，我只好当她男朋友了",
+          "book_id": 1924828,
+          "heat_change": 10000
+        },
+        {
           "title": "我非池中物",
           "book_id": 1850580,
-          "heat_change": -2000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材正由“神豪流”向“情感纠葛与职场/校园日常”转型，强调强冲突与强情感共鸣的融合。\n**读者偏好**：读者对包含“离婚后”、“校花”、“病娇”、“人情债”等高情绪价值标签的日常向爽文表现出极高热度。\n**变动解读**：榜单更迭剧烈，神豪题材被淘汰，两部情感向新书强势上榜，显示出读者对纯粹爽感之外，更追求细腻的情感反转体验。\n**值得关注**：建议重点关注单女主向的情感拉扯类作品，这类书在当前男性读者群体中具备更强的留存与粘性。",
+      "summary": "**题材趋势**：都市生活类题材呈现出“强情感纠葛+逆袭爽点”的垂直细分趋势，尤其以离婚后的情感重塑及阶级跨越为核心卖点。\n**读者偏好**：读者更倾向于具有强代入感的“先抑后扬”型叙事，即通过人情债、校花欺辱等戏剧冲突引发共鸣，再通过后续的逆袭爽感释放情绪。\n**变动解读**：榜单更迭较快，情感羁绊类作品（如《还不起人情债》）表现出更强的留存韧性，而纯粹的逆袭压抑叙事（如《我非池中物》）热度有所回落，显示读者对“甜宠+临时关系”的接受度优于“复仇+沉重过往”。\n**值得关注**：都市生活类作品的“书名即卖点”特征显著，强调情感关系的暧昧与社交属性，是当前吸引流量的关键点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
-        "title": "我非池中物",
-        "book_id": 1850580,
-        "url": "https://www.qimao.com/shuku/1850580/",
-        "author": "夜泊秦淮",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "340.6万字",
-        "word_count": 3406000,
-        "heat": 74000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
-        "latest_chapter": " 第1631章  大结局",
-        "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -1,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "都市生活"
-      },
-      {
-        "rank": 16,
+        "rank": 15,
         "title": "还不起人情债，我只好当她男朋友了",
         "book_id": 1924828,
         "url": "https://www.qimao.com/shuku/1924828/",
@@ -97,46 +70,46 @@
         "status": "已完结",
         "word_count_text": "292.33万字",
         "word_count": 2923300,
-        "heat": 64000,
+        "heat": 74000,
         "platform_trend": "rise",
-        "badge": "飙升17名",
+        "badge": "",
         "intro": "本书又名：《离婚后，我与美女同事做了临时夫妻》、《离婚后，我的桃花运来了》。\n---\n离婚的那天晚上，江风被朋友接到了他家里喝酒，嫂子做了一桌子丰盛的菜。\n酒过三巡，大家都有些醉意的时候，朋友突然道：“江风，我给你介绍个女朋友吧？包你满意！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/653/1958718_360x480.jpg?time=1740125957",
         "latest_chapter": " 第551章  番外：前世篇",
         "updated_at": "2026-06-21 21:01:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 1,
+        "heat_change": 10000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市生活"
       },
       {
-        "rank": 20,
-        "title": "甩我是吧？那就捡个校花回家当老婆",
-        "book_id": 9796413,
-        "url": "https://www.qimao.com/shuku/9796413/",
-        "author": "云瓷",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E7%93%B7_14/",
+        "rank": 17,
+        "title": "我非池中物",
+        "book_id": 1850580,
+        "url": "https://www.qimao.com/shuku/1850580/",
+        "author": "夜泊秦淮",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "已完结",
-        "word_count_text": "113.5万字",
-        "word_count": 1135000,
-        "heat": 54000,
-        "platform_trend": "rise",
+        "word_count_text": "340.6万字",
+        "word_count": 3406000,
+        "heat": 70000,
+        "platform_trend": "drop",
         "badge": "",
-        "intro": "【都市日常+爽文+单女主+无系统+病娇】\n全校都知道，苏清禾是不可攀折的高岭之花。\n她在开学典礼上弹钢琴的模样，成了无数男生青春里的白月光。\n江澈是个例外，他对校花什么的并不感冒。\n可一个月前，她离奇失踪，成了全校讳莫如深的谈资。\n再见面时，昔日女神蜷缩在阴暗巷口的垃圾桶旁，双目失明，浑身脏臭，为了一个破塑料袋被地痞拳打脚踢。\n江澈一脚踹翻了欺负她的人，出于好心，将这片“破碎的月光”抱回了家。\n江澈以为自己只是随手捡了个麻烦，打算等她治好眼睛、查清真相就两清。\n可他不知道，在这个被黑暗吞噬的女孩心里，他成了唯一能救命的稻草。\n“阿澈，外面好黑，你别松手好不好？”\n起初，她卑微如尘，连呼吸都带着小心翼翼。\n后来，江澈发现事情的发展逐渐失去了控制……\n在他生日那天，曾经那个清冷如雪、连手指都不让人碰的苏清禾，却用红绸缎缠住了他的手腕，在他耳边吐气如兰，眼神带着近乎疯狂的偏执：\n“阿澈，是你把我捡回来的，这辈子……你都别想把我弄丢了。”\n“如果你想跑，我就把你关进黑暗的小房子里，好不好？”\n江澈：？\n说好的清冷校花呢？这白月光怎么变黑了，还想把他私藏？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3266/9796413_360x480.jpg?time=1767860360",
-        "latest_chapter": " 第538章  大结局：订婚",
-        "updated_at": "2026-07-30 00:02:16",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
+        "latest_chapter": " 第1631章  大结局",
+        "updated_at": "2026-01-01 00:43:17",
+        "rank_change": -3,
+        "heat_change": -4000,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": true,
         "category": "都市生活"
       }
