@@ -7,8 +7,8 @@ name: 每日榜单抓取与构建
 
 on:
   schedule:
-    # UTC 23:30 = 北京时间（Asia/Shanghai）次日 07:30，错开整点调度高峰
-    - cron: '30 23 * * *'
+    # UTC 21:00 = 北京时间（Asia/Shanghai）次日 05:00 触发
+    - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       boards:
