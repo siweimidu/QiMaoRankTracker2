@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 72000,
+    "total_heat": 75000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -1000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：末世题材已进入存量博弈阶段，目前上榜作品多为具备“末日游戏/系统”标签的成熟作品，强调生存环境下的极端人性选择。\n**读者偏好**：读者热衷于“杀伐果断”的主角人设，倾向于将末日背景与游戏化升级模式结合，追求强烈的视觉冲击与爽感。\n**变动解读**：该类目整体热度趋于平稳但略有下滑，缺乏新晋爆款冲击，表明在完结榜单中，长尾效应较强，但缺乏新的题材驱动力。\n**值得关注**：跨媒体联动（如漫画化）成为延长作品生命周期的重要手段，通过多渠道导流可有效维持完结作品的后续热度。",
+      "summary": "**题材趋势**：末世题材进入平稳期，融合“杀伐果断”与“系统重生”元素的经典设定仍具备极强的用户黏性。\n**读者偏好**：读者倾向于阅读拥有明确杀伐价值观的主角，以及能够通过系统量化成长的爽感体系。\n**变动解读**：本类目热度保持正向小幅增长，显示该题材拥有稳定的核心受众，书籍排名无变动说明其在细分领域的统治力稳固。\n**值得关注**：关注作品的“IP衍生化”潜力，如漫画联动推广对于维持长尾热度的积极影响。",
       "ai_source": "ai"
     },
     "books": [
@@ -53,15 +47,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 72000,
-        "platform_trend": "drop",
+        "heat": 75000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

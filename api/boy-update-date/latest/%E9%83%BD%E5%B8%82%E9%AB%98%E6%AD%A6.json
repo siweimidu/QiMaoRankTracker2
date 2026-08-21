@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "死前考核",
-          "book_id": 12606348,
-          "intro": "很多人在经历过生死大劫之后，就会性情大变，人生也像开挂一样。\n那是因为每个人在临死前，都会进入一片死前考核空间。\n只要通过考核就能活过来，而且在考核空间获得的特殊能力也会带回现世。\n所谓大难不死必有后"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": -2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：都市高武类在该榜单中表现低迷，目前仅存1本在榜作品，显示出该细分领域在当前更新日榜中的竞争力和曝光度严重不足。\n**读者偏好**：读者对传统“神医+无敌流”模式的审美疲劳加剧，存量作品难以维持高热度，用户粘性呈现下滑趋势。\n**变动解读**：头部作品《盖世神医》排名与热度双降，且《死前考核》掉出榜单后无新书补位，反映出该类目缺乏新鲜血液注入。\n**值得关注**：需警惕该细分赛道的萎缩风险，建议创作者在“都市+高武”的框架下，寻求更具创新性的爽点融合以重新吸引流量。",
+      "summary": "**题材趋势**：都市高武类题材目前在榜单呈现“稳中求进”态势，长线作品通过强人设维持竞争力。\n**读者偏好**：读者偏好极具掌控感的“全能型”主角，尤其是兼具医术与武力、行事果决的爽文设定。\n**变动解读**：本期《盖世神医》排名上升2位，热度小幅增长，显示该类作品凭借高辨识度的“叶秋”式人设，在存量博弈中仍具备较强韧性。\n**值得关注**：建议重点监测此类“医武双修”题材在后续榜单中的长尾效应，观察是否存在新书挑战存量头部作品。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 14,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -57,17 +51,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "896.23万字",
-        "word_count": 8962300,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "896.88万字",
+        "word_count": 8968800,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4372章  裴玄！",
-        "updated_at": "2026-08-20 22:11:31",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第4375章  气度无双（下）",
+        "updated_at": "2026-08-21 20:17:30",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,

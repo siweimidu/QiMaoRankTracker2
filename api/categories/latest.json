@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "categories": [
     {
       "name": "都市高武",
@@ -92,11 +92,6 @@
       "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
-      "name": "未来幻想",
-      "major": "科幻",
-      "url": "api/categories/latest/%E6%9C%AA%E6%9D%A5%E5%B9%BB%E6%83%B3.json"
-    },
-    {
       "name": "总裁豪门",
       "major": "现代言情",
       "url": "api/categories/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
@@ -127,14 +122,14 @@
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "种田经商",
-      "major": "古代言情",
-      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
-    },
-    {
       "name": "都市奇幻",
       "major": "现代言情",
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
+    },
+    {
+      "name": "权谋天下",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
     },
     {
       "name": "古代情缘",
@@ -142,9 +137,9 @@
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
-      "name": "权谋天下",
+      "name": "种田经商",
       "major": "古代言情",
-      "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     },
     {
       "name": "无限快穿",

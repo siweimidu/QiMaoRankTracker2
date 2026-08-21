@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 2
+          "rank_change": -4
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势** 民俗诡异类题材展现出强劲的上升势头，市场对“规则怪谈+黑暗生存”风格的接受度显著提高。\n**读者偏好** 读者追求极端的压抑与反转，倾向于主角具备“降维打击”能力的暗黑类爽文叙事。\n**变动解读** 排名上升明显且热度正向增长，说明该题材在当前榜单环境中具备较强的流量吸附能力与上升潜力。\n**值得关注** 《天黑请点灯》所呈现的“诡异世界观+冷峻主角”设定，是目前小众题材中极具爆发力的内容增长点。",
+      "summary": "**题材趋势**：民俗恐怖与诡异流题材维持低频稳定输出，强调环境压抑感与“生存法则”下的猎奇体验。\n**读者偏好**：受众偏好具有沉浸感的生存类设定，对“规则怪谈”或“人吃人”式的残酷世界观抱有较高关注度。\n**变动解读**：虽然排名出现下滑，但热度逆势增长，说明核心忠实读者群对该书的粘性较强，具备长尾效应。\n**值得关注**：该题材小众且门槛高，若能通过持续更新强化诡异氛围，有望在缺乏竞争的环境中通过口碑沉淀实现热度回升。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 18,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -53,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "446.96万字",
         "word_count": 4469600,
-        "heat": 2,
-        "platform_trend": "rise",
+        "heat": 4,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
         "latest_chapter": " 第1645章  四规山！",
         "updated_at": "2026-08-21 06:57:11",
-        "rank_change": 2,
-        "heat_change": 1,
+        "rank_change": -4,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

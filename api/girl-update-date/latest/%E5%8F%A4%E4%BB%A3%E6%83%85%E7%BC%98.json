@@ -8,38 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
-    "count": 1,
-    "total_heat": 2,
+    "count": 2,
+    "total_heat": 8,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "撩完清冷世子后，小通房她带球跑了",
+          "book_id": 12107619
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "rank_change": 2
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "heat_change": 2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：传统古言正剧式微，带有强灵异、玄幻色彩的“古言+诡秘”融合题材正呈现出细分市场的增长势头。\n**读者偏好**：读者对“强强联手”及“人鬼殊途”的极限拉扯设定青睐有加，倾向于探案与悬疑解密带来的爽感。\n**变动解读**：《皇妃来自地府，百鬼退散》排名稳步上升，反映出该类题材在低体量环境下仍具备较强的长尾吸睛能力。\n**值得关注**：在古言框架下融入民俗灵异与悬疑探案元素，是目前差异化突围的核心路径。",
+      "summary": "**题材趋势**：古代情缘正从纯粹的言情向“古言+X”转型，尤其是融合灵异、悬疑元素的“奇幻言情”具备极强的破圈潜力。\n**读者偏好**：读者对“强强联手”及“带球跑”的情感博弈逻辑买单，尤其是设定新颖的“鬼怪/灵异”背景能有效提升点击转化。\n**变动解读**：新书《撩完清冷世子后》迅速跻身榜单并占据高热度，证实了“卑微身份+上位者低头”的经典套路依然具有极强统治力。\n**值得关注**：此类题材的生命力在于人设的“反差感”，建议关注后续是否有更多具备异能背景的古言作品涌入。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 15,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -51,18 +56,47 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "95.26万字",
-        "word_count": 952600,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "95.94万字",
+        "word_count": 959400,
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第457章  财神娘娘",
-        "updated_at": "2026-08-20 22:07:05",
-        "rank_change": 2,
-        "heat_change": 2,
+        "latest_chapter": " 第460章  召唤同类",
+        "updated_at": "2026-08-21 23:37:07",
+        "rank_change": -3,
+        "heat_change": 1,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 20,
+        "title": "撩完清冷世子后，小通房她带球跑了",
+        "book_id": 12107619,
+        "url": "https://www.qimao.com/shuku/12107619/",
+        "author": "一亩草",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E4%BA%A9%E8%8D%89_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "24.58万字",
+        "word_count": 245800,
+        "heat": 5,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【上位者低头+狗血带球跑+追妻火葬场】\n阿芙一朝猝死，穿成了侯府最卑贱的粗使丫鬟。\n她一心攒钱赎身，却被指给世子谢寻做了通房。\n通房，不过是主子泄欲的玩物，待主母进门，轻则发卖，重则丢了性命，还不如寻常丫鬟活的体面。\n谢寻定亲后，人人都说他那未婚妻不是善茬，未及笄就亲手料理了父亲好几个通房，死的死，残的残。\n等她进了门，阿芙的好日子也就到头了。\n阿芙知道终有这么一天。\n但是亲耳听到谢寻对侯夫人说：“一个通房罢了，世子妃若是觉得碍眼，等她进门后亲自处置了就是。”\n阿芙还是如坠冰窖。\n她设法从侯夫人那里拿到了身契准备离开。\n一向清冷矜贵的世子爷却不愿放她走，“爷给你一个孩子傍身，莫要闹了。”\n他不由分说的停了避子药，将她禁足在偏房。\n大婚前夕，阿芙怀着三个月的身孕死遁了。\n数年后，谢寻就任凉州都护使，途歇一间茶点铺子。\n他盯着一个缩小版的自己，低声笑了。\n“……阿芙，你倒是是真敢啊。”\n帘子后面，揉茶的手顿住。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1787105772",
+        "latest_chapter": " 第115章  随意作践",
+        "updated_at": "2026-08-21 14:02:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"

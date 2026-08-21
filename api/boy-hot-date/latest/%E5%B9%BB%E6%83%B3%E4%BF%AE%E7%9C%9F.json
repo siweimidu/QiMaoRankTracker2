@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "凡尘飞仙",
-          "book_id": 1729484,
-          "heat_change": 4000
-        }
-      ],
-      "summary": "**题材趋势**：传统修仙题材表现稳健，带有“金手指”辅助修炼的经典套路仍具备较强的读者黏性。\n**读者偏好**：读者偏好“草根逆袭+资源无限”的成长模式，对简单直接的修行爽点反馈良好。\n**变动解读**：榜单整体结构固化，头部作品《凡尘飞仙》热度微涨，反映出该类目在稳定受众群体中仍有增长空间。\n**值得关注**：该小类目前呈现单一头部垄断特征，市场亟需更多创新元素以激活活跃度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统修真品类进入平稳期，金手指驱动的成长型叙事仍是该类别的核心卖点。\n**读者偏好**：读者热衷于“凡人流”与“资源外挂”的经典搭配，追求从普通人到修仙者的阶级跃迁爽感。\n**变动解读**：榜单呈现固化状态，现有头部作品《凡尘飞仙》凭借稳健的更新节奏与受众匹配度，牢牢占据席位。\n**值得关注**：建议关注修真题材是否会出现结合新奇流派（如诡异修仙、种田修仙）的破局作品，以打破目前的沉寂态势。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +39,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "585.12万字",
-        "word_count": 5851200,
+        "word_count_text": "585.59万字",
+        "word_count": 5855900,
         "heat": 235000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一个普通的农村少年，偶然得到聚宝盆，凭借其复制能力，得到海量资源，走上修行一途……仙路悠悠，普通少年的飞仙之路……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
-        "latest_chapter": " 第2493章  伏央的震动",
-        "updated_at": "2026-08-20 21:07:20",
+        "latest_chapter": " 第2495章  意外终止",
+        "updated_at": "2026-08-21 21:02:22",
         "rank_change": 0,
-        "heat_change": 4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

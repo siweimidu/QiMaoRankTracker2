@@ -18,13 +18,13 @@
       "board": "girl-new-date",
       "board_name": "女生新书日榜",
       "rank": 2,
-      "heat": 172000
+      "heat": 173000
     },
     {
       "board": "girl-update-date",
       "board_name": "女生更新日榜",
       "rank": 10,
-      "heat": 8
+      "heat": 0
     }
   ],
   "history": [
@@ -99,6 +99,24 @@
       "b": "girl-update-date",
       "r": 10,
       "h": 8
+    },
+    {
+      "d": "2026-08-22",
+      "b": "girl-new-date",
+      "r": 2,
+      "h": 173000
+    },
+    {
+      "d": "2026-08-22",
+      "b": "girl-new-month",
+      "r": 1,
+      "h": 6560000
+    },
+    {
+      "d": "2026-08-22",
+      "b": "girl-update-date",
+      "r": 10,
+      "h": 0
     }
   ]
 }

@@ -8,21 +8,38 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 8074000,
+    "total_heat": 8748000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        {
+          "title": "下山后，漂亮姐姐蠢蠢欲动",
+          "book_id": 2053900
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "重生1981：从深山打猎开始崛起",
+          "book_id": 1961147,
+          "intro": "刺骨寒风卷着雪沫子灌进茅草屋，陈大山看着怀里瘦成芦柴棒的赵慧兰，心脏像被冰锥扎穿！\n这是1981年，他那被后爹和亲妈磋磨多年，最终凄凉惨死的老婆，还活着！\n“媳妇，等着。”\n他抄起简陋的工具进山，转头"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：题材呈现出“异能鉴宝”、“都市修仙”与“年代种田”三足鼎立的态势，强调主角从底层逆袭的爽感。\n**读者偏好**：读者热衷于快节奏的“老六”式打脸与极具反差感的强设定（如监狱修仙、年代暴富）。\n**变动解读**：本期榜单稳定性极高，三本头部作品排名无任何波动，显示出该赛道用户粘性强，长尾效应显著。\n**值得关注**：建议重点关注“年代+异能”类题材的融合，此类作品在满足读者怀旧心理的同时，能提供更强的爽点支撑。",
+      "summary": "**题材趋势**：侧重“下山流”与“异能鉴宝”的结合，强调主角从特殊环境回归世俗后的反差爽感。\n**读者偏好**：受众倾向于“强势无虐”的逆袭节奏，对涉及美女互动、信息差暴富及退婚等强冲突情节买单。\n**变动解读**：新书《下山后，漂亮姐姐蠢蠢欲动》展现了该题材对“软饭硬吃”与师徒设定结合的强依赖，挤出年代文《重生1981》意味着读者对纯粹的异能爽文需求更旺。\n**值得关注**：高热度书籍均带有明显的“美女+特殊身份”标签，此类“桃花运+金手指”组合仍是榜单核心驱动力。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,7 +73,36 @@
         "category": "都市高手"
       },
       {
-        "rank": 18,
+        "rank": 16,
+        "title": "下山后，漂亮姐姐蠢蠢欲动",
+        "book_id": 2053900,
+        "url": "https://www.qimao.com/shuku/2053900/",
+        "author": "神笔马丁爷",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A5%9E%E7%AC%94%E9%A9%AC%E4%B8%81%E7%88%B7_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "234.99万字",
+        "word_count": 2349900,
+        "heat": 2736000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "因为偷偷拿师父收藏的美女图引火，陆尘被师父一脚踹下山，结果刚下山就被漂亮姐姐拐回家。\n陆尘只能感叹师父说的没错，山下女人如狼似虎，男孩子一定要保护好自己。\n陆尘是想拒绝的，奈何漂亮姐姐人美，身材棒，说话也甜，根本把持不住啊",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/863/2586173_360x480.jpg?time=1755230413",
+        "latest_chapter": " 第995章  沧海桑田（大结局）",
+        "updated_at": "2026-08-19 01:08:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": true,
+        "category": "都市高手"
+      },
+      {
+        "rank": 19,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -77,39 +123,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "都市高手"
-      },
-      {
-        "rank": 20,
-        "title": "重生1981：从深山打猎开始崛起",
-        "book_id": 1961147,
-        "url": "https://www.qimao.com/shuku/1961147/",
-        "author": "意通明",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%84%8F%E9%80%9A%E6%98%8E_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "213.75万字",
-        "word_count": 2137500,
-        "heat": 2062000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "刺骨寒风卷着雪沫子灌进茅草屋，陈大山看着怀里瘦成芦柴棒的赵慧兰，心脏像被冰锥扎穿！\n这是1981年，他那被后爹和亲妈磋磨多年，最终凄凉惨死的老婆，还活着！\n“媳妇，等着。”\n他抄起简陋的工具进山，转头就拎回两只野鸡，“从今往后，你碗里的肉得堆成山！”\n后爹又来耍横，他一脚就把老东西踹翻在地，“谁敢欺负我媳妇，我就跟谁拼命！”\n看到赵慧兰捧着油滋滋的野鸡肉，眼泪混着肉香往下掉，陈大山暗暗暗发誓：这一世，谁都别想伤她分毫！\n村里人眼红？欺负他们爹不疼妈不爱，没兄弟帮衬？\n那你们就看看我的拳头够不够硬，看看我这枪里的子弹认不认人！\n陈大山在山里把野猪一窝一窝的打，把山货土产成千上万斤地往外卖，万元户的招牌还没焐热，就成了村里第一个买拖拉机的主！\n赵慧兰拽着他的袖子小声劝，“大山，太高调了……”\n陈大山握紧她柔软的手，望着无尽的大山笑：“高调？这才叫活着！”\n从贫瘠山村到繁华都市，从山野猎户到时代大亨！\n陈大山踩着改革开放的浪潮，要把前世亏欠的愧疚和遗憾，一一补给身边这个笑起来眼里有光的姑娘，要在这波澜壮阔的年代，活出比前世耀眼百倍的人生！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/714/2141210_360x480.jpg?time=1754504848",
-        "latest_chapter": " 第943章  时光荏苒，岁月峥嵘",
-        "updated_at": "2026-05-31 22:43:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

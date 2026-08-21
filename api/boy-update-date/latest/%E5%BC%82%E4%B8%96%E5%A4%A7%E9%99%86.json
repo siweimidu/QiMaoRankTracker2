@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
           "book_id": 12560163,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
-          "book_id": 12560163,
-          "heat_change": -2
-        }
-      ],
-      "summary": "**题材趋势**：传统异世大陆题材热度走低，目前呈现单品支撑的低迷态势。\n**读者偏好**：读者依然青睐包含“退婚流”、“军功冒领”及“逆袭打脸”等强冲突、快节奏的爽文元素。\n**变动解读**：本类目仅存的一部作品热度与排名双双下滑，反映出存量市场缺乏新鲜感，读者粘性正在减弱。\n**值得关注**：建议后续关注该类目是否有具备创新“金手指”或强反转剧情的新作入场，以激活市场活力。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：异世大陆类题材正向“军旅+权谋+打脸”的复合型叙事转变，强调底层小人物的逆袭叙事。\n**读者偏好**：读者高度聚焦于“战功被夺、未婚妻退婚”等高压开局，对主角绝地反击、封侯打脸的爽感期待值极高。\n**变动解读**：《边关小卒》凭借强烈的戏剧冲突排名上升1位，说明当前市场对带有复仇色彩的异界争霸题材反馈良好。\n**值得关注**：该类作品的核心竞争力在于“开局压抑感”与“后续权力晋升”的节奏把控，建议关注后续剧情是否能维持爽感输出。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
         "book_id": 12560163,
         "url": "https://www.qimao.com/shuku/12560163/",
@@ -51,17 +45,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.2万字",
-        "word_count": 432000,
+        "word_count_text": "43.76万字",
+        "word_count": 437600,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "陈牧从死人堆里爬回黑石堡，本以为等来的是军功。\n可城中红灯高挂，庆功宴上，百户之子赵承烈披着他的战利品，领着他的头功，还要娶他拼命救回来的未婚妻苏晚。\n苏晚当众退婚：“你只是个火头营小卒，配不上我。”\n满城将士冷眼旁观，都等着看他跪下认输。\n陈牧却拿出蛮将牙牌，当场验功。\n首级是假的，军功册被改，赵家还牵出通敌疑云。\n昔日嫌他低贱的女人跪在地上，终于知道自己错了。\n可陈牧已经不回头。\n边关敌袭再起，他披上染血红袍，提枪走向城头。\n“第一份军功你们抢了。”\n“这一份，我亲手拿回来。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4187/12560163_360x480.jpg?time=1782205579",
-        "latest_chapter": " 第143章  黑底七星和双头白鸟同一天到平码先问的不是",
-        "updated_at": "2026-08-21 00:02:18",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第145章  平澜城议没给我七座城只给了三百人七日可这",
+        "updated_at": "2026-08-22 00:02:20",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

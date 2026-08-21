@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 559000,
+    "total_heat": 531000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,12 +21,17 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "诗仙，诗圣，镇国公！",
-          "book_id": 11834034,
+          "title": "边军第一悍卒",
+          "book_id": 12086658,
           "rank_change": 1
         }
       ],
       "top_fallers": [
+        {
+          "title": "诗仙，诗圣，镇国公！",
+          "book_id": 11834034,
+          "rank_change": -2
+        },
         {
           "title": "让你当个替身，你咋君临天下",
           "book_id": 12647139,
@@ -37,20 +42,20 @@
         {
           "title": "诗仙，诗圣，镇国公！",
           "book_id": 11834034,
-          "heat_change": 22000
+          "heat_change": -35000
+        },
+        {
+          "title": "边军第一悍卒",
+          "book_id": 12086658,
+          "heat_change": 9000
         },
         {
           "title": "让你当个替身，你咋君临天下",
           "book_id": 12647139,
-          "heat_change": -9000
-        },
-        {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "heat_change": -4000
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：权谋与“换装”流并重，身份错位带来的爽感是核心驱动力。\n**读者偏好**：读者热衷于底层逆袭、夺权上位及后宫养成类题材，对“替身”与“赘婿/奴仆”类开局接受度极高。\n**变动解读**：头部格局稳固，中腰部作品竞争激烈，排名波动反映了读者对“才子争霸”题材新鲜感的短期追捧。\n**值得关注**：《诗仙，诗圣，镇国公！》热度持续上扬，显示出文抄公加权谋争霸类题材在当前市场的高强吸睛力。",
+      "summary": "**题材趋势**：权谋与“替身/赘婿”元素深度融合，侧重于身份反差带来的爽感升级。\n**读者偏好**：读者热衷于从底层爬升的“扮猪吃虎”流，以及带有强烈红颜羁绊的爽文设定。\n**变动解读**：榜单整体趋于稳定，头部作品《从骑奴到大乾武圣》优势稳固，其余作品热度小幅回撤，显示出存量竞争加剧。\n**值得关注**：《边军第一悍卒》通过持续的逆势增长，证明了“边军+热血+权谋”题材在当前市场中仍具有较强的生命力。",
       "ai_source": "ai"
     },
     "books": [
@@ -69,22 +74,22 @@
         "status": "连载中",
         "word_count_text": "43.25万字",
         "word_count": 432500,
-        "heat": 315000,
-        "platform_trend": "drop",
+        "heat": 318000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
         "latest_chapter": " 第202章  果然是‘比武’",
         "updated_at": "2026-08-21 08:28:03",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "title": "诗仙，诗圣，镇国公！",
         "book_id": 11834034,
         "url": "https://www.qimao.com/shuku/11834034/",
@@ -96,17 +101,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "29.36万字",
-        "word_count": 293600,
-        "heat": 129000,
-        "platform_trend": "rise",
+        "word_count_text": "29.8万字",
+        "word_count": 298000,
+        "heat": 94000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\n继母陷害，亲爹驱逐。\n本来只想做点小生意，潇洒的过完这一生，没想到……\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
-        "latest_chapter": " 第135章  慕容铎",
-        "updated_at": "2026-08-20 10:13:04",
-        "rank_change": 1,
-        "heat_change": 22000,
+        "latest_chapter": " 第137章  陈长安的影响",
+        "updated_at": "2026-08-21 10:42:03",
+        "rank_change": -2,
+        "heat_change": -35000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -114,6 +119,35 @@
       },
       {
         "rank": 11,
+        "title": "边军第一悍卒",
+        "book_id": 12086658,
+        "url": "https://www.qimao.com/shuku/12086658/",
+        "author": "叶听澜",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%B6%E5%90%AC%E6%BE%9C_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.74万字",
+        "word_count": 367400,
+        "heat": 64000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "权谋+边军+热血+爽文\n现代青年唐舜魂穿战乱年代，成为边疆小兵。七国争霸，民不聊生，他刚睁眼就在尸堆里爬行。  \n杀敌立功升什长，赏了个美人，却要率九人断后送死。  \n从什长起步，步步升官，扮猪吃虎，暗中扩张，势力席卷乡镇县城。  \n手握兵权，心藏大志，一边平定内乱，一边对抗强国。最终扫灭七国，一统天下，登基为帝。  \n美人变皇后，兄弟成重臣，一个现代人的古代逆袭路就此封神。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1780058420",
+        "latest_chapter": " 第164章  豪强妄横惊官临",
+        "updated_at": "2026-08-21 23:55:03",
+        "rank_change": 1,
+        "heat_change": 9000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 13,
         "title": "让你当个替身，你咋君临天下",
         "book_id": 12647139,
         "url": "https://www.qimao.com/shuku/12647139/",
@@ -127,7 +161,7 @@
         "status": "连载中",
         "word_count_text": "28.91万字",
         "word_count": 289100,
-        "heat": 60000,
+        "heat": 55000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\n\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\n\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\n\n　　一开始皇帝是想用林玄削弱外戚，结果事情越来越不对。\n\n　　乾帝：“太子，你六个摩托化兵团，真的是来京城给朕贺寿的？”\n\n　　太子妃：“林玄，我闺蜜是你的人，就连她嫂嫂……”\n\n　　林玄双手插兜，北狄公主肚子都大了，想让我给她个名分呢！\n\n怎么办？挺急的！",
@@ -135,38 +169,9 @@
         "latest_chapter": " 第136章  第六日",
         "updated_at": "2026-08-21 08:27:03",
         "rank_change": -2,
-        "heat_change": -9000,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 12,
-        "title": "边军第一悍卒",
-        "book_id": 12086658,
-        "url": "https://www.qimao.com/shuku/12086658/",
-        "author": "叶听澜",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%B6%E5%90%AC%E6%BE%9C_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "36.25万字",
-        "word_count": 362500,
-        "heat": 55000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "权谋+边军+热血+爽文\n现代青年唐舜魂穿战乱年代，成为边疆小兵。七国争霸，民不聊生，他刚睁眼就在尸堆里爬行。  \n杀敌立功升什长，赏了个美人，却要率九人断后送死。  \n从什长起步，步步升官，扮猪吃虎，暗中扩张，势力席卷乡镇县城。  \n手握兵权，心藏大志，一边平定内乱，一边对抗强国。最终扫灭七国，一统天下，登基为帝。  \n美人变皇后，兄弟成重臣，一个现代人的古代逆袭路就此封神。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1780058420",
-        "latest_chapter": " 第162章  灵州残堞起惊声",
-        "updated_at": "2026-08-21 00:32:04",
-        "rank_change": 0,
-        "heat_change": 3000,
-        "is_new": false,
-        "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       }

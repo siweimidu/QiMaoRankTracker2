@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "types": [
     {
       "name": "全部",
@@ -27,6 +27,10 @@
       "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
+      "name": "幻想修真",
+      "url": "api/boy-new-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+    },
+    {
       "name": "东方玄幻",
       "url": "api/boy-new-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
@@ -39,8 +43,8 @@
       "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
-      "name": "幻想修真",
-      "url": "api/boy-new-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+      "name": "商战职场",
+      "url": "api/boy-new-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
       "name": "诸天万界",

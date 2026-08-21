@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "types": [
     {
       "name": "全部",
@@ -33,6 +33,10 @@
     {
       "name": "乡村生活",
       "url": "api/boy-new-month/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "幻想修真",
+      "url": "api/boy-new-month/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "都市生活",

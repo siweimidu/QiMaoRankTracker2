@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 72000,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "只想安静种个地，门口怎么天天堵豪车？",
-          "book_id": 12284916,
-          "intro": "【种田日常】＋【神级系统】＋【反差打脸】＋【乡村神豪】\n职场霸凌， 情场失意，无奈继承爷爷的果园\n本以为这辈子只能在泥地里当个苦哈哈的村夫，谁料竟觉醒神级系统\n开局一滴灵泉水，枯树瞬间抽新芽，酸涩野桃"
-        }
-      ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "重生70：猎山猎水猎人生",
           "book_id": 12605832,
-          "rank_change": 1
+          "heat_change": 1000
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代文与狩猎元素的结合成为主流，通过“重生+搞钱+爽文节奏”的组合拳，强化读者的怀旧与暴富心理。\n**读者偏好**：读者偏好具备强烈地域色彩与时代特征的爽文，尤其是“万元户”等具有历史共鸣的财富叙事，能有效激发阅读兴趣。\n**变动解读**：该细分品类目前进入寡头竞争态势，榜单流动性较低，原有的种田流作品被淘汰，说明读者对“纯种田”的耐心下降，更偏好带有狩猎、战斗元素的强情节文。\n**值得关注**：《重生70：猎山猎水猎人生》展现了“年代+狩猎”题材的统治力，后续创作可重点挖掘时代背景下的个体奋斗爽点。",
+      "summary": "**题材趋势**：年代文与狩猎元素的结合仍是乡村类目的核心驱动力，强调强节奏的“爽感”输出。\n**读者偏好**：读者倾向于带有强烈复仇逆袭色彩、充满男性荷尔蒙气息的“纯爽文”，追求快速建立经济领先优势的快感。\n**变动解读**：榜单呈现高度固化态势，单品热度稳步增长，说明该题材存量用户黏性极强，阅读习惯稳定。\n**值得关注**：创作者应继续深挖“年代+职业技能”的爽点组合，通过高密度的情绪释放点维持长线热度。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.68万字",
-        "word_count": 456800,
-        "heat": 72000,
+        "word_count_text": "46.5万字",
+        "word_count": 465000,
+        "heat": 73000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第219章  晋升公社主任",
-        "updated_at": "2026-08-20 23:42:04",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第223章  墓地藏宝",
+        "updated_at": "2026-08-21 19:52:03",
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

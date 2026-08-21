@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-08-21T09:50:08",
-  "last_scraped_at": "2026-08-21T09:46:38",
-  "total_books": 200,
-  "new_today": 6,
+  "generated_at": "2026-08-22T05:27:23",
+  "last_scraped_at": "2026-08-22T05:23:54",
+  "total_books": 196,
+  "new_today": 13,
   "horse_count": 20,
   "boards": [
     {
       "slug": "boy-hot-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-hot-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-new-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-new-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-over-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-over-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-collect-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-update-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-new-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-new-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-over-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-over-month",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-collect-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-update-date",
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "book_count": 20,
       "ok": true
     }

@@ -8,37 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 4,
-    "total_heat": 287000,
+    "total_heat": 288000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "下山后，漂亮姐姐蠢蠢欲动",
-          "book_id": 2053900
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "rank_change": -3
-        },
+          "rank_change": 3
+        }
+      ],
+      "top_fallers": [
         {
-          "title": "财戒",
-          "book_id": 1989239,
-          "rank_change": -2
-        },
-        {
-          "title": "神医出狱",
-          "book_id": 1812061,
+          "title": "下山后，漂亮姐姐蠢蠢欲动",
+          "book_id": 2053900,
           "rank_change": -1
         }
       ],
@@ -46,12 +37,12 @@
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "heat_change": -3000
+          "heat_change": 6000
         },
         {
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "heat_change": 2000
+          "title": "下山后，漂亮姐姐蠢蠢欲动",
+          "book_id": 2053900,
+          "heat_change": -5000
         },
         {
           "title": "财戒",
@@ -59,12 +50,12 @@
           "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：都市高手类题材高度依赖“下山流”与“出狱流”套路，剧情核心多围绕身份反差与各色美女的互动展开。\n**读者偏好**：读者对强代入感的“开局即巅峰”及“被动式艳遇”情节有高度黏性，快节奏的爽点铺陈是留存关键。\n**变动解读**：榜单整体热度回落，头部作品出现下滑趋势，显示出该赛道存量竞争激烈，用户审美疲劳加剧。\n**值得关注**：《下山后，漂亮姐姐蠢蠢欲动》作为新上榜作品，凭借典型的“反差感”人设成功切入，展现了该题材对新人作者的准入门槛。",
+      "summary": "**题材趋势**：修仙出狱流与都市鉴宝流并存，强冲突的“退婚”、“下山”元素依然是核心卖点。\n**读者偏好**：读者更青睐带有强烈反差感和爽感的开篇，如“女子监狱”背景或“空姐”同居等极具视觉冲击的设定。\n**变动解读**：头部效应明显，《被关女子监狱三年》通过极具噱头的开局实现逆势上升，显示出短剧化叙事风格在榜单中更具吸睛力。\n**值得关注**：《被关女子监狱三年，我修炼成仙了》展现出极强的长尾效应，其题材的猎奇程度直接影响了读者的阅读转化率。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 9,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -78,22 +69,22 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 86000,
-        "platform_trend": "drop",
+        "heat": 92000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": -3,
-        "heat_change": -3000,
+        "rank_change": 3,
+        "heat_change": 6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "下山后，漂亮姐姐蠢蠢欲动",
         "book_id": 2053900,
         "url": "https://www.qimao.com/shuku/2053900/",
@@ -107,18 +98,18 @@
         "status": "已完结",
         "word_count_text": "234.99万字",
         "word_count": 2349900,
-        "heat": 83000,
+        "heat": 78000,
         "platform_trend": "drop",
-        "badge": "最新上榜",
+        "badge": "",
         "intro": "因为偷偷拿师父收藏的美女图引火，陆尘被师父一脚踹下山，结果刚下山就被漂亮姐姐拐回家。\n陆尘只能感叹师父说的没错，山下女人如狼似虎，男孩子一定要保护好自己。\n陆尘是想拒绝的，奈何漂亮姐姐人美，身材棒，说话也甜，根本把持不住啊",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/863/2586173_360x480.jpg?time=1755230413",
         "latest_chapter": " 第995章  沧海桑田（大结局）",
         "updated_at": "2026-08-19 01:08:08",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
+        "rank_change": -1,
+        "heat_change": -5000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": true,
         "category": "都市高手"
       },
       {
@@ -136,14 +127,14 @@
         "status": "已完结",
         "word_count_text": "427.43万字",
         "word_count": 4274300,
-        "heat": 61000,
+        "heat": 60000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
         "latest_chapter": " 第2058章  超脱之境（大结局）",
         "updated_at": "2026-06-28 23:17:17",
-        "rank_change": -2,
+        "rank_change": 0,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
@@ -165,15 +156,15 @@
         "status": "已完结",
         "word_count_text": "419.7万字",
         "word_count": 4197000,
-        "heat": 57000,
+        "heat": 58000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
         "latest_chapter": " 第2033章  终究还是一场梦（结局）",
         "updated_at": "2026-03-13 23:00:18",
-        "rank_change": -1,
-        "heat_change": 2000,
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

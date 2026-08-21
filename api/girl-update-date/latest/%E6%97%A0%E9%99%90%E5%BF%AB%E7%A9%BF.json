@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "无限快穿",
     "major": "幻想言情",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "诡异直播，早死的老公是疯批boss",
           "book_id": 9923838,
-          "rank_change": 2
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "诡异直播，早死的老公是疯批boss",
-          "book_id": 9923838,
-          "heat_change": 1
-        }
-      ],
-      "summary": "**题材趋势**：无限流与“诡异直播”结合的题材持续迭代，强调高压环境下的反差感与金手指爽点。\n**读者偏好**：读者热衷于“冥币/遗产”等直观的财富暴富梗，以及在恐怖副本中通过非正常手段（如疯批boss关系）获利的叙事模式。\n**变动解读**：《诡异直播，早死的老公是疯批boss》热度小幅上扬，验证了“诡异+婚恋”的强冲突组合在快穿类目中的受众基础。\n**值得关注**：通过反常规的“诡异经营”或“诡异恋爱”设定，可有效提升快穿题材的趣味性与互动感。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：无限流题材进入存量博弈阶段，目前在榜作品以“诡异直播+冥界金手指”为核心卖点。\n**读者偏好**：读者偏好带有反差萌和黑色幽默的设定，即“继承遗产”与“诡异副本”的荒诞结合。\n**变动解读**：本期该细分赛道热度走低且排名下滑，显示出单一作品在缺乏更新激励时，读者关注度会迅速回落。\n**值得关注**：如何平衡副本的惊悚感与女主的爽文节奏，是该类题材在榜单保持竞争力的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 16,
         "title": "诡异直播，早死的老公是疯批boss",
         "book_id": 9923838,
         "url": "https://www.qimao.com/shuku/9923838/",
@@ -50,18 +44,18 @@
         "major_id": 4,
         "minor_id": 283,
         "minor_url": "https://www.qimao.com/shuku/a-4-283-a-a-a-a-click-1/",
-        "status": "连载中",
+        "status": "已完结",
         "word_count_text": "83.96万字",
         "word_count": 839600,
         "heat": 2,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "众所周知，老公死后就能继承遗产\n\n　　好消息：云栀的老公死了，她继承了一百亿\n\n　　坏消息：是冥币\n\n　　就在云栀准备把老公挖出来揍一顿的时候，她被拉进了诡异游戏\n\n　　云栀发现，一百亿冥币居然在诡异世界有用\n\n　　等等，怎么她在副本里面遇见的变态痴汉boss，长得和她早死的塑料老公一模一样！？\n\n　　云栀一直以为她和塑料老公是闪婚联姻没有感情，但变成副本boss的男人却格外粘人\n\n　　变成boss的塑料老公：老婆我们不是一见钟情两情相悦然后结婚的吗？\n\n　　云栀：啊？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3308/9923838_360x480.jpg?time=1774405962",
         "latest_chapter": " 第415章  番外（完）",
         "updated_at": "2026-08-20 23:50:07",
-        "rank_change": 2,
-        "heat_change": 1,
+        "rank_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "逃荒前，我靠穿现代囤了百亿物资",
-          "book_id": 10469241,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "逃荒前，我靠穿现代囤了百亿物资",
           "book_id": 10469241,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：囤货流与重生逃荒题材依然是种田文的“定海神针”，强调资源积累带来的安全感与掌控力。\n**读者偏好**：读者对“现代物资+古代灾难”的套路接受度极高，核心爽点在于利用信息差与物资储备在乱世中实现逆袭。\n**变动解读**：《逃荒前，我靠穿现代囤了百亿物资》排名上升，显示出该类题材在特定受众中具备极强的粘性与复购率。\n**值得关注**：在囤货流基础上加入家庭矛盾与生存博弈，是保持该类题材长线活跃度的关键驱动力。",
-      "ai_source": "ai"
+      "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -51,17 +45,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "73.91万字",
-        "word_count": 739100,
-        "heat": 1,
-        "platform_trend": "rise",
-        "badge": "",
+        "word_count_text": "74.56万字",
+        "word_count": 745600,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "蝉联榜首",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第341章  流民船队到琼州",
-        "updated_at": "2026-08-20 20:17:04",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第344章  我的英明形象！",
+        "updated_at": "2026-08-21 20:51:04",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

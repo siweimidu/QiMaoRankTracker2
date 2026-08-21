@@ -8,27 +8,26 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 2,
-    "total_heat": 0,
+    "count": 3,
+    "total_heat": 13,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "太监凶猛",
+          "book_id": 11674809
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "医仙，将军，少年侯！谁与争锋！",
-          "book_id": 12371697,
-          "heat_change": -1
-        }
-      ],
-      "summary": "**题材趋势** 市场处于低迷沉淀期，上榜作品均为典型的反差爽文架构，侧重于“身份错位”带来的戏剧冲突。\n**读者偏好** 倾向于开局带有强烈的生存压力或身份博弈，偏好“反贼/刺客”与“皇权/权谋”深度绑定的强冲突设定。\n**变动解读** 榜单固化严重，热度长期处于冰点，说明当前存量作品未能有效拉动读者活跃度。\n**值得关注** 《我爹让我弑君，陛下却把公主赐给我》的“伪装+入赘”模式，是目前该类目下最能调动读者爽点的套路。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：历史类题材正由传统的权谋争斗向“身份错位+强冲突”的爽文模式转化，太监流等经典变体依然具备极高的读者号召力。\n**读者偏好**：读者更倾向于“开局即入局”的强互动剧情，即主角通过特殊身份（如假太监、反贼刺客）与皇权核心产生直接利益纠葛。\n**变动解读**：新书《太监凶猛》以高热度空降，验证了“醒掌天下权”的传统爽点在网文市场中依然拥有稳定的受众基本盘。\n**值得关注**：此类题材的核心在于“反差感”，即身份地位的极端不对等与权力获取的极度反差。",
       "ai_source": "ai"
     },
     "books": [
@@ -74,18 +73,47 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.2万字",
-        "word_count": 422000,
+        "word_count_text": "42.64万字",
+        "word_count": 426400,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第180章  开拔",
-        "updated_at": "2026-08-21 00:12:16",
+        "latest_chapter": " 第182章  号令",
+        "updated_at": "2026-08-22 00:12:16",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 19,
+        "title": "太监凶猛",
+        "book_id": 11674809,
+        "url": "https://www.qimao.com/shuku/11674809/",
+        "author": "水山",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B0%B4%E5%B1%B1_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "91.04万字",
+        "word_count": 910400,
+        "heat": 13,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
+        "latest_chapter": " 第272章  屁滚尿流！",
+        "updated_at": "2026-08-22 00:32:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
