@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-23",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1395850,
+    "total_heat": 27917000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 现代悬疑类在女生榜单中呈现出明显的“无限流+轻恐怖”融合趋势，注重以高频反转与快节奏爽点留住读者。\n**读者偏好** 读者更青睐带有“金手指”设定、弱化沉重感而强化趣味性与副本挑战的快节奏叙事。\n**变动解读** 本期榜单格局极其稳固，头部作品《误入惊悚聊天群，我成内部员工》占据绝对统治地位，缺乏新竞争者介入。\n**值得关注** 需观察此类作品在缺乏新书冲击的情况下，如何通过长线运营维持高热度，以及后续是否会有竞品打破僵局。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

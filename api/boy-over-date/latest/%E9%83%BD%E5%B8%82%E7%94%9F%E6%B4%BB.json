@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -19,38 +19,32 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "还不起人情债，我只好当她男朋友了",
-          "book_id": 1924828,
-          "rank_change": -3
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "还不起人情债，我只好当她男朋友了",
-          "book_id": 1924828,
-          "heat_change": -12000
-        },
-        {
           "title": "我非池中物",
           "book_id": 1850580,
-          "heat_change": 6000
+          "heat_change": -4000
+        },
+        {
+          "title": "还不起人情债，我只好当她男朋友了",
+          "book_id": 1924828,
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材竞争进入存量博弈阶段，以“草根逆袭”与“情感羁绊”为核心的爽文模式仍是市场基石。\n**读者偏好**：读者热衷于具有强烈情绪张力的开篇，如“受辱后逆袭”的爽感，以及“离婚/情感空窗后邂逅”的强代入感生活流叙事。\n**变动解读**：《我非池中物》凭借极致的压抑反转实现排名反超，而《还不起人情债》热度回调，显示出读者对“节奏拖沓”或“情感纠葛”类题材的审美疲劳。\n**值得关注**：建议创作者深耕“反差逆袭”桥段，在都市生活中植入更具冲突性的情感钩子。",
+      "summary": "**题材趋势**：都市赛道呈现“逆袭励志”与“情感救赎”双轨并行，强调极致冲突下的爽感爆发。\n**读者偏好**：读者热衷于从底层反击到人生赢家的叙事逻辑，以及离婚后重获桃花运的轻松情感补偿。\n**变动解读**：本期两部作品热度互换，显示出存量竞争下读者对“纯爽逆袭”与“都市情感”的需求处于动态平衡。\n**值得关注**：两部作品热度基数接近，后续竞争焦点在于谁能通过更强的代入感维持长尾留存。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "我非池中物",
         "book_id": 1850580,
         "url": "https://www.qimao.com/shuku/1850580/",
@@ -64,15 +58,15 @@
         "status": "已完结",
         "word_count_text": "340.6万字",
         "word_count": 3406000,
-        "heat": 76000,
-        "platform_trend": "rise",
+        "heat": 72000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": 2,
-        "heat_change": 6000,
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -93,15 +87,15 @@
         "status": "已完结",
         "word_count_text": "292.33万字",
         "word_count": 2923300,
-        "heat": 62000,
-        "platform_trend": "drop",
+        "heat": 66000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "本书又名：《离婚后，我与美女同事做了临时夫妻》、《离婚后，我的桃花运来了》。\n---\n离婚的那天晚上，江风被朋友接到了他家里喝酒，嫂子做了一桌子丰盛的菜。\n酒过三巡，大家都有些醉意的时候，朋友突然道：“江风，我给你介绍个女朋友吧？包你满意！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/653/1958718_360x480.jpg?time=1740125957",
         "latest_chapter": " 第551章  番外：前世篇",
         "updated_at": "2026-06-21 21:01:06",
-        "rank_change": -3,
-        "heat_change": -12000,
+        "rank_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

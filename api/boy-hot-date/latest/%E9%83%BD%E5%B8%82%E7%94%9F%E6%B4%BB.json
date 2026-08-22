@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 397000,
+    "total_heat": 429000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 写实类都市叙事热度维稳，强调个人奋斗与社会生存体验的真实映射。\n**读者偏好** 青睐带有强烈代入感、聚焦底层奋斗与社会复杂性的人文叙事，且对有声剧等跨媒体联动形式接受度高。\n**变动解读** 榜单结构高度稳定，无新增变动，反映出该品类读者忠诚度高，处于平稳运行周期。\n**值得关注** 依托有声化运营的IP转化效率，建议重点评估有声剧对纸质版热度的长尾拉动效应。",
+      "heat_leaders": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "heat_change": 32000
+        }
+      ],
+      "summary": "**题材趋势**：都市生活类题材展现出强劲的复苏与增长势头，现实主义与草根逆袭题材依然是流量引擎。\n**读者偏好**：读者更青睐带有“大城市奋斗+人性博弈”共鸣感的故事，且伴生有声剧的联动推广对热度提升有显著加成。\n**变动解读**：《步步登阶》凭借3.2万的热度增长实现排名攀升，证明了优质内容与多平台宣发协同的有效性。\n**值得关注**：关注跨平台IP联动（如音频平台）对网文热度的反哺效应，这是目前该赛道实现流量突破的关键手段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -39,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "271.57万字",
-        "word_count": 2715700,
-        "heat": 397000,
+        "word_count_text": "272.41万字",
+        "word_count": 2724100,
+        "heat": 429000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1292章  贪婪是刻在人骨子里的",
-        "updated_at": "2026-08-21 22:51:11",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1296章  不见棺材不掉泪",
+        "updated_at": "2026-08-23 00:07:10",
+        "rank_change": 1,
+        "heat_change": 32000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

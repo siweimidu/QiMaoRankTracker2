@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 284000,
+    "total_heat": 285000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台维持稳定基本盘，头部作品具备极强的长尾效应。\n**读者偏好**：读者倾向于“底层逆袭+权谋争斗”的爽感叙事，对主角从微末中崛起并撬动王朝气运的设定有持续需求。\n**变动解读**：本周期内该品类无变动，说明《大周第一武夫》在该细分赛道具备极高的统治力，竞争壁垒稳固。\n**值得关注**：需观察该作品能否通过剧情高潮进一步突破热度瓶颈，或是否有题材风格相近的新作尝试挑战其统治力。",
-      "ai_source": "ai"
+      "top_fallers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度+1000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -39,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "186.97万字",
-        "word_count": 1869700,
-        "heat": 284000,
+        "word_count_text": "187.64万字",
+        "word_count": 1876400,
+        "heat": 285000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第867章  山主（一）",
-        "updated_at": "2026-08-21 18:12:08",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第870章  帮陆长生做些事情？",
+        "updated_at": "2026-08-22 18:11:07",
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

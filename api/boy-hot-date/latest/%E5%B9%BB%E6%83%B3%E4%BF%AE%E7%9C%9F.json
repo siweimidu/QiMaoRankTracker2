@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 235000,
+    "total_heat": 238000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统修真品类进入平稳期，金手指驱动的成长型叙事仍是该类别的核心卖点。\n**读者偏好**：读者热衷于“凡人流”与“资源外挂”的经典搭配，追求从普通人到修仙者的阶级跃迁爽感。\n**变动解读**：榜单呈现固化状态，现有头部作品《凡尘飞仙》凭借稳健的更新节奏与受众匹配度，牢牢占据席位。\n**值得关注**：建议关注修真题材是否会出现结合新奇流派（如诡异修仙、种田修仙）的破局作品，以打破目前的沉寂态势。",
+      "top_fallers": [
+        {
+          "title": "凡尘飞仙",
+          "book_id": 1729484,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "凡尘飞仙",
+          "book_id": 1729484,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "**题材趋势**：传统修真题材热度保持稳定，但增长曲线趋于平缓，市场进入相对固化的成熟期。\n**读者偏好**：经典“凡人流”与“金手指”辅助修炼的模式依然是读者的基本需求，强调资源积累带来的成长快感。\n**变动解读**：榜单表现平稳，热度微涨（+3000）但排名下滑，反映出当前修真类目缺乏新爆款驱动，读者注意力趋于分散。\n**值得关注**：需关注该类目能否在“金手指”设定上进行微创新，以应对日益挑剔的读者审美，避免内容同质化带来的审美疲劳。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "凡尘飞仙",
         "book_id": 1729484,
         "url": "https://www.qimao.com/shuku/1729484/",
@@ -39,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "585.59万字",
-        "word_count": 5855900,
-        "heat": 235000,
-        "platform_trend": "drop",
+        "word_count_text": "586.02万字",
+        "word_count": 5860200,
+        "heat": 238000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "一个普通的农村少年，偶然得到聚宝盆，凭借其复制能力，得到海量资源，走上修行一途……仙路悠悠，普通少年的飞仙之路……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
-        "latest_chapter": " 第2495章  意外终止",
-        "updated_at": "2026-08-21 21:02:22",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第2497章  你连朋友都没有",
+        "updated_at": "2026-08-22 21:51:19",
+        "rank_change": -1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

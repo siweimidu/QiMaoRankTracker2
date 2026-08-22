@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 73000,
+    "total_heat": 77000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重生70：猎山猎水猎人生",
+          "book_id": 12605832,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "重生70：猎山猎水猎人生",
           "book_id": 12605832,
-          "heat_change": 1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：年代文与狩猎元素的结合仍是乡村类目的核心驱动力，强调强节奏的“爽感”输出。\n**读者偏好**：读者倾向于带有强烈复仇逆袭色彩、充满男性荷尔蒙气息的“纯爽文”，追求快速建立经济领先优势的快感。\n**变动解读**：榜单呈现高度固化态势，单品热度稳步增长，说明该题材存量用户黏性极强，阅读习惯稳定。\n**值得关注**：创作者应继续深挖“年代+职业技能”的爽点组合，通过高密度的情绪释放点维持长线热度。",
+      "summary": "**题材趋势**：以“年代+狩猎”为核心的怀旧爽文，强调生活气息与财富积累的快节奏结合。\n**读者偏好**：读者渴望在粗犷的年代背景下获得即时的生活满足感，对“重开人生”类别的爽文需求稳定。\n**变动解读**：该小类目前处于单品垄断状态，尽管排名微跌，但热度持续增长，说明其受众群体极其固定且忠诚。\n**值得关注**：《重生70：猎山猎水猎人生》虽排名波动，但热度稳步回升，证明其核心卖点在垂直领域具有长尾效应。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "重生70：猎山猎水猎人生",
         "book_id": 12605832,
         "url": "https://www.qimao.com/shuku/12605832/",
@@ -45,17 +51,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.5万字",
-        "word_count": 465000,
-        "heat": 73000,
+        "word_count_text": "47.33万字",
+        "word_count": 473300,
+        "heat": 77000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第223章  墓地藏宝",
-        "updated_at": "2026-08-21 19:52:03",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "latest_chapter": " 第227章  入职市政府",
+        "updated_at": "2026-08-22 17:52:04",
+        "rank_change": -1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

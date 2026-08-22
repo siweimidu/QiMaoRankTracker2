@@ -8,28 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 116000,
+    "total_heat": 112000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "盗梦千年",
-          "book_id": 12257385,
-          "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "九帝塔",
           "book_id": 11901855,
+          "rank_change": 3
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "我一杂役，怎么成掌门孩子他爹了？",
+          "book_id": 12026346,
           "rank_change": -3
         }
       ],
@@ -37,20 +37,20 @@
         {
           "title": "我一杂役，怎么成掌门孩子他爹了？",
           "book_id": 12026346,
-          "heat_change": -3000
+          "heat_change": -8000
         },
         {
           "title": "九帝塔",
           "book_id": 11901855,
-          "heat_change": 1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：剧情向与轻快向并存，包含“开局逆推”的擦边爽点与“惨遭背叛”的复仇复兴流。\n**读者偏好**：读者热衷于快节奏的情感纠葛与压抑后的爆发，尤其是带有“女帝”、“掌门”等高位阶女性角色的互动设定。\n**变动解读**：《九帝塔》排名下滑，《我一杂役》表现稳健，显示出读者对强互动性、轻快节奏作品的青睐度高于传统受虐复仇流。\n**值得关注**：在玄幻赛道，“身份落差+高位阶互动”的组合拳仍具极高的流量转化潜力。",
+      "summary": "**题材趋势**：爽点前置与强冲突驱动，涵盖“女帝流”与“反套路开局”等高感官刺激元素。\n**读者偏好**：读者更青睐节奏紧凑、带有强烈情绪宣泄（如复仇、逆推）的开局，对传统稳扎稳打的叙事耐受度波动较大。\n**变动解读**：榜内洗牌加剧，作品热度呈现明显的此消彼长，显示出读者对单一题材审美疲劳后的快速转向。\n**值得关注**：《九帝塔》依靠经典的大神小号与复仇爽感，展现出更强的用户吸引力和上升动能。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 12,
         "title": "我一杂役，怎么成掌门孩子他爹了？",
         "book_id": 12026346,
         "url": "https://www.qimao.com/shuku/12026346/",
@@ -62,24 +62,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.22万字",
-        "word_count": 472200,
-        "heat": 67000,
+        "word_count_text": "47.64万字",
+        "word_count": 476400,
+        "heat": 59000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "叶长天在路边摊买了一本阴阳造化诀，意外穿越成为太玄宗的一名杂役弟子。\n刚一穿越，他就被身中情毒的绝色掌门夏秋水逆推了。\n面对夏秋水的索取，叶长天不得不运转阴阳造化诀，然后他与夏秋水的修为就蹭蹭蹭地往上涨。\n从此以后，拒人于千里之外的高冷绝色掌门上瘾了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
-        "latest_chapter": " 第226章  合体境大道法旨！",
-        "updated_at": "2026-08-21 23:06:03",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "latest_chapter": " 第228章  炼天炼地炼众生！",
+        "updated_at": "2026-08-22 23:35:04",
+        "rank_change": -3,
+        "heat_change": -8000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 17,
+        "rank": 14,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -91,17 +91,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.75万字",
-        "word_count": 367500,
-        "heat": 49000,
+        "word_count_text": "37.16万字",
+        "word_count": 371600,
+        "heat": 53000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第177章  剑斩所有，剑峰之魂",
-        "updated_at": "2026-08-21 21:28:03",
-        "rank_change": -3,
-        "heat_change": 1000,
+        "latest_chapter": " 第179章  财富来了，叫剑十三",
+        "updated_at": "2026-08-22 23:57:06",
+        "rank_change": 3,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-23",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 549600,
+    "total_heat": 10992000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚后，沈总彻夜白头悔疯了",
+            "book_id": 9527521,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "坐月子时你不在，我带娃离婚你哭什么",
+            "book_id": 10232256,
+            "rank_change": -2
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": 280000
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -44000
+          },
+          {
+            "title": "坐月子时你不在，我带娃离婚你哭什么",
+            "book_id": 10232256,
+            "heat_change": -43000
+          }
+        ],
+        "summary": "「总裁豪门」《离婚后，沈总彻夜白头悔疯了》上升1位领涨；《坐月子时你不在，我带娃离婚你哭什么》下滑2位；《封总，太太想跟你离婚很久了》热度+280000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": 3
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -38000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -20000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 20000
+          }
+        ],
+        "summary": "「宫闱宅斗」《玉帐春》上升3位领涨；《随母改嫁旺新家，重生嫡女嘎嘎乱杀》下滑1位；《解春衫》热度-38000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

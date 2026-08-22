@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 197000,
+    "total_heat": 193000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -26,26 +26,15 @@
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "heat_change": -5000
-        },
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "heat_change": 2000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：民俗悬疑类题材热度持续，侧重“职业化”叙事，通过奇闻异录构建独特的恐怖与猎奇氛围。\n**读者偏好**：读者热衷于具有民俗色彩的职业设定，如“捞尸”、“接阴生”等，强烈的代入感与地域文化符号是核心驱动力。\n**变动解读**：榜内生态活跃，两部作品互有升降，反映出读者在同类作品间存在较强的流动性与口碑比对。\n**值得关注**：《民间诡闻实录》热度回升，显示出叙事节奏更为紧凑、带有特定职业诡事背景的作品更具竞争韧性。",
+      "summary": "**题材趋势**：民俗悬疑类题材持续走高，强调“诡事异闻”的沉浸感与民俗文化的猎奇性。\n**读者偏好**：读者偏好以第一人称视角叙事的“笔记体”或“实录体”作品，这类叙事能极大增强故事的代入感与真实感。\n**变动解读**：榜单内部出现小规模位次更替，《民间诡闻实录》排名上升，说明读者对接地气的民俗诡事类内容需求依然旺盛。\n**值得关注**：此类题材受众粘性强，通过“职业+诡事”的组合方式极易形成系列化爆款。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,22 +53,22 @@
         "status": "已完结",
         "word_count_text": "256.28万字",
         "word_count": 2562800,
-        "heat": 114000,
+        "heat": 110000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "奇门秘术"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -101,7 +90,7 @@
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
         "rank_change": 1,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

@@ -8,16 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 2,
-    "total_heat": 193000,
+    "count": 3,
+    "total_heat": 235000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "改嫁顶级纨绔，重生前夫悔疯了",
+          "book_id": 12417402
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
@@ -26,25 +31,31 @@
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "首辅无嗣？小通房却一胎三宝",
           "book_id": 12127944,
-          "heat_change": -9000
-        },
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
         {
           "title": "宫女朔宁",
           "book_id": 12315174,
-          "heat_change": 5000
+          "heat_change": 11000
+        },
+        {
+          "title": "首辅无嗣？小通房却一胎三宝",
+          "book_id": 12127944,
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：小类整体体量较小，内容侧重于极致的人设反差（如首辅无嗣与一胎三宝）及权谋背景下的深情羁绊。\n**读者偏好**：读者倾向于高门大户中的“身份错位”以及“养成系”权谋博弈，追求情感与利益纠葛的双重爽感。\n**变动解读**：当前榜单结构单一，竞争相对缓和，头部书籍《首辅无嗣》地位稳固，呈现出明显的存量博弈特征。\n**值得关注**：《宫女朔宁》热度显著回升，说明在同质化严重的宅斗赛道中，带有权谋博弈色彩的强剧情作品更具长线留存潜力。",
-      "ai_source": "ai"
+      "summary": "「宫闱宅斗」新上榜 《改嫁顶级纨绔，重生前夫悔疯了》；《宫女朔宁》上升1位领涨；《首辅无嗣？小通房却一胎三宝》下滑1位；《宫女朔宁》热度+11000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 6,
         "title": "首辅无嗣？小通房却一胎三宝",
         "book_id": 12127944,
         "url": "https://www.qimao.com/shuku/12127944/",
@@ -56,24 +67,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.4万字",
-        "word_count": 464000,
-        "heat": 126000,
+        "word_count_text": "46.83万字",
+        "word_count": 468300,
+        "heat": 121000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【心机小通房X阴湿疯批首辅】（古代bjd饲养指南+读心术+双向掉马）\n当朝首辅裴俨权倾朝野，年过二十九，却短命绝嗣，没有七情六欲。\n重度洁癖，冷面冷心，视全京城的贵女如无物。\n唯有姜裹儿知道，这位高不可攀的首辅大人，在榻上究竟有多“不可理喻”。\n家破人亡，罪臣之女慕容舜舜化名姜裹儿，以拥有“易孕体质”的巫姜族身份潜入首辅府当通房，想利用裴俨的势力和情报网，为家人报仇雪恨！\n可进府一个月，她连裴俨的面都没见着。\n凛冬难熬，她捡了个精致的绢丝人偶当暖炉。\n冷了，她抱在怀里揉捏；委屈了，她亲亲人偶的嘴唇；夜里，她将人偶贴在最柔软处取暖。\n可她不知道——\n这人偶与首辅大人共感。\n她每揉一下，首辅大人便浑身滚烫，红了眼尾，清冷的眼底泛起骇人的春情！\n后来，姜裹儿大仇得报，卷起包袱准备抽身死遁。\n却在城门口，被眼底猩红的男人死死按住。\n他将她锁在怀里，咬着她的耳垂，声音阴冷偏执：“裴家子嗣单薄，需多子多福……夫人用完我就想跑？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4043/12127944_360x480.jpg?time=1779328050",
-        "latest_chapter": " 第199章  侯你凯旋",
-        "updated_at": "2026-08-21 10:01:04",
-        "rank_change": 0,
-        "heat_change": -9000,
+        "latest_chapter": " 第201章  危及性命",
+        "updated_at": "2026-08-22 09:22:04",
+        "rank_change": -1,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "宫女朔宁",
         "book_id": 12315174,
         "url": "https://www.qimao.com/shuku/12315174/",
@@ -85,18 +96,47 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.03万字",
-        "word_count": 380300,
-        "heat": 67000,
+        "word_count_text": "38.55万字",
+        "word_count": 385500,
+        "heat": 78000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "古言权谋+宫斗+女强男强+双向奔赴+虐到心肝\n这是一场以江山为注的豪赌。\n赌赢了，她送他登基。\n赌输了，她赔上自己。\n长门宫里有个哑奴，是被褫夺身份的九皇子。\n人人都能踩一脚，人人都能啐一口。\n她递给他一瓶药：“别死。”\n她教他下跪：“膝盖软了，才能活。”\n她给他吃肉：“跪着吃。吃饱了，才站得起来。”\n他一样一样地学。学跪，学忍，学笑里藏刀，学怎么把恨咽下去，等有一天连本带利讨回来。\n可他学不会的，是不爱她。\n后来他登上皇位，成了她手里最利的刃。\n她说：“你现在可以杀我了。”\n他说：“我学了一辈子听你的话，这是第一次不听。”\n她以为她养了一把刃。\n其实她养了一个愿意为她赴死的人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4106/12315174_360x480.jpg?time=1780883297",
-        "latest_chapter": " 第153章  诅咒",
-        "updated_at": "2026-08-22 00:11:05",
+        "latest_chapter": " 第155章  有没有你的份？",
+        "updated_at": "2026-08-22 23:35:04",
         "rank_change": 1,
-        "heat_change": 5000,
+        "heat_change": 11000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 18,
+        "title": "改嫁顶级纨绔，重生前夫悔疯了",
+        "book_id": 12417402,
+        "url": "https://www.qimao.com/shuku/12417402/",
+        "author": "半山听雨",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8D%8A%E5%B1%B1%E5%90%AC%E9%9B%A8_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.98万字",
+        "word_count": 369800,
+        "heat": 36000,
+        "platform_trend": "rise",
+        "badge": "飙升13名",
+        "intro": "当云舒遥踏上第一纨绔的接亲花轿时，有恃无恐的前夫，终于确定，她也带着前世的记忆回来了。\n前世，云舒遥耗尽心血，扶持平庸未婚夫步步高升，倒贴嫁妆操持落魄侯府。\n背负无后骂名，为不能人道的夫君遮掩。\n可她在临死前才得知，夫君不仅有个十四岁的儿子，还把娇柔表妹养在别庄。\n他们一家三口，不仅安心享受她挣来的家产，还一起盼着她咽气！\n亲眼看到这一幕的云舒遥，怒火攻心，含恨而终。\n一朝重生，她回到大婚前。\n云舒遥褪去贤孝的枷锁，果断撕毁虚伪婚约，斩断前世孽缘。\n人人都笑她糊涂，放着前程大好的侯府世子不要，偏偏选嫁给声名狼藉的京都第一纨绔。\n就在众人等着看笑话的时候，他们发现，小王爷成了皇上最倚重的朝臣。\n两人过上了没羞没臊，又让人羡慕的肆意日子。\n 而费尽心机嫁入侯府的心里表妹，却被罢官废爵的世子，送回了青楼！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12417402_360x480.jpg?time=1781245105",
+        "latest_chapter": " 第165章  审问龙元明",
+        "updated_at": "2026-08-22 22:10:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"

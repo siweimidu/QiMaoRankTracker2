@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 50000,
+    "total_heat": 55000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405
+          "book_id": 12606405,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：现实主义回归，强调“无系统、逻辑在线”的硬核创业叙事，通过底层视角切入精英赛道。\n**读者偏好**：读者对虚浮的AI爽文产生审美疲劳，更偏爱具有真实感、逻辑缜密且带有强烈社会痛点（如家庭责任、命运转折）的励志叙事。\n**变动解读**：新书入榜即占据一席之地，验证了“接地气”的重生职场文在当前市场的高号召力。\n**值得关注**：后续需观察“无系统”设定下的剧情张力如何支撑长篇更新，避开说教感，保持叙事的商业逻辑清晰。",
+      "heat_leaders": [
+        {
+          "title": "二本没毕业，你怎么登上福布斯了",
+          "book_id": 12606405,
+          "heat_change": 5000
+        }
+      ],
+      "summary": "**题材趋势**：硬核创业题材热度回升，“重生+人间清醒”的非系统流叙事在当前市场环境下表现出较强的抗压性。\n**读者偏好**：读者更倾向于具备现实主义底色、逻辑严密且主打“真实创业”的爽文，拒绝AI套路化写作。\n**变动解读**：《二本没毕业，你怎么登上福布斯了》热度逆势增长5000，表明读者对“草根逆袭”与“职场奋斗”结合的叙事模式认可度极高。\n**值得关注**：该书展现了较好的长尾效应，建议观察此类“反系统、重逻辑”的职场文是否会成为后续都市类目的新增长点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -44,18 +51,18 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.5万字",
-        "word_count": 335000,
-        "heat": 50000,
+        "word_count_text": "34.61万字",
+        "word_count": 346100,
+        "heat": 55000,
         "platform_trend": "rise",
-        "badge": "飙升13名",
+        "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n（绝不套娃，绝不AI，重启福布斯）\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第137章  调研市场",
-        "updated_at": "2026-08-22 01:06:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第141章  林欢的两个需求",
+        "updated_at": "2026-08-23 00:32:04",
+        "rank_change": 1,
+        "heat_change": 5000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "商战职场"

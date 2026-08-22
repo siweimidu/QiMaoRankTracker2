@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 4,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -4
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 2
+          "heat_change": -3
         }
       ],
-      "summary": "**题材趋势**：民俗恐怖与诡异流题材维持低频稳定输出，强调环境压抑感与“生存法则”下的猎奇体验。\n**读者偏好**：受众偏好具有沉浸感的生存类设定，对“规则怪谈”或“人吃人”式的残酷世界观抱有较高关注度。\n**变动解读**：虽然排名出现下滑，但热度逆势增长，说明核心忠实读者群对该书的粘性较强，具备长尾效应。\n**值得关注**：该题材小众且门槛高，若能通过持续更新强化诡异氛围，有望在缺乏竞争的环境中通过口碑沉淀实现热度回升。",
+      "summary": "**题材趋势** 悬疑诡异类题材在细分市场保持长尾效应，强调氛围营造与生存博弈。\n**读者偏好** 偏向于带有民俗色彩、规则怪谈元素的暗黑风格叙事。\n**变动解读** 榜单活跃度极低，仅存的一部作品《天黑请点灯》在热度下滑情况下排名微升，显示出该小类当前整体流量进入低谷期。\n**值得关注** 需观察此类题材在缺乏新书填充的情况下，存量作品如何通过剧情反转维持读者粘性。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 17,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "446.96万字",
-        "word_count": 4469600,
-        "heat": 4,
-        "platform_trend": "drop",
+        "word_count_text": "447.98万字",
+        "word_count": 4479800,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1645章  四规山！",
-        "updated_at": "2026-08-21 06:57:11",
-        "rank_change": -4,
-        "heat_change": 2,
+        "latest_chapter": " 第1649章  你是谁？谁是你？雌一问心！",
+        "updated_at": "2026-08-22 06:57:13",
+        "rank_change": 1,
+        "heat_change": -3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

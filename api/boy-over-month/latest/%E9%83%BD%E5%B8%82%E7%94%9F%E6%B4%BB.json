@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -20,20 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "rank_change": -1
-        },
-        {
-          "title": "一觉醒来后，死对头校花竟然叫我老公",
-          "book_id": 9955095,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：核心题材锁定“系统神豪”与“生活流甜宠”，强调中年逆袭与身份地位的快速转换。\n**读者偏好**：读者热衷于“离婚/失业后开启第二人生”的爽点，同时对涉及萌宝、校花与奶爸生活的轻快节奏有较高黏性。\n**变动解读**：榜单整体趋于固化，现有书籍排名微调主要受读者兴趣偏移影响，未见强力黑马冲击头部。\n**值得关注**：榜首《前脚离婚...》的霸榜说明“中年神豪”题材在七猫平台的受众基础极稳，需警惕后续作品在同质化中寻找差异化切入点。",
+      "summary": "**题材趋势**：以“神豪系统”、“人生逆袭”及“奶爸甜宠”为三大支柱，内容侧重于从失意到巅峰的心理补偿式快感。\n**读者偏好**：读者热衷于代入感极强的“系统流”暴富情节，同时对“死对头变恋人”及“奶爸日常”等情感类爽文表现出浓厚兴趣。\n**变动解读**：榜单名次保持完全静止，反映出都市生活类完结作品在长尾期具备极强的热度留存能力，头部效应显著。\n**值得关注**：建议关注“日常+系统”的复合型叙事，将事业成功与家庭温情绑定，是当下读者获取情感共鸣的关键路径。",
       "ai_source": "ai"
     },
     "books": [
@@ -88,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -117,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
         "latest_chapter": " 第489章  大结局",
         "updated_at": "2026-07-29 09:55:05",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

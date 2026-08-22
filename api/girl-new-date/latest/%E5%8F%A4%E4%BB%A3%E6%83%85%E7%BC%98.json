@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-new-date",
+    "name": "女生新书日榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-23",
+  "category": {
+    "name": "古代情缘",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 29000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "表妹貌美，冷面世子情难自恃",
+          "book_id": 12443391
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「古代情缘」新上榜 《表妹貌美，冷面世子情难自恃》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "表妹貌美，冷面世子情难自恃",
+        "book_id": 12443391,
+        "url": "https://www.qimao.com/shuku/12443391/",
+        "author": "汐家锦锂",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B1%90%E5%AE%B6%E9%94%A6%E9%94%82_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.86万字",
+        "word_count": 318600,
+        "heat": 29000,
+        "platform_trend": "rise",
+        "badge": "飙升10名",
+        "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京城最冷心冷情的男人。\n他看她的眼神，像在看一件脏东西。\n“侯府容不下祸水。”\n她低着头，不争辩，不解释。\n可她没想到。\n当别的男人觊觎她时，第一个冲出来的是他。\n当她弟弟出事走投无路时，出手相救的是他。\n当她答应给别人做外室时，红着眼踹开门的人，还是他。\n他说这是交易。\n可当她的前夫“死而复生”，站在医馆门口说“我来接你回家”时。\n顾衍站在街对面的茶楼里，手里的茶杯碎了一地。\n鲜血顺着指缝滴下来，他浑然不觉。\n那一刻他才明白。\n他不是戒不掉她。\n他是不想戒。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4148/12443391_360x480.jpg?time=1787308179",
+        "latest_chapter": " 第113章  不是需要搭救的娇花",
+        "updated_at": "2026-08-22 22:31:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古代情缘"
+      }
+    ]
+  }
+}

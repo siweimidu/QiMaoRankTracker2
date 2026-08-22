@@ -8,44 +8,37 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
-    "total_heat": 5,
+    "count": 2,
+    "total_heat": 6,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加"
+          "book_id": 2091347
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": -5
+          "rank_change": 5
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "全体起立，SSS狂龙出狱！",
-          "book_id": 9928068,
-          "heat_change": 1
-        }
-      ],
-      "summary": "**题材趋势**：传统“出狱+无敌流”模式仍是该细分赛道的主流叙事框架，核心卖点高度集中在强爽感与暧昧元素。\n**读者偏好**：读者更倾向于快节奏、高冲突的“听劝”式爽文逻辑，对反差感强、带有轻喜剧色彩的开局接受度较高。\n**变动解读**：本期仅存的一本头部作品排名大幅下滑，显示出该题材在榜单竞争中受存量消耗影响较大，缺乏新书注入补充活力。\n**值得关注**：需警惕题材同质化带来的用户审美疲劳，后续作品若不能在“高手”人设上推陈出新，榜单统治力将持续减弱。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 都市题材回归“高手+修真+红颜”的经典套路，强调主角性格的“癫狂”与行事风格的“无所顾忌”。\n**读者偏好** 读者倾向于简单直接的爽感，偏好“出狱/回归”后的快节奏打脸与多女主暧昧互动，厌恶拖沓，追求极致的情绪释放。\n**变动解读** 上榜书籍数量虽少，但热度集中度高，《全体起立，SSS狂龙出狱！》的排名大幅跃升验证了此类“狂放型”主角的市场号召力。\n**值得关注** 新晋上榜的《美女总裁，请上车》补充了都市题材的经典元素，需观察其在竞争激烈的都市榜单中的持久留存表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 7,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -57,18 +50,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "169.81万字",
-        "word_count": 1698100,
+        "word_count_text": "171.01万字",
+        "word_count": 1710100,
         "heat": 5,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第564章  奸诈，真是奸诈！",
-        "updated_at": "2026-08-21 10:02:09",
-        "rank_change": -5,
-        "heat_change": 1,
+        "latest_chapter": " 第567章  给你一起选择的机会",
+        "updated_at": "2026-08-22 10:02:07",
+        "rank_change": 5,
+        "heat_change": 0,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 20,
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "290.47万字",
+        "word_count": 2904700,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1761615817",
+        "latest_chapter": " 第1066章  我也能修炼？",
+        "updated_at": "2026-08-23 01:27:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-23",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 83850,
+    "total_heat": 1677000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "沈小姐，傅先生等你三年了",
+            "book_id": 12206070,
+            "intro": "天黑之前她是妻子，天黑之后她是玩物。\n圈内人都知道，沈轻是傅云笙娇养的金丝雀，要风得风要雨得雨。\n沈轻对傅云笙一见钟情，也是见色起意，她小心翼翼维护和傅云笙的感情，一直认为可以携手走进婚姻殿堂。\n五年"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "天才降临，傅总，该你养娃了",
+            "book_id": 12099141,
+            "rank_change": 2
+          },
+          {
+            "title": "婚情告急！太太揣崽跑路了",
+            "book_id": 12285861,
+            "rank_change": 1
+          },
+          {
+            "title": "引他失控",
+            "book_id": 11897640,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "不熟，但和冷脸糙汉同居了！",
+            "book_id": 12001281,
+            "rank_change": -3
+          },
+          {
+            "title": "冷淡七年，离婚后被顶级大佬追着宠",
+            "book_id": 12214737,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "余生高嫁",
+            "book_id": 12261993,
+            "heat_change": 12000
+          },
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553,
+            "heat_change": 9000
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「总裁豪门」《沈小姐，傅先生等你三年了》 掉出榜单；《天才降临，傅总，该你养娃了》上升2位领涨；《不熟，但和冷脸糙汉同居了！》下滑3位；《余生高嫁》热度+12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "rank_change": 8
+          },
+          {
+            "title": "八零女配睡了就跑，高冷军少追疯了",
+            "book_id": 12193602,
+            "rank_change": 2
+          },
+          {
+            "title": "七零，咸鱼假千金带空间下乡躺赢",
+            "book_id": 12265746,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "京少不育，小保姆却怀了他的崽",
+            "book_id": 11851533,
+            "rank_change": -1
+          },
+          {
+            "title": "姻缘被抢，重生后高冷老公为她撑腰",
+            "book_id": 12127308,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "heat_change": 108000
+          },
+          {
+            "title": "八零女配睡了就跑，高冷军少追疯了",
+            "book_id": 12193602,
+            "heat_change": 7000
+          },
+          {
+            "title": "姻缘被抢，重生后高冷老公为她撑腰",
+            "book_id": 12127308,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「年代重生」《一胎五宝，我成军属院顶流》上升8位领涨；《京少不育，小保姆却怀了他的崽》下滑1位；《一胎五宝，我成军属院顶流》热度+108000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "改嫁顶级纨绔，重生前夫悔疯了",
+            "book_id": 12417402
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "首辅无嗣？小通房却一胎三宝",
+            "book_id": 12127944,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "heat_change": 11000
+          },
+          {
+            "title": "首辅无嗣？小通房却一胎三宝",
+            "book_id": 12127944,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《改嫁顶级纨绔，重生前夫悔疯了》；《宫女朔宁》上升1位领涨；《首辅无嗣？小通房却一胎三宝》下滑1位；《宫女朔宁》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "表妹貌美，冷面世子情难自恃",
+            "book_id": 12443391
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《表妹貌美，冷面世子情难自恃》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

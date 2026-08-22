@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": 2
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：都市高武类题材目前在榜单呈现“稳中求进”态势，长线作品通过强人设维持竞争力。\n**读者偏好**：读者偏好极具掌控感的“全能型”主角，尤其是兼具医术与武力、行事果决的爽文设定。\n**变动解读**：本期《盖世神医》排名上升2位，热度小幅增长，显示该类作品凭借高辨识度的“叶秋”式人设，在存量博弈中仍具备较强韧性。\n**值得关注**：建议重点监测此类“医武双修”题材在后续榜单中的长尾效应，观察是否存在新书挑战存量头部作品。",
+      "summary": "**题材趋势** 都市神医类题材虽已进入成熟期，但仍是都市频道的重要流量基石。\n**读者偏好** 倾向于“医武双绝”的强人设，追求直白、高效的爽点释放。\n**变动解读** 该类目表现疲软，头部作品热度与排名同步下滑，显示出都市高武题材在当前市场竞争中面临流量流失风险。\n**值得关注** 建议关注题材内是否能出现融合新元素（如系统流、反派流）的变体作品，以激活该细分赛道活力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -51,17 +51,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "896.88万字",
-        "word_count": 8968800,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "897.5万字",
+        "word_count": 8975000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4375章  气度无双（下）",
-        "updated_at": "2026-08-21 20:17:30",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第4378章  太阴法相",
+        "updated_at": "2026-08-22 22:31:30",
+        "rank_change": -1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,

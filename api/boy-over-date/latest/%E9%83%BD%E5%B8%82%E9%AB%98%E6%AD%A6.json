@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 405000,
+    "total_heat": 399000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -22,9 +22,14 @@
       "top_risers": [],
       "top_fallers": [
         {
+          "title": "镇天神医",
+          "book_id": 1675640,
+          "rank_change": -1
+        },
+        {
           "title": "最狂邪医",
           "book_id": 1821655,
-          "rank_change": -3
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
@@ -36,10 +41,10 @@
         {
           "title": "小司机的美女总裁老婆",
           "book_id": 2052700,
-          "heat_change": -1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：高武题材深度绑定“神医”、“总裁”、“多师姐”元素，强调战力等级与都市生活流的融合。\n**读者偏好**：读者偏爱“扮猪吃虎”与“身份反转”的爽点，对已改编短剧的作品有更高的信任度和阅读粘性。\n**变动解读**：本类目榜单相对固化，仅《最狂邪医》出现小幅波动，反映出该赛道头部作品已形成较强的流量壁垒。\n**值得关注**：《小司机的美女总裁老婆》作为榜首，其“软饭硬吃”的经典设定依然是目前都市高武类最稳固的流量池。",
+      "summary": "**题材趋势**：都市高武与都市医武结合紧密，具备短剧改编潜力的“爽文”属性是核心竞争力。\n**读者偏好**：读者热衷于“废柴逆袭+多师姐+无敌医术”的经典爽点组合，对强对抗性的节奏需求极高。\n**变动解读**：头部整体热度出现小幅滑坡，存量作品排名微调，但前三名热度依然领先其他小类，显示出该赛道的强吸金能力。\n**值得关注**：短剧转化已成为书籍热度的“助推器”，《镇天神医》等标榜短剧改编的作品在流量获取上具有明显优势。",
       "ai_source": "ai"
     },
     "books": [
@@ -58,7 +63,7 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 189000,
+        "heat": 187000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
@@ -66,14 +71,14 @@
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "镇天神医",
         "book_id": 1675640,
         "url": "https://www.qimao.com/shuku/1675640/",
@@ -94,7 +99,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -102,7 +107,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "最狂邪医",
         "book_id": 1821655,
         "url": "https://www.qimao.com/shuku/1821655/",
@@ -116,14 +121,14 @@
         "status": "已完结",
         "word_count_text": "523.03万字",
         "word_count": 5230300,
-        "heat": 86000,
+        "heat": 82000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": -3,
+        "rank_change": -1,
         "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,

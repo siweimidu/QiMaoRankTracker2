@@ -8,43 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 109000,
+    "count": 1,
+    "total_heat": 66000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "女总裁重生后，非逼我娶校花",
           "book_id": 12625923,
-          "rank_change": -1
+          "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "都市第一狠人",
+          "book_id": 12180918,
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
-          "title": "女总裁重生后，非逼我娶校花",
-          "book_id": 12625923,
-          "heat_change": -2000
-        },
-        {
           "title": "都市第一狠人",
           "book_id": 12180918,
-          "heat_change": -1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材偏向“职场/生活困境+极端反转”的叙事模式，强调角色在社会规则下的博弈。\n**读者偏好**：偏好带有强烈社会冲突感（如债务危机）或反常规伦理（如被逼娶校花/认妈）的软饭流与逆袭流。\n**变动解读**：整体热度小幅回落，上榜书籍排名波动趋稳，显示出该赛道目前处于存量竞争阶段，缺乏强力新书冲击。\n**值得关注**：读者对“都市情感+职场机遇”的复合型爽点仍有需求，后续需关注能否出现更具新意的冲突切入点。",
+      "summary": "**题材趋势**：传统“出狱+复仇+都市争霸”流派虽有受众，但市场活力明显放缓，新书缺乏强有力的差异化竞争者。\n**读者偏好**：读者对强冲突、快节奏的“身负重债/守护遗愿”类苦难开篇仍有粘性，但对同质化的套路文容忍度在降低。\n**变动解读**：《都市第一狠人》在缺乏新书冲击的情况下热度仍下滑3000，显示该类目用户活跃度出现流失。\n**值得关注**：需警惕榜单头部效应减弱带来的负面影响，建议关注后续是否有具备“反套路”或“新颖切入点”的都市作品入榜。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 10,
         "title": "都市第一狠人",
         "book_id": 12180918,
         "url": "https://www.qimao.com/shuku/12180918/",
@@ -56,48 +57,19 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.52万字",
-        "word_count": 485200,
-        "heat": 69000,
+        "word_count_text": "49.17万字",
+        "word_count": 491700,
+        "heat": 66000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "出狱后，四叔接我进城，说跟着他三年就能买房买车。\n可转眼，他被人陷害破产，欠债八千万。临死前他拉着我的手央求：“小勇，以后你四婶，就拜托你照顾了……”\n四叔的话还没说完，就咽了气，但我明白他话里的意思。\n为了还债、报仇，我赤手空拳闯出一片天。\n村霸、仇人、还有那些藏在幕后的黑手，我一个都不会放过。\n这一路，我遇到了很多女人。有富家千金、医生、总裁、明星……\n我从最底层往上爬，吃土咽血，一步一步登上巅峰。\n我叫陆小勇，后来，他们都叫我——深城之王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
-        "latest_chapter": " 第209章  连续致命打击",
-        "updated_at": "2026-08-21 19:05:03",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第212章  两个点“顾问费”",
+        "updated_at": "2026-08-22 21:46:03",
+        "rank_change": -2,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "都市生活"
-      },
-      {
-        "rank": 20,
-        "title": "女总裁重生后，非逼我娶校花",
-        "book_id": 12625923,
-        "url": "https://www.qimao.com/shuku/12625923/",
-        "author": "南风拂玉竹",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%8D%97%E9%A3%8E%E6%8B%82%E7%8E%89%E7%AB%B9_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "37.19万字",
-        "word_count": 371900,
-        "heat": 40000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第157章  三哥今晚必须给你安排！",
-        "updated_at": "2026-08-22 02:46:03",
-        "rank_change": -1,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       }
