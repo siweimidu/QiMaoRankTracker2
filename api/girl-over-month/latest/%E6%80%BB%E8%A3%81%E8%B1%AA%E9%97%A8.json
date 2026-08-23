@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：高度固化，强情节驱动的“破镜重圆”、“带球跑”及“先婚后爱”仍是霸总文的核心基石。\n**读者偏好**：倾向于高张力的戏剧冲突，尤其是“失控感”与“上位者低头”的强情绪价值，以及短剧化叙事风格。\n**变动解读**：榜单呈现极高的稳定性，无新书更替，头部作品如《第五年重逢》通过高粘性稳居榜首，流量壁垒深厚。\n**值得关注**：联动影视综艺的IP化运营效果显著，多本上榜书均带有短剧、综艺推荐标签，营销赋能已成流量关键。",
-      "ai_source": "ai"
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -109,7 +109,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "总裁豪门"
       },

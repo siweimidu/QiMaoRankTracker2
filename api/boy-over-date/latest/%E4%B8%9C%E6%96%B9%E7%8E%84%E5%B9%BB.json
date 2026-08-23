@@ -8,27 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 512000,
+    "total_heat": 503000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -6000
+          "heat_change": -7000
+        },
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻套路占据绝对统治地位，核心爽点高度依赖“废柴逆袭”与“超前发育”模式。\n**读者偏好**：读者热衷于快节奏的升级流叙事，对“无敌流”及“开局即满级”的爽感设定接受度极高。\n**变动解读**：榜单呈现高度固化态势，头部效应显著，存量市场竞争趋于平稳，热度小幅回落属于正常自然衰减。\n**值得关注**：两部作品均展现了经典玄幻模板的生命力，长尾效应显著，建议重点观察此类题材在完结后的长效转化率。",
+      "summary": "**题材趋势**：玄幻品类头部效应极强，榜首《荒古武神》断层领先，显示出经典复仇流在长线完结榜中具备极强的耐受力。\n**读者偏好**：读者倾向于“极致成长”与“天赋开局”的爽点逻辑，对“荒古”系列等具有高辨识度标签的作品有明显偏好。\n**变动解读**：榜单结构极其稳定，仅有微小的名次波动，说明该细分领域已形成稳定的读者圈层，新作品难以撼动存量头部地位。\n**值得关注**：此类题材完结后的长尾热度主要依赖于作品的爽点密度，高热度作品的抗跌性是衡量其商业价值的核心标准。",
       "ai_source": "ai"
     },
     "books": [
@@ -47,7 +58,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 424000,
+        "heat": 417000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -55,14 +66,14 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -6000,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "荒古圣体：在娘胎开始悟道",
         "book_id": 1849458,
         "url": "https://www.qimao.com/shuku/1849458/",
@@ -76,15 +87,15 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 88000,
+        "heat": 86000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

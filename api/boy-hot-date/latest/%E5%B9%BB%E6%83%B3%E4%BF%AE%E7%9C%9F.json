@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 238000,
+    "total_heat": 242000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "凡尘飞仙",
-          "book_id": 1729484,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "凡尘飞仙",
           "book_id": 1729484,
-          "heat_change": 3000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：传统修真题材热度保持稳定，但增长曲线趋于平缓，市场进入相对固化的成熟期。\n**读者偏好**：经典“凡人流”与“金手指”辅助修炼的模式依然是读者的基本需求，强调资源积累带来的成长快感。\n**变动解读**：榜单表现平稳，热度微涨（+3000）但排名下滑，反映出当前修真类目缺乏新爆款驱动，读者注意力趋于分散。\n**值得关注**：需关注该类目能否在“金手指”设定上进行微创新，以应对日益挑剔的读者审美，避免内容同质化带来的审美疲劳。",
+      "summary": "**题材趋势**：传统修真文依然占据市场基本盘，通过“异宝/金手指”驱动的经典成长模式，依然是该细分品类最稳定的叙事范式。\n**读者偏好**：读者对于“普通少年+聚宝盆式外挂”的成长反馈机制接受度高，偏好“资源积累-实力跃升”的直观爽点。\n**变动解读**：在榜书籍热度微增且排名持平，显示该作品进入了相对稳定的平台期，市场表现平稳且具备一定韧性。\n**值得关注**：在修真题材日益内卷的背景下，该作品凭借经典套路维系热度，可进一步观察其后续剧情是否能通过新爽点实现热度破局。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "586.02万字",
-        "word_count": 5860200,
-        "heat": 238000,
+        "word_count_text": "586.54万字",
+        "word_count": 5865400,
+        "heat": 242000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一个普通的农村少年，偶然得到聚宝盆，凭借其复制能力，得到海量资源，走上修行一途……仙路悠悠，普通少年的飞仙之路……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/448/1342669_360x480.jpg?time=1691984985",
-        "latest_chapter": " 第2497章  你连朋友都没有",
-        "updated_at": "2026-08-22 21:51:19",
-        "rank_change": -1,
-        "heat_change": 3000,
+        "latest_chapter": " 第2499章  星云宫传承之地",
+        "updated_at": "2026-08-23 23:17:18",
+        "rank_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

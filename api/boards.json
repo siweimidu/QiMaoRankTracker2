@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:24:18",
+  "generated_at": "2026-08-24T05:24:23",
   "boards": [
     {
       "slug": "boy-hot-date",
@@ -9,7 +9,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -31,7 +31,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -52,7 +52,7 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -73,7 +73,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -96,7 +96,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -118,7 +118,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -140,7 +140,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -161,7 +161,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -183,7 +183,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -198,7 +198,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -214,7 +214,7 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -231,7 +231,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -248,7 +248,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -266,7 +266,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -284,7 +284,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -302,7 +302,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
       "book_count": 20,
       "categories": [
         "古代情缘",

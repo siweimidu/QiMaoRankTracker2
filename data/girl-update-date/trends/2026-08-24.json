@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-24",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 31,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": 1
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 1
+          },
+          {
+            "title": "冷淡七年，离婚后被顶级大佬追着宠",
+            "book_id": 12214737,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": -2
+          },
+          {
+            "title": "冷淡七年，离婚后被顶级大佬追着宠",
+            "book_id": 12214737,
+            "heat_change": -2
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」《大佬十代单传，我为他一胎生四宝》上升1位领涨；《她玩火》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "我刚和离，冷戾权臣夜夜求三胎",
+            "book_id": 12511992,
+            "intro": "顾明霜养了十年的童养夫，一朝成了侯府世子。\n她耗尽巨额遗产为他铺路，却只换来宋临渊在祠堂前的恳求。\n“明霜，我在外十多年，是表妹替我在母亲跟前尽孝，如今她救我一命，正妻之位让给她可好？”\n“表妹与你不"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "rank_change": 2
+          },
+          {
+            "title": "通房妩媚，清冷世子又又又破戒了",
+            "book_id": 10359876,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "rank_change": -1
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -2
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "heat_change": -1
+          },
+          {
+            "title": "通房妩媚，清冷世子又又又破戒了",
+            "book_id": 10359876,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《凰宫梦》；《我刚和离，冷戾权臣夜夜求三胎》 掉出榜单；《首辅绝嗣，我连生三子全家宠上天》上升2位领涨；《媚君侧》下滑1位；《皇叔借点功德，王妃把符画猛了》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "八零兽语小娇媳：靠卖山货带全家暴富",
+            "book_id": 12267756,
+            "intro": "【实业兴家+种田+先婚后爱+萌宠+逆袭+互撩+致富美食】\n坚韧清醒搞钱女厂长 × 冷面硬汉行动派公安\n新婚夜，当兵八年的糙汉在炕上放一碗水：“各过各的。”\n\n麦穗笑了，巧了，她只想搞钱，正合她意。\n\n"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「年代重生」新上榜 《一胎五宝，我成军属院顶流》；《八零兽语小娇媳：靠卖山货带全家暴富》 掉出榜单；《我才五岁，怎么就成军区团宠了》上升1位领涨；《我才五岁，怎么就成军区团宠了》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《皇妃来自地府，百鬼退散》上升1位领涨；《撩完清冷世子后，小通房她带球跑了》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "无限快穿",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异直播，早死的老公是疯批boss",
+            "book_id": 9923838,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "诡异直播，早死的老公是疯批boss",
+            "book_id": 9923838,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「无限快穿」《诡异直播，早死的老公是疯批boss》上升1位领涨；《诡异直播，早死的老公是疯批boss》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "笨蛋美人当团宠，师兄们抢疯了！",
+            "book_id": 9951162,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「玄幻仙侠」《笨蛋美人当团宠，师兄们抢疯了！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

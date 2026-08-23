@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "修仙从神秘小鼎开始",
           "book_id": 1800823,
-          "rank_change": -2
-        },
-        {
-          "title": "九转仙葫",
-          "book_id": 12212670,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "九转仙葫",
           "book_id": 12212670,
-          "heat_change": 1
+          "heat_change": -1
         },
         {
           "title": "修仙从神秘小鼎开始",
           "book_id": 1800823,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：凡人流与金手指成长流为主流，强调从微末崛起至巅峰的爽感。\n**读者偏好**：读者倾向于具备“法宝/系统辅助+稳健发育”属性的传统修仙文。\n**变动解读**：本周两本在榜书籍排名均出现下滑，整体热度处于盘整期，缺乏头部新作补位。\n**值得关注**：尽管排名波动，但两部作品的单书热度均有微涨，显示出存量读者的粘性依然稳固。",
+      "summary": "**题材趋势**：回归“凡人流”与“种田/器物辅助”流派，强调修仙过程中的资源积累与循序渐进的成长逻辑。\n**读者偏好**：读者倾向于主角通过金手指（如神秘小鼎、仙葫）化腐朽为神奇的成长过程，对“苟道”与“杀伐果断”的复合设定尤为青睐。\n**变动解读**：《修仙从神秘小鼎开始》排名上升，说明具备清晰成长路径和明确升级点的作品在小众赛道更具粘性。\n**值得关注**：虽然当前在榜体量较小，但“器物辅助+凡人逆袭”结构依然是该类目的稳定增长点。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +56,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "71.13万字",
-        "word_count": 711300,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "72.07万字",
+        "word_count": 720700,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
-        "latest_chapter": " 第238章  功德剑再出",
-        "updated_at": "2026-08-23 00:17:06",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第242章  天机与一",
+        "updated_at": "2026-08-24 01:17:04",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "修仙从神秘小鼎开始",
         "book_id": 1800823,
         "url": "https://www.qimao.com/shuku/1800823/",
@@ -90,17 +85,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "441.63万字",
-        "word_count": 4416300,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "442.15万字",
+        "word_count": 4421500,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "梧桐村少年，用一本小人书换来一个神秘小鼎，虽灵根不堪，幸得小鼎相助，崛起微末，凭着坚毅的意志一步一步在弱肉强食尔虞我诈的修仙界愈来愈强。\n筑天道之基，掌雷霆清微，脚踏圣地，剑斩古族，登顶天地之巅，渡劫飞升，屹立万古之上，拟大道无涯。\n回过头来，谁能想到他曾经只是个山野少年？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/505/1512118_360x480.jpg?time=1711704309",
-        "latest_chapter": " 第1795章  青皇城所在",
-        "updated_at": "2026-08-22 22:02:13",
-        "rank_change": -2,
-        "heat_change": 1,
+        "latest_chapter": " 第1797章  麾下",
+        "updated_at": "2026-08-23 22:02:14",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

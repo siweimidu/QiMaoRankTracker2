@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -24,32 +24,22 @@
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
           "rank_change": 1
-        },
+        }
+      ],
+      "top_fallers": [
         {
           "title": "撩完清冷世子后，小通房她带球跑了",
           "book_id": 12107619,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "heat_change": -4
-        },
-        {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "heat_change": -2
-        }
-      ],
-      "summary": "**题材趋势**：题材呈现细分融合趋势，灵异悬疑与古言结合、传统宅斗与带球跑梗依然是市场刚需。\n**读者偏好**：读者倾向于强冲突叙事，如身份悬殊的CP互动及带有宿命感的追妻火葬场设定。\n**变动解读**：榜单整体热度回落，虽排名微升，但缺乏新锐作品冲击，存量博弈特征明显。\n**值得关注**：《撩完清冷世子后，小通房她带球跑了》的经典梗运用，验证了“阶级差+逆袭”仍是古言读者的核心爽点。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「古代情缘」《皇妃来自地府，百鬼退散》上升1位领涨；《撩完清冷世子后，小通房她带球跑了》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -61,24 +51,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "96.58万字",
-        "word_count": 965800,
+        "word_count_text": "97.23万字",
+        "word_count": 972300,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第463章  水生木，木生水",
-        "updated_at": "2026-08-22 15:30:07",
+        "latest_chapter": " 第466章  血海无涯",
+        "updated_at": "2026-08-23 14:51:05",
         "rank_change": 1,
-        "heat_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "撩完清冷世子后，小通房她带球跑了",
         "book_id": 12107619,
         "url": "https://www.qimao.com/shuku/12107619/",
@@ -90,17 +80,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.04万字",
-        "word_count": 250400,
+        "word_count_text": "25.66万字",
+        "word_count": 256600,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【上位者低头+狗血带球跑+追妻火葬场】\n阿芙一朝猝死，穿成了侯府最卑贱的粗使丫鬟。\n她一心攒钱赎身，却被指给世子谢寻做了通房。\n通房，不过是主子泄欲的玩物，待主母进门，轻则发卖，重则丢了性命，还不如寻常丫鬟活的体面。\n谢寻定亲后，人人都说他那未婚妻不是善茬，未及笄就亲手料理了父亲好几个通房，死的死，残的残。\n等她进了门，阿芙的好日子也就到头了。\n阿芙知道终有这么一天。\n但是亲耳听到谢寻对侯夫人说：“一个通房罢了，世子妃若是觉得碍眼，等她进门后亲自处置了就是。”\n阿芙还是如坠冰窖。\n她设法从侯夫人那里拿到了身契准备离开。\n一向清冷矜贵的世子爷却不愿放她走，“爷给你一个孩子傍身，莫要闹了。”\n他不由分说的停了避子药，将她禁足在偏房。\n大婚前夕，阿芙怀着三个月的身孕死遁了。\n数年后，谢寻就任凉州都护使，途歇一间茶点铺子。\n他盯着一个缩小版的自己，低声笑了。\n“……阿芙，你倒是是真敢啊。”\n帘子后面，揉茶的手顿住。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1787105772",
-        "latest_chapter": " 第117章  买避子丸",
-        "updated_at": "2026-08-22 09:02:07",
-        "rank_change": 1,
-        "heat_change": -4,
+        "latest_chapter": " 第120章  “他能玩，我便不能？”",
+        "updated_at": "2026-08-23 16:38:02",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

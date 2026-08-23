@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:24:18",
-  "date": "2026-08-23",
+  "generated_at": "2026-08-24T05:24:23",
+  "date": "2026-08-24",
   "authors": [
     {
       "author": "化十",
@@ -47,11 +47,22 @@
       ]
     },
     {
+      "author": "梁山老鬼",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
+      "books": 2,
+      "boards": 4,
+      "total_heat": 4226006,
+      "titles": [
+        "无敌六皇子",
+        "天命纨绔"
+      ]
+    },
+    {
       "author": "罗樵森",
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2812001,
+      "total_heat": 2812002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -62,7 +73,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 1520001,
+      "total_heat": 1520002,
       "titles": [
         "众仙俯首",
         "盗梦千年"
@@ -262,7 +273,7 @@
       "author": "墨墨卿卿",
       "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%A2%A8%E5%8D%BF%E5%8D%BF_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 12860000,
       "titles": [
         "霍二爷，新婚请克制！"
@@ -272,7 +283,7 @@
       "author": "蓝九九",
       "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E4%B9%9D%E4%B9%9D_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 3,
       "total_heat": 12325000,
       "titles": [
         "凰宫梦"
@@ -296,16 +307,6 @@
       "total_heat": 11731000,
       "titles": [
         "八年冷淡你提离婚，我签字你疯什么"
-      ]
-    },
-    {
-      "author": "随山月",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 11533000,
-      "titles": [
-        "解春衫"
       ]
     }
   ]

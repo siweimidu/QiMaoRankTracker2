@@ -8,25 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "盖世神医",
@@ -34,7 +28,7 @@
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势** 都市神医类题材虽已进入成熟期，但仍是都市频道的重要流量基石。\n**读者偏好** 倾向于“医武双绝”的强人设，追求直白、高效的爽点释放。\n**变动解读** 该类目表现疲软，头部作品热度与排名同步下滑，显示出都市高武题材在当前市场竞争中面临流量流失风险。\n**值得关注** 建议关注题材内是否能出现融合新元素（如系统流、反派流）的变体作品，以激活该细分赛道活力。",
+      "summary": "**题材趋势**：都市题材表现低迷，传统神医流在当前榜单中已出现热度断层，题材红利期明显消退。\n**读者偏好**：读者对同质化严重的“神医+都市打脸”套路审美疲劳，缺乏新鲜感的传统都市爽文难以留住核心用户。\n**变动解读**：排名持平但热度下滑，反映出该书处于典型的“榜单尾部滞留”状态，缺乏新鲜血液注入，市场吸引力趋于枯竭。\n**值得关注**：建议运营侧重点关注该赛道是否需要引入“都市+特殊职业”或“都市+高武异能”的融合创新，以突破现有流量瓶颈。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "897.5万字",
-        "word_count": 8975000,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "898.11万字",
+        "word_count": 8981100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4378章  太阴法相",
-        "updated_at": "2026-08-22 22:31:30",
-        "rank_change": -1,
+        "latest_chapter": " 第4381章  镇压准帝！",
+        "updated_at": "2026-08-23 20:57:29",
+        "rank_change": 0,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 4,

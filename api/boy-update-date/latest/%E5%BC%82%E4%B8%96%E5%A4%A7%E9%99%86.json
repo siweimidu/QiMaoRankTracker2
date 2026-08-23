@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
           "book_id": 12560163,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 传统玄幻与“被退婚/抢功”的爽文套路依然是该题材的核心驱动力。\n**读者偏好** 读者热衷于底层逆袭、极致打脸与家国情怀相结合的叙事节奏。\n**变动解读** 榜单呈现单点支撑态势，唯一上榜作品热度平稳但排名小幅下滑，反映出市场对该套路模式存在审美疲劳。\n**值得关注** 关注此类作品如何通过更具张力的“反手封侯”式爽点更新，重新拉动读者留存。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
+          "book_id": 12560163,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：传统异世大陆题材在当前周期内热度极度稀缺，市场头部效应不明显。\n**读者偏好**：读者依然青睐具备“强冲突、快节奏、反差感”的基层崛起类爽文，特别是带有“退婚/抢功”等高压开局的草根逆袭设定。\n**变动解读**：该品类上榜书籍凭借强烈的剧情冲突实现排名逆势上升，显示出此类快节奏爽文在弱势周期内仍具备稳固的读者粘性。\n**值得关注**：建议后续观察此类“边关/军旅+退婚逆袭”题材在更大样本下的留存数据，验证该细分赛道是否具备持续的市场爆发力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 7,
         "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
         "book_id": 12560163,
         "url": "https://www.qimao.com/shuku/12560163/",
@@ -45,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.46万字",
-        "word_count": 454600,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "46.04万字",
+        "word_count": 460400,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "陈牧从死人堆里爬回黑石堡，本以为等来的是军功。\n可城中红灯高挂，庆功宴上，百户之子赵承烈披着他的战利品，领着他的头功，还要娶他拼命救回来的未婚妻苏晚。\n苏晚当众退婚：“你只是个火头营小卒，配不上我。”\n满城将士冷眼旁观，都等着看他跪下认输。\n陈牧却拿出蛮将牙牌，当场验功。\n首级是假的，军功册被改，赵家还牵出通敌疑云。\n昔日嫌他低贱的女人跪在地上，终于知道自己错了。\n可陈牧已经不回头。\n边关敌袭再起，他披上染血红袍，提枪走向城头。\n“第一份军功你们抢了。”\n“这一份，我亲手拿回来。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4187/12560163_360x480.jpg?time=1782205579",
-        "latest_chapter": " 第151章  白翎先降费黑星直接加钱平澜却把谁护路三个",
-        "updated_at": "2026-08-23 00:12:12",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第153章  陆霜衣送来的不是信是一百二十名白狼关老兵",
+        "updated_at": "2026-08-24 00:02:18",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

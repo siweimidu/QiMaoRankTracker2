@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -3
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势** 悬疑诡异类题材在细分市场保持长尾效应，强调氛围营造与生存博弈。\n**读者偏好** 偏向于带有民俗色彩、规则怪谈元素的暗黑风格叙事。\n**变动解读** 榜单活跃度极低，仅存的一部作品《天黑请点灯》在热度下滑情况下排名微升，显示出该小类当前整体流量进入低谷期。\n**值得关注** 需观察此类题材在缺乏新书填充的情况下，存量作品如何通过剧情反转维持读者粘性。",
+      "summary": "**题材趋势**：民俗恐怖与“诡异流”题材占比突出，强调生存压迫感与环境的诡异设定，叙事风格偏向硬核与暗黑。\n**读者偏好**：受众偏好带有悬疑、惊悚元素的生存博弈类作品，喜欢主角以强硬姿态应对诡异世界的反差感。\n**变动解读**：榜单流动性较低，仅存书籍出现排名下滑，说明该类目短期内缺乏新鲜感刺激，正处于沉淀期。\n**值得关注**：建议关注题材中“诡异设定”的创新点，以及主角如何通过“降维打击”式的手段解决超自然危机。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 19,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "447.98万字",
-        "word_count": 4479800,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "448.83万字",
+        "word_count": 4488300,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1649章  你是谁？谁是你？雌一问心！",
-        "updated_at": "2026-08-22 06:57:13",
-        "rank_change": 1,
-        "heat_change": -3,
+        "latest_chapter": " 第1652章  驱你外邪，保你真我",
+        "updated_at": "2026-08-23 06:57:12",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

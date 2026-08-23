@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 285000,
+    "total_heat": 279000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 1000
+          "heat_change": -6000
         }
       ],
-      "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度+1000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：王朝争霸类作品回归传统“底层逆袭”逻辑，结合“武夫”元素，侧重于个人战力的觉醒与对腐朽世道的重塑。\n**读者偏好**：读者偏好开篇即具备强冲突（如身份反差、危机开局）的爽文模式，期待主角以绝对武力值扭转乾坤。\n**变动解读**：尽管排名有所上升，但热度出现小幅下滑（-6000），反映出当前单品在榜的垄断性较强，但用户留存面临一定挑战。\n**值得关注**：需监控该品类是否存在题材同质化倾向，以及后续是否有具备高创新度的新作冲击现有格局。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "187.64万字",
-        "word_count": 1876400,
-        "heat": 285000,
-        "platform_trend": "rise",
+        "word_count_text": "188.3万字",
+        "word_count": 1883000,
+        "heat": 279000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第870章  帮陆长生做些事情？",
-        "updated_at": "2026-08-22 18:11:07",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "latest_chapter": " 第873章  大周官员",
+        "updated_at": "2026-08-23 20:37:07",
+        "rank_change": 1,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
