@@ -6,25 +6,25 @@
   "intro": "隐婚三年，他突然提出离婚，苏婳忍痛一笑，拿钱走人，从此踏上开挂之路，修宝，鉴宝，轻松玩转古玩界。\n离婚后的某霸总，看着电视里艳惊四座的前妻，悔不当初。\n他化身妻奴，满世界追着她跑，“老婆，心给你，命给你，回来吧！”\n苏婳红唇微启：“抱歉，忙得很，没空！”\n后来，她终于遇到年少时的救命恩人，大婚当日，噩耗传来。\n她抛下新郎，抱着前夫支离破碎的身体，痛不欲生。\n直到他手拿钻戒，单膝跪在她面前，“老婆，我们复婚吧！”",
   "minor": "总裁豪门",
   "status": "连载中",
-  "word_count_text": "907.98万字",
+  "word_count_text": "908.61万字",
   "latest": [
-    {
-      "board": "girl-update-date",
-      "board_name": "女生更新日榜",
-      "rank": 2,
-      "heat": 0
-    },
     {
       "board": "girl-hot-date",
       "board_name": "女生大热日榜",
       "rank": 3,
-      "heat": 810000
+      "heat": 796000
     },
     {
       "board": "girl-hot-month",
       "board_name": "女生大热月榜",
       "rank": 3,
       "heat": 30048000
+    },
+    {
+      "board": "girl-update-date",
+      "board_name": "女生更新日榜",
+      "rank": 3,
+      "heat": 1
     },
     {
       "board": "girl-collect-date",
@@ -201,6 +201,30 @@
       "b": "girl-update-date",
       "r": 2,
       "h": 0
+    },
+    {
+      "d": "2026-08-25",
+      "b": "girl-collect-date",
+      "r": 4,
+      "h": 0
+    },
+    {
+      "d": "2026-08-25",
+      "b": "girl-hot-date",
+      "r": 3,
+      "h": 796000
+    },
+    {
+      "d": "2026-08-25",
+      "b": "girl-hot-month",
+      "r": 3,
+      "h": 30048000
+    },
+    {
+      "d": "2026-08-25",
+      "b": "girl-update-date",
+      "r": 3,
+      "h": 1
     }
   ]
 }

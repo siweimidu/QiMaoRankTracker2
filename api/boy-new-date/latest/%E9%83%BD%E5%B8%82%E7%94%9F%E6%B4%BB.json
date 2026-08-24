@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 60000,
+    "total_heat": 58000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "都市第一狠人",
-          "book_id": 12180918,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "都市第一狠人",
           "book_id": 12180918,
-          "heat_change": -6000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统复仇爽文题材仍占据市场份额，但增长乏力。\n**读者偏好**：读者对“出狱”、“背负巨债”、“守护遗孀”等强冲突、强情感羁绊的开篇模式需求依然存在。\n**变动解读**：本期榜单唯一在榜作品热度下滑6000且排名后移，反映出该题材当前缺乏新鲜血液，存量内容面临流量瓶颈。\n**值得关注**：建议关注此类作品是否能通过引入新的爽点节奏或差异化人设，来打破现有热度增长的疲软局面。",
+      "summary": "**题材趋势**：传统“出狱流”与“背负债款/家庭重担”的组合模式依然是都市生活赛道的长青题材。\n**读者偏好**：受众偏好具有强冲突性、强情感羁绊（如四叔临终托付）的开篇，期待主角通过个人拼搏实现困境逆袭。\n**变动解读**：榜单结构高度稳固，目前处于存量盘整期，头部作品热度出现轻微回落，反映出该书进入了常规更新的稳定期。\n**值得关注**：需警惕榜单缺乏新书注入带来的审美疲劳，建议观察该类目后续是否有具备差异化爽点的黑马作品切入。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.79万字",
-        "word_count": 497900,
-        "heat": 60000,
+        "word_count_text": "50.48万字",
+        "word_count": 504800,
+        "heat": 58000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "出狱后，四叔接我进城，说跟着他三年就能买房买车。\n可转眼，他被人陷害破产，欠债八千万。临死前他拉着我的手央求：“小勇，以后你四婶，就拜托你照顾了……”\n四叔的话还没说完，就咽了气，但我明白他话里的意思。\n为了还债、报仇，我赤手空拳闯出一片天。\n村霸、仇人、还有那些藏在幕后的黑手，我一个都不会放过。\n这一路，我遇到了很多女人。有富家千金、医生、总裁、明星……\n我从最底层往上爬，吃土咽血，一步一步登上巅峰。\n我叫陆小勇，后来，他们都叫我——深城之王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
-        "latest_chapter": " 第215章  连环打击",
-        "updated_at": "2026-08-23 23:47:04",
-        "rank_change": -2,
-        "heat_change": -6000,
+        "latest_chapter": " 第218章  十指相扣",
+        "updated_at": "2026-08-24 23:26:03",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

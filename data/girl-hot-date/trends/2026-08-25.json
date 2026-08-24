@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-25",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 527700,
+    "total_heat": 10554000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 2
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": 1
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 26000
+          },
+          {
+            "title": "重生新婚夜，提和离他失控了",
+            "book_id": 10494720,
+            "heat_change": 26000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 11000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《全家夺我军功，重生嫡女屠了满门》；《凰宫梦》上升2位领涨；《朱门春闺》热度+26000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "深情失控，他服软低哄别离婚",
+            "book_id": 2016334,
+            "intro": "结婚三年，许言做最多的事情，就是帮周京延处理他的风流后事。\n直到又一次帮他处理完绯闻，直到听见他和外人一起嘲笑他们的婚姻。\n许言不想坚持了。\n拟好离婚协议递过去，周京延却凉薄地说：“许言，周家只有丧偶"
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "intro": "【有声版权已售，喜马拉雅搜同名有声剧收听】\n【禁欲大佬+人间尤物+闪婚+先婚后爱+甜宠爆表】\n洛姝:隐藏顶级设计师\n被男友绿，被闺蜜上位，还被老板睡。\n因为他的一句:“要不要试着做聿太太”，她和禁欲大"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "离婚后，沈总彻夜白头悔疯了",
+            "book_id": 9527521,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+            "book_id": 1982356,
+            "rank_change": -3
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+            "book_id": 1982356,
+            "heat_change": -86000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": -22000
+          },
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": -18000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《霍二爷，新婚请克制！》；《深情失控，他服软低哄别离婚》、《婚后上瘾》 掉出榜单；《离婚后，沈总彻夜白头悔疯了》上升1位领涨；《渣夫别跪了，夫人嫁顶级大佬啦》下滑3位；《渣夫别跪了，夫人嫁顶级大佬啦》热度-86000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

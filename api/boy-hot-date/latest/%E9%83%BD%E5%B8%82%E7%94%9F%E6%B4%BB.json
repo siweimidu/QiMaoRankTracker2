@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 420000,
+    "total_heat": 423000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -9000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势** 现实向题材趋于平稳，融合“城市打工奋斗+复杂人性博弈”的写实风格具有一定的长尾效应。\n**读者偏好** 读者倾向于具备真实质感与社会共鸣的叙事，且对有声化衍生内容表现出较强适配度。\n**变动解读** 当前处于低频波动期，榜单排名未发生变动，反映出该品类流量池相对封闭且稳定。\n**值得关注** 建议持续评估有声剧联动对纸面阅读热度的反哺效果，挖掘跨媒介传播的转化逻辑。",
+      "summary": "**题材趋势**：都市生活类题材回归现实主义叙事，强调小人物在大城市拼搏的代入感与真实感，有声剧的协同效应成为拉动热度的关键。\n**读者偏好**：读者热衷于具有社会阅历共鸣的内容，倾向于关注从草根到精英的奋斗历程，且对多媒介联动（如有声剧）的作品信任度更高。\n**变动解读**：榜单呈现良性波动，《步步登阶》凭借稳健的口碑沉淀实现排名上升，说明长尾内容在都市生活类目中仍具较强生命力。\n**值得关注**：关注作品的“有声剧转化率”，多渠道内容宣发对于都市生活类小说的热度长线维持具有显著的加持作用。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -45,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "272.83万字",
-        "word_count": 2728300,
-        "heat": 420000,
-        "platform_trend": "drop",
+        "word_count_text": "273.24万字",
+        "word_count": 2732400,
+        "heat": 423000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1298章  人死了要钱没用",
-        "updated_at": "2026-08-24 00:07:11",
-        "rank_change": 0,
-        "heat_change": -9000,
+        "latest_chapter": " 第1300章  见到刘云樵",
+        "updated_at": "2026-08-25 00:07:18",
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

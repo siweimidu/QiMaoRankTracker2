@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 279000,
+    "total_heat": 281000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -6000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：王朝争霸类作品回归传统“底层逆袭”逻辑，结合“武夫”元素，侧重于个人战力的觉醒与对腐朽世道的重塑。\n**读者偏好**：读者偏好开篇即具备强冲突（如身份反差、危机开局）的爽文模式，期待主角以绝对武力值扭转乾坤。\n**变动解读**：尽管排名有所上升，但热度出现小幅下滑（-6000），反映出当前单品在榜的垄断性较强，但用户留存面临一定挑战。\n**值得关注**：需监控该品类是否存在题材同质化倾向，以及后续是否有具备高创新度的新作冲击现有格局。",
+      "summary": "**题材趋势**：传统王朝争霸题材进入稳健期，融合“底层崛起”与“武力破局”的爽点逻辑仍是市场主流。\n**读者偏好**：读者偏好开篇即有强冲突、主角具备强力征服手段（如武道压制）的叙事风格。\n**变动解读**：榜单热度波动极小，说明该书已进入成熟期，受众群体固化，缺乏新进竞品冲击。\n**值得关注**：该小类目前热度增长趋于平缓，创作重点应转向提升主角成长曲线的爽感密度，以激活用户活跃度。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "188.3万字",
-        "word_count": 1883000,
-        "heat": 279000,
-        "platform_trend": "drop",
+        "word_count_text": "188.99万字",
+        "word_count": 1889900,
+        "heat": 281000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第873章  大周官员",
-        "updated_at": "2026-08-23 20:37:07",
-        "rank_change": 1,
-        "heat_change": -6000,
+        "latest_chapter": " 第876章  针对",
+        "updated_at": "2026-08-24 19:22:07",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

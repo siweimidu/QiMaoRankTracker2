@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 76000,
+    "total_heat": 80000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "重生70：猎山猎水猎人生",
+          "book_id": 12605832,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重生70：猎山猎水猎人生",
           "book_id": 12605832,
-          "heat_change": -1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：年代文结合狩猎、复仇与发家致富，通过强烈的时代代入感与“爽文”节奏构建阅读快感。\n**读者偏好**：受众偏好带有浓厚乡土气息的重生逆袭故事，追求“主角智商在线、反击利落”的阅读体验。\n**变动解读**：榜单结构高度固化，短期内缺乏竞品入局，书籍热度处于小幅震荡的稳定期。\n**值得关注**：在题材同质化背景下，如何通过差异化的“猎山猎水”特色设定留存用户是该类目的核心竞争力。",
+      "summary": "**题材趋势**：年代文与狩猎题材深度融合，强调“爽感”与“时代特色”的强耦合。\n**读者偏好**：读者青睐“重生复仇+致富”的强逻辑爽文，对带有浓郁乡土气息的硬核生活描写有天然好感。\n**变动解读**：《重生70：猎山猎水猎人生》单日热度稳步提升，凭借明确的爽点设定（狩猎+万元户）实现快速登顶。\n**值得关注**：该书展现了乡村题材在爽文赛道中的强吸金能力，后续应重点关注其能否通过持续的“猎奇”情节维持热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 6,
         "title": "重生70：猎山猎水猎人生",
         "book_id": 12605832,
         "url": "https://www.qimao.com/shuku/12605832/",
@@ -45,17 +51,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.15万字",
-        "word_count": 481500,
-        "heat": 76000,
-        "platform_trend": "drop",
+        "word_count_text": "48.97万字",
+        "word_count": 489700,
+        "heat": 80000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第231章  驯养牛犊",
-        "updated_at": "2026-08-23 18:52:03",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第235章  黑省的特派任务",
+        "updated_at": "2026-08-24 17:12:03",
+        "rank_change": 2,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

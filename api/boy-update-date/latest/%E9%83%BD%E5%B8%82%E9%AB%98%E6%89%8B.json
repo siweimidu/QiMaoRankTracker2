@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": -3
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "heat_change": -2
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：传统都市修真与“出狱流”爽文依然占据基本盘，强调主角战力天花板设定。\n**读者偏好**：读者对快节奏、多女主暧昧及反差感强烈的“听劝/反套路”情节表现出较高粘性。\n**变动解读**：头部作品热度下滑且排名下行，显示该细分品类目前缺乏强力新书补充，存量竞争压力增大。\n**值得关注**：需警惕过度依赖修真与出狱标签造成的审美疲劳，后续作品需在“多女主”互动上寻求差异化爽点。",
-      "ai_source": "ai"
+      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》下滑2位；《全体起立，SSS狂龙出狱！》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 12,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -57,17 +51,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "172.23万字",
-        "word_count": 1722300,
-        "heat": 3,
+        "word_count_text": "173.44万字",
+        "word_count": 1734400,
+        "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第570章  二老祖死了？",
-        "updated_at": "2026-08-23 10:02:07",
-        "rank_change": -3,
-        "heat_change": -2,
+        "latest_chapter": " 第573章  你连我热身的资格都没有",
+        "updated_at": "2026-08-24 10:02:08",
+        "rank_change": -2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

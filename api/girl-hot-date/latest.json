@@ -8,19 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "types": [
     {
       "name": "全部",
       "url": "api/girl-hot-date/latest/all.json"
     },
     {
-      "name": "总裁豪门",
-      "url": "api/girl-hot-date/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
-    },
-    {
       "name": "宫闱宅斗",
       "url": "api/girl-hot-date/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
+    },
+    {
+      "name": "总裁豪门",
+      "url": "api/girl-hot-date/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
     }
   ]
 }

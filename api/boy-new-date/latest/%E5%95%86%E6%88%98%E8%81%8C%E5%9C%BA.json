@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 51000,
+    "total_heat": 53000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
           "book_id": 12606405,
-          "rank_change": -3
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
           "book_id": 12606405,
-          "heat_change": -4000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：现实向、重生类职场文受众精准，强调“无系统”、“逻辑在线”的硬核创业文受关注。\n**读者偏好**：读者倾向于底层逆袭、通过真实创业逻辑改变命运的写实向叙事，对非无脑爽文的接受度较高。\n**变动解读**：该类目仅存一本在榜书籍，且出现明显热度回落，显示出小众高品质职场文在激烈的榜单竞争中面临曝光压力。\n**值得关注**：此类题材虽流量爆发力不及玄幻仙侠，但具备较强的用户粘性，重点观察后续是否会有同类高口碑作品通过口碑效应回升。",
+      "summary": "**题材趋势**：主打“重生+真实创业+人间清醒”的硬核写实流风格，在职场赛道中表现出较强的口碑韧性。\n**读者偏好**：读者更青睐摒弃系统、女主等套路化元素的纯粹创业文，尤其看重逻辑严密与现实代入感。\n**变动解读**：书籍热度逆势增长且排名上升，证明“非套娃、写实风”的内容策略在当前市场环境下具有较高的用户留存潜力。\n**值得关注**：该书在缺乏同类竞品竞争的情况下持续吸睛，建议关注其后续剧情中关于“福布斯”目标的实现逻辑，这可能是此类题材的核心爽点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -51,17 +51,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.74万字",
-        "word_count": 357400,
-        "heat": 51000,
-        "platform_trend": "drop",
+        "word_count_text": "36.57万字",
+        "word_count": 365700,
+        "heat": 53000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n（绝不套娃，绝不AI，重启福布斯）\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第145章  验证商业逻辑（三千字大章）",
-        "updated_at": "2026-08-24 00:32:03",
-        "rank_change": -3,
-        "heat_change": -4000,
+        "latest_chapter": " 第148章  袁景瑞立的规矩",
+        "updated_at": "2026-08-25 00:32:04",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

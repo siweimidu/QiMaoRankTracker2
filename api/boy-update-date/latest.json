@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "types": [
     {
       "name": "全部",
@@ -23,8 +23,16 @@
       "url": "api/boy-update-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "幻想修真",
-      "url": "api/boy-update-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+      "name": "都市高武",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
+      "name": "奇门秘术",
+      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+    },
+    {
+      "name": "衍生同人",
+      "url": "api/boy-update-date/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
       "name": "都市高手",
@@ -35,20 +43,12 @@
       "url": "api/boy-update-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "奇门秘术",
-      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+      "name": "幻想修真",
+      "url": "api/boy-update-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "异世大陆",
       "url": "api/boy-update-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
-      "name": "衍生同人",
-      "url": "api/boy-update-date/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
-    },
-    {
-      "name": "都市高武",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     }
   ]
 }

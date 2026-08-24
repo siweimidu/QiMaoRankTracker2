@@ -8,24 +8,18 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 138000,
+    "total_heat": 130000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -34,8 +28,8 @@
           "heat_change": -8000
         }
       ],
-      "summary": "「都市奇幻」《阴当》上升1位领涨；《阴当》热度-8000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：民俗风水与“诡异当铺”类题材在女性向市场具备长线生命力，强调宿命感与奇幻设定的深度融合。\n**读者偏好**：读者倾向于带有强悬疑色彩、身世苦难且自带“祭品/特殊身份”标签的大女主成长故事。\n**变动解读**：榜单呈现固化趋势，在榜作品《阴当》热度虽有8000点小幅回落，但仍稳居榜单，显示出该细分领域存量作品的强黏性。\n**值得关注**：在缺乏新入局者的情况下，需警惕题材同质化导致的用户审美疲劳，后续需关注是否有创新性民俗作品注入活力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -53,14 +47,14 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 138000,
+        "heat": 130000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": -8000,
         "is_new": false,
         "boards_count": 2,

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "categories": [
     {
       "name": "都市高武",
@@ -57,14 +57,14 @@
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "奇门秘术",
-      "major": "奇闻异事",
-      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
-    },
-    {
       "name": "热血校园",
       "major": "都市",
       "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
+      "name": "奇门秘术",
+      "major": "奇闻异事",
+      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "异世大陆",
@@ -112,19 +112,14 @@
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
-      "name": "现代悬疑",
+      "name": "都市奇幻",
       "major": "现代言情",
-      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "玄幻仙侠",
       "major": "幻想言情",
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
-    },
-    {
-      "name": "都市奇幻",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "权谋天下",

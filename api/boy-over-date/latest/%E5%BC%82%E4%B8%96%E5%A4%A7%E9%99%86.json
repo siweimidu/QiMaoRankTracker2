@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -19,23 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
-          "book_id": 1809733,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
-          "book_id": 1809733,
-          "heat_change": 7000
-        }
-      ],
-      "summary": "**题材趋势**：全民转职与系统流依然是市场热点，尤其是将热门游戏机制（如金铲铲）与异界升级结合的创意，具有较强的内容穿透力。\n**读者偏好**：读者偏爱“废柴逆袭+系统外挂”的爽文逻辑，渴望通过职业差异化设定实现阅读快感。\n**变动解读**：该类目仅存的一本上榜作品排名显著提升且热度上涨，显示出该作品具备较强的留存能力和用户口碑。\n**值得关注**：游戏梗与异世题材的跨界融合仍是提升流量的有效手段，具备高转化潜质。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -54,14 +42,14 @@
         "word_count_text": "289.78万字",
         "word_count": 2897800,
         "heat": 85000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【没玩过云顶金铲铲不影响阅读。】\n深渊降临现世。\n蓝星人类进入全民转职时代。\n李遥转职A级召唤类职业，云顶执棋人。\n却被告知召唤师是下水道职业？\n女友提分手，资源被扣，副本没人组队？\n李遥：？？？\n那是召唤师，跟我云顶执棋人有什么关系？\n【执棋人】：召唤兽不死，召唤师为无敌状态！\n【实战训练】：杀一只怪获得1点属性！\n【恶魔契约】：献祭生命值获得额外召唤槽！\n【打气】：执棋人每提升一级，召唤兽提升10%敏捷！\n......\n十强争夺战！天骄争霸！一人独占十强！\n国境试炼！李遥一人即是军队！\n外域战场！一人诛灭魔族！\n深渊之行！李遥独面诸天神魔，打通职业者通天之路！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
         "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
         "updated_at": "2025-12-03 01:14:11",
-        "rank_change": 2,
-        "heat_change": 7000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

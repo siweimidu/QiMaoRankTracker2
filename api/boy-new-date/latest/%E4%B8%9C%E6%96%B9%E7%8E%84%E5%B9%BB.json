@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 121000,
+    "total_heat": 130000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,12 @@
         {
           "title": "我一杂役，怎么成掌门孩子他爹了？",
           "book_id": 12026346,
-          "rank_change": 2
+          "rank_change": 1
+        },
+        {
+          "title": "九帝塔",
+          "book_id": 11901855,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +36,20 @@
         {
           "title": "我一杂役，怎么成掌门孩子他爹了？",
           "book_id": 12026346,
-          "heat_change": 9000
+          "heat_change": 6000
+        },
+        {
+          "title": "九帝塔",
+          "book_id": 11901855,
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：以“软饭流”开局与“复仇流”传统叙事并存，强调极端的矛盾冲突与爽点爆发。\n**读者偏好**：读者对强冲突、强人设（如女帝、掌门）的快节奏开局情有独钟，期待主角在压抑后的强力反弹。\n**变动解读**：《我一杂役，怎么成掌门孩子他爹了？》凭借高期待感的暧昧博弈设定，热度显著增长，排名稳步攀升。\n**值得关注**：该小类受众对带有明显标签化、强情感驱动的开局容忍度与转化率极高。",
+      "summary": "**题材趋势**：爽点前置化明显，融合“软饭流”与“复仇流”的强冲突叙事成为主流。\n**读者偏好**：读者热衷于开局即具备强反差（如杂役逆推掌门）或极高情绪价值（如废柴复仇）的快节奏爽文。\n**变动解读**：两本上榜作品排名同步上移，反映出当前读者对“强节奏、强情绪”叙事模式的持续追捧。\n**值得关注**：《我一杂役，怎么成掌门孩子他爹了？》利用“逆推”噱头精准捕捉用户痛点，热度增长潜力巨大。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 9,
         "title": "我一杂役，怎么成掌门孩子他爹了？",
         "book_id": 12026346,
         "url": "https://www.qimao.com/shuku/12026346/",
@@ -51,24 +61,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.05万字",
-        "word_count": 480500,
-        "heat": 68000,
+        "word_count_text": "48.47万字",
+        "word_count": 484700,
+        "heat": 74000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "叶长天在路边摊买了一本阴阳造化诀，意外穿越成为太玄宗的一名杂役弟子。\n刚一穿越，他就被身中情毒的绝色掌门夏秋水逆推了。\n面对夏秋水的索取，叶长天不得不运转阴阳造化诀，然后他与夏秋水的修为就蹭蹭蹭地往上涨。\n从此以后，拒人于千里之外的高冷绝色掌门上瘾了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
-        "latest_chapter": " 第230章  小师叔，你想要我怎样感谢你？",
-        "updated_at": "2026-08-23 23:58:06",
-        "rank_change": 2,
-        "heat_change": 9000,
+        "latest_chapter": " 第232章  真武圣地天骄大会！",
+        "updated_at": "2026-08-24 23:29:03",
+        "rank_change": 1,
+        "heat_change": 6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -80,17 +90,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.57万字",
-        "word_count": 375700,
-        "heat": 53000,
+        "word_count_text": "38.18万字",
+        "word_count": 381800,
+        "heat": 56000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第181章  真的是他，爆发冲突",
-        "updated_at": "2026-08-23 22:47:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第184章  宗主令牌，老六降临",
+        "updated_at": "2026-08-24 22:10:05",
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

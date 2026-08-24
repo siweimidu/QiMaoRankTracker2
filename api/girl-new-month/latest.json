@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "types": [
     {
       "name": "全部",
@@ -27,8 +27,8 @@
       "url": "api/girl-new-month/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
     },
     {
-      "name": "现代悬疑",
-      "url": "api/girl-new-month/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
+      "name": "都市奇幻",
+      "url": "api/girl-new-month/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     }
   ]
 }

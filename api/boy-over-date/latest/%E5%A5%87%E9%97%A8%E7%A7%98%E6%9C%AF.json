@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 186000,
+    "total_heat": 179000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,26 +25,26 @@
           "title": "山野诡闻笔记",
           "book_id": 214783,
           "rank_change": -1
-        },
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "heat_change": -7000
+          "heat_change": -6000
+        },
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：民俗悬疑类题材表现平稳，长尾效应明显，但短期内缺乏新爆款冲击榜单头部。\n**读者偏好**：读者对“民间诡事”、“行业异闻”等强代入感的民俗志怪故事粘性极高。\n**变动解读**：本期两部作品排名均小幅下滑，且热度出现轻微回落，反映出该类目在缺乏新内容填充时，榜单活跃度呈现自然衰减。\n**值得关注**：建议关注此类作品在叙事手法上的“实录化”倾向，即通过伪纪实风格提升读者的沉浸式阅读体验。",
+      "summary": "**题材趋势**：民俗悬疑类题材表现稳健，以“职业化”视角（如捞尸、接阴婆）切入诡闻叙事是主流范式。\n**读者偏好**：受众偏好沉浸式的第一人称视角，对带有地域色彩与民间传说元素的志怪故事有较高追读意愿。\n**变动解读**：榜单结构趋于固化，头部作品热度虽有小幅波动，但未出现新晋作品冲击，市场处于稳态。\n**值得关注**：由于此类题材具有较强的“系列感”，深挖单元式诡闻叙事结构是维持完结作品热度的有效手段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -58,7 +58,7 @@
         "status": "已完结",
         "word_count_text": "256.28万字",
         "word_count": 2562800,
-        "heat": 103000,
+        "heat": 97000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
@@ -66,7 +66,7 @@
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
         "rank_change": -1,
-        "heat_change": -7000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -87,15 +87,15 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 83000,
-        "platform_trend": "rise",
+        "heat": 82000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -1,
-        "heat_change": 0,
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

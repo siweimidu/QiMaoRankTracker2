@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：该品类处于极度冷门或数据异常期，上榜作品均为经典老书，缺乏新鲜血液注入，市场活跃度极低。\n**读者偏好**：读者仍留恋于“扮猪吃虎”、“神医救世”及“金手指外挂”等传统爽文套路，偏好具有强冲突与快节奏代入感的作品。\n**变动解读**：本期榜单呈现绝对静止状态，无新书入驻或热度波动，显示该小类在七猫平台的流量支撑力度目前处于低谷。\n**值得关注**：需警惕榜单固化风险，建议观察是否有具备新颖设定（如系统流、异能结合）的竞品书籍能够打破沉寂。",
-      "ai_source": "ai"
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "898.11万字",
-        "word_count": 8981100,
+        "word_count_text": "898.73万字",
+        "word_count": 8987300,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4381章  镇压准帝！",
-        "updated_at": "2026-08-23 20:57:29",
+        "latest_chapter": " 第4384章  当众求情",
+        "updated_at": "2026-08-24 10:57:29",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -21,31 +21,24 @@
       "dropped_books": [],
       "top_risers": [
         {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": 1
+        },
+        {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": -3000
-        }
-      ],
-      "summary": "**题材趋势**：校园类题材正向“甜宠+重生”的轻量化叙事转型，单纯的热血竞技已退居二线，恋爱日常成为核心驱动力。\n**读者偏好**：读者对“重生弥补遗憾”及“青涩校花”的怀旧情感共鸣需求旺盛，治愈系恋爱文在完结榜中具有极强的生命力。\n**变动解读**：两部作品排名互换，显示出该类目内部竞争激烈，具备“商业帝国+狗粮”复合卖点的作品更易获得读者青睐。\n**值得关注**：校园题材的完结榜表现证明，情感细腻度与商业成就的双线并行，是提升完结期作品留存热度的关键。",
-      "ai_source": "ai"
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「热血校园」《我和软萌女友的恋爱日常》上升1位领涨。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -60,21 +53,21 @@
         "word_count_text": "300.01万字",
         "word_count": 3000100,
         "heat": 100000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": -1,
-        "heat_change": -3000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "热血校园"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",

@@ -6,7 +6,7 @@
   "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
   "minor": "都市高手",
   "status": "连载中",
-  "word_count_text": "819.96万字",
+  "word_count_text": "820.36万字",
   "latest": [
     {
       "board": "boy-hot-month",
@@ -18,7 +18,7 @@
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 15,
-      "heat": 261000
+      "heat": 262000
     }
   ],
   "history": [
@@ -102,6 +102,18 @@
     },
     {
       "d": "2026-08-24",
+      "b": "boy-hot-month",
+      "r": 14,
+      "h": 9399000
+    },
+    {
+      "d": "2026-08-25",
+      "b": "boy-hot-date",
+      "r": 15,
+      "h": 262000
+    },
+    {
+      "d": "2026-08-25",
       "b": "boy-hot-month",
       "r": 14,
       "h": 9399000

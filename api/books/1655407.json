@@ -6,13 +6,13 @@
   "intro": "十万年前，九位风姿卓绝，独断万古的女帝，妖后，被封印于鸿蒙金塔之中。\n十万年后，少年萧诺，被家族迫害，沦为弃子。阴差阳错之下，开启鸿蒙金塔，修炼霸体神诀，成就无上神体。\n自此诸天仙魔，皆将烟消云散。",
   "minor": "东方玄幻",
   "status": "连载中",
-  "word_count_text": "949.5万字",
+  "word_count_text": "951.03万字",
   "latest": [
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
       "rank": 2,
-      "heat": 1
+      "heat": 0
     },
     {
       "board": "boy-hot-month",
@@ -24,7 +24,7 @@
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 6,
-      "heat": 484000
+      "heat": 488000
     }
   ],
   "history": [
@@ -153,6 +153,24 @@
       "b": "boy-update-date",
       "r": 2,
       "h": 1
+    },
+    {
+      "d": "2026-08-25",
+      "b": "boy-hot-date",
+      "r": 6,
+      "h": 488000
+    },
+    {
+      "d": "2026-08-25",
+      "b": "boy-hot-month",
+      "r": 5,
+      "h": 18313000
+    },
+    {
+      "d": "2026-08-25",
+      "b": "boy-update-date",
+      "r": 2,
+      "h": 0
     }
   ]
 }

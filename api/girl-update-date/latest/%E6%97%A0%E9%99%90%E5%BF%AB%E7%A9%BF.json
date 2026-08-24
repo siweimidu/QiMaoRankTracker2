@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "category": {
     "name": "无限快穿",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "诡异直播，早死的老公是疯批boss",
           "book_id": 9923838,
-          "rank_change": 1
+          "rank_change": -4
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "诡异直播，早死的老公是疯批boss",
           "book_id": 9923838,
-          "heat_change": 1
+          "heat_change": 3
         }
       ],
-      "summary": "「无限快穿」《诡异直播，早死的老公是疯批boss》上升1位领涨；《诡异直播，早死的老公是疯批boss》热度+1。",
+      "summary": "「无限快穿」《诡异直播，早死的老公是疯批boss》下滑4位；《诡异直播，早死的老公是疯批boss》热度+3。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 19,
         "title": "诡异直播，早死的老公是疯批boss",
         "book_id": 9923838,
         "url": "https://www.qimao.com/shuku/9923838/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "83.96万字",
         "word_count": 839600,
-        "heat": 1,
-        "platform_trend": "rise",
+        "heat": 4,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "众所周知，老公死后就能继承遗产\n\n　　好消息：云栀的老公死了，她继承了一百亿\n\n　　坏消息：是冥币\n\n　　就在云栀准备把老公挖出来揍一顿的时候，她被拉进了诡异游戏\n\n　　云栀发现，一百亿冥币居然在诡异世界有用\n\n　　等等，怎么她在副本里面遇见的变态痴汉boss，长得和她早死的塑料老公一模一样！？\n\n　　云栀一直以为她和塑料老公是闪婚联姻没有感情，但变成副本boss的男人却格外粘人\n\n　　变成boss的塑料老公：老婆我们不是一见钟情两情相悦然后结婚的吗？\n\n　　云栀：啊？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3308/9923838_360x480.jpg?time=1774405962",
         "latest_chapter": " 第415章  番外（完）",
         "updated_at": "2026-08-20 23:50:07",
-        "rank_change": 1,
-        "heat_change": 1,
+        "rank_change": -4,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
