@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,7 +24,7 @@
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
@@ -34,12 +34,12 @@
           "heat_change": -1
         }
       ],
-      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》下滑2位；《全体起立，SSS狂龙出狱！》热度-1。",
+      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》下滑1位；《全体起立，SSS狂龙出狱！》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -51,16 +51,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "173.44万字",
-        "word_count": 1734400,
-        "heat": 2,
+        "word_count_text": "174.65万字",
+        "word_count": 1746500,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第573章  你连我热身的资格都没有",
-        "updated_at": "2026-08-24 10:02:08",
-        "rank_change": -2,
+        "latest_chapter": " 第576章  你师父是谁？",
+        "updated_at": "2026-08-25 10:02:09",
+        "rank_change": -1,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 1,

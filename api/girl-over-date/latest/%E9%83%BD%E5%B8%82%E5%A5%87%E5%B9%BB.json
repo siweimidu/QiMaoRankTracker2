@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
@@ -20,20 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "heat_change": -8000
+          "rank_change": -1
         }
       ],
-      "summary": "**题材趋势**：民俗风水与“诡异当铺”类题材在女性向市场具备长线生命力，强调宿命感与奇幻设定的深度融合。\n**读者偏好**：读者倾向于带有强悬疑色彩、身世苦难且自带“祭品/特殊身份”标签的大女主成长故事。\n**变动解读**：榜单呈现固化趋势，在榜作品《阴当》热度虽有8000点小幅回落，但仍稳居榜单，显示出该细分领域存量作品的强黏性。\n**值得关注**：在缺乏新入局者的情况下，需警惕题材同质化导致的用户审美疲劳，后续需关注是否有创新性民俗作品注入活力。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：民俗灵异与悬疑当铺类题材在七猫平台维持着稳定的垂直受众。\n**读者偏好**：读者倾向于带有宿命感、诡异开局及“掌事”身份设定的成长型故事。\n**变动解读**：该品类目前处于存量盘整期，头部效应明显但缺乏新作冲击，排名微调属于自然波动。\n**值得关注**：需监控此类作品在完结后的长尾流量转化，以及读者对“宿命诅咒”类强冲突剧情的留存表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -54,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 0,
-        "heat_change": -8000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

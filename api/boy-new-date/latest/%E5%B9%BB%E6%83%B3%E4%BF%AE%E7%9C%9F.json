@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 205000,
+    "total_heat": 204000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -29,17 +29,17 @@
       "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "盗梦千年",
+          "book_id": 12257385,
+          "heat_change": -5000
+        },
+        {
           "title": "聚宝仙炉",
           "book_id": 12452187,
           "heat_change": 4000
-        },
-        {
-          "title": "盗梦千年",
-          "book_id": 12257385,
-          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统修仙与金手指流并行，强调“因果”与“资源增殖”双驱动。\n**读者偏好**：读者倾向于具备高概念设定（如跨时空连线）或强成长反馈（如资源补全）的叙事结构。\n**变动解读**：《聚宝仙炉》通过极具诱惑力的“资源倍增”机制实现排名攀升，展现了稳扎稳打的上升势头。\n**值得关注**：《盗梦千年》以双线叙事构筑历史闭环，其深厚的故事底蕴是维持高热度的核心护城河。",
+      "summary": "**题材趋势**：传统修仙流派依旧稳固，核心驱动力在于“金手指”带来的爽感反馈。\n**读者偏好**：读者倾向于具备强设定、强反转的成长型故事，尤其是“补全万物”类金手指具有极高的代入感。\n**变动解读**：榜单结构趋于稳定，头部效应明显，《盗梦千年》虽热度微降，但凭借跨时空互动设定仍占据绝对优势。\n**值得关注**：凡人流与系统流的融合趋势，强调“低开高走”的平民逆袭逻辑。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,24 +56,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.97万字",
-        "word_count": 339700,
-        "heat": 125000,
+        "word_count_text": "34.41万字",
+        "word_count": 344100,
+        "heat": 120000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第146章  守城",
-        "updated_at": "2026-08-24 07:01:04",
+        "latest_chapter": " 第148章  炼丹",
+        "updated_at": "2026-08-25 07:01:05",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -85,15 +85,15 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.11万字",
-        "word_count": 351100,
-        "heat": 80000,
+        "word_count_text": "35.53万字",
+        "word_count": 355300,
+        "heat": 84000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第167章  交锋！",
-        "updated_at": "2026-08-25 00:12:07",
+        "latest_chapter": " 第169章  原形毕露",
+        "updated_at": "2026-08-26 00:02:09",
         "rank_change": 1,
         "heat_change": 4000,
         "is_new": false,

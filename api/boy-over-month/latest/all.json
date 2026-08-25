@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-25",
-  "prev_date": "2026-08-24",
+  "date": "2026-08-26",
+  "prev_date": "2026-08-25",
   "books": [
     {
       "rank": 1,
@@ -297,7 +297,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "都市高手"
     },
@@ -953,7 +953,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "都市高手"
         },

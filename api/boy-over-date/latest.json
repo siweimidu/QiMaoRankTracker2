@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "types": [
     {
       "name": "全部",
@@ -27,8 +27,8 @@
       "url": "api/boy-over-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+      "name": "都市高手",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "热血校园",
@@ -39,8 +39,8 @@
       "url": "api/boy-over-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "都市高手",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+      "name": "都市生活",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "异世大陆",

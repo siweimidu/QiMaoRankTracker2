@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 4,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 4
+          "rank_change": -5
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 2
+          "heat_change": 1
         }
       ],
-      "summary": "「奇门秘术」《天黑请点灯》上升4位领涨；《天黑请点灯》热度+2。",
+      "summary": "「奇门秘术」《天黑请点灯》下滑5位；《天黑请点灯》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 20,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "449.64万字",
-        "word_count": 4496400,
-        "heat": 4,
-        "platform_trend": "rise",
+        "word_count_text": "450.5万字",
+        "word_count": 4505000,
+        "heat": 5,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1655章  天下道观共约，仙洞山失联，灭三尸的机缘！",
-        "updated_at": "2026-08-24 06:57:11",
-        "rank_change": 4,
-        "heat_change": 2,
+        "latest_chapter": " 第1658章  你可认识秦崴子，他是我师尊",
+        "updated_at": "2026-08-25 06:57:12",
+        "rank_change": -5,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

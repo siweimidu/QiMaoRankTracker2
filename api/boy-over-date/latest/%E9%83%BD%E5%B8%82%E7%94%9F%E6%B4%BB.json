@@ -8,59 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 3,
-    "total_heat": 186000,
+    "count": 2,
+    "total_heat": 129000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "离婚后，前妻姐崩溃了",
-          "book_id": 1838355
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "甩我是吧？那就捡个校花回家当老婆",
-          "book_id": 9796413,
-          "intro": "【都市日常+爽文+单女主+无系统+病娇】\n全校都知道，苏清禾是不可攀折的高岭之花。\n她在开学典礼上弹钢琴的模样，成了无数男生青春里的白月光。\n江澈是个例外，他对校花什么的并不感冒。\n可一个月前，她离奇"
+          "title": "离婚后，前妻姐崩溃了",
+          "book_id": 1838355,
+          "intro": "短剧《咸鱼化龙》《覆水难收》《情途难复》《错爱难赎》原著，已上线。\n本书原名：《离婚后，她放弃白月光哭着求我回来》\n结婚五周年纪念日那天，我在客厅等了妻子一夜。\n天亮时，妻子带着一身酒气，被她的白月光"
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "rank_change": -1
-        },
-        {
-          "title": "还不起人情债，我只好当她男朋友了",
-          "book_id": 1924828,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "heat_change": -5000
+          "heat_change": 3000
         },
         {
           "title": "还不起人情债，我只好当她男朋友了",
           "book_id": 1924828,
-          "heat_change": -4000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：都市生活类持续深耕“离婚/逆袭”赛道，情感纠葛与爽文元素深度融合。\n**读者偏好**：读者对强冲突、快节奏的婚恋情感反转类作品粘性极高，尤其是带有“前任/白月光”冲突设定的文风。\n**变动解读**：新上榜作品《离婚后，前妻姐崩溃了》自带短剧改编背景，显示出网文与短剧联动对热度的强力拉动。\n**值得关注**：头部作品热度普降，反映出完结榜单进入存量消耗期，内容转化率成为决定排名的核心指标。",
-      "ai_source": "ai"
+      "summary": "「都市生活」《离婚后，前妻姐崩溃了》 掉出榜单；《我非池中物》上升1位领涨；《我非池中物》热度+3000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "我非池中物",
         "book_id": 1850580,
         "url": "https://www.qimao.com/shuku/1850580/",
@@ -74,15 +64,15 @@
         "status": "已完结",
         "word_count_text": "340.6万字",
         "word_count": 3406000,
-        "heat": 67000,
-        "platform_trend": "drop",
+        "heat": 70000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -103,45 +93,16 @@
         "status": "已完结",
         "word_count_text": "292.33万字",
         "word_count": 2923300,
-        "heat": 62000,
+        "heat": 59000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名：《离婚后，我与美女同事做了临时夫妻》、《离婚后，我的桃花运来了》。\n---\n离婚的那天晚上，江风被朋友接到了他家里喝酒，嫂子做了一桌子丰盛的菜。\n酒过三巡，大家都有些醉意的时候，朋友突然道：“江风，我给你介绍个女朋友吧？包你满意！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/653/1958718_360x480.jpg?time=1740125957",
         "latest_chapter": " 第551章  番外：前世篇",
         "updated_at": "2026-06-21 21:01:06",
-        "rank_change": -1,
-        "heat_change": -4000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "都市生活"
-      },
-      {
-        "rank": 20,
-        "title": "离婚后，前妻姐崩溃了",
-        "book_id": 1838355,
-        "url": "https://www.qimao.com/shuku/1838355/",
-        "author": "洛王",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%B4%9B%E7%8E%8B_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "164.99万字",
-        "word_count": 1649900,
-        "heat": 57000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "短剧《咸鱼化龙》《覆水难收》《情途难复》《错爱难赎》原著，已上线。\n本书原名：《离婚后，她放弃白月光哭着求我回来》\n结婚五周年纪念日那天，我在客厅等了妻子一夜。\n天亮时，妻子带着一身酒气，被她的白月光搀扶着回来，两人动作暧昧，我没忍住，狠狠给了她白月光一拳。\n妻子冷眼旁观……\n事后，我提出离婚。\n可当我将离婚协议送到妻子手中时，她却哭着求我不要离开她……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/549/1646218_360x480.jpg?time=1754557669",
-        "latest_chapter": " 第718章  大结局",
-        "updated_at": "2025-03-13 01:13:14",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -3000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市生活"

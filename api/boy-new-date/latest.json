@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "types": [
     {
       "name": "全部",
@@ -37,10 +37,6 @@
     {
       "name": "乡村生活",
       "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
-    },
-    {
-      "name": "都市生活",
-      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "商战职场",

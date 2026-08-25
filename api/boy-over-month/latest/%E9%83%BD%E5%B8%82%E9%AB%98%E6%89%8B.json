@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -51,7 +51,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "都市高手"
       },

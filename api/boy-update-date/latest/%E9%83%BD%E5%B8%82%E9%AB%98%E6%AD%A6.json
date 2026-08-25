@@ -8,72 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 9,
+    "total_heat": 5,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "医武双绝，捡个美女总裁当老婆",
-          "book_id": 12352563
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": -2
+          "rank_change": 2
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "医武双绝，捡个美女总裁当老婆",
+          "book_id": 12352563,
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "heat_change": 2
+          "title": "医武双绝，捡个美女总裁当老婆",
+          "book_id": 12352563,
+          "heat_change": -4
         }
       ],
-      "summary": "「都市高武」新上榜 《医武双绝，捡个美女总裁当老婆》；《盖世神医》下滑2位；《盖世神医》热度+2。",
+      "summary": "「都市高武」《盖世神医》上升2位领涨；《医武双绝，捡个美女总裁当老婆》下滑3位；《医武双绝，捡个美女总裁当老婆》热度-4。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
-        "title": "医武双绝，捡个美女总裁当老婆",
-        "book_id": 12352563,
-        "url": "https://www.qimao.com/shuku/12352563/",
-        "author": "归川",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%BD%92%E5%B7%9D_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "37.17万字",
-        "word_count": 371700,
-        "heat": 7,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "离家十年，叶峰上山修炼，习得无上医术，上可白骨活死人，下可九阴捞真灵，可惜身负死劫，于是六位美女师傅便为其寻得一良配，试图为叶峰化解死劫。没成想，刚刚下山就捡到一个美女总裁老婆，送上一血。从此往后，叶峰的道路一帆风顺，拦也拦不住。未婚妻嫌我乡野出身？昔日亲戚觊觎我的财产？对不起，我的医术不是你能惹的！这天下我来了，天下便是我！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4118/12352563_360x480.jpg?time=1780991578",
-        "latest_chapter": " 第172章  一起下山",
-        "updated_at": "2026-08-25 00:02:17",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 17,
+        "rank": 15,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -85,19 +57,48 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "898.73万字",
-        "word_count": 8987300,
+        "word_count_text": "899.35万字",
+        "word_count": 8993500,
         "heat": 2,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4384章  当众求情",
-        "updated_at": "2026-08-24 10:57:29",
-        "rank_change": -2,
-        "heat_change": 2,
+        "latest_chapter": " 第4387章  凤族到来",
+        "updated_at": "2026-08-26 00:07:34",
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 19,
+        "title": "医武双绝，捡个美女总裁当老婆",
+        "book_id": 12352563,
+        "url": "https://www.qimao.com/shuku/12352563/",
+        "author": "归川",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%BD%92%E5%B7%9D_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.71万字",
+        "word_count": 377100,
+        "heat": 3,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "离家十年，叶峰上山修炼，习得无上医术，上可白骨活死人，下可九阴捞真灵，可惜身负死劫，于是六位美女师傅便为其寻得一良配，试图为叶峰化解死劫。没成想，刚刚下山就捡到一个美女总裁老婆，送上一血。从此往后，叶峰的道路一帆风顺，拦也拦不住。未婚妻嫌我乡野出身？昔日亲戚觊觎我的财产？对不起，我的医术不是你能惹的！这天下我来了，天下便是我！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4118/12352563_360x480.jpg?time=1780991578",
+        "latest_chapter": " 第174章  那家疗养院",
+        "updated_at": "2026-08-26 00:02:18",
+        "rank_change": -3,
+        "heat_change": -4,
+        "is_new": false,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

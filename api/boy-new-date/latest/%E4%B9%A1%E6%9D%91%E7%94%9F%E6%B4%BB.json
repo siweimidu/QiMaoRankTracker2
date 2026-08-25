@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "重生70：猎山猎水猎人生",
           "book_id": 12605832,
-          "rank_change": 2
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生70：猎山猎水猎人生",
-          "book_id": 12605832,
-          "heat_change": 4000
-        }
-      ],
-      "summary": "**题材趋势**：年代文与狩猎题材深度融合，强调“爽感”与“时代特色”的强耦合。\n**读者偏好**：读者青睐“重生复仇+致富”的强逻辑爽文，对带有浓郁乡土气息的硬核生活描写有天然好感。\n**变动解读**：《重生70：猎山猎水猎人生》单日热度稳步提升，凭借明确的爽点设定（狩猎+万元户）实现快速登顶。\n**值得关注**：该书展现了乡村题材在爽文赛道中的强吸金能力，后续应重点关注其能否通过持续的“猎奇”情节维持热度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：年代文与狩猎题材结合，强调“时代红利+个人奋斗”的爽文逻辑。\n**读者偏好**：偏好重生背景下的因果报应与财富积累，尤其是带有“猎奇”色彩的乡村生活叙事。\n**变动解读**：当前该类目上榜书籍单一，热度出现回落，显示出该细分赛道近期缺乏强力新书注入。\n**值得关注**：年代文在结合特定职业（如狩猎、经营）时，需强化快节奏的爽点节奏，以维持榜单竞争力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 8,
         "title": "重生70：猎山猎水猎人生",
         "book_id": 12605832,
         "url": "https://www.qimao.com/shuku/12605832/",
@@ -51,17 +45,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.97万字",
-        "word_count": 489700,
+        "word_count_text": "49.79万字",
+        "word_count": 497900,
         "heat": 80000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第235章  黑省的特派任务",
-        "updated_at": "2026-08-24 17:12:03",
-        "rank_change": 2,
-        "heat_change": 4000,
+        "latest_chapter": " 第239章  臭老九",
+        "updated_at": "2026-08-25 23:25:04",
+        "rank_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

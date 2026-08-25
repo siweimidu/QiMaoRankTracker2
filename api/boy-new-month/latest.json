@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "types": [
     {
       "name": "全部",
@@ -23,12 +23,12 @@
       "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
-      "name": "东方玄幻",
-      "url": "api/boy-new-month/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
-    },
-    {
       "name": "都市高武",
       "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
+      "name": "东方玄幻",
+      "url": "api/boy-new-month/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
     {
       "name": "乡村生活",
@@ -37,10 +37,6 @@
     {
       "name": "幻想修真",
       "url": "api/boy-new-month/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
-      "name": "都市生活",
-      "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "王朝争霸",

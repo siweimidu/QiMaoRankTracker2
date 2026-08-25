@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-26",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 538100,
+    "total_heat": 10762000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": 1
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -2
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 33000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 22000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 17000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升1位领涨；《解春衫》下滑2位；《朱门春闺》热度+33000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+            "book_id": 1982356,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 24000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": 21000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -19000
+          }
+        ],
+        "summary": "「总裁豪门」《八年冷淡你提离婚，我签字你疯什么》上升2位领涨；《渣夫别跪了，夫人嫁顶级大佬啦》下滑1位；《离婚后她惊艳了世界》热度+24000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

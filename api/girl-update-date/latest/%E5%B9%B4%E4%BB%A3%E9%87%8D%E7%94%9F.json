@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "一胎五宝，我成军属院顶流",
-          "book_id": 12655653,
-          "heat_change": -15
+          "rank_change": 1
         },
         {
           "title": "我才五岁，怎么就成军区团宠了",
           "book_id": 12134931,
-          "heat_change": -1
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：聚焦“军婚+系统+萌宝”的复合型题材，强调强冲突与爽点叠加。\n**读者偏好**：受众倾向于具有极致反差感、节奏紧凑的轻快爽文，尤其偏爱“重生逆袭”与“团宠”元素。\n**变动解读**：本期榜单整体表现平淡，头部作品热度出现下滑，显示出该细分领域近期缺乏强力新作驱动，用户粘性有所波动。\n**值得关注**：需警惕题材同质化带来的审美疲劳，后续创作建议在“年代+”的赛道上探索更具差异化的核心设定。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "我才五岁，怎么就成军区团宠了",
+          "book_id": 12134931,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：聚焦“年代+系统/萌娃+军婚”复合赛道，强调极致的身份反差与家庭氛围的爽点营造。\n**读者偏好**：读者群体偏好“打脸亲妈/极品亲戚”的家庭伦理斗争，以及“一胎多宝”带来的家族繁荣预期，情感需求侧重于补偿式叙事。\n**变动解读**：当前榜单仅存两本，且均处于上升状态，说明该类作品在七猫平台拥有极高的点击转化率，读者对这类“重生改变命运”的故事粘性极强。\n**值得关注**：建议重点关注“幼崽成长+年代群像”的叙事结构，此类作品不仅能提供爽感，还具备更强的温情感染力，易于拉动读者的情感共鸣。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "一胎五宝，我成军属院顶流",
         "book_id": 12655653,
         "url": "https://www.qimao.com/shuku/12655653/",
@@ -56,24 +56,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.93万字",
-        "word_count": 259300,
+        "word_count_text": "26.4万字",
+        "word_count": 264000,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第118章  我们是一条船上的人",
-        "updated_at": "2026-08-24 10:17:02",
-        "rank_change": -1,
-        "heat_change": -15,
+        "latest_chapter": " 第120章  这……这是我们商场看到的那架钢琴？",
+        "updated_at": "2026-08-25 10:27:03",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "我才五岁，怎么就成军区团宠了",
         "book_id": 12134931,
         "url": "https://www.qimao.com/shuku/12134931/",
@@ -85,19 +85,19 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.66万字",
-        "word_count": 506600,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "51.29万字",
+        "word_count": 512900,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "上辈子，亲妈为了给继姐筹嫁妆把阮晓春嫁给了一个家暴屠夫，最后她被活生生折磨死了，而最终得来亲妈一句叹息。\n“和她那个早死的傻爹一样命不好。”\n这一世，阮晓春重生了，看着护着自己的傻爹红了眼睛。\n亲妈踩着傻爹的功勋获得好工作，做梦！\n她带着傻爹闹上了军区，是谁让英雄流血又流泪？\n夺回工作，补贴和房子，撕开出轨亲妈的虚伪面具。\n那么喜欢给别人当后妈，滚远点吧！\n后来，给别人当后妈的女人家里鸡飞狗跳，而带着傻爹生活的小春宝却过得风生水起。\n“听说了吗？小春帮忙破了几十个人的盗窃团队！”\n“什么？不是说小春帮忙公安抓到了杀了五人的江洋大盗？”\n“你们这些消息都过时了，我听说公安部的亲自来聘请小春当专家，工资一年有一千块！！！”\n“不对！你们不知道阮家的傻子爹不傻了，还成了刑警呢！”\n一旁买菜路过的阮老太昂首挺胸：“是我家乖乖孙女哟~”\n众人酸溜溜：“......”\n这阮家真是走了狗屎运了，祖坟是装了原子弹吗，还带这么冒烟的？？\n原女主的亲妈：为什么？明明上辈子不是这样的，到底哪里出错了？\n休眠回来的系统：说好的犯罪大师培养系统，你跟我说你现在当条子老大了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
-        "latest_chapter": " 第190章  “好心”老太太",
-        "updated_at": "2026-08-25 00:02:13",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第192章  杀人犯在这些人里",
+        "updated_at": "2026-08-26 00:02:13",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       }

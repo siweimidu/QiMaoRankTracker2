@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 130000,
+    "total_heat": 128000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,14 +21,9 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "我一杂役，怎么成掌门孩子他爹了？",
-          "book_id": 12026346,
-          "rank_change": 1
-        },
-        {
           "title": "九帝塔",
           "book_id": 11901855,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -36,15 +31,15 @@
         {
           "title": "我一杂役，怎么成掌门孩子他爹了？",
           "book_id": 12026346,
-          "heat_change": 6000
+          "heat_change": -4000
         },
         {
           "title": "九帝塔",
           "book_id": 11901855,
-          "heat_change": 3000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：爽点前置化明显，融合“软饭流”与“复仇流”的强冲突叙事成为主流。\n**读者偏好**：读者热衷于开局即具备强反差（如杂役逆推掌门）或极高情绪价值（如废柴复仇）的快节奏爽文。\n**变动解读**：两本上榜作品排名同步上移，反映出当前读者对“强节奏、强情绪”叙事模式的持续追捧。\n**值得关注**：《我一杂役，怎么成掌门孩子他爹了？》利用“逆推”噱头精准捕捉用户痛点，热度增长潜力巨大。",
+      "summary": "**题材趋势**：深度拥抱“强情绪+强冲突”模式，多女帝、反派逆袭及宗门修仙题材占据主导。\n**读者偏好**：热衷于开局即巅峰或极速反转的快节奏爽文，带有情感羁绊与身份错位的设定极具吸睛力。\n**变动解读**：《九帝塔》依靠经典复仇流设定排名跃升，显示出读者对“天才跌落后绝地反击”这一传统爽点的复购率。\n**值得关注**：情绪价值驱动的小说更易获得读者青睐，尤其是结合“宗门+情感”的轻量化爽文。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +56,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.47万字",
-        "word_count": 484700,
-        "heat": 74000,
-        "platform_trend": "rise",
+        "word_count_text": "48.89万字",
+        "word_count": 488900,
+        "heat": 70000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "叶长天在路边摊买了一本阴阳造化诀，意外穿越成为太玄宗的一名杂役弟子。\n刚一穿越，他就被身中情毒的绝色掌门夏秋水逆推了。\n面对夏秋水的索取，叶长天不得不运转阴阳造化诀，然后他与夏秋水的修为就蹭蹭蹭地往上涨。\n从此以后，拒人于千里之外的高冷绝色掌门上瘾了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12026346_360x480.jpg?time=1778502850",
-        "latest_chapter": " 第232章  真武圣地天骄大会！",
-        "updated_at": "2026-08-24 23:29:03",
-        "rank_change": 1,
-        "heat_change": 6000,
+        "latest_chapter": " 第234章  你不行！",
+        "updated_at": "2026-08-25 23:23:03",
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 13,
+        "rank": 11,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -90,17 +85,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.18万字",
-        "word_count": 381800,
-        "heat": 56000,
+        "word_count_text": "38.59万字",
+        "word_count": 385900,
+        "heat": 58000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第184章  宗主令牌，老六降临",
-        "updated_at": "2026-08-24 22:10:05",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "latest_chapter": " 第186章  身怀剑脉，掉沟里了",
+        "updated_at": "2026-08-25 23:35:02",
+        "rank_change": 2,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,26 +8,26 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 3,
-    "total_heat": 561000,
+    "total_heat": 585000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "荒古圣体：在娘胎开始悟道",
           "book_id": 1849458,
+          "rank_change": 2
+        },
+        {
+          "title": "噬神鼎",
+          "book_id": 1868453,
           "rank_change": 1
         }
       ],
@@ -36,10 +36,20 @@
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -4000
+          "heat_change": 13000
+        },
+        {
+          "title": "噬神鼎",
+          "book_id": 1868453,
+          "heat_change": 7000
+        },
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：传统“废柴流”与“金手指”叠加模式依然是市场中流砥柱，完结书热度保持极高稳定性。\n**读者偏好**：核心用户偏好快节奏的升级爽感，尤其对“开局被废+奇遇觉醒”的经典复仇套路买单度高。\n**变动解读**：《噬神鼎》新晋上榜，说明具备强力外挂与多线成长体系的作品仍有较强的长尾效应。\n**值得关注**：《荒古圣体》凭借“娘胎修仙”的差异化创意实现排名爬升，显示出读者对“赢在起跑线”设定的青睐。",
+      "summary": "**题材趋势**：传统废柴流与“娘胎流”并存，强调金手指的碾压感与爽点密集度。\n**读者偏好**：读者对高频次升级、秘境探险及“开局即巅峰”的设定表现出极高粘性。\n**变动解读**：头部作品《荒古武神》稳固领先，尾部两书排名小幅回升，显示出该类目存量市场的稳定性与高留存度。\n**值得关注**：以“娘胎修练”为代表的创新设定正在持续吸纳流量，验证了读者对差异化开局的渴求。",
       "ai_source": "ai"
     },
     "books": [
@@ -58,22 +68,22 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 413000,
-        "platform_trend": "drop",
+        "heat": 426000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 13000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "title": "荒古圣体：在娘胎开始悟道",
         "book_id": 1849458,
         "url": "https://www.qimao.com/shuku/1849458/",
@@ -87,22 +97,22 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 86000,
-        "platform_trend": "drop",
+        "heat": 90000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 1,
-        "heat_change": 0,
+        "rank_change": 2,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -116,16 +126,16 @@
         "status": "已完结",
         "word_count_text": "416.71万字",
         "word_count": 4167100,
-        "heat": 62000,
+        "heat": 69000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 1,
+        "heat_change": 7000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"
