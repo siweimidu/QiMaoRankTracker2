@@ -8,37 +8,27 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
     "total_heat": 1112000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650
+          "book_id": 12514650,
+          "rank_change": -1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "觉醒透视眼后，美女总裁坐不住了",
-          "book_id": 12183366,
-          "rank_change": 2
-        },
-        {
-          "title": "高武严父，永远比儿子高五个境界",
-          "book_id": 12565608,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市高武细分领域正在向“高武背景+系统辅助+特殊身份”的复合题材演变，强调战力与世俗身份的强关联。\n**读者偏好**：读者不仅追求武力升级的快感，更青睐“反传统设定”，如“望父成龙”或“监狱修成”等带有强戏剧冲突的成长路径。\n**变动解读**：榜单呈现向上趋势，新书《被关女子监狱五年》成功入榜，验证了“监狱背景+复仇+医武双绝”的强人设模型在当前市场依然奏效。\n**值得关注**：《高武严父》凭借独特培养模式突围，说明差异化的系统设定已成为都市高武题材吸引读者的关键竞争点。",
+      "summary": "**题材趋势**：题材呈现明显的“反套路”与“传统爽文”并存态势，系统流仍是核心驱动力。\n**读者偏好**：读者热衷于强互动性、强代入感的设定，如“父子羁绊加持”或“医武双绝”的强力主角。\n**变动解读**：榜单整体处于横盘震荡期，头部书籍热度稳固，尾部出现小幅下滑，缺乏新晋爆款冲击。\n**值得关注**：邯郸财阀的《高武严父》凭借差异化的“养成+反哺”设定，展现出极强的留存能力与热度天花板。",
       "ai_source": "ai"
     },
     "books": [
@@ -55,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.56万字",
-        "word_count": 395600,
+        "word_count_text": "40.17万字",
+        "word_count": 401700,
         "heat": 486000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第187章  十五枚储物戒！！！",
-        "updated_at": "2026-08-26 00:07:07",
-        "rank_change": 1,
+        "latest_chapter": " 第190章  人才，作茧自缚！",
+        "updated_at": "2026-08-27 00:07:06",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -84,16 +74,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.62万字",
-        "word_count": 416200,
+        "word_count_text": "42.09万字",
+        "word_count": 420900,
         "heat": 348000,
         "platform_trend": "rise",
         "badge": "飙升26名",
         "intro": "和美女总裁一夜风流后，叶天意外觉醒透视眼。\n从此辨识天下奇珍异宝，犹如探囊取物。\n赌石，古玩字画，玉石翡翠，叶天只需一眼，可辩真伪！\n不仅如此，叶天还有一手活死人肉白骨的逆天针法，一针可定生死！\n你以为这就完了？\n不不不，叶天还是天下绝无仅有的阴阳圣体，无论修炼什么，都比其他人快一万倍！\n拥有如此逆天资质，叶天以后的人生路，注定要肆意活着！\n打最狠的敌人，喝最烈的酒，泡最靓的妞！\n美女总裁，豪门千金，美艳房东，性感老师……她们源源不断找到叶天，真的只是为了鉴宝？\n叶天的人生路，注定会五彩斑斓，绚烂多彩！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4062/12183366_360x480.jpg?time=1780224949",
-        "latest_chapter": " 第186章  大小姐驾到",
-        "updated_at": "2026-08-25 14:16:03",
-        "rank_change": 2,
+        "latest_chapter": " 第188章  这个才是爱情",
+        "updated_at": "2026-08-26 14:49:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -101,7 +91,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -113,18 +103,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.89万字",
-        "word_count": 428900,
+        "word_count_text": "43.51万字",
+        "word_count": 435100,
         "heat": 278000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第196章  三尸噬魂阵",
-        "updated_at": "2026-08-25 22:56:04",
-        "rank_change": 0,
+        "latest_chapter": " 第199章  这傻子也能指挥雷电？",
+        "updated_at": "2026-08-27 00:01:04",
+        "rank_change": -1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"

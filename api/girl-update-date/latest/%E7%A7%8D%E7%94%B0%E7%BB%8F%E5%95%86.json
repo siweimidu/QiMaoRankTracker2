@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "逃荒前，我靠穿现代囤了百亿物资",
+          "book_id": 10469241,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "逃荒前，我靠穿现代囤了百亿物资",
           "book_id": 10469241,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势** 种田经商类目目前处于极度低迷期，榜单结构单一，市场活跃度处于冰点。\n**读者偏好** 读者对“重生+囤货+逃荒”的经典套路依然存有关注，但目前该题材缺乏强有力的内容驱动。\n**变动解读** 榜单呈完全静止状态，唯一在榜书籍热度负增长，显示该细分品类正面临严重的存量用户流失。\n**值得关注** 需警惕该细分赛道在七猫平台出现流量枯竭，建议观察后续是否有新入局作品能激活榜单热度。",
+      "summary": "**题材趋势**：重生囤货类题材热度回升，将现代资源与古代逃荒背景结合的爽文逻辑依旧是市场刚需。\n**读者偏好**：读者偏好“先知先觉+物资碾压”带来的安全感叙事，这类作品在危机环境下的生存爽点反馈极快。\n**变动解读**：本期《逃荒前，我靠穿现代囤了百亿物资》排名回升，验证了经典囤货流在女性读者群体中长尾效应显著。\n**值得关注**：在面临生存危机时通过“金手指”实现阶层跨越的爽点，依然是种田类目维持高活跃度的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 1,
         "title": "逃荒前，我靠穿现代囤了百亿物资",
         "book_id": 10469241,
         "url": "https://www.qimao.com/shuku/10469241/",
@@ -45,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "78.29万字",
-        "word_count": 782900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "79.52万字",
+        "word_count": 795200,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第356章  顺利拿到关键证据",
-        "updated_at": "2026-08-25 15:20:07",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第359章  凭什么好处都是你们南湖村的",
+        "updated_at": "2026-08-26 20:22:05",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

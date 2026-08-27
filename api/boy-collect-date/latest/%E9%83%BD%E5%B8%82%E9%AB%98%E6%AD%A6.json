@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势** 市场进入存量博弈期，经典都市异能与神医流题材呈现明显的长尾效应。\n**读者偏好** 读者偏好具有“强对抗性”与“金手指碾压感”的爽文逻辑，强调主角对现实权势的绝对掌控。\n**变动解读** 榜单处于极度静止状态，缺乏新晋爆款，反映出该细分领域头部固化严重，增量空间短期受限。\n**值得关注** 关注此类题材是否能通过融入新元素（如游戏异界穿梭）来打破传统神医流的审美疲劳。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "899.35万字",
-        "word_count": 8993500,
+        "word_count_text": "899.95万字",
+        "word_count": 8999500,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4387章  凤族到来",
-        "updated_at": "2026-08-26 00:07:34",
+        "latest_chapter": " 第4390章  此人不是好东西！",
+        "updated_at": "2026-08-26 18:17:31",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

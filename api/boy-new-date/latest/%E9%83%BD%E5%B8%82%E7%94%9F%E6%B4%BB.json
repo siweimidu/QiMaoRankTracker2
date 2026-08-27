@@ -8,56 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-25",
+  "date": "2026-08-27",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 58000,
+    "total_heat": 37000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "都市第一狠人",
-          "book_id": 12180918,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：传统“出狱流”与“背负债款/家庭重担”的组合模式依然是都市生活赛道的长青题材。\n**读者偏好**：受众偏好具有强冲突性、强情感羁绊（如四叔临终托付）的开篇，期待主角通过个人拼搏实现困境逆袭。\n**变动解读**：榜单结构高度稳固，目前处于存量盘整期，头部作品热度出现轻微回落，反映出该书进入了常规更新的稳定期。\n**值得关注**：需警惕榜单缺乏新书注入带来的审美疲劳，建议观察该类目后续是否有具备差异化爽点的黑马作品切入。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市生活类题材正向“强冲突、快节奏”的轻喜剧方向演变，重生与职场潜规则的结合成为吸睛核心。\n**读者偏好**：读者更倾向于具备“反差感”与“强互动”的叙事，尤其是职场身份与家庭伦理错位带来的戏剧张力。\n**变动解读**：本期新书《女总裁重生后，非逼我娶校花》以3.7万热度强势入榜，显示出带有“强制恋爱”元素的都市爽文在七猫渠道仍具备极强的转化潜力。\n**值得关注**：该题材中“非典型职场+情感博弈”的设定，是当前短平快风格下的流量密码，后续需重点观察其留存表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
-        "title": "都市第一狠人",
-        "book_id": 12180918,
-        "url": "https://www.qimao.com/shuku/12180918/",
-        "author": "云城太守",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E5%9F%8E%E5%A4%AA%E5%AE%88_14/",
+        "rank": 20,
+        "title": "女总裁重生后，非逼我娶校花",
+        "book_id": 12625923,
+        "url": "https://www.qimao.com/shuku/12625923/",
+        "author": "南风拂玉竹",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8D%97%E9%A3%8E%E6%8B%82%E7%8E%89%E7%AB%B9_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.48万字",
-        "word_count": 504800,
-        "heat": 58000,
-        "platform_trend": "drop",
+        "word_count_text": "39.65万字",
+        "word_count": 396500,
+        "heat": 37000,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "出狱后，四叔接我进城，说跟着他三年就能买房买车。\n可转眼，他被人陷害破产，欠债八千万。临死前他拉着我的手央求：“小勇，以后你四婶，就拜托你照顾了……”\n四叔的话还没说完，就咽了气，但我明白他话里的意思。\n为了还债、报仇，我赤手空拳闯出一片天。\n村霸、仇人、还有那些藏在幕后的黑手，我一个都不会放过。\n这一路，我遇到了很多女人。有富家千金、医生、总裁、明星……\n我从最底层往上爬，吃土咽血，一步一步登上巅峰。\n我叫陆小勇，后来，他们都叫我——深城之王！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180918_360x480.jpg?time=1779968741",
-        "latest_chapter": " 第218章  十指相扣",
-        "updated_at": "2026-08-24 23:26:03",
+        "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
+        "latest_chapter": " 第168章  重生者的秘密！",
+        "updated_at": "2026-08-26 17:07:03",
         "rank_change": 0,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 2,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       }

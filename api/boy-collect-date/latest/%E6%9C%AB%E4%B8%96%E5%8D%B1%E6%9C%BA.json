@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「末世危机」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：末世题材目前处于存量盘整期，上榜作品均带有强烈的“金手指”爽文属性。\n**读者偏好**：读者倾向于“系统+采集/游戏”类设定，偏好以个人绝对武力横推末世的强节奏叙事。\n**变动解读**：榜单陷入极度固化，缺乏新书注入，整体热度处于静默状态，反映出该细分领域短期内缺乏爆款引流。\n**值得关注**：两部作品均通过“多平台联动”（漫画化、新书引流）维持曝光，显示出该题材在跨媒介生态运营上的尝试。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,8 +39,8 @@
         "minor_id": 66,
         "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
         "status": "已完结",
-        "word_count_text": "435.6万字",
-        "word_count": 4356000,
+        "word_count_text": "435.59万字",
+        "word_count": 4355900,
         "heat": 0,
         "platform_trend": "",
         "badge": "",

@@ -8,44 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 6,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "rank_change": 3
-        },
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天命纨绔",
           "book_id": 9839805,
-          "rank_change": 3
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "heat_change": 3
+          "heat_change": -3
         },
         {
           "title": "天命纨绔",
           "book_id": 9839805,
-          "heat_change": 2
+          "heat_change": -1
         }
       ],
-      "summary": "「架空历史」《太监凶猛》上升3位领涨；《太监凶猛》热度+3。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：历史题材呈现高度娱乐化倾向，核心逻辑已从权谋博弈转向“反套路”与“权贵博弈”，强调主角与权力核心的错位互动。\n**读者偏好**：读者偏好“身份反差”带来的戏剧张力，如刺客变心腹、太监夺权等反常规设定，对快节奏的身份逆袭尤其买账。\n**变动解读**：榜单波动较小，头部作品地位稳固；《天命纨绔》排名下滑与热度波动说明市场对单一的“欢喜冤家”式互动产生了一定审美疲劳。\n**值得关注**：将“权谋”与“医道/特殊身份”结合的爽文，依然是该品类稳定吸量的核心赛道。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -61,15 +56,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "72.62万字",
-        "word_count": 726200,
+        "word_count_text": "73.32万字",
+        "word_count": 733200,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
-        "latest_chapter": " 第230章  王夫人走不了",
-        "updated_at": "2026-08-25 08:12:06",
+        "latest_chapter": " 第232章  父命未改",
+        "updated_at": "2026-08-26 08:12:07",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -90,15 +85,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.41万字",
-        "word_count": 444100,
+        "word_count_text": "44.85万字",
+        "word_count": 448500,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第190章  旧识",
-        "updated_at": "2026-08-26 00:12:14",
+        "latest_chapter": " 第192章  栽赃",
+        "updated_at": "2026-08-27 00:12:16",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -119,24 +114,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "93.87万字",
-        "word_count": 938700,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "94.55万字",
+        "word_count": 945500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第280章  七大美女齐聚！",
-        "updated_at": "2026-08-26 00:32:04",
-        "rank_change": 3,
-        "heat_change": 3,
+        "latest_chapter": " 第282章  秦王杀至京城！",
+        "updated_at": "2026-08-27 00:32:05",
+        "rank_change": 0,
+        "heat_change": -3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 16,
+        "rank": 18,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -148,17 +143,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "159.21万字",
-        "word_count": 1592100,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "159.92万字",
+        "word_count": 1599200,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第724章  宗弼的抉择",
-        "updated_at": "2026-08-26 00:10:11",
-        "rank_change": 3,
-        "heat_change": 2,
+        "latest_chapter": " 第727章  董和尚的开导",
+        "updated_at": "2026-08-27 00:12:15",
+        "rank_change": -2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

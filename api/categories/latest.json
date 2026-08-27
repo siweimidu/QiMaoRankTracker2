@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "categories": [
     {
       "name": "都市高武",
@@ -47,14 +47,14 @@
       "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "乡村生活",
-      "major": "都市",
-      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "古典仙侠",
       "major": "武侠仙侠",
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "乡村生活",
+      "major": "都市",
+      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "热血校园",
@@ -67,14 +67,14 @@
       "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "异世大陆",
-      "major": "玄幻奇幻",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "异世大陆",
+      "major": "玄幻奇幻",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
       "name": "虚拟网游",
@@ -130,11 +130,6 @@
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
-    },
-    {
-      "name": "无限快穿",
-      "major": "幻想言情",
-      "url": "api/categories/latest/%E6%97%A0%E9%99%90%E5%BF%AB%E7%A9%BF.json"
     }
   ]
 }

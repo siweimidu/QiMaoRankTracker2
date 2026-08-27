@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -27,19 +27,13 @@
           "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "全体起立，SSS狂龙出狱！",
-          "book_id": 9928068,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》下滑1位；《全体起立，SSS狂龙出狱！》热度-1。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市高手类题材正经历流量分化，纯爽文模式在当前竞争环境下获客难度加大。\n**读者偏好**：读者偏好快节奏、强冲突、带有“反套路”或“玩梗”性质的都市修真爽文。\n**变动解读**：榜单仅剩单书支撑且排名微跌，显示该细分领域缺乏新鲜血液补充，存量书籍竞争乏力。\n**值得关注**：建议关注“人设反差”类作品，通过更具网感和冲突性的开篇，重塑读者的阅读兴趣。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -50,18 +44,18 @@
         "major_id": 203,
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "174.65万字",
-        "word_count": 1746500,
+        "status": "已完结",
+        "word_count_text": "175.72万字",
+        "word_count": 1757200,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
-        "latest_chapter": " 第576章  你师父是谁？",
-        "updated_at": "2026-08-25 10:02:09",
+        "latest_chapter": " 第580章  新的开始（大结局）",
+        "updated_at": "2026-08-26 10:12:09",
         "rank_change": -1,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 5,
+    "total_heat": 8,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -5
+          "rank_change": 8
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 1
+          "heat_change": 3
         }
       ],
-      "summary": "「奇门秘术」《天黑请点灯》下滑5位；《天黑请点灯》热度+1。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：民俗恐怖与诡异题材表现出极强的爆发力，成为当前榜单的流量黑马。\n**读者偏好**：读者对带有强烈悬疑氛围、民俗诡异感及反差设定的作品展现出极高粘性。\n**变动解读**：《天黑请点灯》强势反弹8位，热度逆势增长，证明该题材在特定受众中具备极高的转化潜力。\n**值得关注**：民俗诡异类作品的“沉浸感”是当前流量增长的核心引擎，建议重点挖掘此类高爽点叙事。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 12,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "450.5万字",
-        "word_count": 4505000,
-        "heat": 5,
-        "platform_trend": "drop",
+        "word_count_text": "452.42万字",
+        "word_count": 4524200,
+        "heat": 8,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1658章  你可认识秦崴子，他是我师尊",
-        "updated_at": "2026-08-25 06:57:12",
-        "rank_change": -5,
-        "heat_change": 1,
+        "latest_chapter": " 第1665章  牛鬼蛇神齐聚（为盟主师尊袁印信加更）",
+        "updated_at": "2026-08-27 06:57:12",
+        "rank_change": 8,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 204000,
+    "total_heat": 195000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
-          "rank_change": 1
+          "title": "盗梦千年",
+          "book_id": 12257385,
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "盗梦千年",
           "book_id": 12257385,
-          "heat_change": -5000
-        },
-        {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
-          "heat_change": 4000
+          "heat_change": -9000
         }
       ],
-      "summary": "**题材趋势**：传统修仙流派依旧稳固，核心驱动力在于“金手指”带来的爽感反馈。\n**读者偏好**：读者倾向于具备强设定、强反转的成长型故事，尤其是“补全万物”类金手指具有极高的代入感。\n**变动解读**：榜单结构趋于稳定，头部效应明显，《盗梦千年》虽热度微降，但凭借跨时空互动设定仍占据绝对优势。\n**值得关注**：凡人流与系统流的融合趋势，强调“低开高走”的平民逆袭逻辑。",
+      "summary": "**题材趋势**：传统凡人流与带有历史宿命感的仙侠叙事并存，强调主角在压抑环境下的成长与变数。\n**读者偏好**：读者更倾向于具备“金手指”逻辑（如补全万物、跨时空羁绊）的成长型故事，对主角逆袭过程中的爽感积累有较高期待。\n**变动解读**：本期榜单缺乏新书注入，整体表现平稳中略显疲态，《盗梦千年》热度回落，显示该品类目前处于存量博弈阶段，缺乏强劲的流量爆发点。\n**值得关注**：需警惕榜单固化风险，后续应重点观察是否有具备强创新设定或强节奏感的作品打破当前沉闷格局。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 5,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -56,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.41万字",
-        "word_count": 344100,
-        "heat": 120000,
+        "word_count_text": "35.29万字",
+        "word_count": 352900,
+        "heat": 111000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第148章  炼丹",
-        "updated_at": "2026-08-25 07:01:05",
-        "rank_change": 0,
-        "heat_change": -5000,
+        "latest_chapter": " 第152章  帮忙",
+        "updated_at": "2026-08-27 07:01:08",
+        "rank_change": -2,
+        "heat_change": -9000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -85,17 +80,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.53万字",
-        "word_count": 355300,
+        "word_count_text": "35.95万字",
+        "word_count": 359500,
         "heat": 84000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第169章  原形毕露",
-        "updated_at": "2026-08-26 00:02:09",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "latest_chapter": " 第171章  幻音雷木！",
+        "updated_at": "2026-08-27 00:02:09",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
