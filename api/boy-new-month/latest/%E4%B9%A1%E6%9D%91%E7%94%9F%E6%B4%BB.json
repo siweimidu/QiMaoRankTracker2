@@ -8,61 +8,60 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 305000,
+    "total_heat": 274000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_books": [
         {
           "title": "春风得意小医仙",
-          "book_id": 12295515,
-          "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之"
+          "book_id": 12295515
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "重生70：猎山猎水猎人生",
           "book_id": 12605832,
-          "rank_change": -1
+          "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这"
         }
       ],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：年代乡村题材进入存量博弈期，市场对于“纯爽文”与“猎奇元素”的融合需求旺盛。\n**读者偏好**：读者偏好强节奏、强冲突的叙事，尤其是带有“复仇+改变命运+特定年代背景”的爽文逻辑更易留存用户。\n**变动解读**：榜单发生洗牌，原有作品热度回落，竞争压力增大，表明读者对同质化严重的乡村种田文已出现审美疲劳。\n**值得关注**：应警惕题材过度同质化，在“乡村+医术”等经典套路之外，如何通过更具张力的剧情设计（如狩猎、时代红利）来维持留存是破局重点。",
+      "summary": "**题材趋势**：乡村生活题材竞争激烈，呈现高频率的榜单更迭，内容侧重于“医术+种田+特殊能力”的经典组合。\n**读者偏好**：读者偏好极强的情绪价值与爽感反馈，如带有“神鼎”金手指的硬核求生设定，能够快速建立阅读期待。\n**变动解读**：《春风得意小医仙》成功挤下《重生70》，显示市场对快节奏、强金手指的乡村文需求更旺盛。\n**值得关注**：乡村背景下的“特殊能力”与“情感羁绊”双线并行，是该类目维持热度、实现新旧交替的核心驱动力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
-        "title": "重生70：猎山猎水猎人生",
-        "book_id": 12605832,
-        "url": "https://www.qimao.com/shuku/12605832/",
-        "author": "指能生金",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%8C%87%E8%83%BD%E7%94%9F%E9%87%91_14/",
+        "rank": 20,
+        "title": "春风得意小医仙",
+        "book_id": 12295515,
+        "url": "https://www.qimao.com/shuku/12295515/",
+        "author": "喜欢猫猫猫",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%96%9C%E6%AC%A2%E7%8C%AB%E7%8C%AB%E7%8C%AB_14/",
         "major": "都市",
         "minor": "乡村生活",
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.62万字",
-        "word_count": 506200,
-        "heat": 305000,
+        "word_count_text": "34.15万字",
+        "word_count": 341500,
+        "heat": 274000,
         "platform_trend": "rise",
-        "badge": "",
-        "intro": "【狩猎+年代+纯爽文+笑点比女主多！】\n仙人不一定会飞，但一定会跳。\n上辈子，铁柱被好兄弟背刺，误入寡妇炕头，遭污蔑逃窜深山十余载，家破人亡。\n如今重生70，看着那个熟悉的炕头，铁柱扛起另一把枪！\n这一世，他要猎山猎水猎人生，三枪嘣出万元户！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-        "latest_chapter": " 第243章  ：狼群袭击屯子",
-        "updated_at": "2026-08-26 17:22:04",
-        "rank_change": -1,
+        "badge": "飙升52名",
+        "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
+        "latest_chapter": " 第164章  毒王谷",
+        "updated_at": "2026-08-27 23:58:04",
+        "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

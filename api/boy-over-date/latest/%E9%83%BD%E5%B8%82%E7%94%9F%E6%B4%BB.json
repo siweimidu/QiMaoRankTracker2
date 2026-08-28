@@ -8,48 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 123000,
+    "total_heat": 207000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
         {
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "rank_change": -1
-        },
+          "title": "厂长收手吧！国家真的压不住了！",
+          "book_id": 1983530
+        }
+      ],
+      "dropped_books": [
         {
           "title": "还不起人情债，我只好当她男朋友了",
           "book_id": 1924828,
-          "rank_change": -1
+          "intro": "本书又名：《离婚后，我与美女同事做了临时夫妻》、《离婚后，我的桃花运来了》。\n---\n离婚的那天晚上，江风被朋友接到了他家里喝酒，嫂子做了一桌子丰盛的菜。\n酒过三巡，大家都有些醉意的时候，朋友突然道："
         }
       ],
+      "top_risers": [
+        {
+          "title": "我非池中物",
+          "book_id": 1850580,
+          "rank_change": 12
+        }
+      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "还不起人情债，我只好当她男朋友了",
-          "book_id": 1924828,
-          "heat_change": -4000
-        },
-        {
           "title": "我非池中物",
           "book_id": 1850580,
-          "heat_change": -2000
+          "heat_change": 80000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材表现趋稳，以“逆袭打脸”与“情感羁绊”为核心驱动力的传统爽文模式依然具备长尾效应。\n**读者偏好**：读者倾向于具备强烈情绪冲突的叙事，如家庭矛盾下的逆袭或离婚后的情感补偿，快节奏的情绪宣泄是留存关键。\n**变动解读**：本期两部作品排名微降且热度小幅回落，反映出在缺乏新书冲击的情况下，存量作品正处于正常的自然衰减周期。\n**值得关注**：需警惕榜单活跃度下滑风险，建议关注题材是否出现审美疲劳，以及如何在现有框架下通过运营手段拉升完结书的二次传播。",
+      "summary": "**题材趋势**：呈现“极致情绪逆袭”与“工业黑科技”双轨并行态势，题材从单纯的都市情感转向大国崛起式的宏大叙事。\n**读者偏好**：读者对“废柴逆袭”的爽感需求强烈，同时对融合军工、黑科技的“种田+强国”文表现出极高热度。\n**变动解读**：《我非池中物》热度暴涨8万，显示出强烈的口碑爆发力，新上榜的《厂长》则精准捕捉了当下工业文的红利。\n**值得关注**：该品类热度上限极高，具备打造现象级爆款的潜质，后续应关注读者对“黑科技”与“日常爽文”融合的审美疲劳度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 4,
         "title": "我非池中物",
         "book_id": 1850580,
         "url": "https://www.qimao.com/shuku/1850580/",
@@ -63,45 +64,45 @@
         "status": "已完结",
         "word_count_text": "340.6万字",
         "word_count": 3406000,
-        "heat": 68000,
-        "platform_trend": "drop",
-        "badge": "",
+        "heat": 148000,
+        "platform_trend": "rise",
+        "badge": "飙升10名",
         "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "rank_change": 12,
+        "heat_change": 80000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市生活"
       },
       {
-        "rank": 20,
-        "title": "还不起人情债，我只好当她男朋友了",
-        "book_id": 1924828,
-        "url": "https://www.qimao.com/shuku/1924828/",
-        "author": "无色",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E8%89%B2_14/",
+        "rank": 17,
+        "title": "厂长收手吧！国家真的压不住了！",
+        "book_id": 1983530,
+        "url": "https://www.qimao.com/shuku/1983530/",
+        "author": "正义反派",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%AD%A3%E4%B9%89%E5%8F%8D%E6%B4%BE_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "已完结",
-        "word_count_text": "292.33万字",
-        "word_count": 2923300,
-        "heat": 55000,
-        "platform_trend": "drop",
+        "word_count_text": "157.65万字",
+        "word_count": 1576500,
+        "heat": 59000,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "本书又名：《离婚后，我与美女同事做了临时夫妻》、《离婚后，我的桃花运来了》。\n---\n离婚的那天晚上，江风被朋友接到了他家里喝酒，嫂子做了一桌子丰盛的菜。\n酒过三巡，大家都有些醉意的时候，朋友突然道：“江风，我给你介绍个女朋友吧？包你满意！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/653/1958718_360x480.jpg?time=1740125957",
-        "latest_chapter": " 第551章  番外：前世篇",
-        "updated_at": "2026-06-21 21:01:06",
-        "rank_change": -1,
-        "heat_change": -4000,
-        "is_new": false,
+        "intro": "【黑科技+工业摸底+军工强国】重回2002，苏铭为挽救自家工厂，推出一款碳纤维鱼竿，威龙鱼竿，永不空军！哪成想，卖了一周之后，真空军来到了工厂门口，苏铭人懵了！莫名其妙被列为国家S级保护人才，鱼竿也被迫参军了！本以为只是一个鱼竿，结果军方往工厂仓库一瞧，直接血压飙升十倍！\n能发射激光炮的手电筒，能给战机当隐身涂层的油漆，能给精确制导全球的降雨弹........",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/760/2279646_360x480.jpg?time=1756471925",
+        "latest_chapter": " 第339章  大结局！",
+        "updated_at": "2026-02-24 17:38:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市生活"

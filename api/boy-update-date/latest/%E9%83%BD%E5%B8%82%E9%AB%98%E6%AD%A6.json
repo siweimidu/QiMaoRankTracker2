@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,32 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "医武双绝，捡个美女总裁当老婆",
-          "book_id": 12352563,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": -2
+          "rank_change": 2
         },
         {
           "title": "医武双绝，捡个美女总裁当老婆",
           "book_id": 12352563,
-          "heat_change": -2
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：该品类目前处于存量盘整期，市场表现疲软，缺乏强力新作驱动。\n**读者偏好**：读者仍高度集中于“医武双绝”与“神医+总裁”的经典爽文套路，对传统强爽模式依赖度高。\n**变动解读**：本期榜单整体热度低迷，头部书籍排名下滑且热度双双回落，暗示用户点击欲望减弱。\n**值得关注**：需警惕品类老化风险，若无新鲜设定介入，该赛道活跃度恐将继续下探。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 题材回归经典医武流，强调主角“下山”与“医武双绝”的强设定，属于典型的爽文套路。\n**读者偏好** 读者对“全能型”主角具有高粘性，倾向于看主角通过绝对武力与医术掌控权贵、获取红颜青睐的爽点。\n**变动解读** 榜单波动较小，且两部作品热度较低，显示该品类在当前榜单处于存量博弈阶段，缺乏新鲜感。\n**值得关注** 关注此类题材如何通过“美女总裁”或“死劫”等强冲突设定，在低热度环境下通过更新维持长尾流量。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 13,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -56,24 +50,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "899.95万字",
-        "word_count": 8999500,
+        "word_count_text": "900.57万字",
+        "word_count": 9005700,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4390章  此人不是好东西！",
-        "updated_at": "2026-08-26 18:17:31",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第4393章  全场震惊",
+        "updated_at": "2026-08-28 00:41:30",
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "医武双绝，捡个美女总裁当老婆",
         "book_id": 12352563,
         "url": "https://www.qimao.com/shuku/12352563/",
@@ -85,17 +79,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.17万字",
-        "word_count": 381700,
+        "word_count_text": "38.57万字",
+        "word_count": 385700,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "离家十年，叶峰上山修炼，习得无上医术，上可白骨活死人，下可九阴捞真灵，可惜身负死劫，于是六位美女师傅便为其寻得一良配，试图为叶峰化解死劫。没成想，刚刚下山就捡到一个美女总裁老婆，送上一血。从此往后，叶峰的道路一帆风顺，拦也拦不住。未婚妻嫌我乡野出身？昔日亲戚觊觎我的财产？对不起，我的医术不是你能惹的！这天下我来了，天下便是我！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4118/12352563_360x480.jpg?time=1780991578",
-        "latest_chapter": " 第176章  姓赵的老板",
-        "updated_at": "2026-08-27 00:02:21",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第178章  你缺的那一块",
+        "updated_at": "2026-08-28 00:02:15",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

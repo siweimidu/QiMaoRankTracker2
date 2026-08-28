@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 377000,
+    "total_heat": 371000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,6 +24,11 @@
         {
           "title": "最狂邪医",
           "book_id": 1821655,
+          "rank_change": -3
+        },
+        {
+          "title": "镇天神医",
+          "book_id": 1675640,
           "rank_change": -1
         }
       ],
@@ -31,15 +36,20 @@
         {
           "title": "最狂邪医",
           "book_id": 1821655,
-          "heat_change": -6000
+          "heat_change": -10000
         },
         {
           "title": "小司机的美女总裁老婆",
           "book_id": 2052700,
-          "heat_change": -3000
+          "heat_change": 3000
+        },
+        {
+          "title": "镇天神医",
+          "book_id": 1675640,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：都市爽文与医武结合的“赘婿/下山流”占据主导，短剧联动成为该题材书籍维持热度的重要推力。\n**读者偏好**：读者极度青睐“身份落差”带来的打脸爽感，对美女总裁、隐世高手、婚书下山等强冲突设定有持续消费意愿。\n**变动解读**：榜单热度整体微调，受头部效应影响明显，排名变动显示出读者对老牌爽文的审美疲劳，热度出现小幅流失。\n**值得关注**：短剧改编已成为都市类书籍的“续命药”，建议重点关注书影联动对书籍完结后热度维持的实际转化率。",
+      "summary": "**题材趋势**：市场进入存量博弈期，题材高度同质化，“都市+异能/医术+赘婿/战神”的组合构成了核心盘面。\n**读者偏好**：读者对短剧化叙事（如《镇天神医》）有明显偏好，爽文节奏快、冲突直接的内容更易触发点击。\n**变动解读**：榜单波动较大，部分老书热度流失明显，反映出读者对该赛道重复套路的审美疲劳，对新书入局提出了更高的内容要求。\n**值得关注**：跨媒体联动（如短剧、有声剧）对热度的加持作用显著，内容多维变现是目前该品类维持生命力的核心策略。",
       "ai_source": "ai"
     },
     "books": [
@@ -58,22 +68,22 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 180000,
-        "platform_trend": "drop",
+        "heat": 183000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "镇天神医",
         "book_id": 1675640,
         "url": "https://www.qimao.com/shuku/1675640/",
@@ -87,22 +97,22 @@
         "status": "已完结",
         "word_count_text": "543.03万字",
         "word_count": 5430300,
-        "heat": 128000,
-        "platform_trend": "drop",
+        "heat": 129000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 15,
+        "rank": 18,
         "title": "最狂邪医",
         "book_id": 1821655,
         "url": "https://www.qimao.com/shuku/1821655/",
@@ -116,15 +126,15 @@
         "status": "已完结",
         "word_count_text": "523.03万字",
         "word_count": 5230300,
-        "heat": 69000,
+        "heat": 59000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": -1,
-        "heat_change": -6000,
+        "rank_change": -3,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

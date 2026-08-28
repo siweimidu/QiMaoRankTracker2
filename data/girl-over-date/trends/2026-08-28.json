@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-28",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 194050,
+    "total_heat": 3881000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "玄学小祖宗：叼奶瓶算命全家宠",
+            "book_id": 1764909,
+            "heat_change": 19000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -17000
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "heat_change": -8000
+          }
+        ],
+        "summary": "「总裁豪门」《六年后，我携四个幼崽炸翻前夫家》上升1位领涨；《大佬归来，假千金她不装了》下滑1位；《玄学小祖宗：叼奶瓶算命全家宠》热度+19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "heat_change": -7000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -6000
+          },
+          {
+            "title": "王府里来了个捡破烂的崽崽",
+            "book_id": 2061856,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「宫闱宅斗」《第一凤女》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重回拜师日，偏心师尊靠边站",
+            "book_id": 1943722,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "我团宠小师妹，嚣张点怎么了",
+            "book_id": 1764505,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我团宠小师妹，嚣张点怎么了",
+            "book_id": 1764505,
+            "heat_change": -10000
+          },
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "heat_change": -9000
+          },
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「玄幻仙侠」《重回拜师日，偏心师尊靠边站》上升1位领涨；《我团宠小师妹，嚣张点怎么了》下滑1位；《我团宠小师妹，嚣张点怎么了》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
+            "book_id": 1978758
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市奇幻」新上榜 《小姑奶奶下山了，在桥洞底下摆摊算命》；《阴当》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "rank_change": 1
+          },
+          {
+            "title": "萌宝上交国家，军区种田造导弹",
+            "book_id": 9737745,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "heat_change": -10000
+          },
+          {
+            "title": "萌宝上交国家，军区种田造导弹",
+            "book_id": 9737745,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》上升1位领涨；《七零，易孕娇妻被绝嗣京少宠哭了》热度-10000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
     "total_heat": 2,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "修仙从神秘小鼎开始",
-          "book_id": 1800823
+          "book_id": 1800823,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：修真品类进入“慢节奏、稳扎稳打”的生态期，强调“凡人流”与“种田/辅助流”的结合，注重主角成长的厚重感。\n**读者偏好**：读者对系统依赖度有所降低，反而更青睐“神秘宝物+凡人崛起”的经典成长叙事，偏好脚踏实地的升级体验。\n**变动解读**：新书《修仙从神秘小鼎开始》上榜，表明该品类对经典“小鼎/仙葫”类金手指设定的接受度依然极高，市场容量相对有限但用户黏性强。\n**值得关注**：具备“凡人流”特质且融合外挂辅助的作品，在当前修真市场中具备较好的长线留存潜力。",
+      "summary": "**题材趋势**：修真类目回归传统“法宝流”与“凡人流”叙事，强调“弱小开局+奇遇进化”的成长逻辑，避开了复杂的系统流。\n**读者偏好**：读者对“小鼎”、“仙葫”等经典器物类金手指具有天然亲近感，更倾向于阅读个人奋斗色彩浓厚的励志修仙故事。\n**变动解读**：榜单虽容量有限，但《修仙从神秘小鼎开始》凭借扎实的成长爽点实现排名跃升，反映出读者对“稳扎稳打型”修仙文的稳定需求。\n**值得关注**：在玄幻类竞品挤压下，纯粹的“凡人流”与“法宝流”修真文在稳固核心读者群方面表现出较强的韧性，后续增长依赖于奇遇设计的精巧度。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,15 +45,15 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "75.13万字",
-        "word_count": 751300,
+        "word_count_text": "76.16万字",
+        "word_count": 761600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
-        "latest_chapter": " 第253章  攻击无效",
-        "updated_at": "2026-08-27 01:47:05",
+        "latest_chapter": " 第257章  你这个魔鬼",
+        "updated_at": "2026-08-28 00:41:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -61,7 +62,7 @@
         "category": "幻想修真"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "修仙从神秘小鼎开始",
         "book_id": 1800823,
         "url": "https://www.qimao.com/shuku/1800823/",
@@ -73,18 +74,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "443.67万字",
-        "word_count": 4436700,
+        "word_count_text": "444.16万字",
+        "word_count": 4441600,
         "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "梧桐村少年，用一本小人书换来一个神秘小鼎，虽灵根不堪，幸得小鼎相助，崛起微末，凭着坚毅的意志一步一步在弱肉强食尔虞我诈的修仙界愈来愈强。\n筑天道之基，掌雷霆清微，脚踏圣地，剑斩古族，登顶天地之巅，渡劫飞升，屹立万古之上，拟大道无涯。\n回过头来，谁能想到他曾经只是个山野少年？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/505/1512118_360x480.jpg?time=1711704309",
-        "latest_chapter": " 第1803章  玄生玄灭",
-        "updated_at": "2026-08-26 22:02:14",
-        "rank_change": 0,
+        "latest_chapter": " 第1805章  仙符！仙阵！",
+        "updated_at": "2026-08-27 22:28:12",
+        "rank_change": 2,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

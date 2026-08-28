@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
+          "book_id": 12560163,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
           "book_id": 12560163,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：异世争霸类作品呈现明显的“逆袭+打脸”爽文套路化趋势。\n**读者偏好**：读者更青睐“底层小卒崛起”与“婚恋矛盾引发的阶级反差”这类强冲突剧情。\n**变动解读**：榜单结构高度固化，现有作品热度微降，反映出该赛道缺乏强力驱动的新书支撑。\n**值得关注**：关注此类作品如何通过“退婚/抢功”等高情绪价值开局，快速建立爽点闭环。",
+      "summary": "**题材趋势**：带有强烈“退婚流”色彩的底层逆袭叙事在异世背景下依然具备较强的市场号召力。\n**读者偏好**：读者热衷于主角从“死人堆”爬出后的极度反差感，以及对“抢功退婚”这类强冲突剧情带来的情绪释放。\n**变动解读**：该作品在榜单整体低迷的情况下实现逆势上升，证明了该经典套路在七猫用户群体中仍有极高的阅读转化率。\n**值得关注**：后续剧情中“封侯”后的打脸节奏与爽感维持，将是该书能否进一步巩固热度的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
         "book_id": 12560163,
         "url": "https://www.qimao.com/shuku/12560163/",
@@ -45,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.73万字",
-        "word_count": 477300,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "48.33万字",
+        "word_count": 483300,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "陈牧从死人堆里爬回黑石堡，本以为等来的是军功。\n可城中红灯高挂，庆功宴上，百户之子赵承烈披着他的战利品，领着他的头功，还要娶他拼命救回来的未婚妻苏晚。\n苏晚当众退婚：“你只是个火头营小卒，配不上我。”\n满城将士冷眼旁观，都等着看他跪下认输。\n陈牧却拿出蛮将牙牌，当场验功。\n首级是假的，军功册被改，赵家还牵出通敌疑云。\n昔日嫌他低贱的女人跪在地上，终于知道自己错了。\n可陈牧已经不回头。\n边关敌袭再起，他披上染血红袍，提枪走向城头。\n“第一份军功你们抢了。”\n“这一份，我亲手拿回来。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4187/12560163_360x480.jpg?time=1782205579",
-        "latest_chapter": " 第159章  第一支试通车还没到白狼关三千骑已经在北面",
-        "updated_at": "2026-08-27 00:02:22",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第161章  第二批先别加车",
+        "updated_at": "2026-08-28 00:02:15",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

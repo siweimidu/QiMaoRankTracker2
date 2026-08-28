@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T08:31:50",
-  "date": "2026-08-27",
+  "generated_at": "2026-08-28T13:10:59",
+  "date": "2026-08-28",
   "authors": [
     {
       "author": "化十",
@@ -11,6 +11,17 @@
       "titles": [
         "荒古武神",
         "吞天神体"
+      ]
+    },
+    {
+      "author": "骑着猫的小鱼干",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
+      "books": 2,
+      "boards": 4,
+      "total_heat": 9945000,
+      "titles": [
+        "大佬归来，假千金她不装了",
+        "小姑奶奶下山了，在桥洞底下摆摊算命"
       ]
     },
     {
@@ -40,7 +51,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A9%A1%E7%9A%AE%E6%B3%A5_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 4456000,
+      "total_heat": 4455000,
       "titles": [
         "打到北极圈了，你让我继承皇位？",
         "你管八十万人马叫匪患？"
@@ -62,7 +73,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 4226002,
+      "total_heat": 4226000,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
@@ -73,7 +84,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2812008,
+      "total_heat": 2812001,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -298,16 +309,6 @@
       "total_heat": 12325000,
       "titles": [
         "凰宫梦"
-      ]
-    },
-    {
-      "author": "推窗望岳",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%8E%A8%E7%AA%97%E6%9C%9B%E5%B2%B3_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 11963000,
-      "titles": [
-        "桃花劫"
       ]
     }
   ]

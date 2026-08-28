@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-update-date",
+    "name": "男生更新日榜",
+    "channel": "male",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-28",
+  "category": {
+    "name": "都市生活",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 5,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "重生1984：我靠赶海打渔成首富",
+          "book_id": 1988961
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 重生创业与年代致富题材持续走强，特别是结合“短剧原著”标签的IP具有极强的引流效应。\n**读者偏好** 读者偏好具有强代入感的“改写遗憾”与“逆袭暴富”剧情，对底层小人物通过先知先觉改变命运的套路买账。\n**变动解读** 该书凭借短剧背书强势挤入榜单，首发即展现出较强的市场号召力，热度表现优于高武类。\n**值得关注** 重点关注“短剧化”对网文流量的虹吸作用，此类具备成熟影视化标签的作品在榜单竞争力明显提升。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 16,
+        "title": "重生1984：我靠赶海打渔成首富",
+        "book_id": 1988961,
+        "url": "https://www.qimao.com/shuku/1988961/",
+        "author": "菠萝炒饭",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%8F%A0%E8%90%9D%E7%82%92%E9%A5%AD_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "337.63万字",
+        "word_count": 3376300,
+        "heat": 5,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【短剧《重回80:从小渔民到水产大王》原著！】　债主上门讨债，青梅竹马险被玷污。\n懦弱的林斌亲眼看着江清雪为求自保，一刀刺向那个玷污她的男人，却因过失杀人，被判入狱，家破人亡。\n这一幕，成为他一生的遗憾！\n却不料一场车祸，让他重回1984年的小渔村。\n这一次，他不惧危险，冒死出海，一网捞起三千斤大黄鱼，还上了赌债，救下了自己挚爱一生的女人！\n林斌：“重活一世，我要驾驶万吨巨轮，征服这片星辰大海！”\n江清雪一把拧住他的耳朵。\n“海什么海，还不赶紧去给孩子换尿布！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/766/2295128_360x480.jpg?time=1745215580",
+        "latest_chapter": " 第1543章  台风过后",
+        "updated_at": "2026-08-27 18:35:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市生活"
+      }
+    ]
+  }
+}
