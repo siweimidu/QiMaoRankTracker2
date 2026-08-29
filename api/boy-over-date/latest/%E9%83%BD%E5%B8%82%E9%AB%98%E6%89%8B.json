@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -19,37 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "rank_change": 2
-        },
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "heat_change": 2000
-        },
-        {
-          "title": "财戒",
-          "book_id": 1989239,
-          "heat_change": -2000
-        },
-        {
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "**题材趋势**：传统“出狱+退婚+神医”流派依旧是都市赛道的基本盘，强冲突与快节奏爽点是核心支撑。\n**读者偏好**：读者倾向于结合玄学元素（修仙、鉴宝）的爽文，偏好具备“底层逆袭”与“战神身份”双重反差的叙事。\n**变动解读**：榜单结构稳定，头部作品通过微小热度波动实现排名互换，显示出成熟期作品的存量竞争特征。\n**值得关注**：兼具鉴宝与都市生活元素的《财戒》，其“老六”主角人设是目前市场中较受欢迎的差异化卖点。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：高度聚焦“出狱/回归+身份反差”的核心爽点，通过战神、医术、捡漏等经典标签强化主角的“降维打击”感。\n**读者偏好**：倾向于快节奏的逆袭叙事，偏好带有强冲突色彩的开篇（如退婚、特殊职业背景）以及金手指带来的即时反馈。\n**变动解读**：榜单结构极度稳固，上榜作品均为成熟的流量型网文，缺乏新作冲击，显示该细分品类目前处于存量运营阶段。\n**值得关注**：建议关注“职业化+异能”的结合点，如《财戒》类融合鉴宝元素的作品，在都市高手框架下仍有长尾效应。",
       "ai_source": "ai"
     },
     "books": [
@@ -75,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -104,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
         "latest_chapter": " 第2033章  终究还是一场梦（结局）",
         "updated_at": "2026-03-13 23:00:18",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -134,7 +107,7 @@
         "latest_chapter": " 第2058章  超脱之境（大结局）",
         "updated_at": "2026-06-28 23:17:17",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

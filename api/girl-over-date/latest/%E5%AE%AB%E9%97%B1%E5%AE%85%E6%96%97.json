@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -21,24 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": -11000
-        },
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "heat_change": -7000
-        },
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "**题材趋势**：重生复仇与宅斗权谋深度嵌套，强调“大女主”的杀伐果断与逆袭爽感，原著改编作品在榜单中占据绝对统治力。\n**读者偏好**：读者偏好逻辑严密的复仇线，同时对“养崽文”带来的反差萌与家族兴衰叙事有极高接受度。\n**变动解读**：榜单结构极度稳固，头部书籍热度出现小幅普降，显示该类目处于内容平稳期，缺乏爆发性新作冲击格局。\n**值得关注**：《凤池生春》与《第一凤女》依托影视/综艺背书稳坐头把交椅，证实了头部IP化运营在古言赛道的护城河作用。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：宅斗文向“大女主复仇”与“爽文节奏”深度融合，重生与身份错位（真假千金/嫡女换府）是拉动热度的关键钩子。\n**读者偏好**：读者倾向于观看女主从底谷反杀、全方位碾压敌手的过程，带有“救赎”或“团宠”元素的宅斗文更易获得市场青睐。\n**变动解读**：榜单结构维持静态，头部作品热度断层明显，显示出读者对高智商博弈与快节奏爽点的偏好已趋于成熟。\n**值得关注**：融合“萌娃养成”与“家族兴衰”的轻快宅斗题材，正成为该品类下极具潜力的增量分支。",
       "ai_source": "ai"
     },
     "books": [
@@ -65,7 +49,7 @@
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -94,7 +78,7 @@
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
         "rank_change": 0,
-        "heat_change": 4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -123,7 +107,7 @@
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
         "rank_change": 0,
-        "heat_change": -11000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -152,7 +136,7 @@
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
         "rank_change": 0,
-        "heat_change": -7000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -181,7 +165,7 @@
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

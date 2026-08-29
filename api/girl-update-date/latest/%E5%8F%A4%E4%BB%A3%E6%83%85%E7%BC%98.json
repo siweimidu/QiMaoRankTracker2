@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -19,32 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "rank_change": 4
-        },
-        {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "heat_change": 3
-        },
-        {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "heat_change": 2
-        }
-      ],
-      "summary": "**题材趋势**：传统古代言情向“玄幻灵异+强人设”融合，通过人设的极端反差（如地府冤魂vs人间凶神）制造新鲜感。\n**读者偏好**：受众倾向于节奏明快的“带球跑”与“宿命式”情感纠葛，偏好男女主身份对立下的互动张力。\n**变动解读**：本类目仅存两本且均呈上涨趋势，说明在小众垂直领域，高质量的设定差异化能有效锁定核心受众，维持高留存。\n**值得关注**：题材虽小但用户粘性强，建议深挖“古代+灵异/职业技能”的组合创新，避开纯粹的宅斗同质化竞争。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：题材向“灵异+言情”及“狗血带球跑”倾斜，强调男女主身份对立（人鬼殊途、主仆身份）带来的情感张力。\n**读者偏好**：读者偏好高强度的情感博弈，尤其是“上位者低头”及“强强联手”的CP设定，对融合了悬疑探案元素的爱情故事接受度较高。\n**变动解读**：榜单仅剩两本在榜，市场空间较窄且流动性极低，整体处于存量博弈阶段，缺乏新的题材驱动力。\n**值得关注**：灵异元素作为切入点，为传统古代言情提供了新的叙事维度，应关注此类跨界题材在后续榜单中的渗透能力。",
       "ai_source": "ai"
     },
     "books": [
@@ -70,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1787105772",
         "latest_chapter": " 第133章  “打不得。”",
         "updated_at": "2026-08-29 09:02:07",
-        "rank_change": 4,
-        "heat_change": 3,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -90,17 +68,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "100.33万字",
-        "word_count": 1003300,
+        "word_count_text": "100.96万字",
+        "word_count": 1009600,
         "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第481章  海难",
-        "updated_at": "2026-08-28 20:32:08",
-        "rank_change": 2,
-        "heat_change": 2,
+        "latest_chapter": " 第484章  深海巨兽",
+        "updated_at": "2026-08-29 18:41:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

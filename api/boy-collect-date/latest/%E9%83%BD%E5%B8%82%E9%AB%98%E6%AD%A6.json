@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势** 市场进入“存量博弈”期，经典爽文模型持续占据头部，但缺乏新鲜血液注入。\n**读者偏好** 倾向于“神医”与“异能”类强代入感作品，核心爽点在于主角通过特殊能力打破社会阶层与实力壁垒。\n**变动解读** 榜单极度固化，两部上榜作品热度均为0且排名持平，说明该赛道近期缺乏强力新书支撑，市场活跃度处于低位。\n**值得关注** 需警惕该细分品类内容同质化严重导致的读者审美疲劳，建议关注具备“系统+游戏化”融合创新的作品表现。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "901.2万字",
-        "word_count": 9012000,
+        "word_count_text": "901.62万字",
+        "word_count": 9016200,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4396章  城中景象",
-        "updated_at": "2026-08-29 00:21:34",
+        "latest_chapter": " 第4398章  动静小点儿",
+        "updated_at": "2026-08-30 00:01:31",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

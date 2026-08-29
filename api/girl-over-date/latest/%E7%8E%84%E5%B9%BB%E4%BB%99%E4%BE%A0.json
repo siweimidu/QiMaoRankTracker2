@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -21,24 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "heat_change": -3000
-        },
-        {
-          "title": "重回拜师日，偏心师尊靠边站",
-          "book_id": 1943722,
-          "heat_change": -3000
-        },
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "**题材趋势**：题材向“轻玄幻”转型，核心卖点集中在“废柴逆袭”、“师徒对照”与“团宠群像”，弱化了宏大叙事，增强了情绪价值。\n**读者偏好**：读者倾向于爽感直接的升级流，尤其是带有“反向打脸”和“扮猪吃虎”设定的轻快文风，更容易留住年轻用户。\n**变动解读**：榜单呈现高度停滞状态，各书排名持平且热度微降，反映出该赛道用户增长进入瓶颈，亟需新奇设定打破审美疲劳。\n**值得关注**：《第一瞳术师》凭借出版及综艺推荐双向赋能，在热度下滑期仍保持领跑，是目前该类目最稳健的头部资产。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：玄幻仙侠题材呈现“女强升级+群像博弈”的特征，重生流与修真对照组模式是当前作品的主流叙事框架。\n**读者偏好**：读者对“废材逆袭”及“打脸偏心师尊/宗门”的设定有极高参与度，追求极致的成长感与反转爽快感。\n**变动解读**：本期榜单无变动，数据表现平稳，说明当前在榜作品已精准覆盖了目标用户的核心阅读爽点。\n**值得关注**：具备强社交属性和“全网推荐”标签的群像文，在提升读者留存与讨论度方面具备显著优势。",
       "ai_source": "ai"
     },
     "books": [
@@ -65,7 +49,7 @@
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -94,7 +78,7 @@
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -123,7 +107,7 @@
         "latest_chapter": " 第924章  幸得友人，幸得彼此（全文完）",
         "updated_at": "2026-07-06 00:01:08",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -152,7 +136,7 @@
         "latest_chapter": " 第1329章  番外九：魔与龙（完）全文完",
         "updated_at": "2025-09-01 23:57:12",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

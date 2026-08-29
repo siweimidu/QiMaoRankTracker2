@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-30",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 4199800,
+    "total_heat": 83996000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：爽文套路化趋势明显，以“开局获得唯一性外挂”作为核心驱动力的网游文仍占据市场主流。\n**读者偏好**：读者热衷于数值成长与装备进化带来的即时反馈，偏好简单直接的无敌流叙事。\n**变动解读**：本期榜单格局稳固，头部作品凭借高强度的升级节奏维持了稳定的流量盘。\n**值得关注**：单一爆款独占鳌头，显示该细分品类在完结榜单中缺乏新作冲击，市场呈现存量竞争态势。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：民俗悬疑与职业特殊性（如男接阴婆）结合的叙事模式，是该类题材吸引读者的核心卖点。\n**读者偏好**：读者对带有强烈民俗色彩、猎奇性强的诡异事件具有较高粘性，偏好沉浸式的实录叙事风格。\n**变动解读**：榜单表现平稳，经典老书凭借深厚的口碑积累和题材的独特性，保持了极高的完结热度。\n**值得关注**：题材具有较强的长尾效应，受众群体垂直且稳定，但缺乏新鲜创作元素的涌入。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：末日废土背景下的杀伐果断风格依然是市场刚需，强调重生后的极端生存逻辑。\n**读者偏好**：读者更倾向于在末世背景下寻求极致的生存掌控感，对“杀戮救世”的爽点设置买账。\n**变动解读**：榜单排名无变动，显示该作品在完结后仍具备强大的长尾流量，未受到竞品干扰。\n**值得关注**：该作品通过联动漫画IP实现流量闭环，验证了优质网文IP跨媒介联动对维持热度的积极作用。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

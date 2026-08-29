@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -19,23 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "全体起立，SSS狂龙出狱！",
-          "book_id": 9928068,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全体起立，SSS狂龙出狱！",
-          "book_id": 9928068,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》上升2位领涨；《全体起立，SSS狂龙出狱！》热度-1。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统的“出狱+高手+美女总裁”经典套路依然占据核心地位，通过反差感极强的爽点设置维持热度。\n**读者偏好**：读者追求极致的轻松感与暧昧爽感，倾向于阅读“听劝”、“修罗场”等带有调侃性质的都市修真爽文。\n**变动解读**：榜单呈现固化态势，单书撑起类目，显示出该题材竞争门槛高，头部作品具有较强的市场统治力。\n**值得关注**：在传统高手套路中加入更具网感的“玩梗”元素，是提升读者互动与追读的重要手段。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -60,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
         "latest_chapter": " 第580章  新的开始（大结局）",
         "updated_at": "2026-08-26 10:12:09",
-        "rank_change": 2,
-        "heat_change": -1,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

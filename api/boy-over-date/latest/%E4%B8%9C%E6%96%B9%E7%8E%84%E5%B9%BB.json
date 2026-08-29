@@ -8,54 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
     "total_heat": 650000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "不死帝尊",
-          "book_id": 1737723
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -5000
-        },
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453,
-          "heat_change": 3000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "**题材趋势**：传统废柴流与“胎穿悟道”等创新设定并行，核心卖点仍集中在“打脸逆袭”与“系统/神器辅助”的爽感循环。\n**读者偏好**：读者对高代入感的“开局即无敌”或“快速积累优势”的叙事节奏认可度极高，重度依赖爽点堆砌。\n**变动解读**：《噬神鼎》凭借强烈的炼化反馈机制热度回升，头部《荒古武神》虽然热度微降，但统治力依然稳固。\n**值得关注**：新入榜的《不死帝尊》通过标签化营销（2024最火爆、年度奖项）展示了强烈的渠道推广导向，后续表现值得观察。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 传统玄幻结构占据绝对主流，以“废柴流”、“系统/外挂流”及“胎穿悟道”为核心驱动力，强调极致的数值成长与爽感反馈。\n**读者偏好** 读者对“开局被废/逆境崛起”的经典套路仍保持极高粘性，倾向于阅读节奏快、金手指功能强大、升级体系明确的爽文。\n**变动解读** 榜单表现高度固化，头部书籍优势稳固，未出现新晋黑马，显示该品类在七猫平台已进入存量市场的稳定期。\n**值得关注** 《荒古武神》作为头部标杆，其“刀之所向”的霸道节奏是目前该题材最稳妥的吸金范本。",
       "ai_source": "ai"
     },
     "books": [
@@ -82,7 +49,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -5000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -110,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": 3,
-        "heat_change": 3000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -139,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -170,7 +137,7 @@
         "updated_at": "2026-07-31 22:58:18",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"

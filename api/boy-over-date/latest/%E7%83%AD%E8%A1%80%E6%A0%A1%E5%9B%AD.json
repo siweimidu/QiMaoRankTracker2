@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -20,26 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": 2000
-        },
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "**题材趋势**：纯爱治愈与重生创业是当前校园类目的核心驱动力，市场正从“纯热血”转向“慢节奏狗粮文”。\n**读者偏好**：读者热衷于“重生回千禧年”的怀旧滤镜，偏好高甜恋爱互动与商业升级并行叙事。\n**变动解读**：排名出现小幅震荡，治愈系日常文表现出更强的粘性，压制了部分侧重商业线的重生文。\n**值得关注**：两本作品均强调“恋爱日常”，说明情感羁绊在校园题材中的权重已显著高于简单的校园争霸。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：正从传统的“热血争霸”向“青春怀旧+恋爱养成”转型，重生与狗粮文成为该类目的绝对主流。\n**读者偏好**：读者热衷于通过“重生回2000年”等节点获取时代红利与纯爱补偿心理，对甜宠、治愈系的日常互动有较高粘性。\n**变动解读**：榜单维持高度稳定，两部作品均以高情绪价值取胜，显示出校园类目对“怀旧与甜宠”这一组合拳的深度依赖。\n**值得关注**：商业帝国打造与纯爱线索的深度融合，是维持校园文长效热度的关键，建议关注“搞钱+甜宠”双线叙事的优化。",
       "ai_source": "ai"
     },
     "books": [
@@ -66,7 +49,7 @@
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -94,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

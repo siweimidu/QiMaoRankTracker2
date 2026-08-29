@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -20,22 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「奇门秘术」《天黑请点灯》下滑2位；《天黑请点灯》热度+1。",
-      "ai_source": "rule"
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：聚焦于民俗恐怖与诡异求生，强调压抑氛围与世界观的惊悚构建。\n**读者偏好**：读者倾向于带有反转色彩的生存挑战，偏爱冷峻、残酷且充满悬疑感的叙事风格。\n**变动解读**：本类目呈现极高的单一性，头部作品市场占有率极其稳固，市场竞争门槛较高。\n**值得关注**：该题材具备较强的沉浸感，后续需关注其在恐怖元素之外，是否会融合更多解谜或博弈逻辑。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -60,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
         "latest_chapter": " 第1671章  蛊术逞凶，白灯定刹娑！",
         "updated_at": "2026-08-29 06:57:13",
-        "rank_change": -2,
-        "heat_change": 1,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

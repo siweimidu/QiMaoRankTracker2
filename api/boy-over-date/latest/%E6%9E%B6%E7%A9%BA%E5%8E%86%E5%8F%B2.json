@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -21,24 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -17000
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -2000
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "**题材趋势**：种田争霸与“皇子老六”路线是主流，强调通过现代思维（如矿产开发、军权掌控）降维打击封建社会的爽感。\n**读者偏好**：读者倾向于“非正统权谋”的轻松爽文，对具备强烈代入感且能迅速建立“基业”的开局设定有较高粘性。\n**变动解读**：榜单整体格局极其稳定，头部书籍热度出现小幅回撤，显示该类目书籍进入长尾运营期，缺乏强力新竞品冲击。\n**值得关注**：多部上榜作品均已实现有声剧、短剧等多媒介转化，证明该题材在IP多元化变现方面具备极高的市场成熟度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势** “穿越+基建+争霸”成为主流模式，侧重于将现代工业思维或军事权谋带入古代，通过“皇子/世子”身份实现降维打击。\n**读者偏好** 读者热衷于“扮猪吃虎”与“种田搞军权”的爽感，对带有幽默色彩的“老六”式权谋风格接受度较高。\n**变动解读** 榜单变动平静，头部作品均已完成版权跨界拓展，显示优质历史网文在有声书与短剧市场的变现能力已非常成熟。\n**值得关注** IP多维开发（有声剧、短剧）对榜单热度的支撑作用明显，多媒介同步推广是该题材长尾效应显著的原因。",
       "ai_source": "ai"
     },
     "books": [
@@ -65,7 +49,7 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -17000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -94,7 +78,7 @@
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -123,7 +107,7 @@
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

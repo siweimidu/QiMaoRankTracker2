@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势** 核心题材高度集中在“战神回归”与“多师父护道”的强爽逻辑。\n**读者偏好** 读者对“反套路”题材有一定需求，如《舔狗反派》这类融合了穿书与反派逆袭的轻喜剧元素作品。\n**变动解读** 榜单数据静止，说明头部作品竞争壁垒稳固，新书缺乏强力竞争点。\n**值得关注** “反派苟道”与“战神无敌”两种风格的共存，显示了都市爽文在深耕传统套路之余的微创新趋势。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -126,15 +126,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "623.01万字",
-        "word_count": 6230100,
+        "word_count_text": "623.43万字",
+        "word_count": 6234300,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2619章  还是弟弟有路子",
-        "updated_at": "2026-08-28 21:47:19",
+        "latest_chapter": " 第2621章  天空中的对手",
+        "updated_at": "2026-08-29 23:17:19",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
