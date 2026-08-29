@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -23,22 +23,28 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": 2
-        },
-        {
-          "title": "医武双绝，捡个美女总裁当老婆",
-          "book_id": 12352563,
           "rank_change": 1
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 题材回归经典医武流，强调主角“下山”与“医武双绝”的强设定，属于典型的爽文套路。\n**读者偏好** 读者对“全能型”主角具有高粘性，倾向于看主角通过绝对武力与医术掌控权贵、获取红颜青睐的爽点。\n**变动解读** 榜单波动较小，且两部作品热度较低，显示该品类在当前榜单处于存量博弈阶段，缺乏新鲜感。\n**值得关注** 关注此类题材如何通过“美女总裁”或“死劫”等强冲突设定，在低热度环境下通过更新维持长尾流量。",
-      "ai_source": "ai"
+      "heat_leaders": [
+        {
+          "title": "盖世神医",
+          "book_id": 195958,
+          "heat_change": 1
+        },
+        {
+          "title": "医武双绝，捡个美女总裁当老婆",
+          "book_id": 12352563,
+          "heat_change": -1
+        }
+      ],
+      "summary": "「都市高武」《盖世神医》上升1位领涨；《盖世神医》热度+1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -50,17 +56,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "900.57万字",
-        "word_count": 9005700,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "901.2万字",
+        "word_count": 9012000,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4393章  全场震惊",
-        "updated_at": "2026-08-28 00:41:30",
-        "rank_change": 2,
-        "heat_change": 0,
+        "latest_chapter": " 第4396章  城中景象",
+        "updated_at": "2026-08-29 00:21:34",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
@@ -79,17 +85,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.57万字",
-        "word_count": 385700,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "39.06万字",
+        "word_count": 390600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "离家十年，叶峰上山修炼，习得无上医术，上可白骨活死人，下可九阴捞真灵，可惜身负死劫，于是六位美女师傅便为其寻得一良配，试图为叶峰化解死劫。没成想，刚刚下山就捡到一个美女总裁老婆，送上一血。从此往后，叶峰的道路一帆风顺，拦也拦不住。未婚妻嫌我乡野出身？昔日亲戚觊觎我的财产？对不起，我的医术不是你能惹的！这天下我来了，天下便是我！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4118/12352563_360x480.jpg?time=1780991578",
-        "latest_chapter": " 第178章  你缺的那一块",
-        "updated_at": "2026-08-28 00:02:15",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第180章  除名",
+        "updated_at": "2026-08-29 00:02:23",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -3
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -7
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：民俗怪谈与末世生存风格相结合的叙事，正在从大众化向垂直细分领域深耕。\n**读者偏好**：读者倾向于带有悬疑压抑氛围、强调“人吃人”残酷世界观设定，以及主角冷静理智的生存向作品。\n**变动解读**：榜单热度出现显著缩水（-7），排名下行，反映出该题材当前处于热度回调期，受众群体相对固定且挑剔。\n**值得关注**：题材的“诡异”阈值能否持续满足读者需求，以及后续作品在世界观构建上是否有更多创新性呈现。",
-      "ai_source": "ai"
+      "summary": "「奇门秘术」《天黑请点灯》下滑2位；《天黑请点灯》热度+1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 17,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "453.22万字",
-        "word_count": 4532200,
-        "heat": 1,
+        "word_count_text": "454.25万字",
+        "word_count": 4542500,
+        "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1668章  老人和尸虫",
-        "updated_at": "2026-08-28 06:57:13",
-        "rank_change": -3,
-        "heat_change": -7,
+        "latest_chapter": " 第1671章  蛊术逞凶，白灯定刹娑！",
+        "updated_at": "2026-08-29 06:57:13",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

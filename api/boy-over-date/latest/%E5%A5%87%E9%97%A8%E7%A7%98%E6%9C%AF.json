@@ -8,43 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 167000,
+    "total_heat": 166000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": -3
-        },
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "rank_change": -3
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "heat_change": -5000
-        },
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "heat_change": -2000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：民俗悬疑类题材热度进入盘整期，市场供给趋于稳定，缺乏强力新书注入。\n**读者偏好**：读者对“接阴婆”、“捞尸人”等具有强烈民俗色彩、猎奇叙事风格的传统诡异文本保持较高粘性。\n**变动解读**：头部作品热度小幅回落，排名下行主要受榜单整体竞争环境波动影响，非题材本身热度崩塌。\n**值得关注**：需警惕该细分赛道长期缺乏新书跟进导致的读者审美疲劳，建议关注后续是否有强叙事性的新奇门作品冲击榜单。",
+      "summary": "**题材趋势**：民俗志怪类题材表现高度稳定，以“行业诡闻+第一人称纪实感”构筑的核心壁垒极高。\n**读者偏好**：读者偏好具备强烈地域色彩与职业神秘感的诡异故事，如“接阴婆”、“捞尸”等民间传统符号。\n**变动解读**：榜单处于绝对固化期，缺乏新书冲击，反映该品类读者对经典叙事套路拥有极高的忠诚度。\n**值得关注**：两本头部书籍热度高度接近，显示出该赛道已形成稳固的垂直细分市场，竞品进入门槛较高。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,14 +48,14 @@
         "word_count_text": "243.5万字",
         "word_count": 2435000,
         "heat": 85000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -3,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -92,15 +76,15 @@
         "status": "已完结",
         "word_count_text": "256.27万字",
         "word_count": 2562700,
-        "heat": 82000,
+        "heat": 81000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": -3,
-        "heat_change": -5000,
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

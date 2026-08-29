@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "rank_change": -6
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全体起立，SSS狂龙出狱！",
           "book_id": 9928068,
-          "heat_change": 2
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：传统“出狱流”与“都市修真”融合的爽文模式依然占据市场一席之地，但题材整体进入存量博弈阶段。\n**读者偏好**：读者对高密度暧昧情节、反差感极强的“听劝”式人设以及快节奏爽点具有较高粘性。\n**变动解读**：本期仅余一书支撑，且排名出现下滑，显示出单一作品的读者留存压力增大，缺乏新鲜血液补充。\n**值得关注**：需观察该类目是否存在新书断层风险，以及后续是否会有更多融合型“神医/狂龙”题材作品补位。",
-      "ai_source": "ai"
+      "summary": "「都市高手」《全体起立，SSS狂龙出狱！》上升2位领涨；《全体起立，SSS狂龙出狱！》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "全体起立，SSS狂龙出狱！",
         "book_id": 9928068,
         "url": "https://www.qimao.com/shuku/9928068/",
@@ -53,18 +53,18 @@
         "status": "已完结",
         "word_count_text": "175.72万字",
         "word_count": 1757200,
-        "heat": 3,
-        "platform_trend": "drop",
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【爽文】【都市高手】【都市修真】【美女总裁】【暧昧】\n师父说喜欢一个女人是藏不住的。\n但喜欢两个以上，千万得藏好了。\n我主打就是一个听劝，出狱当晚，就把师父的女儿藏在了房间。\n之后我藏了一个又一个，硬是把师父气的从棺材爬了出来。\n我叫叶北玄，有人喊我叶神医，有人喊我叶宗师，有人喊我叶尊者，但我更喜欢她们喊我“轻点！”\n老子的人生名言——醒掌天下权，醉卧美人膝。\n本书又名《无敌真寂寞》《惹他干嘛，他修仙的！》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3310/9928068_360x480.jpg?time=1772509918",
         "latest_chapter": " 第580章  新的开始（大结局）",
         "updated_at": "2026-08-26 10:12:09",
-        "rank_change": -6,
-        "heat_change": 2,
+        "rank_change": 2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
+        "stale_update": true,
         "category": "都市高手"
       }
     ]

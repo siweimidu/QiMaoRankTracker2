@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：该品类呈现极度固化状态，头部作品多为长线连载的经典爽文，题材向传统中医战神与异能金手指偏移。\n**读者偏好**：读者倾向于“扮猪吃虎”与“绝对掌控”的爽感叙事，对具备现实映射感与高阶装备获取的剧情有较高粘性。\n**变动解读**：榜单热度停滞，缺乏新鲜血液注入，品类处于存量市场的自然消耗期，缺乏爆款驱动。\n**值得关注**：需警惕榜单活性不足带来的用户流失，关注是否仍有持续拉动新增收藏的运营动作。",
-      "ai_source": "ai"
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "900.57万字",
-        "word_count": 9005700,
+        "word_count_text": "901.2万字",
+        "word_count": 9012000,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4393章  全场震惊",
-        "updated_at": "2026-08-28 00:41:30",
+        "latest_chapter": " 第4396章  城中景象",
+        "updated_at": "2026-08-29 00:21:34",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

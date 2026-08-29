@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "categories": [
     {
       "name": "都市高武",
@@ -32,14 +32,14 @@
       "url": "api/categories/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
-      "name": "现代军事",
-      "major": "军事",
-      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
       "name": "王朝争霸",
       "major": "玄幻奇幻",
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
+    },
+    {
+      "name": "现代军事",
+      "major": "军事",
+      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
     },
     {
       "name": "幻想修真",

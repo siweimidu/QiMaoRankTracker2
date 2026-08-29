@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 1,
+    "total_heat": 23,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,59 +21,51 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
           "title": "天命纨绔",
           "book_id": 9839805,
-          "heat_change": -2
+          "rank_change": 2
+        },
+        {
+          "title": "医仙，将军，少年侯！谁与争锋！",
+          "book_id": 12371697,
+          "rank_change": 1
         },
         {
           "title": "太监凶猛",
           "book_id": 11674809,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "我爹让我弑君，陛下却把公主赐给我",
+          "book_id": 11895729,
+          "rank_change": -19
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "我爹让我弑君，陛下却把公主赐给我",
+          "book_id": 11895729,
+          "heat_change": 19
+        },
+        {
+          "title": "天命纨绔",
+          "book_id": 9839805,
+          "heat_change": 2
+        },
+        {
+          "title": "医仙，将军，少年侯！谁与争锋！",
+          "book_id": 12371697,
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：历史题材呈现明显的“权谋+轻喜+赘婿”融合趋势，设定多以“身份伪装”与“与皇室/权贵博弈”为核心驱动力。\n**读者偏好**：读者更倾向于“反差感”极强的设定，如太监、刺客、纨绔与皇权势力间的暧昧博弈，这种“刀尖舔血”的快节奏爽感是留住读者的关键。\n**变动解读**：榜单整体表现平稳，《太监凶猛》通过极具噱头的职业设定与逆袭预期实现排名跃升，显示出读者对“卑微开局+极度权势”这一落差设定的持续追捧。\n**值得关注**：互动性强的“阵营对抗”类题材（如弑君刺客、痛觉相通）具备较好的用户粘性，是当前历史类目下差异化突围的重点方向。",
-      "ai_source": "ai"
+      "summary": "「架空历史」《天命纨绔》上升2位领涨；《我爹让我弑君，陛下却把公主赐给我》下滑19位；《我爹让我弑君，陛下却把公主赐给我》热度+19。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 1,
-        "title": "我爹让我弑君，陛下却把公主赐给我",
-        "book_id": 11895729,
-        "url": "https://www.qimao.com/shuku/11895729/",
-        "author": "云飞乱",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E9%A3%9E%E4%B9%B1_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "74.59万字",
-        "word_count": 745900,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "蝉联榜首",
-        "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
-        "latest_chapter": " 第236章  归名以后再拿刀",
-        "updated_at": "2026-08-28 08:12:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 4,
+        "rank": 3,
         "title": "医仙，将军，少年侯！谁与争锋！",
         "book_id": 12371697,
         "url": "https://www.qimao.com/shuku/12371697/",
@@ -85,24 +77,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.29万字",
-        "word_count": 452900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "45.75万字",
+        "word_count": 457500,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第194章  毒箭",
-        "updated_at": "2026-08-28 00:12:14",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第196章  冻伤",
+        "updated_at": "2026-08-29 00:12:14",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -114,24 +106,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "95.16万字",
-        "word_count": 951600,
+        "word_count_text": "95.91万字",
+        "word_count": 959100,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第284章  太祖皇陵！",
-        "updated_at": "2026-08-28 00:32:04",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第286章  皇陵凶险！",
+        "updated_at": "2026-08-29 00:32:04",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -143,17 +135,46 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "160.61万字",
-        "word_count": 1606100,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "164.75万字",
+        "word_count": 1647500,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第730章  打击士气",
-        "updated_at": "2026-08-28 00:17:07",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第749章  求败也这么难？",
+        "updated_at": "2026-08-29 00:07:11",
+        "rank_change": 2,
+        "heat_change": 2,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 20,
+        "title": "我爹让我弑君，陛下却把公主赐给我",
+        "book_id": 11895729,
+        "url": "https://www.qimao.com/shuku/11895729/",
+        "author": "云飞乱",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E9%A3%9E%E4%B9%B1_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "75.2万字",
+        "word_count": 752000,
+        "heat": 19,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
+        "latest_chapter": " 第238章  假钥匙也能开真门",
+        "updated_at": "2026-08-29 08:12:06",
+        "rank_change": -19,
+        "heat_change": 19,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

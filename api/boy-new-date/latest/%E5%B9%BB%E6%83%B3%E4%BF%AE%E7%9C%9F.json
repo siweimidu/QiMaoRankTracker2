@@ -8,42 +8,64 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
-    "count": 3,
-    "total_heat": 225000,
+    "count": 4,
+    "total_heat": 253000,
     "trend": {
       "new_count": 1,
       "dropped_count": 0,
       "new_books": [
         {
-          "title": "武道乱世：我有一颗欲望灵珠",
-          "book_id": 12750684
+          "title": "快老死了，圣女上门赐仙缘",
+          "book_id": 12670524
         }
       ],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
+        {
+          "title": "武道乱世：我有一颗欲望灵珠",
+          "book_id": 12750684,
+          "rank_change": 4
+        }
+      ],
+      "top_fallers": [
         {
           "title": "盗梦千年",
           "book_id": 12257385,
-          "heat_change": -12000
+          "rank_change": -1
         },
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "heat_change": 5000
+          "rank_change": -1
         }
       ],
-      "summary": "**题材趋势**：叙事风格走向细分与差异化，既有传统凡人流的扎实积累，也出现了“双时空互助”等新颖设定。\n**读者偏好**：读者对单纯的升级打怪审美疲劳，更倾向于带有“金手指（如仙炉、灵珠）”驱动下的成长感与强逻辑剧情。\n**变动解读**：榜单相对稳定，新书《武道乱世：我有一颗欲望灵珠》的入局，反映了“修行+欲望”类强设定文正在小众突围。\n**值得关注**：《盗梦千年》的叙事创新值得关注，其通过双鱼佩连接时空的设定，为修真题材注入了更强的悬疑与历史厚重感。",
+      "heat_leaders": [
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "heat_change": -7000
+        },
+        {
+          "title": "武道乱世：我有一颗欲望灵珠",
+          "book_id": 12750684,
+          "heat_change": 3000
+        },
+        {
+          "title": "盗梦千年",
+          "book_id": 12257385,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：传统修仙与“奇物辅助”相结合，强调主角在资源匮乏环境下的被动破局。\n**读者偏好**：读者偏爱“随身金手指”（如灵珠、仙炉）带来的快速成长与寿命增益，对带有“圣女”、“妖女”互动的情感线有较强消费意愿。\n**变动解读**：榜单呈现明显的“逆袭上位”逻辑，排名靠后的作品通过设定创新（如欲望灵珠、老头修仙）快速获得热度增长。\n**值得关注**：《快老死了，圣女上门赐仙缘》通过“老头+圣女”的差异化人设组合，成功切中读者猎奇心理，展示了修仙题材在人设创新上的巨大潜力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 6,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -55,24 +77,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.73万字",
-        "word_count": 357300,
-        "heat": 99000,
+        "word_count_text": "36.17万字",
+        "word_count": 361700,
+        "heat": 98000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第154章  暴露",
-        "updated_at": "2026-08-28 07:02:06",
-        "rank_change": 0,
-        "heat_change": -12000,
+        "latest_chapter": " 第156章  踩雷",
+        "updated_at": "2026-08-29 07:02:08",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -84,24 +106,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.4万字",
-        "word_count": 364000,
-        "heat": 89000,
-        "platform_trend": "rise",
+        "word_count_text": "36.81万字",
+        "word_count": 368100,
+        "heat": 82000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第173章  女人心海底针！",
-        "updated_at": "2026-08-28 00:02:08",
-        "rank_change": 0,
-        "heat_change": 5000,
+        "latest_chapter": " 第175章  惊天一箭！",
+        "updated_at": "2026-08-29 00:02:09",
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 20,
+        "rank": 16,
         "title": "武道乱世：我有一颗欲望灵珠",
         "book_id": 12750684,
         "url": "https://www.qimao.com/shuku/12750684/",
@@ -113,15 +135,44 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.85万字",
-        "word_count": 368500,
-        "heat": 37000,
+        "word_count_text": "38.31万字",
+        "word_count": 383100,
+        "heat": 40000,
         "platform_trend": "rise",
-        "badge": "飙升54名",
+        "badge": "",
         "intro": "陈幽穿越了，成为了古代一个郎中的学徒。\n恶霸要债、混混环伺、税银压顶，普通百姓的日子，无比艰难。\n随着师父意外身死，就连师娘都要被卖到春楼！\n原本他想要带着师娘离开这是非之地，然而他发现脑海中有一颗欲望灵珠！只要完成师娘的欲望，就能修行，还能查找赚钱的机缘！\n就这样，陈幽开始照顾起师娘，一步步在这乱世之中成为武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4251/12750684_360x480.jpg?time=1784138051",
-        "latest_chapter": " 第149章  这钓鱼技术也不过如此啊",
-        "updated_at": "2026-08-27 14:21:03",
+        "latest_chapter": " 第155章  沈芸这个女子，真的想开了啊",
+        "updated_at": "2026-08-29 10:22:03",
+        "rank_change": 4,
+        "heat_change": 3000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "幻想修真"
+      },
+      {
+        "rank": 20,
+        "title": "快老死了，圣女上门赐仙缘",
+        "book_id": 12670524,
+        "url": "https://www.qimao.com/shuku/12670524/",
+        "author": "嚣张农民",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.58万字",
+        "word_count": 375800,
+        "heat": 33000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "八十老头和圣女有了一次荒唐邂逅。\n从此踏上修仙之路。\n一口祖传的化仙炉，让他能获得无限的寿命，还能秒懂法术，秒懂符箓，秒懂炼器，秒懂玄奥艰难的功法和招式。\n无数女修，仙子，妖女，圣女蜂拥而来，向他这个游戏红尘的大佬请教，求他指点。\n老头：“我真就是个炼气期的小修士啊，你们能不能别这么热情？”\n……………………………………\n仙人夺天地之造化，炼万物之本源，终至大道崩塌，诸天倾覆。\n所有行星被天道意志铸为炉壁，无数太阳被融为炉火，名曰化仙炉。一炉焚尽天上仙。万古仙道，一火成灰。本源重归混沌，宇宙得以新生。\n新的纪元，仙道再兴！\n有个憋屈一生的凡人老头，无意中炼化了一口锈迹斑斑的破火炉。\n于是——\n一人一剑，踏上仙路。\n一炉一火，葬尽诸仙。\n仙帝如何？炉火之中，不过一捧劫灰。\n圣人又如何？炉口一开，任尔万古不朽，化为一缕青烟。\n长生？\n不死？\n得向他祈求！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12670524_360x480.jpg?time=1786101590",
+        "latest_chapter": " 第180章  我的天，天地减寿十万年！",
+        "updated_at": "2026-08-28 17:04:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

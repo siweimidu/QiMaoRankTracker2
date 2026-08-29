@@ -8,59 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 3,
-    "total_heat": 163000,
+    "count": 2,
+    "total_heat": 121000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
           "title": "网游：普攻加力量，劲大就是真理！",
           "book_id": 12451245,
+          "intro": "【网游融合+重生归来+攻击涨属性+全力量极致输出！】\n全民网游《异域降临》横空出世，全民陷入游戏热潮。\n可殊不知这场游戏的背后，全是所谓的‘神明’手笔！\n当君恒惨死异魔王艾路西亚手中之后，他意外重生到"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "rank_change": 2
+        },
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "高武严父，永远比儿子高五个境界",
-          "book_id": 12565608,
-          "rank_change": -2
-        },
-        {
-          "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "高武严父，永远比儿子高五个境界",
-          "book_id": 12565608,
-          "heat_change": -6000
-        },
-        {
-          "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650,
-          "heat_change": -4000
-        },
-        {
-          "title": "网游：普攻加力量，劲大就是真理！",
-          "book_id": 12451245,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "**题材趋势**：题材呈现高度复合化，涵盖“高武+养成”、“网游融合”与“都市异能”三大细分赛道。\n**读者偏好**：读者对强爽点、快节奏的系统流及“反套路”设定（如父子修为绑定）表现出持续兴趣。\n**变动解读**：头部效应减弱，榜单整体热度回落，竞争进入存量博弈阶段，传统都市异能类略显疲态。\n**值得关注**：《网游：普攻加力量，劲大就是真理！》凭借单一属性极致爽感实现逆势上涨，展现了“数值流”在快节奏阅读中的生命力。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：高武题材持续分化，目前聚焦于“系统辅助下的血缘/师徒羁绊”与“监狱背景下的战神复仇”双赛道。\n**读者偏好**：读者更倾向于具备强驱动力（如“望父成龙”反馈机制）和高爽感（如“医武双绝”身份反差）的设定。\n**变动解读**：头部效应显著，榜单呈现存量竞争态势，网游融合类题材因受众重叠度波动而暂时出局。\n**值得关注**：邯郸财阀的《高武严父》通过“反向养成+境界压制”的设定，热度优势明显，是目前高武品类的核心风向标。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -72,17 +56,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.82万字",
-        "word_count": 408200,
+        "word_count_text": "41.44万字",
+        "word_count": 414400,
         "heat": 84000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第193章  踏足遗迹，发现收获！！",
-        "updated_at": "2026-08-28 00:07:06",
-        "rank_change": -2,
-        "heat_change": -6000,
+        "latest_chapter": " 第196章  八品妖兽尸骨！！！！",
+        "updated_at": "2026-08-29 00:07:07",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -90,35 +74,6 @@
       },
       {
         "rank": 17,
-        "title": "网游：普攻加力量，劲大就是真理！",
-        "book_id": 12451245,
-        "url": "https://www.qimao.com/shuku/12451245/",
-        "author": "懒惰的帅比",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%87%92%E6%83%B0%E7%9A%84%E5%B8%85%E6%AF%94_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "45.21万字",
-        "word_count": 452100,
-        "heat": 42000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【网游融合+重生归来+攻击涨属性+全力量极致输出！】\n全民网游《异域降临》横空出世，全民陷入游戏热潮。\n可殊不知这场游戏的背后，全是所谓的‘神明’手笔！\n当君恒惨死异魔王艾路西亚手中之后，他意外重生到了《异域降临》的开服当天！\n并且觉醒出超主宰级天赋，力之极道！\n只要攻击生命体，就能增长力量属性！\n当其他玩家还在为升级加点而苦恼，君恒力量值早已成千破万！\n当诸多公会还在为几件装备抢破头颅，君恒的力量已经突破天际，无需外物加持！\n美利坚第一圣骑士：“我全套神装，防御绝顶，怎么可能被他一拳送回泉水？！”\n樱花国第一式神师：“我的式神堪比一个军团，他一拳就给我干没了？！”\n西八国第一神射手：“我暴击连射可秒BOSS，为什么连他血皮都没有打掉？！”\n当其他位面逐渐与现实世界融合。\n妖兽之主，异魔之王，甚至那俯瞰诸天的神明……\n皆被君恒一拳打爆！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451245_360x480.jpg?time=1781515316",
-        "latest_chapter": " 第214章  冠军！",
-        "updated_at": "2026-08-28 00:02:29",
-        "rank_change": 1,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 19,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -139,8 +94,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
         "latest_chapter": " 第202章  家长来撑腰了",
         "updated_at": "2026-08-28 00:43:05",
-        "rank_change": -2,
-        "heat_change": -4000,
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

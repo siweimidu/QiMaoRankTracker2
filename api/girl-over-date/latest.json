@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "types": [
     {
       "name": "全部",
@@ -27,12 +27,16 @@
       "url": "api/girl-over-date/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     },
     {
+      "name": "年代重生",
+      "url": "api/girl-over-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+    },
+    {
       "name": "都市奇幻",
       "url": "api/girl-over-date/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
-      "name": "年代重生",
-      "url": "api/girl-over-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+      "name": "古代情缘",
+      "url": "api/girl-over-date/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     }
   ]
 }

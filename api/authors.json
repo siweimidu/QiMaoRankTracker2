@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T13:10:59",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T11:09:00",
+  "date": "2026-08-29",
   "authors": [
     {
       "author": "化十",
@@ -11,17 +11,6 @@
       "titles": [
         "荒古武神",
         "吞天神体"
-      ]
-    },
-    {
-      "author": "骑着猫的小鱼干",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
-      "books": 2,
-      "boards": 4,
-      "total_heat": 9945000,
-      "titles": [
-        "大佬归来，假千金她不装了",
-        "小姑奶奶下山了，在桥洞底下摆摊算命"
       ]
     },
     {
@@ -51,7 +40,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A9%A1%E7%9A%AE%E6%B3%A5_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 4455000,
+      "total_heat": 4454000,
       "titles": [
         "打到北极圈了，你让我继承皇位？",
         "你管八十万人马叫匪患？"
@@ -73,10 +62,21 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 4226000,
+      "total_heat": 4226002,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
+      ]
+    },
+    {
+      "author": "嚣张农民",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 3819000,
+      "titles": [
+        "财戒",
+        "快老死了，圣女上门赐仙缘"
       ]
     },
     {
@@ -84,7 +84,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2812001,
+      "total_heat": 2812002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -95,7 +95,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 1520000,
+      "total_heat": 1520001,
       "titles": [
         "众仙俯首",
         "盗梦千年"
@@ -245,7 +245,7 @@
       "author": "玖笑1",
       "author_url": "https://www.qimao.com/zuozhe/%E7%8E%96%E7%AC%911_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 1,
       "total_heat": 14695000,
       "titles": [
         "神算嫡女不好惹，回京嘎嘎乱杀"
@@ -265,7 +265,7 @@
       "author": "三十嘉",
       "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E5%8D%81%E5%98%89_14/",
       "books": 1,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 14433000,
       "titles": [
         "随母改嫁旺新家，重生嫡女嘎嘎乱杀"

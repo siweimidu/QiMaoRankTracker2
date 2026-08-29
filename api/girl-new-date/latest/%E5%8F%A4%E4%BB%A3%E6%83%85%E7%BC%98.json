@@ -8,48 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 133000,
+    "total_heat": 125000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "王妃她是引渡人",
-          "book_id": 12507633
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "表妹貌美，冷面世子情难自恃",
+          "book_id": 12443391,
+          "rank_change": -2
+        },
         {
           "title": "无心情爱？嘴硬王爷又又又醋疯了",
           "book_id": 12335439,
-          "rank_change": 4
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "无心情爱？嘴硬王爷又又又醋疯了",
           "book_id": 12335439,
-          "heat_change": 9000
+          "heat_change": -7000
         },
         {
           "title": "表妹貌美，冷面世子情难自恃",
           "book_id": 12443391,
           "heat_change": -2000
+        },
+        {
+          "title": "王妃她是引渡人",
+          "book_id": 12507633,
+          "heat_change": 1000
         }
       ],
-      "summary": "「古代情缘」新上榜 《王妃她是引渡人》；《无心情爱？嘴硬王爷又又又醋疯了》上升4位领涨；《无心情爱？嘴硬王爷又又又醋疯了》热度+9000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：传统甜宠与先婚后爱仍是核心驱动力，融入悬疑、爽文元素的“引渡人”题材展现出差异化竞争力。\n**读者偏好**：读者对高冷霸权型男主（王爷、世子）及带有宿命感、反差萌的婚恋关系保持高粘性，爽文节奏是留存关键。\n**变动解读**：榜单进入存量博弈阶段，头部作品热度普降，唯《王妃她是引渡人》逆势微涨，说明新颖设定在疲软期更具长尾效应。\n**值得关注**：需警惕同质化题材的审美疲劳，后续作品若想突围，需在“甜宠+X”的组合拳上进一步寻求创新。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "无心情爱？嘴硬王爷又又又醋疯了",
         "book_id": 12335439,
         "url": "https://www.qimao.com/shuku/12335439/",
@@ -61,24 +66,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.31万字",
-        "word_count": 323100,
-        "heat": 57000,
-        "platform_trend": "rise",
+        "word_count_text": "32.72万字",
+        "word_count": 327200,
+        "heat": 50000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【先婚后爱+甜宠+双洁】遭继妹算计，未婚夫悔婚，戚姝深陷流言，京城都传再没人会娶她。\n可当天，权倾朝野的摄政王却登门求娶。\n他说：“我无心情爱，你不会争风吃醋的性子，甚合我意。”\n戚姝当场应了。\n哪怕他大她一轮，京中传言他身有隐疾、不能人道。\n嫁谁不是嫁？她要的是安稳，他图的是省心，各取所需，皆大欢喜。\n成婚后，她守着本分，不作闹、不求爱、不奢望子嗣，甚至大度地替他张罗纳妾。\n可他那双冷淡的墨眸，却越来越灼热。\n后来，连身体都滚烫，他同她耳鬓厮磨，哑声：“给我生个孩子，可好？”\n她腰酸腿软，方知传言误人，他身子……分明好得！\n摄政王言出必行，说护她一生，便没让她受过半点委屈，唯独在情爱一事上食了言。\n巴不得她为他争风吃醋，夜夜欢好。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4112/12335439_360x480.jpg?time=1781836664",
-        "latest_chapter": " 第153章  阿兄可以不死吗",
-        "updated_at": "2026-08-28 00:01:05",
-        "rank_change": 4,
-        "heat_change": 9000,
+        "latest_chapter": " 第155章  你该关心谁",
+        "updated_at": "2026-08-28 23:59:05",
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "title": "表妹貌美，冷面世子情难自恃",
         "book_id": 12443391,
         "url": "https://www.qimao.com/shuku/12443391/",
@@ -90,16 +95,16 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.19万字",
-        "word_count": 341900,
-        "heat": 46000,
+        "word_count_text": "34.68万字",
+        "word_count": 346800,
+        "heat": 44000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京城最冷心冷情的男人。\n他看她的眼神，像在看一件脏东西。\n“侯府容不下祸水。”\n她低着头，不争辩，不解释。\n可她没想到。\n当别的男人觊觎她时，第一个冲出来的是他。\n当她弟弟出事走投无路时，出手相救的是他。\n当她答应给别人做外室时，红着眼踹开门的人，还是他。\n他说这是交易。\n可当她的前夫“死而复生”，站在医馆门口说“我来接你回家”时。\n顾衍站在街对面的茶楼里，手里的茶杯碎了一地。\n鲜血顺着指缝滴下来，他浑然不觉。\n那一刻他才明白。\n他不是戒不掉她。\n他是不想戒。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4148/12443391_360x480.jpg?time=1787454423",
-        "latest_chapter": " 第123章  他真的很忙",
-        "updated_at": "2026-08-27 23:18:04",
-        "rank_change": 0,
+        "latest_chapter": " 第125章  让她去死，无处容身",
+        "updated_at": "2026-08-28 20:13:03",
+        "rank_change": -2,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 1,
@@ -119,18 +124,18 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.04万字",
-        "word_count": 370400,
-        "heat": 30000,
+        "word_count_text": "37.64万字",
+        "word_count": 376400,
+        "heat": 31000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【《将军她是引渡人》姊妹篇，悬疑+爽文+甜宠】\n归杳无过往，无五感，亦无七情六欲，却有五千张不同面孔。\n她替女子化灾解难，引渡新生。\n正妻想惩治私通的丈夫和养妹？\n当众抓奸并送渣男贱女上刑场。\n失散兄妹错恋成痴，妹妹想救相思成疾的哥哥？\n斩情丝，断情念，拨乱反正各自安好。\n被凌虐却要救凶手母亲的少女？被娘家算计与男子同床，却怪她因此带来厄运的出嫁女？雌雄同体爱而不得的阴阳人……\n归杳通通接下，与之结契，借五感，塑已身，收愿力，补神魂。\n世间最美的男子，也被她收于裙下，五感是借来的，但枕边的风景是自己的……\n世人问她为何只渡女子？\n她眉目慈悲：女子万般苦楚，总该有人来渡。\n实则她若懈怠，便会天雷滚滚，外焦里嫩。\n而天雷背后，是五千忠魂的以命相护，是毁天灭地的血海深仇……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4170/12507633_360x480.jpg?time=1784801356",
-        "latest_chapter": " 第150章  要杀人灭口",
-        "updated_at": "2026-08-28 08:22:03",
+        "latest_chapter": " 第152章  抓现行",
+        "updated_at": "2026-08-29 08:08:03",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
