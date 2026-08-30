@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-31",
+  "board": "girl-collect-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 0,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：榜单高度固化，核心卖点集中在“离婚打脸”、“萌宝追妻”与“假千金逆袭”等高爽感、强冲突的经典套路。\n**读者偏好**：受众偏好强人设、快节奏的剧情，尤其青睐“离婚后开挂”及“多位大佬宠爱”的爽文模式，对短剧改编作品接受度高。\n**变动解读**：本期榜单稳定性极高，无新书更替或排名波动，显示出该类目头部作品的市场生命力极强，读者阅读习惯具有惯性。\n**值得关注**：多部上榜作品均有综艺或短剧背书，IP联动效应明显，建议持续关注具备跨平台引流属性的霸总文。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：穿越与“毒妃/神医”元素占据主导，强调女主在封建礼教下的反击与权谋博弈，爽点在于身份逆袭与强势打脸。\n**读者偏好**：读者热衷于“废柴弃妃”变“团宠/权妃”的设定，对“先婚后爱”及“护妻狂魔”类男主缺乏抵抗力。\n**变动解读**：榜单呈现静止状态，说明当前在榜作品已形成稳定的粉丝存量，短期内市场格局未发生实质性竞争变动。\n**值得关注**：作品多带有“契约婚姻”及“系统/技能流”元素，这类融合型宅斗文在保持传统宫闱趣味的同时，更符合现代网文读者的阅读节奏。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：女性向玄幻趋向“群像”与“团宠”化，强调女主从废材到全能强者的成长路径，融合了瞳术、玄术等异能设定。\n**读者偏好**：核心受众倾向于“天才师兄团”或“全能打脸”的爽文体验，重视角色间的羁绊与女主的成长爽感。\n**变动解读**：榜单维持零变动，反映出小众题材在七猫平台的生态相对固定，头部作品凭借高辨识度的“综推”背书，形成了极高的竞争壁垒。\n**值得关注**：榜单作品高度依赖综艺节目联动与名场面演绎，具备较强的破圈潜力，建议关注后续是否有同类题材通过跨界宣发进入榜单。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

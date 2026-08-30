@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "categories": [
     {
       "name": "都市高武",
@@ -47,14 +47,14 @@
       "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "古典仙侠",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
-    },
-    {
       "name": "乡村生活",
       "major": "都市",
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "古典仙侠",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
       "name": "热血校园",
@@ -127,9 +127,19 @@
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
+      "name": "青春校园",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "末世求生",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
     }
   ]
 }

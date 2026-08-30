@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-over-date",
+    "name": "女生完结日榜",
+    "channel": "female",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-08-31",
+  "category": {
+    "name": "青春校园",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 90000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "再近点，就失控了",
+          "book_id": 2015371
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 强联动营销趋势明显，通过综艺背书与短视频热门话题打造“现实照进书本”的沉浸感。\n**读者偏好** 钟情于“体院莽夫vs娇柔女主”的经典反差，且对双洁、告白搭子等高甜标签粘性极高。\n**变动解读** 《再近点，就失控了》强势上榜，证明了IP跨界联动与强人设包装是提升完结期热度的有效手段。\n**值得关注** 关注明星推荐与影视化概念对校园题材完结热度的加持效果。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "再近点，就失控了",
+        "book_id": 2015371,
+        "url": "https://www.qimao.com/shuku/2015371/",
+        "author": "雪泥",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%9B%AA%E6%B3%A5_14/",
+        "major": "现代言情",
+        "minor": "青春校园",
+        "major_id": 1,
+        "minor_id": 275,
+        "minor_url": "https://www.qimao.com/shuku/a-1-275-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "116.1万字",
+        "word_count": 1161000,
+        "heat": 90000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "《奔跑吧》推荐，翟子路看过的校园小甜文！\n【孟子义、陈哲远倾情演绎！】\n《你好种地少年3》推荐，鹭卓赵一博上演「篮球天才VS深情师兄」经典名场面，李昊在看的校园文照进现实！\n【校园+双洁甜宠+木雕+篮球+告白搭子变恋人】\n【体院甜甜莽夫vs美院纯纯i人】\n孟棠觉得魏川有病。\n喜欢的明明是她室友，却一步步闯入她的生活。\n大雨磅礴，他将她逼至角落：“试着喜欢我吧，求求了。”\n孟棠一偏头，躲开了落在唇角的失控。\n魏川一步不让，追逐着吻了下去……\n孟棠眼波微颤，她也有病。\n她之前喜欢的明明是魏川的室友，现在却...\n【“禾”你的小暗号：《第52章　你选谁》直达名场面出处~友情提示：《再近点，就失控了》全程甜度超标无虐点，走过路过不要错过，啾咪~】",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/782/2344001_360x480.jpg?time=1748774274",
+        "latest_chapter": " 第399章  【if线 42】完结",
+        "updated_at": "2026-03-02 23:26:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "青春校园"
+      }
+    ]
+  }
+}

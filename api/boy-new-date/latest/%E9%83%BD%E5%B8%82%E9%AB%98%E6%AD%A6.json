@@ -8,21 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 121000,
+    "total_heat": 115000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：题材呈现出“强反差”与“系统流”高度融合的特征，聚焦于亲情羁绊与复仇爽感的双重叙事。\n**读者偏好**：读者热衷于带有特殊设定（如“永远领先儿子五个境界”的养成系）及经典战神回归式复仇的强冲突剧情。\n**变动解读**：本期榜单稳定性极高，两部上榜作品排名均无变动，显示出头部作品在七猫平台拥有极强的用户粘性。\n**值得关注**：邯郸财阀的养成系设定在爽文结构中具有创新性，能够有效激发读者的猎奇心理与持续追更意愿。",
+      "top_fallers": [
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "heat_change": -4000
+        },
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
+          "heat_change": -2000
+        }
+      ],
+      "summary": "**题材趋势**：传统高武与“系统+亲情羁绊”及“战神回归”题材并存，风格向强反差、强目的性叙事靠拢。\n**读者偏好**：读者更青睐带有“养成/反馈”机制的爽感设定，如通过培养下一代实现自身战力通胀的创新脑洞。\n**变动解读**：头部作品热度相对稳固，但中尾部作品面临明显的流量衰减与排名下行压力，竞争进入存量博弈阶段。\n**值得关注**：《高武严父》凭借差异化的人设逻辑占据领先，后续需关注此类强设定作品的持续留存表现。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,24 +56,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.06万字",
-        "word_count": 420600,
-        "heat": 84000,
+        "word_count_text": "42.68万字",
+        "word_count": 426800,
+        "heat": 82000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第199章  走入包围圈！！",
-        "updated_at": "2026-08-30 00:07:08",
+        "latest_chapter": " 第202章  吞噬同族！！！",
+        "updated_at": "2026-08-31 00:07:07",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -68,17 +85,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.75万字",
-        "word_count": 447500,
-        "heat": 37000,
+        "word_count_text": "45.36万字",
+        "word_count": 453600,
+        "heat": 33000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第205章  不肯要体面死法",
-        "updated_at": "2026-08-29 18:13:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第208章  娇羞、狂放，步名烟两个人格的区别",
+        "updated_at": "2026-08-31 00:31:03",
+        "rank_change": -2,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

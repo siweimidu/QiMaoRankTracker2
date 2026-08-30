@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T07:03:35",
-  "date": "2026-08-30",
+  "generated_at": "2026-08-31T07:16:17",
+  "date": "2026-08-31",
   "authors": [
     {
       "author": "化十",
@@ -62,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 4226002,
+      "total_heat": 4226000,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
@@ -73,10 +73,21 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 3819000,
+      "total_heat": 3851000,
       "titles": [
         "财戒",
         "快老死了，圣女上门赐仙缘"
+      ]
+    },
+    {
+      "author": "雪泥",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%9B%AA%E6%B3%A5_14/",
+      "books": 2,
+      "boards": 2,
+      "total_heat": 3749000,
+      "titles": [
+        "再近点，就失控了",
+        "不熟，但和冷脸糙汉同居了！"
       ]
     },
     {
@@ -95,7 +106,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 1520001,
+      "total_heat": 1520000,
       "titles": [
         "众仙俯首",
         "盗梦千年"
@@ -265,7 +276,7 @@
       "author": "三十嘉",
       "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E5%8D%81%E5%98%89_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 4,
       "total_heat": 14433000,
       "titles": [
         "随母改嫁旺新家，重生嫡女嘎嘎乱杀"
@@ -299,16 +310,6 @@
       "total_heat": 12860000,
       "titles": [
         "霍二爷，新婚请克制！"
-      ]
-    },
-    {
-      "author": "蓝九九",
-      "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E4%B9%9D%E4%B9%9D_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 12325000,
-      "titles": [
-        "凰宫梦"
       ]
     }
   ]

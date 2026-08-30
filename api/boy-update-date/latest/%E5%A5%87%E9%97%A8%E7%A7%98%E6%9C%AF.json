@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：聚焦于民俗恐怖与诡异求生，强调压抑氛围与世界观的惊悚构建。\n**读者偏好**：读者倾向于带有反转色彩的生存挑战，偏爱冷峻、残酷且充满悬疑感的叙事风格。\n**变动解读**：本类目呈现极高的单一性，头部作品市场占有率极其稳固，市场竞争门槛较高。\n**值得关注**：该题材具备较强的沉浸感，后续需关注其在恐怖元素之外，是否会融合更多解谜或博弈逻辑。",
+      "summary": "**题材趋势**：以“民俗恐怖+诡异生存”为核心，通过压抑的氛围营造和强悬念冲突吸引读者，差异化明显。\n**读者偏好**：读者热衷于探索未知恐惧与主角在极端环境下绝地反击的博弈快感，对故事的沉浸感要求较高。\n**变动解读**：本类书籍排名强势回升，显示出独特风格的作品在细分市场中具备极强的突围能力。\n**值得关注**：此类题材易受读者审美周期影响，后续应关注其如何通过世界观的持续展开来留存用户。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 15,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -39,16 +45,16 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "454.25万字",
-        "word_count": 4542500,
+        "word_count_text": "455.26万字",
+        "word_count": 4552600,
         "heat": 2,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1671章  蛊术逞凶，白灯定刹娑！",
-        "updated_at": "2026-08-29 06:57:13",
-        "rank_change": 0,
+        "latest_chapter": " 第1674章  人善被人欺，鬼善被人骑！",
+        "updated_at": "2026-08-30 06:57:12",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

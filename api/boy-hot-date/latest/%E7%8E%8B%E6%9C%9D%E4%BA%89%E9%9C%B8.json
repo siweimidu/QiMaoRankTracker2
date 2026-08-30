@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 271000,
+    "total_heat": 272000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统王朝争霸题材目前在七猫男频处于头部存量竞争阶段，整体市场份额表现稳定。\n**读者偏好**：读者倾向于“底层逆袭+权谋争斗”的爽点组合，期待主角以极低起点通过武力与谋略改写乱世版图。\n**变动解读**：榜单呈现高度固化状态，无新书入局，头部作品《大周第一武夫》凭借稳定的内容输出维持热度。\n**值得关注**：该赛道缺乏腰部新星冲击，后续需关注是否有融合了“系统”或“高武”元素的新作打破存量僵局。",
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：传统历史架空题材依然具备长尾效应，稳健支撑榜单腰部。\n**读者偏好**：受众偏好“草根逆袭+乱世权谋”的经典爽点组合，期待主角通过个人武力或智谋实现阶层跨越。\n**变动解读**：本期仅存的一本在榜书籍排名微升，显示出该题材在当前生态中虽缺乏爆发性增长，但存量用户粘性极高。\n**值得关注**：后续需观察是否有节奏更紧凑、开篇冲突更强烈的同类新作入局，以打破目前该品类单打独斗的局面。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -39,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "192.32万字",
-        "word_count": 1923200,
-        "heat": 271000,
-        "platform_trend": "drop",
+        "word_count_text": "192.98万字",
+        "word_count": 1929800,
+        "heat": 272000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第891章  君落花的居所",
-        "updated_at": "2026-08-29 18:12:08",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第894章  水灵兽-水麒麟",
+        "updated_at": "2026-08-30 18:12:08",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-31",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 23,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 5
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "通房妩媚，清冷世子又又又破戒了",
+            "book_id": 10359876,
+            "rank_change": -2
+          },
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -9
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": -3
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升5位领涨；《通房妩媚，清冷世子又又又破戒了》下滑2位；《皇叔借点功德，王妃把符画猛了》热度-9。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "冷淡七年，离婚后被顶级大佬追着宠",
+            "book_id": 12214737,
+            "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "霍先生，上位别太急",
+            "book_id": 11989218,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "霍先生，上位别太急",
+            "book_id": 11989218,
+            "heat_change": -3
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」《冷淡七年，离婚后被顶级大佬追着宠》 掉出榜单；《霍先生，上位别太急》上升1位领涨；《离婚后她惊艳了世界》下滑2位；《霍先生，上位别太急》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "文盲小茶娘，靠吃瓜把相公卷成首辅",
+            "book_id": 12824490,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「种田经商」《文盲小茶娘，靠吃瓜把相公卷成首辅》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "heat_change": -4
+          },
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《皇妃来自地府，百鬼退散》下滑1位；《撩完清冷世子后，小通房她带球跑了》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《一胎五宝，我成军属院顶流》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "破洞小木屋求生指南",
+            "book_id": 9955719
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」新上榜 《破洞小木屋求生指南》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "笨蛋美人当团宠，师兄们抢疯了！",
+            "book_id": 9951162,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "笨蛋美人当团宠，师兄们抢疯了！",
+            "book_id": 9951162,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「玄幻仙侠」《笨蛋美人当团宠，师兄们抢疯了！》下滑1位；《笨蛋美人当团宠，师兄们抢疯了！》热度+1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

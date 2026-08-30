@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 75000,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：末世题材正从单纯的生存挑战向“杀伐果断”的个人英雄主义叙事转型，强调主角在极端环境下的价值重构。\n**读者偏好**：读者偏好高强度的心理博弈与暴力美学，对“重生回溯”及“末日游戏化”等强设定元素接受度极高。\n**变动解读**：榜单表现平稳，缺乏新鲜血液注入，反映出该品类在完结作品储备上进入了存量竞争阶段。\n**值得关注**：作品联动漫画的跨媒介推广模式值得借鉴，有助于延长完结作品的生命周期及品牌影响力。",
+      "heat_leaders": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "heat_change": -2000
+        }
+      ],
+      "summary": "**题材趋势**：末世题材在完结榜单中表现出极强的长尾效应，即便缺乏新书冲击，存量头部作品仍保持稳定的市场占有率。\n**读者偏好**：读者高度青睐“重生+杀伐果断”的复仇叙事，且对跨媒介联动（如漫画化）的作品有更高的留存与关注意愿。\n**变动解读**：本期该类目呈现“存量博弈”态势，头部作品热度微降但排名逆势上升，反映出该赛道整体竞争压力较小，用户粘性较高。\n**值得关注**：需重点监测该类作品通过漫画、短剧等IP衍生带来的长尾流量转化效果。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -41,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 75000,
+        "heat": 73000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

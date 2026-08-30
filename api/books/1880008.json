@@ -6,7 +6,7 @@
   "intro": "【传统玄幻】【杀伐果断】【热血】【剑修】【微群像】\n秦云意外开启太古封神殿，遇到绝色神女，被迫重铸吞天神脉。\n世间万物，皆可吞噬为自身所用。\n天道？\n一样吞噬！",
   "minor": "东方玄幻",
   "status": "连载中",
-  "word_count_text": "380.83万字",
+  "word_count_text": "381.51万字",
   "latest": [
     {
       "board": "boy-hot-month",
@@ -18,13 +18,13 @@
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 6,
-      "heat": 474000
+      "heat": 458000
     },
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
       "rank": 8,
-      "heat": 1
+      "heat": 0
     }
   ],
   "history": [
@@ -261,6 +261,24 @@
       "b": "boy-update-date",
       "r": 8,
       "h": 1
+    },
+    {
+      "d": "2026-08-31",
+      "b": "boy-hot-date",
+      "r": 6,
+      "h": 458000
+    },
+    {
+      "d": "2026-08-31",
+      "b": "boy-hot-month",
+      "r": 4,
+      "h": 19008000
+    },
+    {
+      "d": "2026-08-31",
+      "b": "boy-update-date",
+      "r": 8,
+      "h": 0
     }
   ]
 }

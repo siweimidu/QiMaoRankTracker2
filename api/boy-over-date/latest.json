@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "types": [
     {
       "name": "全部",
@@ -39,12 +39,12 @@
       "url": "api/boy-over-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "末世危机",
       "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "异世大陆",
