@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "types": [
     {
       "name": "全部",
@@ -33,10 +33,6 @@
     {
       "name": "年代重生",
       "url": "api/girl-over-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
-    },
-    {
-      "name": "青春校园",
-      "url": "api/girl-over-date/latest/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD.json"
     }
   ]
 }

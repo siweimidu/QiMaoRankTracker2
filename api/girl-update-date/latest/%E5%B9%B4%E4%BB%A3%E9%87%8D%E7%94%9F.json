@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "一胎五宝，我成军属院顶流",
+          "book_id": 12655653,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「年代重生」《一胎五宝，我成军属院顶流》热度-1。",
+      "summary": "「年代重生」《一胎五宝，我成军属院顶流》上升1位领涨；《一胎五宝，我成军属院顶流》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
         "title": "一胎五宝，我成军属院顶流",
         "book_id": 12655653,
         "url": "https://www.qimao.com/shuku/12655653/",
@@ -45,19 +51,19 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "29.1万字",
-        "word_count": 291000,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "29.55万字",
+        "word_count": 295500,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第132章  将造谣的人全都带走！",
-        "updated_at": "2026-08-31 10:07:03",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第134章  不会，除了她，谁都没有意义！",
+        "updated_at": "2026-09-01 10:07:03",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": false,
         "category": "年代重生"
       }

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "types": [
     {
       "name": "全部",
@@ -27,32 +27,32 @@
       "url": "api/boy-over-month/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "都市高手",
-      "url": "api/boy-over-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+      "name": "奇门秘术",
+      "url": "api/boy-over-month/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "热血校园",
       "url": "api/boy-over-month/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-over-month/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+      "name": "都市高手",
+      "url": "api/boy-over-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "乡村生活",
       "url": "api/boy-over-month/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
-      "name": "虚拟网游",
-      "url": "api/boy-over-month/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
-      "name": "奇门秘术",
-      "url": "api/boy-over-month/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+      "name": "都市生活",
+      "url": "api/boy-over-month/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "末世危机",
       "url": "api/boy-over-month/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "商战职场",
+      "url": "api/boy-over-month/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     }
   ]
 }

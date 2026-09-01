@@ -11,8 +11,14 @@
     {
       "board": "boy-new-date",
       "board_name": "男生新书日榜",
-      "rank": 14,
-      "heat": 42000
+      "rank": 13,
+      "heat": 43000
+    },
+    {
+      "board": "boy-new-month",
+      "board_name": "男生新书月榜",
+      "rank": 18,
+      "heat": 746000
     }
   ],
   "history": [
@@ -63,6 +69,18 @@
       "b": "boy-new-date",
       "r": 14,
       "h": 42000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-date",
+      "r": 13,
+      "h": 43000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-month",
+      "r": 18,
+      "h": 746000
     }
   ]
 }

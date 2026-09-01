@@ -8,49 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 116000,
+    "total_heat": 121000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "财戒",
-          "book_id": 1989239,
-          "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的"
+          "title": "神医出狱",
+          "book_id": 1812061,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
       "top_fallers": [
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "rank_change": -2
-        },
-        {
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "heat_change": -1000
+          "heat_change": 4000
+        },
+        {
+          "title": "神医出狱",
+          "book_id": 1812061,
+          "heat_change": 1000
         }
       ],
-      "summary": "「都市高手」《财戒》 掉出榜单；《被关女子监狱三年，我修炼成仙了》下滑2位；《被关女子监狱三年，我修炼成仙了》热度-1000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：出狱流、战神退婚与都市修仙是主要表现形式，融合了强冲突的快节奏剧情。\n**读者偏好**：读者偏爱极具反差感的开篇（如监狱修炼）及都市背景下的“强者归来”式爽文节奏。\n**变动解读**：榜单内部排名微调，头部作品热度小幅增长，反映出该类目依然具备稳定的流量吸附能力。\n**值得关注**：都市高手类作品在完结榜中表现稳健，强人设、高密度的冲突铺设是维持长尾效应的核心。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -64,22 +64,22 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 62000,
-        "platform_trend": "drop",
+        "heat": 66000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "rank_change": -1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "神医出狱",
         "book_id": 1812061,
         "url": "https://www.qimao.com/shuku/1812061/",
@@ -93,15 +93,15 @@
         "status": "已完结",
         "word_count_text": "419.7万字",
         "word_count": 4197000,
-        "heat": 54000,
-        "platform_trend": "drop",
+        "heat": 55000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
         "latest_chapter": " 第2033章  终究还是一场梦（结局）",
         "updated_at": "2026-03-13 23:00:18",
-        "rank_change": -2,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

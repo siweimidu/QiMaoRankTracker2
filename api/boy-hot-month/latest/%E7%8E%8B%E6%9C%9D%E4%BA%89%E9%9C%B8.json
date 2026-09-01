@@ -8,12 +8,12 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 9612000,
+    "total_heat": 8932000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,8 +21,14 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场头部效应显著，长线作品统治力极强。\n**读者偏好**：读者倾向于“底层逆袭+权力置换”的爽点逻辑，高武元素融入历史背景是当前提升代入感的核心手段。\n**变动解读**：本期榜单无变动，显示该小类头部格局趋于固化，缺乏强力新书冲击现有秩序。\n**值得关注**：需密切关注长周期连载作品的留存率，以及是否存在具备高武爽文属性的新晋黑马挑战头部位置。",
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": -680000
+        }
+      ],
+      "summary": "**题材趋势**：传统历史架空题材依然占据稳固阵地，但缺乏新锐作品冲击，整体格局处于存量博弈阶段。\n**读者偏好**：读者对融合武道修行与权谋争斗的“武夫”流历史文保持较高粘性，偏好强冲突、快节奏的开局设定。\n**变动解读**：榜单呈现高度固化，头部作品热度出现小幅回撤，反映出该类目在缺乏新鲜血液补充时，长尾效应正面临挑战。\n**值得关注**：建议重点监测该类目后续是否有具备差异化切入点（如种田、工业化改良）的新作入场，以打破当前僵局。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "193.65万字",
-        "word_count": 1936500,
-        "heat": 9612000,
+        "word_count_text": "194.35万字",
+        "word_count": 1943500,
+        "heat": 8932000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第897章  难言之隐",
-        "updated_at": "2026-08-31 18:11:07",
+        "latest_chapter": " 第900章  陈玄必须死",
+        "updated_at": "2026-09-01 18:02:10",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -680000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

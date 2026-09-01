@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -24,22 +24,16 @@
         {
           "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
           "book_id": 1809733,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
-          "book_id": 1809733,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "「异世大陆」《全民：召唤师弱？开局觉醒金铲铲系统！》下滑2位；《全民：召唤师弱？开局觉醒金铲铲系统！》热度-4000。",
+      "heat_leaders": [],
+      "summary": "「异世大陆」《全民：召唤师弱？开局觉醒金铲铲系统！》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
         "book_id": 1809733,
         "url": "https://www.qimao.com/shuku/1809733/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
         "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
         "updated_at": "2025-12-03 01:14:11",
-        "rank_change": -2,
-        "heat_change": -4000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

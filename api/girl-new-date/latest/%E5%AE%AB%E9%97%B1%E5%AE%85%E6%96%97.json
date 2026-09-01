@@ -8,50 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 111000,
+    "total_heat": 104000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "夺她入帐，惹上疯批权臣逃不掉",
-          "book_id": 10423605,
-          "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "rank_change": 2
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [
         {
           "title": "改嫁顶级纨绔，重生前夫悔疯了",
           "book_id": 12417402,
-          "rank_change": -1
+          "rank_change": -6
         }
       ],
       "heat_leaders": [
         {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "heat_change": 6000
-        },
-        {
           "title": "改嫁顶级纨绔，重生前夫悔疯了",
           "book_id": 12417402,
-          "heat_change": -5000
+          "heat_change": -11000
+        },
+        {
+          "title": "侯府来了个小阎王，满朝权贵争又抢",
+          "book_id": 12479613,
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：玄学萌宝文与重生打脸文二分天下，传统宅斗已向“爽文+金手指”方向深度进化。\n**读者偏好**：读者更倾向于具备“强情绪价值”的作品，无论是萌崽带来的全员宠溺感，还是重生后的复仇爽感。\n**变动解读**：新老交替明显，《小阎王》凭借萌宝+玄学元素实现热度逆袭，而传统强取豪夺类题材近期市场吸引力有所下滑。\n**值得关注**：明确核心金手指的差异化，如文中强调的“神力/玄学”设定，是当前提升榜单竞争力的关键变量。",
+      "summary": "**题材趋势** 宫斗宅斗题材向“萌娃玄学”与“重生打脸”两极分化，轻快爽文风占据主流。\n**读者偏好** 读者对带有强爽感、亲情羁绊及身份反差的设定接受度极高，尤其是“萌娃+玄学”类题材正处于热度高位。\n**变动解读** 头部书籍《侯府来了个小阎王》热度稳步增长，呈现长线优势；《改嫁顶级纨绔》热度下滑明显，显示出纯重生复仇类题材在存量竞争中面临审美疲劳。\n**值得关注** 需重点观察“萌娃+玄学”这一细分赛道的后续爆发力，以及传统重生宅斗文如何通过差异化创新留住用户。",
       "ai_source": "ai"
     },
     "books": [
@@ -68,24 +56,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.51万字",
-        "word_count": 325100,
-        "heat": 66000,
+        "word_count_text": "32.91万字",
+        "word_count": 329100,
+        "heat": 70000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第157章  漂酿叔叔来家里啦",
-        "updated_at": "2026-09-01 06:02:07",
-        "rank_change": 2,
-        "heat_change": 6000,
+        "latest_chapter": " 第159章  外祖父拎刀上门，天大的误会",
+        "updated_at": "2026-09-02 06:02:06",
+        "rank_change": 0,
+        "heat_change": 4000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 11,
+        "rank": 17,
         "title": "改嫁顶级纨绔，重生前夫悔疯了",
         "book_id": 12417402,
         "url": "https://www.qimao.com/shuku/12417402/",
@@ -97,19 +85,19 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.25万字",
-        "word_count": 422500,
-        "heat": 45000,
+        "word_count_text": "42.93万字",
+        "word_count": 429300,
+        "heat": 34000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "当云舒遥踏上第一纨绔的接亲花轿时，有恃无恐的前夫，终于确定，她也带着前世的记忆回来了。\n前世，云舒遥耗尽心血，扶持平庸未婚夫步步高升，倒贴嫁妆操持落魄侯府。\n背负无后骂名，为不能人道的夫君遮掩。\n可她在临死前才得知，夫君不仅有个十四岁的儿子，还把娇柔表妹养在别庄。\n他们一家三口，不仅安心享受她挣来的家产，还一起盼着她咽气！\n亲眼看到这一幕的云舒遥，怒火攻心，含恨而终。\n一朝重生，她回到大婚前。\n云舒遥褪去贤孝的枷锁，果断撕毁虚伪婚约，斩断前世孽缘。\n人人都笑她糊涂，放着前程大好的侯府世子不要，偏偏选嫁给声名狼藉的京都第一纨绔。\n就在众人等着看笑话的时候，他们发现，小王爷成了皇上最倚重的朝臣。\n两人过上了没羞没臊，又让人羡慕的肆意日子。\n 而费尽心机嫁入侯府的心里表妹，却被罢官废爵的世子，送回了青楼！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12417402_360x480.jpg?time=1781245105",
-        "latest_chapter": " 第192章  全歼敌军",
-        "updated_at": "2026-08-31 23:28:02",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "latest_chapter": " 第195章  反强北胡人",
+        "updated_at": "2026-09-01 22:29:03",
+        "rank_change": -6,
+        "heat_change": -11000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

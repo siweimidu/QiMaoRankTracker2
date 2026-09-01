@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 268000,
+    "total_heat": 280000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -4000
+          "heat_change": 12000
         }
       ],
-      "summary": "**题材趋势**：传统王朝争霸题材在当前榜单中呈现出一定的“长尾效应”，但缺乏新鲜血液注入。\n**读者偏好**：读者对带有爽文色彩、弱肉强食逻辑的权谋/武夫类作品仍有固定需求，但粘性有待观察。\n**变动解读**：头部作品热度小幅下滑（-4000），反映出单一品种在缺乏竞争压力时，活跃度难以维持高位增长。\n**值得关注**：需警惕该小类在榜单中“单骑救主”的脆弱性，以及后续是否会有腰部作品通过新题材切入补位。",
+      "summary": "**题材趋势**：王朝争霸类题材在当前榜单呈现“单兵作战”态势，头部效应显著，市场竞争进入存量博弈阶段。\n**读者偏好**：读者更青睐带有强烈爽点与快节奏叙事风格的穿越文，尤其是“开局即冲突”的强代入感设定。\n**变动解读**：由于榜单缺乏竞品补充，存量作品《大周第一武夫》凭借稳定的内容输出与读者黏性，实现了排名与热度的双向爬升。\n**值得关注**：该书目前热度已达28万，在缺乏新书冲击的情况下，其后续长尾效应及是否能持续拉升热度上限是核心看点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "193.65万字",
-        "word_count": 1936500,
-        "heat": 268000,
-        "platform_trend": "drop",
+        "word_count_text": "194.35万字",
+        "word_count": 1943500,
+        "heat": 280000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第897章  难言之隐",
-        "updated_at": "2026-08-31 18:11:07",
-        "rank_change": -1,
-        "heat_change": -4000,
+        "latest_chapter": " 第900章  陈玄必须死",
+        "updated_at": "2026-09-01 18:02:10",
+        "rank_change": 1,
+        "heat_change": 12000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

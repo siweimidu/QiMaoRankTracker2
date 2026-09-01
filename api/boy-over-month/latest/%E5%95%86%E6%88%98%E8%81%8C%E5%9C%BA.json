@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-over-month",
+    "name": "男生完结月榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-09-02",
+  "category": {
+    "name": "商战职场",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 2220000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "极品女神赖上我",
+          "book_id": 2012529
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「商战职场」新上榜 《极品女神赖上我》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "极品女神赖上我",
+        "book_id": 2012529,
+        "url": "https://www.qimao.com/shuku/2012529/",
+        "author": "陈行者",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%99%88%E8%A1%8C%E8%80%85_14/",
+        "major": "都市",
+        "minor": "商战职场",
+        "major_id": 203,
+        "minor_id": 221,
+        "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "297.07万字",
+        "word_count": 2970700,
+        "heat": 2220000,
+        "platform_trend": "drop",
+        "badge": "最新上榜",
+        "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
+        "latest_chapter": " 第829章  千帆尽处，般若归远",
+        "updated_at": "2026-08-15 14:22:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "商战职场"
+      }
+    ]
+  }
+}

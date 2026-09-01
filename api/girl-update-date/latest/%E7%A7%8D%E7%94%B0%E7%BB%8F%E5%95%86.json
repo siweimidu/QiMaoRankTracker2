@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
@@ -16,19 +16,13 @@
     "total_heat": 0,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "文盲小茶娘，靠吃瓜把相公卷成首辅",
-          "book_id": 12824490,
-          "intro": "【先婚后爱+科举逆袭+茶摊经营+市井金手指+婚后甜宠+双向奔赴】\n【不识字押题小娘子×满腹经纶穷书生】\n温初一嫁给薛砚青那日，整条街都把他俩当笑话看。\n一个是大字不识、整日抛头露面的茶摊小娘子，一个是"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「种田经商」《文盲小茶娘，靠吃瓜把相公卷成首辅》 掉出榜单。",
+      "summary": "「种田经商」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,15 +39,15 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "84.86万字",
-        "word_count": 848600,
+        "word_count_text": "85.91万字",
+        "word_count": 859100,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第374章  大公山深处的年",
-        "updated_at": "2026-08-31 22:11:04",
+        "latest_chapter": " 第377章  你怎么知道我是亩产大王？",
+        "updated_at": "2026-09-01 22:51:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

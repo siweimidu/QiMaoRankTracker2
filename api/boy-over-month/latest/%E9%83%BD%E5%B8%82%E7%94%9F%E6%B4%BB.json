@@ -8,72 +8,44 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 5681000,
+    "count": 1,
+    "total_heat": 2686000,
     "trend": {
       "new_count": 0,
       "dropped_count": 1,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "一觉醒来后，死对头校花竟然叫我老公",
-          "book_id": 9955095,
-          "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
-        {
           "title": "前脚离婚，后脚我成了顶级神豪",
           "book_id": 1994990,
-          "rank_change": -1
-        },
+          "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏…"
+        }
+      ],
+      "top_risers": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "rank_change": -1
+          "rank_change": 5
         }
       ],
-      "heat_leaders": [],
-      "summary": "「都市生活」《一觉醒来后，死对头校花竟然叫我老公》 掉出榜单；《前脚离婚，后脚我成了顶级神豪》下滑1位。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "我非池中物",
+          "book_id": 1850580,
+          "heat_change": 215000
+        }
+      ],
+      "summary": "「都市生活」《前脚离婚，后脚我成了顶级神豪》 掉出榜单；《我非池中物》上升5位领涨；《我非池中物》热度+215000。",
       "ai_source": "rule"
     },
     "books": [
       {
         "rank": 13,
-        "title": "前脚离婚，后脚我成了顶级神豪",
-        "book_id": 1994990,
-        "url": "https://www.qimao.com/shuku/1994990/",
-        "author": "当仁不让",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "114.54万字",
-        "word_count": 1145400,
-        "heat": 3210000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏……\n次日……\n“尊敬的客户您好，您尾号9896的银行卡入账1000000.00元！”\n当神豪游戏变成现实，杜泽感叹：结婚？结个屁的婚！开最好的车，泡最靓的妞，这样的人生不香吗？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
-        "latest_chapter": " 第541章  大结局",
-        "updated_at": "2025-11-19 11:51:10",
-        "rank_change": -1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "都市生活"
-      },
-      {
-        "rank": 18,
         "title": "我非池中物",
         "book_id": 1850580,
         "url": "https://www.qimao.com/shuku/1850580/",
@@ -87,15 +59,15 @@
         "status": "已完结",
         "word_count_text": "340.6万字",
         "word_count": 3406000,
-        "heat": 2471000,
+        "heat": 2686000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -1,
-        "heat_change": 0,
+        "rank_change": 5,
+        "heat_change": 215000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

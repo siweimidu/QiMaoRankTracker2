@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "categories": [
     {
       "name": "都市高武",
@@ -47,19 +47,14 @@
       "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "乡村生活",
-      "major": "都市",
-      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "古典仙侠",
       "major": "武侠仙侠",
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "穿越历史",
-      "major": "历史",
-      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
+      "name": "乡村生活",
+      "major": "都市",
+      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "诸天万界",
@@ -87,11 +82,6 @@
       "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
-      "name": "虚拟网游",
-      "major": "游戏",
-      "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
       "name": "总裁豪门",
       "major": "现代言情",
       "url": "api/categories/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
@@ -100,11 +90,6 @@
       "name": "宫闱宅斗",
       "major": "古代言情",
       "url": "api/categories/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
-    },
-    {
-      "name": "异世幻想",
-      "major": "幻想言情",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
       "name": "年代重生",
@@ -117,11 +102,6 @@
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
-      "name": "种田经商",
-      "major": "古代言情",
-      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
-    },
-    {
       "name": "玄幻仙侠",
       "major": "幻想言情",
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
@@ -132,14 +112,14 @@
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
-      "name": "青春校园",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD.json"
-    },
-    {
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "种田经商",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     },
     {
       "name": "古代悬疑",

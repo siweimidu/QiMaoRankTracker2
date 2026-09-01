@@ -12,13 +12,13 @@
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 2,
-      "heat": 757000
+      "heat": 790000
     },
     {
       "board": "boy-hot-month",
       "board_name": "男生大热月榜",
       "rank": 2,
-      "heat": 27131000
+      "heat": 25531000
     }
   ],
   "history": [
@@ -201,6 +201,18 @@
       "b": "boy-hot-month",
       "r": 2,
       "h": 27131000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-hot-date",
+      "r": 2,
+      "h": 790000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-hot-month",
+      "r": 2,
+      "h": 25531000
     }
   ]
 }

@@ -6,19 +6,19 @@
   "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
   "minor": "都市高手",
   "status": "连载中",
-  "word_count_text": "39.04万字",
+  "word_count_text": "39.45万字",
   "latest": [
     {
       "board": "boy-new-date",
       "board_name": "男生新书日榜",
-      "rank": 3,
-      "heat": 120000
+      "rank": 2,
+      "heat": 123000
     },
     {
       "board": "boy-new-month",
       "board_name": "男生新书月榜",
       "rank": 5,
-      "heat": 612000
+      "heat": 2339000
     }
   ],
   "history": [
@@ -201,6 +201,18 @@
       "b": "boy-new-month",
       "r": 5,
       "h": 612000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-date",
+      "r": 2,
+      "h": 123000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-month",
+      "r": 5,
+      "h": 2339000
     }
   ]
 }

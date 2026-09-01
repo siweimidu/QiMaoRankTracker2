@@ -9,16 +9,16 @@
   "word_count_text": "41.04万字",
   "latest": [
     {
-      "board": "boy-new-month",
-      "board_name": "男生新书月榜",
-      "rank": 4,
-      "heat": 623000
-    },
-    {
       "board": "boy-new-date",
       "board_name": "男生新书日榜",
       "rank": 10,
-      "heat": 57000
+      "heat": 59000
+    },
+    {
+      "board": "boy-new-month",
+      "board_name": "男生新书月榜",
+      "rank": 11,
+      "heat": 1302000
     }
   ],
   "history": [
@@ -189,6 +189,18 @@
       "b": "boy-new-month",
       "r": 4,
       "h": 623000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-date",
+      "r": 10,
+      "h": 59000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-new-month",
+      "r": 11,
+      "h": 1302000
     }
   ]
 }

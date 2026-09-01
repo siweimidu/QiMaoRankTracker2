@@ -6,25 +6,19 @@
   "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
   "minor": "架空历史",
   "status": "连载中",
-  "word_count_text": "49.67万字",
+  "word_count_text": "50.29万字",
   "latest": [
-    {
-      "board": "boy-new-date",
-      "board_name": "男生新书日榜",
-      "rank": 1,
-      "heat": 325000
-    },
-    {
-      "board": "boy-new-month",
-      "board_name": "男生新书月榜",
-      "rank": 2,
-      "heat": 1494000
-    },
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 11,
-      "heat": 325000
+      "heat": 328000
+    },
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 15,
+      "heat": 8579000
     }
   ],
   "history": [
@@ -297,6 +291,18 @@
       "b": "boy-new-month",
       "r": 2,
       "h": 1494000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-hot-date",
+      "r": 11,
+      "h": 328000
+    },
+    {
+      "d": "2026-09-02",
+      "b": "boy-hot-month",
+      "r": 15,
+      "h": 8579000
     }
   ]
 }

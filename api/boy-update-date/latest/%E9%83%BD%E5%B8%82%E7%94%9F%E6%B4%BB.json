@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "重生1984：我靠赶海打渔成首富",
           "book_id": 1988961,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "重生1984：我靠赶海打渔成首富",
           "book_id": 1988961,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：年代重生文结合“致富经”模式依然是市场的强力增长点，短剧联动效应显著，IP转化价值凸显。\n**读者偏好**：读者偏好“弥补遗憾+逆袭暴富”的叙事结构，对具备时代背景且有明确奋斗目标的主角代入感极强。\n**变动解读**：本期唯一热度回升的小类，得益于短剧带来的流量反哺，验证了“网文+短剧”联动对提升榜单表现的直接效力。\n**值得关注**：重点关注此类具有强视觉改编潜力、且节奏明快的年代生活流作品，其在下沉市场的用户粘性表现优异。",
-      "ai_source": "ai"
+      "summary": "「都市生活」《重生1984：我靠赶海打渔成首富》上升2位领涨；《重生1984：我靠赶海打渔成首富》热度+1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 9,
         "title": "重生1984：我靠赶海打渔成首富",
         "book_id": 1988961,
         "url": "https://www.qimao.com/shuku/1988961/",
@@ -51,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "340.42万字",
-        "word_count": 3404200,
-        "heat": 1,
+        "word_count_text": "341.1万字",
+        "word_count": 3411000,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【短剧《重回80:从小渔民到水产大王》原著！】　债主上门讨债，青梅竹马险被玷污。\n懦弱的林斌亲眼看着江清雪为求自保，一刀刺向那个玷污她的男人，却因过失杀人，被判入狱，家破人亡。\n这一幕，成为他一生的遗憾！\n却不料一场车祸，让他重回1984年的小渔村。\n这一次，他不惧危险，冒死出海，一网捞起三千斤大黄鱼，还上了赌债，救下了自己挚爱一生的女人！\n林斌：“重活一世，我要驾驶万吨巨轮，征服这片星辰大海！”\n江清雪一把拧住他的耳朵。\n“海什么海，还不赶紧去给孩子换尿布！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/766/2295128_360x480.jpg?time=1745215580",
-        "latest_chapter": " 第1555章  实在是难张口",
-        "updated_at": "2026-08-31 20:23:12",
-        "rank_change": 1,
-        "heat_change": -1,
+        "latest_chapter": " 第1558章  人渣",
+        "updated_at": "2026-09-01 16:27:12",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
