@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": 1
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：末世题材在完结榜单中表现出极强的长尾效应，即便缺乏新书冲击，存量头部作品仍保持稳定的市场占有率。\n**读者偏好**：读者高度青睐“重生+杀伐果断”的复仇叙事，且对跨媒介联动（如漫画化）的作品有更高的留存与关注意愿。\n**变动解读**：本期该类目呈现“存量博弈”态势，头部作品热度微降但排名逆势上升，反映出该赛道整体竞争压力较小，用户粘性较高。\n**值得关注**：需重点监测该类作品通过漫画、短剧等IP衍生带来的长尾流量转化效果。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「末世危机」《全球灾变之末日游戏》下滑3位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 16,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

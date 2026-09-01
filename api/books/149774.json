@@ -99,6 +99,12 @@
       "b": "boy-collect-date",
       "r": 10,
       "h": 0
+    },
+    {
+      "d": "2026-09-01",
+      "b": "boy-collect-date",
+      "r": 10,
+      "h": 0
     }
   ]
 }

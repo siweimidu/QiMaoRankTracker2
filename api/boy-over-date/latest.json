@@ -8,11 +8,15 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "types": [
     {
       "name": "全部",
       "url": "api/boy-over-date/latest/all.json"
+    },
+    {
+      "name": "架空历史",
+      "url": "api/boy-over-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "东方玄幻",
@@ -23,14 +27,6 @@
       "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
-      "name": "架空历史",
-      "url": "api/boy-over-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
-    },
-    {
-      "name": "都市高手",
-      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
-    },
-    {
       "name": "热血校园",
       "url": "api/boy-over-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
@@ -39,12 +35,20 @@
       "url": "api/boy-over-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "末世危机",
-      "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+      "name": "都市高手",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "都市生活",
       "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "乡村生活",
+      "url": "api/boy-over-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "末世危机",
+      "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
       "name": "异世大陆",

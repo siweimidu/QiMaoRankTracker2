@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-01",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 4297850,
+    "total_heat": 85957000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《荒古圣体：在娘胎开始悟道》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "最狂邪医",
+            "book_id": 1821655,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高武」《最狂邪医》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「架空历史」《世子无双》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "财戒",
+            "book_id": 1989239,
+            "rank_change": -1
+          },
+          {
+            "title": "下山后，漂亮姐姐蠢蠢欲动",
+            "book_id": 2053900,
+            "rank_change": -1
+          },
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高手」《财戒》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "一觉醒来后，死对头校花竟然叫我老公",
+            "book_id": 9955095,
+            "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "前脚离婚，后脚我成了顶级神豪",
+            "book_id": 1994990,
+            "rank_change": -1
+          },
+          {
+            "title": "我非池中物",
+            "book_id": 1850580,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市生活」《一觉醒来后，死对头校花竟然叫我老公》 掉出榜单；《前脚离婚，后脚我成了顶级神豪》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "重回六十年代，从挖何首乌开始",
+            "book_id": 2064995
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」新上榜 《重回六十年代，从挖何首乌开始》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "网游：开局刮刮乐，觉醒唯一SSS天赋",
+            "book_id": 1984430,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：开局刮刮乐，觉醒唯一SSS天赋》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《民间诡闻实录》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：民俗悬疑类题材持续占据细分市场，注重“职业猎奇”与“灵异氛围”的营造。\n**读者偏好**：偏好民间传说、职业禁忌等带有强神秘感与地域色彩的叙事风格。\n**变动解读**：榜单表现平稳，经典长线作品维持高热度，市场格局未见波动。\n**值得关注**：该类题材受众粘性高，但创作门槛需平衡好“民俗真实感”与网文节奏。",
-      "ai_source": "ai"
+      "summary": "「奇门秘术」《民间诡闻实录》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,

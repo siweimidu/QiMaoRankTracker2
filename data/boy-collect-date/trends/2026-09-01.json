@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-01",
+  "board": "boy-collect-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 0,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：末世题材目前处于存量盘整期，上榜作品均带有强烈的系统流与爽文元素。\n**读者偏好**：读者更倾向于“万物采集”、“末日重生+杀伐果断”等高爽点、快节奏的设定，期待主角通过金手指迅速获得碾压级实力。\n**变动解读**：本期榜单数据趋于平稳，无新书入局，显示该类目处于近期流量低位，市场竞争进入相对真空期。\n**值得关注**：头部作品通过跨平台联动（如漫画化）进行IP导流，是后续提升热度的重要手段。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：架空历史类目前以“轻松权谋”与“种田争霸”为核心，强调主角的身份反差与爽感输出。\n**读者偏好**：读者热衷于“纨绔皇子流”与“寒门逆袭流”，偏好主角通过现代知识或现代思维降维打击古代权谋的设定。\n**变动解读**：榜单表现高度固化，现有作品多为经过市场验证的成熟IP，缺乏新变量冲击，整体热度处于横盘期。\n**值得关注**：作者通过在简介中关联综艺热点或推介新书，维持老书的长尾流量，是成熟网文作者的运营标配。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：校园题材目前呈“学霸系统”与“纯爱治愈”两极化分布，兼顾智力成就感与情感陪伴。\n**读者偏好**：读者既追求学霸人设带来的爽感与优越感，也青睐轻松甜宠的恋爱日常，偏好低压力的阅读体验。\n**变动解读**：榜单结构稳定，同一作者包揽双榜，显示该类目在七猫生态内具有明显的头部效应，用户对特定风格的粘性较强。\n**值得关注**：佛系和尚的作品风格跨度（从硬核学霸到软萌恋爱）精准覆盖了校园读者的不同心理需求，值得研究其用户留存策略。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：该品类处于极度冷门期，当前在榜作品多为早期存量老书，缺乏头部新作填充，整体热度处于冰点。\n**读者偏好**：读者仍倾向于“扮猪吃虎”、“神医救人”及“系统/金手指”等经典爽文套路，对传统都市异能题材的存量作品保有基础粘性。\n**变动解读**：榜单呈现高度固化状态，无新书进场及排名变动，市场活跃度极低。\n**值得关注**：需观察是否有具备强爽点或创新金手指设定的高武新作进入，以打破目前的流量僵局。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：该细分品类目前仅余单本长青作品支撑，品类热度集中度极高，市场供给端表现疲软。\n**读者偏好**：读者对民俗怪谈、民间诡事等带有灵异色彩的叙事风格有较强的阅读惯性，偏好“职业传承”类的悬疑叙事。\n**变动解读**：榜单处于“静止”状态，无任何变动，说明该类目当前缺乏竞品冲击，头部效应极为显著。\n**值得关注**：重点关注此类题材是否能通过短视频推广或新媒介叙事实现回暖，或是否有同类题材新书填补榜单空缺。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

@@ -8,39 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
-    "count": 2,
-    "total_heat": 3,
+    "count": 3,
+    "total_heat": 5,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "九转仙葫",
-          "book_id": 12212670,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
           "title": "修仙从神秘小鼎开始",
           "book_id": 1800823,
-          "rank_change": -2
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "九转仙葫",
           "book_id": 12212670,
+          "heat_change": -1
+        },
+        {
+          "title": "修仙从神秘小鼎开始",
+          "book_id": 1800823,
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势** 凡人流与道具流结合仍是市场核心，强调“苟道”、“废材崛起”及“资源积累”等经典升级逻辑。\n**读者偏好** 读者对“低开高走”的成长曲线有明确偏好，更倾向于通过法宝辅助实现战力跃迁的叙事节奏。\n**变动解读** 榜单头部出现小幅震荡，《九转仙葫》通过细分赛道优势实现排名反超，显示出细水长流的市场吸引力。\n**值得关注** 该小类虽书籍体量较小，但热度分布相对集中，具备较好的用户黏性，内容质量对排名影响显著。",
+      "summary": "**题材趋势** “凡人流”与“金手指辅助”深度结合，强调主角从微末崛起的成长感，注重功法与资源的积累。\n**变动解读** 榜单呈现小幅洗牌，《修仙从神秘小鼎开始》热度上涨明显，《聚宝仙炉》入榜，显示出读者对“种田+修仙”类慢热型爽文的持续关注。\n**读者偏好** 读者偏好“小物件开启大外挂”的设定，如小鼎、仙葫等道具，这类设定赋予了主角在残酷修仙界生存的确定性与期待感。\n**值得关注** 《修仙从神秘小鼎开始》的快速上升证明了“凡人崛起+成长型外挂”的模式在修真类中依然具备稳健的阅读粘性。",
       "ai_source": "ai"
     },
     "books": [
@@ -57,24 +61,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "79.05万字",
-        "word_count": 790500,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "79.83万字",
+        "word_count": 798300,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
-        "latest_chapter": " 第267章  幽冥宗圣女",
-        "updated_at": "2026-08-30 23:37:04",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第270章  强行契约",
+        "updated_at": "2026-08-31 23:02:05",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 17,
+        "rank": 14,
         "title": "修仙从神秘小鼎开始",
         "book_id": 1800823,
         "url": "https://www.qimao.com/shuku/1800823/",
@@ -86,19 +90,48 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "445.69万字",
-        "word_count": 4456900,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "446.16万字",
+        "word_count": 4461600,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "梧桐村少年，用一本小人书换来一个神秘小鼎，虽灵根不堪，幸得小鼎相助，崛起微末，凭着坚毅的意志一步一步在弱肉强食尔虞我诈的修仙界愈来愈强。\n筑天道之基，掌雷霆清微，脚踏圣地，剑斩古族，登顶天地之巅，渡劫飞升，屹立万古之上，拟大道无涯。\n回过头来，谁能想到他曾经只是个山野少年？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/505/1512118_360x480.jpg?time=1711704309",
-        "latest_chapter": " 第1811章  娄天",
-        "updated_at": "2026-08-30 23:17:14",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第1813章  阴司再现",
+        "updated_at": "2026-08-31 22:45:13",
+        "rank_change": 3,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "幻想修真"
+      },
+      {
+        "rank": 19,
+        "title": "聚宝仙炉",
+        "book_id": 12452187,
+        "url": "https://www.qimao.com/shuku/12452187/",
+        "author": "我没偷懒",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%B2%A1%E5%81%B7%E6%87%92_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.09万字",
+        "word_count": 380900,
+        "heat": 2,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
+        "latest_chapter": " 第181章  天火受伤",
+        "updated_at": "2026-09-01 00:02:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       }

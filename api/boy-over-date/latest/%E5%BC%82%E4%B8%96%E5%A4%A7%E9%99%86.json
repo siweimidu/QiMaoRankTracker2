@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 58000,
+    "total_heat": 54000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
+          "book_id": 1809733,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
           "book_id": 1809733,
-          "heat_change": -1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：全民转职与系统流依然是异世大陆题材的基石，即使在完结榜单中也具备极高的题材辨识度。\n**读者偏好**：读者偏爱游戏化设定与反差感极强的升级逻辑，尤其是“低开高走”的打脸叙事，能够有效维持完结后的热度留存。\n**变动解读**：该类目本期表现极度稳定，热度微调属于正常波动范围，说明此类作品已建立起稳固的核心受众群体。\n**值得关注**：应持续观察“游戏系统+全民转职”的融合玩法，在完结后能否通过读者口碑实现长期的热度横盘。",
-      "ai_source": "ai"
+      "summary": "「异世大陆」《全民：召唤师弱？开局觉醒金铲铲系统！》下滑2位；《全民：召唤师弱？开局觉醒金铲铲系统！》热度-4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 19,
         "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
         "book_id": 1809733,
         "url": "https://www.qimao.com/shuku/1809733/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "289.78万字",
         "word_count": 2897800,
-        "heat": 58000,
+        "heat": 54000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【没玩过云顶金铲铲不影响阅读。】\n深渊降临现世。\n蓝星人类进入全民转职时代。\n李遥转职A级召唤类职业，云顶执棋人。\n却被告知召唤师是下水道职业？\n女友提分手，资源被扣，副本没人组队？\n李遥：？？？\n那是召唤师，跟我云顶执棋人有什么关系？\n【执棋人】：召唤兽不死，召唤师为无敌状态！\n【实战训练】：杀一只怪获得1点属性！\n【恶魔契约】：献祭生命值获得额外召唤槽！\n【打气】：执棋人每提升一级，召唤兽提升10%敏捷！\n......\n十强争夺战！天骄争霸！一人独占十强！\n国境试炼！李遥一人即是军队！\n外域战场！一人诛灭魔族！\n深渊之行！李遥独面诸天神魔，打通职业者通天之路！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
         "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
         "updated_at": "2025-12-03 01:14:11",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "rank_change": -2,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

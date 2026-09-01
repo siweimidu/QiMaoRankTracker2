@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：末日废土与系统游戏融合，强调“杀伐果断”的残酷生存哲学。\n**读者偏好**：读者更倾向于反英雄设定，追求在极端环境下极致的权力和生存压制感。\n**变动解读**：榜单处于静默期，无新书入榜，反映出该题材当前处于存量博弈阶段。\n**值得关注**：作品联动漫画化是该类IP延伸的重要变现路径，可观察其跨平台转化表现。",
-      "ai_source": "ai"
+      "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,

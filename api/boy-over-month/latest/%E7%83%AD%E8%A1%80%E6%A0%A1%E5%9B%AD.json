@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -20,10 +20,16 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重生2000：从追求青涩校花同桌开始",
+          "book_id": 1758273,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：该品类正向“纯爱治愈”与“重生创业”两极化延伸，弱化了早期的打斗冲突，强化了情感陪伴与时代情怀。\n**读者偏好**：读者对校园恋爱、青梅竹马及“弥补前世遗憾”的剧情具有极强共鸣，偏好轻松、甜宠且带有时代怀旧色彩的作品。\n**变动解读**：由于上榜书籍数量较少且排名稳定，说明校园类目已进入精品化稳定期，读者更愿意为高质量的“恋爱日常”买单。\n**值得关注**：重生题材与校园日常的结合依然是吸引年轻读者的利器，强调“甜宠+事业成长”的双线并行是当前的核心获客逻辑。",
-      "ai_source": "ai"
+      "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -56,7 +62,7 @@
         "category": "热血校园"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -77,7 +83,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

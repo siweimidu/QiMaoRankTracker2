@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 33000,
+    "total_heat": 34000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "春风得意小医仙",
-          "book_id": 12295515
+          "book_id": 12295515,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：乡村生活类题材持续稳健，依然是七猫男生榜单中不可或缺的细分赛道，具备极强的用户留存能力。\n**读者偏好**：读者偏好“乡村+异能+红颜”的爽文结构，尤其是“医术+护美+外挂”的经典组合，能精准击中男性用户的阅读爽点。\n**变动解读**：本期《春风得意小医仙》新晋上榜，以33000热度占据榜单位置，证明此类融合了“家传神鼎”等奇遇元素的乡村文仍有较强市场号召力。\n**值得关注**：该书通过“硬核求生”与“阴阳二气”设定制造紧迫感，这种将生存危机与感情线深度绑定的叙事策略，是提升读者追读留存的关键。",
+      "heat_leaders": [
+        {
+          "title": "春风得意小医仙",
+          "book_id": 12295515,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：乡村题材持续向“异能+情感”融合升级，传统的种田经营已不足以支撑核心看点。\n**读者偏好**：读者更倾向于具备强冲突、强爽感的“医术挂”设定，且对“俏嫂子”等经典乡村情感羁绊依然保持高粘性。\n**变动解读**：该类目上榜书籍热度稳步增长（+1000），显示出头部作品在腰部竞争中具备较强的长尾吸睛能力。\n**值得关注**：在“续命”与“阴阳二气”的设定下，如何平衡修仙元素与乡村生活氛围，是该类目后续维持热度的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "春风得意小医仙",
         "book_id": 12295515,
         "url": "https://www.qimao.com/shuku/12295515/",
@@ -44,18 +51,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.39万字",
-        "word_count": 353900,
-        "heat": 33000,
+        "word_count_text": "35.76万字",
+        "word_count": 357600,
+        "heat": 34000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第170章  不危险？",
-        "updated_at": "2026-08-30 18:17:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第172章  残魂搞事",
+        "updated_at": "2026-09-01 00:55:04",
+        "rank_change": 2,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"

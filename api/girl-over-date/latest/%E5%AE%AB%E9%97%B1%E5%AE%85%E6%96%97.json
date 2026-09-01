@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 5,
-    "total_heat": 1157000,
+    "total_heat": 1143000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -22,29 +22,39 @@
       "top_risers": [],
       "top_fallers": [
         {
+          "title": "王府里来了个捡破烂的崽崽",
+          "book_id": 2061856,
+          "rank_change": -2
+        },
+        {
           "title": "凤池生春",
           "book_id": 1830569,
-          "rank_change": -2
+          "rank_change": -1
+        },
+        {
+          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+          "book_id": 2019227,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": -14000
+          "title": "第一凤女",
+          "book_id": 1803136,
+          "heat_change": -7000
         },
         {
           "title": "凤池生春",
           "book_id": 1830569,
-          "heat_change": -13000
+          "heat_change": -6000
         },
         {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "heat_change": -11000
+          "title": "王府里来了个捡破烂的崽崽",
+          "book_id": 2061856,
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：重生复仇与爽文叙事成为核心架构，多部作品绑定短剧/网剧IP提升影响力。\n**读者偏好**：读者倾向于“大女主逆袭”和“对照组打脸”的快节奏剧情，对带有治愈色彩的甜宠元素接受度较高。\n**变动解读**：榜单整体热度回落，头部作品排名虽稳但热度小幅下滑，显示出存量阅读市场的疲软。\n**值得关注**：《随母改嫁旺新家》等带有“重生+反转”属性的作品，仍是当前宅斗类读者的核心消费点。",
+      "summary": "**题材趋势**：重生复仇与大女主权谋依然是核心卖点，且内容呈现出明显的“影视化”联动特征。\n**读者偏好**：读者更倾向于具备“极致反转”与“爽感打脸”的叙事节奏，尤其钟情于女主逆风翻盘的成长线。\n**变动解读**：榜单整体处于平稳整理期，缺乏强力新作冲击导致排名微调，原有头部作品依靠扎实的剧情积累维持热度领先。\n**值得关注**：具备“萌娃+团宠+改写命运”复合元素的轻宅斗作品，在缓解传统宅斗压抑感方面具备独特吸引力，是后续增长点。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,21 +74,21 @@
         "word_count_text": "213.78万字",
         "word_count": 2137800,
         "heat": 331000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "HE×双洁×甜宠×治愈\n戴缨第一次见陆铭章时。\n老夫人说：“他长你一辈，当按长辈呼之。”\n陆铭章随口道：“不必拘谨，把这里当成自家。”\n后来，她求到他跟前，先是言辞恳切，又作哀婉动人，而他……不为所动。\n她将眼睛一揉，拭了没有温度的泪。\n“您怎的不疼疼我？”\n陆铭章眉梢一跳，脸上情绪难辨，接着，声音低下去：“好”。\n她让他疼，他便真的……用最亲密的方式，疼她入骨。\n她更未曾想到，有朝一日，这位爷会在她耳边烙下低叹：\n“娘子不必踮脚，为夫自会低头。”\n后来，她端坐高堂，仇敌俯首，敬茶称母。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "凤池生春",
         "book_id": 1830569,
         "url": "https://www.qimao.com/shuku/1830569/",
@@ -92,22 +102,22 @@
         "status": "已完结",
         "word_count_text": "233.9万字",
         "word_count": 2339000,
-        "heat": 326000,
+        "heat": 320000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《凤池生春》原著改编，腾讯独播。\n【权谋+宅斗+杀伐果断大女主+爽文】\n许茵茵一生凄苦。\n幼年时被调包，从侯府千金沦落成杀猪匠的女儿。\n回府又被陷害，身败名裂，沦为弃子。\n最终为了活命，成了太孙殿下手中一把好用的刀。\n一睁眼，却又回到了被接回侯府的前夜。\n既如此——\n周遭都是些魑魅魍魉，那就杀出一片清明天！\n苦海无边，唯有自渡！\n只是一不小心，怎么又被上辈子的某位太孙殿下缠上了？\n许茵茵婉拒：殿下，我忙着呢！\n男人却慢条斯理，拥她入怀：你忙什么，孤为你扫尾便是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": -2,
-        "heat_change": -13000,
+        "rank_change": -1,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
         "book_id": 2019227,
         "url": "https://www.qimao.com/shuku/2019227/",
@@ -122,21 +132,21 @@
         "word_count_text": "132.17万字",
         "word_count": 1321700,
         "heat": 246000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+姐妹换府对照组+飒爽女主+虐渣复仇】\n上辈子，爹娘和离，陆未吟不敢争取跟随母亲，留在落魄将军府，爹不疼兄不爱。\n边疆起战事，她随军出征，九死一生挣下赫赫军功，结果军功成了父亲的，嘉奖是全家的。\n她只得到一支嵌入颈椎的断头针，废掉武功的羸弱身躯，以及顶着徒有虚名的郡主头衔嫁给心有所属的太子，落得被夫君一箭穿心的悲惨结局。\n再次睁眼，她听到妹妹说：\n“母亲贪图富贵，抛夫弃子，我才不要跟着她。我是爹爹的女儿，除了爹爹身边，我哪儿都不去！”\n是了，妹妹也重生了。\n可惜她只知道将军府即将崛起，却不知将军府为何崛起。\n没有她陆未吟！将军府何人能战？\n既然妹妹要跟着父亲，那她也不客气了。\n随母改嫁到侯府，在家当团宠，在外扬威名！\n这一世，她不仅要改变自己的命运，还要改变成千上万人的命运。\n当妹妹还在绞尽脑汁想嫁给太子时，她已经提枪上马奔赴疆场。\n身后，更有那邪魅矜贵的皇子一路保驾护航。\n少女立于马背，身披霞光。\n“太子无德，轻贱百姓，殿下可有兴趣取而代之，共谋大业？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": 0,
-        "heat_change": -14000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -150,22 +160,22 @@
         "status": "已完结",
         "word_count_text": "238.38万字",
         "word_count": 2383800,
-        "heat": 156000,
+        "heat": 149000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "《奔跑吧》同款热门重生文，孟子义、高瀚宇推荐。\n北翼国的一代传奇人物惠正皇太后重生回到侯府。\n上一世时安夏眼瞎，对无能又自私凉薄的晋王一见钟情，还把他费力推上皇位，害苦了老百姓。熬到他死后，还得给他收拾烂摊子。\n这一世她只想守着母亲和失而复得的哥哥安安静静过完一生，谁知天生凤命，随手捡个上门夫婿竟然是西梁国死了十年的幼帝。\n她哀叹自己好命苦，忍痛放一纸和离书给他自由。\n而他却将和离书撕得稀烂，怒斥她：“你当朕是什么，想扔就扔？”\n扔不掉能怎么办？陪他走上夺位之路重操旧业呗。\n只是这一次的夫君强多了，恪守男德，对别的女子目不斜视。时安夏主动给他充盈后宫，他还很生气。\n能干的夫君把前朝管理得井井有条，时安夏非常满意，仍旧过着安安静静的幸福生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": 0,
-        "heat_change": -11000,
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "title": "王府里来了个捡破烂的崽崽",
         "book_id": 2061856,
         "url": "https://www.qimao.com/shuku/2061856/",
@@ -179,15 +189,15 @@
         "status": "已完结",
         "word_count_text": "206.25万字",
         "word_count": 2062500,
-        "heat": 98000,
+        "heat": 97000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "宁王妃带回了一个爱捡破烂的幼崽。\n自从她进了王府，败落的王府从此一飞冲天！\n祖母的眼睛能看清了，大哥手好了，二哥不瘸了，三哥会交际了，昏迷了几年的王爷的彻底痊愈了……。\n幼崽带着她的破烂大杀四方，正冤案，破敌国，护百姓……所有人都求着想要她捡的破烂。\n皇帝金口玉言，哪个敢欺负幼崽，我诛他九族！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "rank_change": -2,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

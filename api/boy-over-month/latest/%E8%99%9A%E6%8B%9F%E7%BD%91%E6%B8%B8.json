@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "虚拟网游",
     "major": "游戏",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "网游：开局刮刮乐，觉醒唯一SSS天赋",
+          "book_id": 1984430,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：爽文套路化趋势明显，以“开局即巅峰”的数值膨胀体系为主流。\n**读者偏好**：读者热衷于极简的成长反馈，倾向于“天赋碾压+装备进化”的线性升级快感。\n**变动解读**：榜单呈现固化态势，头部作品热度稳定，缺乏新晋爆款冲击。\n**值得关注**：单一作品支撑起小类榜单，需警惕题材缺乏新鲜血液注入导致的审美疲劳。",
-      "ai_source": "ai"
+      "summary": "「虚拟网游」《网游：开局刮刮乐，觉醒唯一SSS天赋》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "网游：开局刮刮乐，觉醒唯一SSS天赋",
         "book_id": 1984430,
         "url": "https://www.qimao.com/shuku/1984430/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/761/2282572_360x480.jpg?time=1745832225",
         "latest_chapter": " 第1404章  愿这盛世，如你我所愿（大结局）",
         "updated_at": "2026-06-30 19:11:11",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

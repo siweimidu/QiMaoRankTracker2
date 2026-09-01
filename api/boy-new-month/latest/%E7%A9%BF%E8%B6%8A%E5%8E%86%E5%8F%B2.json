@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-09-01",
+  "category": {
+    "name": "穿越历史",
+    "major": "历史",
+    "count": 1,
+    "total_heat": 251000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "宋末枭雄",
+          "book_id": 12071946
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：乱世求生类题材仍是市场刚需，通过极端生存环境激发读者的代入感与爽点。\n**读者偏好**：受众偏好“开局地狱模式”的强冲突剧情，对残酷战争背景下的逆袭反杀情节有较高反馈。\n**变动解读**：新书《宋末枭雄》凭借靖康乱世背景成功入榜，说明硬核历史生存文在当前榜单中具备较强竞争力和留存潜力。\n**值得关注**：该题材后续需关注主角如何从底层苦役完成身份跃迁，以及对历史厚重感与爽文节奏的平衡处理。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 16,
+        "title": "宋末枭雄",
+        "book_id": 12071946,
+        "url": "https://www.qimao.com/shuku/12071946/",
+        "author": "七号棋牌室",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E5%8F%B7%E6%A3%8B%E7%89%8C%E5%AE%A4_14/",
+        "major": "历史",
+        "minor": "穿越历史",
+        "major_id": 56,
+        "minor_id": 57,
+        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.17万字",
+        "word_count": 471700,
+        "heat": 251000,
+        "platform_trend": "rise",
+        "badge": "飙升11名",
+        "intro": "靖康二年，秦岭大雪纷飞。\n秦云醒来时，穿越成一名宋金交战区的猎户，正被人当作两脚羊开膛破肚……\n斗米数千文，人肉比猪肉还便宜。\n反杀后回到村里，秦云被强征去散关做苦役，还被迫从金兵手中领回一个瘦弱的菜人女子当肉食。\n随后，恶霸上门抢人吃肉，病重老母被欺，刚认的媳妇险些受辱……\n秦云提刀杀人，一夜之间，村尾血流成河。\n乱世之下，人命如草芥。\n当雇佣兵王携千年战术记忆降临这片炼狱，他要做的不仅是活下去……\n更是要让这吃人的世道，付出代价。\n风雪散关路，一念杀人魔！！！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4024/12071946_360x480.jpg?time=1778831920",
+        "latest_chapter": " 第231章  不战而屈人之兵！",
+        "updated_at": "2026-09-01 07:12:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "穿越历史"
+      }
+    ]
+  }
+}

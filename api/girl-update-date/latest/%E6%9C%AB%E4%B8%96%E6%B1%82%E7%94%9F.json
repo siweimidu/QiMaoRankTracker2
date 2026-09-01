@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "破洞小木屋求生指南",
-          "book_id": 9955719
+          "book_id": 9955719,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「末世求生」新上榜 《破洞小木屋求生指南》。",
+      "heat_leaders": [
+        {
+          "title": "破洞小木屋求生指南",
+          "book_id": 9955719,
+          "heat_change": 1
+        }
+      ],
+      "summary": "「末世求生」《破洞小木屋求生指南》上升2位领涨；《破洞小木屋求生指南》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -44,18 +51,18 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "118.38万字",
-        "word_count": 1183800,
-        "heat": 1,
+        "word_count_text": "118.99万字",
+        "word_count": 1189900,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第569章  万物有灵",
-        "updated_at": "2026-08-30 22:47:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第572章  苏美尔之谜",
+        "updated_at": "2026-08-31 21:47:06",
+        "rank_change": 2,
+        "heat_change": 1,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世求生"

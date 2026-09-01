@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": 1
-        },
-        {
-          "title": "医武双绝，捡个美女总裁当老婆",
-          "book_id": 12352563,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "医武双绝，捡个美女总裁当老婆",
           "book_id": 12352563,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：该品类处于存量博弈阶段，以“医武结合+赘婿/总裁”的经典爽文模式为主，市场竞争相对稳固。\n**读者偏好**：读者对强力主角形象及快节奏的打脸爽点保持高粘性。\n**变动解读**：上榜书籍排名小幅回升，显示出经典套路作品在长尾阅读中仍具备稳定的基本盘。\n**值得关注**：在缺乏新书冲击的情况下，后续需观察此类作品能否通过题材微创新（如背景升级）维持榜单热度。",
+      "summary": "**题材趋势**：传统“医武+赘婿”套路仍是该赛道的基本盘，表现出高度的题材同质化与市场固化。\n**读者偏好**：读者依然倾向于“下山+神医+美女总裁”的爽文配置，追求简单直接的身份反差与强敌压制感。\n**变动解读**：本期整体热度低迷，头部产品排名微跌，显示出存量竞争环境下，缺乏创新题材带来的读者审美疲劳。\n**值得关注**：需警惕市场活力不足的问题，建议观察后续是否有具备强情节钩子的新书入场以激活榜单。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -56,16 +51,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "902.03万字",
-        "word_count": 9020300,
+        "word_count_text": "902.44万字",
+        "word_count": 9024400,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4400章  少年不知愁滋味",
-        "updated_at": "2026-08-30 22:21:28",
-        "rank_change": 1,
+        "latest_chapter": " 第4402章  圣子的承诺",
+        "updated_at": "2026-08-31 19:17:30",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -85,17 +80,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.92万字",
-        "word_count": 399200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "40.35万字",
+        "word_count": 403500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "离家十年，叶峰上山修炼，习得无上医术，上可白骨活死人，下可九阴捞真灵，可惜身负死劫，于是六位美女师傅便为其寻得一良配，试图为叶峰化解死劫。没成想，刚刚下山就捡到一个美女总裁老婆，送上一血。从此往后，叶峰的道路一帆风顺，拦也拦不住。未婚妻嫌我乡野出身？昔日亲戚觊觎我的财产？对不起，我的医术不是你能惹的！这天下我来了，天下便是我！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4118/12352563_360x480.jpg?time=1780991578",
-        "latest_chapter": " 第184章  半指",
-        "updated_at": "2026-08-31 00:02:17",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第186章  分诊",
+        "updated_at": "2026-09-01 00:02:17",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

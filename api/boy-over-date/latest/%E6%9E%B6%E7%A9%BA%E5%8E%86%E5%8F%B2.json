@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 329000,
+    "count": 4,
+    "total_heat": 446000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "帝国皇太子，老子不干了！",
+          "book_id": 1801623
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -3
+        },
         {
           "title": "无敌六皇子",
           "book_id": 1747899,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "打到北极圈了，你让我继承皇位？",
           "book_id": 1864493,
-          "heat_change": -7000
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": -4000
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -4000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：权谋与种田流结合的“老六/纨绔”风格统治市场，强调穿越者利用现代知识实现降维打击。\n**读者偏好**：读者倾向于“不夺嫡、只搞钱/军权”的避世爽文逻辑，喜爱轻松幽默且具备建设感的历史叙事。\n**变动解读**：各书排名变动幅度较小，整体热度随完结周期小幅下滑，但粉丝基础稳固，头部效应明显。\n**值得关注**：多媒体生态（有声剧、短剧）的版权开发是提升历史类完结书长尾热度的核心动力，市场转化率高。",
+      "summary": "**题材趋势**：皇子流与“退圈/封地”流深度融合，强调主角在被压迫后的异地崛起与工业化经营。\n**读者偏好**：读者更倾向于“反抗式开局”，即主角通过脱离权力中心，在被忽视的边缘地带通过技术与武力逆袭。\n**变动解读**：存量竞争加剧，头部效应明显，榜单稳定性较高，新晋作品《帝国皇太子，老子不干了！》显示了“摆烂反击”题材的强劲号召力。\n**值得关注**：头部作品热度趋于平稳，后续作品需加强差异化经营情节的爽感密度以维持排位。",
       "ai_source": "ai"
     },
     "books": [
@@ -63,7 +63,7 @@
         "status": "已完结",
         "word_count_text": "304.01万字",
         "word_count": 3040100,
-        "heat": 142000,
+        "heat": 141000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
@@ -71,14 +71,43 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -7000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "title": "帝国皇太子，老子不干了！",
+        "book_id": 1801623,
+        "url": "https://www.qimao.com/shuku/1801623/",
+        "author": "灰色小猫",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%81%B0%E8%89%B2%E5%B0%8F%E7%8C%AB_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "268.91万字",
+        "word_count": 2689100,
+        "heat": 118000,
+        "platform_trend": "rise",
+        "badge": "飙升92名",
+        "intro": "穿越大乾当太子，却摊上个偏心父皇，只爱那嫔妃生的皇子！自己立下多大功劳，都被视而不见！\n看着他们联合朝中人整自己，秦明怒了，帝国皇太子？老子不干了！\n远离京城，他带兵入岭南，发展工业！武装军队！提振经济！镇压南蛮！联通吐蕃！造船下南洋，建立万代功绩！\n这时朝廷忽然发现，不在京城，秦明走到哪都发光！但朝廷没了这位太子，窟窿却越来越大！\n乾帝急了：你回来吧，北莽防不住了！大臣们慌了：殿下您回来吧！朝廷亏空兜不住了！九皇子：兄长，这皇位让给你，我坐不下去啊！\n（爽文不无脑，老作者，更新勤快，放心看。）",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/506/1516672_360x480.jpg?time=1707013759",
+        "latest_chapter": " 第1308章  不枉此生",
+        "updated_at": "2025-10-01 01:38:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "架空历史"
+      },
+      {
+        "rank": 7,
         "title": "无敌六皇子",
         "book_id": 1747899,
         "url": "https://www.qimao.com/shuku/1747899/",
@@ -99,15 +128,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 1,
-        "heat_change": -4000,
+        "rank_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 11,
+        "rank": 14,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -128,8 +157,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

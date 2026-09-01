@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -20,14 +20,30 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "财戒",
+          "book_id": 1989239,
+          "rank_change": -1
+        },
+        {
+          "title": "下山后，漂亮姐姐蠢蠢欲动",
+          "book_id": 2053900,
+          "rank_change": -1
+        },
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：本类目呈现典型的“强设定+强互动”特征，核心卖点集中在鉴宝、下山、特殊职场场景下的逆袭爽感。\n**读者偏好**：读者倾向于“开局即满级”或“特殊身份掩护”的快节奏爽文，尤其偏爱伴随红颜知己、轻喜剧元素的逆袭剧情。\n**变动解读**：榜单结构高度稳定，头部书籍热度壁垒明显，缺乏新晋黑马冲击，市场进入存量博弈阶段。\n**值得关注**：题材上“美女+特殊职业”的组合仍是流量密码，建议创作者在“特殊场景”的差异化设定上寻找突破点。",
-      "ai_source": "ai"
+      "summary": "「都市高手」《财戒》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "财戒",
         "book_id": 1989239,
         "url": "https://www.qimao.com/shuku/1989239/",
@@ -48,15 +64,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
         "latest_chapter": " 第2058章  超脱之境（大结局）",
         "updated_at": "2026-06-28 23:17:17",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "下山后，漂亮姐姐蠢蠢欲动",
         "book_id": 2053900,
         "url": "https://www.qimao.com/shuku/2053900/",
@@ -77,7 +93,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/863/2586173_360x480.jpg?time=1755230413",
         "latest_chapter": " 第995章  沧海桑田（大结局）",
         "updated_at": "2026-08-19 01:08:08",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -85,7 +101,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -106,7 +122,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

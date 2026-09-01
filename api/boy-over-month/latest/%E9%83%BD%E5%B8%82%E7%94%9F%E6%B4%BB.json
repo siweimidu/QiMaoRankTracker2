@@ -8,26 +8,43 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 3,
-    "total_heat": 7853000,
+    "count": 2,
+    "total_heat": 5681000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "一觉醒来后，死对头校花竟然叫我老公",
+          "book_id": 9955095,
+          "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "前脚离婚，后脚我成了顶级神豪",
+          "book_id": 1994990,
+          "rank_change": -1
+        },
+        {
+          "title": "我非池中物",
+          "book_id": 1850580,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：神豪系统与情感纠葛是该类别的核心支柱，题材涵盖了中年逆袭、校园回忆及家庭日常等多元切入点。\n**读者偏好**：读者热衷于“绝境翻盘”的心理补偿，对“神豪系统+多女主”及“奶爸+甜宠”等强情绪价值题材表现出持续的高粘性。\n**变动解读**：榜单排名趋于固化，反映出该类目读者对成熟IP的忠诚度较高，市场竞争已从单纯的题材竞争转向精细化运营。\n**值得关注**：奶爸与萌宝元素的加入显著提升了读者的留存率，未来结合“系统+生活化”的轻爽文仍有较大潜力。",
-      "ai_source": "ai"
+      "summary": "「都市生活」《一觉醒来后，死对头校花竟然叫我老公》 掉出榜单；《前脚离婚，后脚我成了顶级神豪》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "前脚离婚，后脚我成了顶级神豪",
         "book_id": 1994990,
         "url": "https://www.qimao.com/shuku/1994990/",
@@ -48,7 +65,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
         "latest_chapter": " 第541章  大结局",
         "updated_at": "2025-11-19 11:51:10",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -56,7 +73,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "我非池中物",
         "book_id": 1850580,
         "url": "https://www.qimao.com/shuku/1850580/",
@@ -77,39 +94,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "都市生活"
-      },
-      {
-        "rank": 20,
-        "title": "一觉醒来后，死对头校花竟然叫我老公",
-        "book_id": 9955095,
-        "url": "https://www.qimao.com/shuku/9955095/",
-        "author": "金猫作者鸭",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%87%91%E7%8C%AB%E4%BD%9C%E8%80%85%E9%B8%AD_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "106.32万字",
-        "word_count": 1063200,
-        "heat": 2172000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【都市日常+轻松爽文+单女主+奶爸+萌宝+甜宠】新书已上架《重回蓝星，我捡了个落魄女帝》\n“怎么停了？”\n“你不要脸，为了得到我，竟然骗我上床？”\n“神经！我们可是夫妻！”\n“爸爸，不要打乐乐，求你。” \n叶玄懵逼！老婆？孩子？他才大三啊！\n前一秒，叶玄刚和白月光表白。\n下一秒，他就到了校花的床上。\n问题是，校花还是他的死对头！\n他居然横跨时空，魂穿八年后！\n昔日温柔白月光，竟然变身绿茶捞女？\n八年后的他，婚内出轨，虐待女儿，与家人和兄弟反目。\n这对吗？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955095_360x480.jpg?time=1779300221",
-        "latest_chapter": " 第489章  大结局",
-        "updated_at": "2026-07-29 09:55:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "都市生活"
       }

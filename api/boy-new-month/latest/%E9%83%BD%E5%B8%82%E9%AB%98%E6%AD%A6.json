@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,15 +19,31 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "rank_change": 5
+        },
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
+          "rank_change": 3
+        },
+        {
+          "title": "觉醒透视眼后，美女总裁坐不住了",
+          "book_id": 12183366,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：题材高度同质化，集中于“系统+爽文”模式，强调反差感与个人英雄主义。\n**读者偏好**：读者倾向于“养成系”与“无敌流”叠加，热衷于强金手指带来的碾压式快感。\n**变动解读**：本期榜单稳定性极高，无新书进场或排名波动，显示头部作品已形成较强的读者粘性与统治力。\n**值得关注**：题材内卷严重，建议后续关注“父子养成”类新奇设定是否能带动后续榜单的题材迭代。",
+      "summary": "**题材趋势**：高武世界观下的“培养/养成”流与“传统医武神医”流并存，强调个人武力与社会地位的同步攀升。\n**读者偏好**：读者热衷于“扮猪吃虎”与“绝对压制”的爽点，对带有金手指（如望父成龙、透视眼）的成长型主角有天然好感。\n**变动解读**：榜单稳定性较强，但在头部效应下排名出现集体上扬，说明受众对该类题材的粘性极高，存量竞争激烈。\n**值得关注**：《高武严父》通过新颖的“境界绑定”设定带动热度，显示出高武题材正在从单纯的个人升级向“家族/养成”方向迭代。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 6,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -39,16 +55,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.68万字",
-        "word_count": 426800,
+        "word_count_text": "43.29万字",
+        "word_count": 432900,
         "heat": 486000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第202章  吞噬同族！！！",
-        "updated_at": "2026-08-31 00:07:07",
-        "rank_change": 0,
+        "latest_chapter": " 第205章  一剑破阵！！",
+        "updated_at": "2026-09-01 00:07:04",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -56,7 +72,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 12,
+        "rank": 9,
         "title": "觉醒透视眼后，美女总裁坐不住了",
         "book_id": 12183366,
         "url": "https://www.qimao.com/shuku/12183366/",
@@ -68,16 +84,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.83万字",
-        "word_count": 438300,
+        "word_count_text": "44.27万字",
+        "word_count": 442700,
         "heat": 348000,
         "platform_trend": "rise",
-        "badge": "飙升26名",
+        "badge": "飙升29名",
         "intro": "和美女总裁一夜风流后，叶天意外觉醒透视眼。\n从此辨识天下奇珍异宝，犹如探囊取物。\n赌石，古玩字画，玉石翡翠，叶天只需一眼，可辩真伪！\n不仅如此，叶天还有一手活死人肉白骨的逆天针法，一针可定生死！\n你以为这就完了？\n不不不，叶天还是天下绝无仅有的阴阳圣体，无论修炼什么，都比其他人快一万倍！\n拥有如此逆天资质，叶天以后的人生路，注定要肆意活着！\n打最狠的敌人，喝最烈的酒，泡最靓的妞！\n美女总裁，豪门千金，美艳房东，性感老师……她们源源不断找到叶天，真的只是为了鉴宝？\n叶天的人生路，注定会五彩斑斓，绚烂多彩！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4062/12183366_360x480.jpg?time=1780224949",
-        "latest_chapter": " 第196章  心动",
-        "updated_at": "2026-08-30 14:23:03",
-        "rank_change": 0,
+        "latest_chapter": " 第198章  路遇截杀",
+        "updated_at": "2026-08-31 14:13:03",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -85,7 +101,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 14,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -97,19 +113,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.36万字",
-        "word_count": 453600,
+        "word_count_text": "45.97万字",
+        "word_count": 459700,
         "heat": 278000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第208章  娇羞、狂放，步名烟两个人格的区别",
-        "updated_at": "2026-08-31 00:31:03",
-        "rank_change": 0,
+        "latest_chapter": " 第211章  凌霄阁第二剑姬",
+        "updated_at": "2026-09-01 01:22:03",
+        "rank_change": 5,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

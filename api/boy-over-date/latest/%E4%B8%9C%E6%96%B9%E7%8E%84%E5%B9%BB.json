@@ -8,53 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 4,
-    "total_heat": 641000,
+    "count": 3,
+    "total_heat": 587000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453,
-          "rank_change": 1
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": 1
-        },
+      "dropped_books": [
         {
           "title": "不死帝尊",
           "book_id": 1737723,
-          "rank_change": 1
+          "intro": "【2024最火爆玄幻】【七猫年度最佳新秀奖】何为帝，何为至尊？\n什么是不朽，什么是长生？\n浩瀚苍穹我为帝，诸天万界我为尊！\n我道即天道，我意破长生！\n九天十地可碎，万古长河可崩，唯我萧沉，辉煌不灭，帝"
         }
       ],
-      "top_fallers": [],
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "rank_change": -4
+        },
+        {
+          "title": "噬神鼎",
+          "book_id": 1868453,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -11000
+          "heat_change": -6000
         },
         {
           "title": "噬神鼎",
           "book_id": 1868453,
-          "heat_change": 5000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": -3000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻题材稳居头部，以“荒古”系列为代表的经典升级流仍是市场压舱石。\n**读者偏好**：读者热衷于“废柴流”、“系统/神器流”及“娘胎开局”等强代入感设定，追求极致的成长快感与暴力美学。\n**变动解读**：头部书籍《荒古武神》出现热度回调，榜单中后部书籍排名微涨，显示出存量竞争下的波动常态。\n**值得关注**：在题材高度同质化背景下，具备独特金手指创意（如《荒古圣体：在娘胎开始悟道》）的作品更具长尾粘性。",
+      "summary": "**题材趋势**：传统废材流与系统/外挂流的经典结合，强调“极速升级”与“多重能力叠加”。\n**读者偏好**：读者依然偏爱“极致反转”与“血脉压制”类爽文，对胎儿悟道等新奇入场方式有较高接受度。\n**变动解读**：榜单流动性较强，腰部作品排名下滑显著，显示出读者对老套路内容的审美疲劳，对高频次更新的依赖度增加。\n**值得关注**：《荒古武神》稳居榜首，其长效热度验证了“复仇+外挂”模式在玄幻品类中的核心统治力。",
       "ai_source": "ai"
     },
     "books": [
@@ -73,7 +69,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 406000,
+        "heat": 400000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -81,14 +77,14 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -11000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -102,22 +98,22 @@
         "status": "已完结",
         "word_count_text": "416.71万字",
         "word_count": 4167100,
-        "heat": 96000,
+        "heat": 100000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "rank_change": -3,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 7,
+        "rank": 11,
         "title": "荒古圣体：在娘胎开始悟道",
         "book_id": 1849458,
         "url": "https://www.qimao.com/shuku/1849458/",
@@ -132,45 +128,16 @@
         "word_count_text": "276.73万字",
         "word_count": 2767300,
         "heat": 87000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 1,
-        "heat_change": -3000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "东方玄幻"
-      },
-      {
-        "rank": 19,
-        "title": "不死帝尊",
-        "book_id": 1737723,
-        "url": "https://www.qimao.com/shuku/1737723/",
-        "author": "布一二",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B8%83%E4%B8%80%E4%BA%8C_14/",
-        "major": "玄幻奇幻",
-        "minor": "东方玄幻",
-        "major_id": 202,
-        "minor_id": 37,
-        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "527.7万字",
-        "word_count": 5277000,
-        "heat": 52000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【2024最火爆玄幻】【七猫年度最佳新秀奖】何为帝，何为至尊？\n什么是不朽，什么是长生？\n浩瀚苍穹我为帝，诸天万界我为尊！\n我道即天道，我意破长生！\n九天十地可碎，万古长河可崩，唯我萧沉，辉煌不灭，帝意永恒！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1390628_360x480.jpg?time=1713440890",
-        "latest_chapter": " 第2516章  终章",
-        "updated_at": "2026-07-31 22:58:18",
-        "rank_change": 1,
+        "rank_change": -4,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       }

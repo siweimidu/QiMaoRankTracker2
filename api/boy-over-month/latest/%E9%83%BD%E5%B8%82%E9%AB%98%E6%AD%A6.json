@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,10 +20,16 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "最狂邪医",
+          "book_id": 1821655,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市爽文高度同质化，“都市+神医+婚书/复仇”模式仍是流量主力，且与短剧、有声剧深度绑定。\n**读者偏好**：读者偏向阅读具备强冲突、快节奏、强代入感的作品，尤其是带有“扮猪吃虎”和“绝色师姐”等经典爽点的故事。\n**变动解读**：榜单格局固化，书籍热度高度依赖于短剧等跨媒体IP联动带来的流量转化。\n**值得关注**：多部上榜书籍已实现短剧化，显示出都市类题材在“网文+短剧”联动模式下具有极高的商业转化潜力。",
-      "ai_source": "ai"
+      "summary": "「都市高武」《最狂邪医》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -85,7 +91,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "最狂邪医",
         "book_id": 1821655,
         "url": "https://www.qimao.com/shuku/1821655/",
@@ -106,7 +112,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

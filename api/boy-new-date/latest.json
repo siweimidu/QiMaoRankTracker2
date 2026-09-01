@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "types": [
     {
       "name": "全部",
@@ -19,12 +19,12 @@
       "url": "api/boy-new-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "都市高手",
-      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
-    },
-    {
       "name": "幻想修真",
       "url": "api/boy-new-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
       "name": "都市高武",
@@ -41,6 +41,10 @@
     {
       "name": "乡村生活",
       "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     }
   ]
 }

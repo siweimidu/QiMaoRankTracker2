@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-09-01",
+  "category": {
+    "name": "诸天万界",
+    "major": "玄幻奇幻",
+    "count": 1,
+    "total_heat": 245000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "斩神刀",
+          "book_id": 12337881
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统玄幻式“神挡杀神”的无敌流风格在诸天万界题材中依然占据核心地位。\n**读者偏好**：读者热衷于快节奏的战力升级与霸道人设，追求“我为刀俎”的极致掌控感。\n**变动解读**：新书《斩神刀》以经典天才回归流切入，热度表现稳健，显示出读者对纯粹战斗爽文的持续偏好。\n**值得关注**：在诸天题材竞争激烈的环境下，该书后续能否通过多元世界的差异化设定，维持长线的热度增长。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "斩神刀",
+        "book_id": 12337881,
+        "url": "https://www.qimao.com/shuku/12337881/",
+        "author": "四眼秀才",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%9B%E7%9C%BC%E7%A7%80%E6%89%8D_14/",
+        "major": "玄幻奇幻",
+        "minor": "诸天万界",
+        "major_id": 202,
+        "minor_id": 217,
+        "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.34万字",
+        "word_count": 473400,
+        "heat": 245000,
+        "platform_trend": "rise",
+        "badge": "飙升57名",
+        "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
+        "latest_chapter": " 第214章  九品灵脉",
+        "updated_at": "2026-09-01 01:31:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "诸天万界"
+      }
+    ]
+  }
+}

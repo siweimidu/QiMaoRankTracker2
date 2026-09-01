@@ -8,8 +8,8 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
-  "prev_date": "2026-08-30",
+  "date": "2026-09-01",
+  "prev_date": "2026-08-31",
   "books": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "status": "已完结",
       "word_count_text": "864.16万字",
       "word_count": 8641600,
-      "heat": 406000,
+      "heat": 400000,
       "platform_trend": "drop",
       "badge": "蝉联榜首",
       "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -34,7 +34,7 @@
       "latest_chapter": " 第3863章  另一个世界（大结局）",
       "updated_at": "2026-04-22 00:17:41",
       "rank_change": 0,
-      "heat_change": -11000,
+      "heat_change": -6000,
       "is_new": false,
       "boards_count": 4,
       "stale_update": true,
@@ -55,7 +55,7 @@
       "status": "已完结",
       "word_count_text": "201.22万字",
       "word_count": 2012200,
-      "heat": 173000,
+      "heat": 172000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
@@ -63,7 +63,7 @@
       "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
       "updated_at": "2026-04-02 18:35:10",
       "rank_change": 0,
-      "heat_change": -6000,
+      "heat_change": -1000,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -84,7 +84,7 @@
       "status": "已完结",
       "word_count_text": "304.01万字",
       "word_count": 3040100,
-      "heat": 142000,
+      "heat": 141000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
@@ -92,7 +92,7 @@
       "latest_chapter": " 第1257章  番外三：星辰大海",
       "updated_at": "2026-03-31 22:07:15",
       "rank_change": 0,
-      "heat_change": -7000,
+      "heat_change": -1000,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -100,6 +100,35 @@
     },
     {
       "rank": 4,
+      "title": "我非池中物",
+      "book_id": 1850580,
+      "url": "https://www.qimao.com/shuku/1850580/",
+      "author": "夜泊秦淮",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
+      "major": "都市",
+      "minor": "都市生活",
+      "major_id": 203,
+      "minor_id": 223,
+      "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+      "status": "已完结",
+      "word_count_text": "340.6万字",
+      "word_count": 3406000,
+      "heat": 138000,
+      "platform_trend": "rise",
+      "badge": "飙升10名",
+      "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
+      "latest_chapter": " 第1631章  大结局",
+      "updated_at": "2026-01-01 00:43:17",
+      "rank_change": 10,
+      "heat_change": 68000,
+      "is_new": false,
+      "boards_count": 2,
+      "stale_update": true,
+      "category": "都市生活"
+    },
+    {
+      "rank": 5,
       "title": "镇天神医",
       "book_id": 1675640,
       "url": "https://www.qimao.com/shuku/1675640/",
@@ -113,22 +142,51 @@
       "status": "已完结",
       "word_count_text": "543.03万字",
       "word_count": 5430300,
-      "heat": 126000,
+      "heat": 125000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
       "latest_chapter": " 第2590章  圆满。",
       "updated_at": "2025-12-15 11:18:20",
-      "rank_change": 1,
-      "heat_change": -2000,
+      "rank_change": -1,
+      "heat_change": -1000,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "都市高武"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "帝国皇太子，老子不干了！",
+      "book_id": 1801623,
+      "url": "https://www.qimao.com/shuku/1801623/",
+      "author": "灰色小猫",
+      "author_url": "https://www.qimao.com/zuozhe/%E7%81%B0%E8%89%B2%E5%B0%8F%E7%8C%AB_14/",
+      "major": "历史",
+      "minor": "架空历史",
+      "major_id": 56,
+      "minor_id": 58,
+      "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+      "status": "已完结",
+      "word_count_text": "268.91万字",
+      "word_count": 2689100,
+      "heat": 118000,
+      "platform_trend": "rise",
+      "badge": "飙升92名",
+      "intro": "穿越大乾当太子，却摊上个偏心父皇，只爱那嫔妃生的皇子！自己立下多大功劳，都被视而不见！\n看着他们联合朝中人整自己，秦明怒了，帝国皇太子？老子不干了！\n远离京城，他带兵入岭南，发展工业！武装军队！提振经济！镇压南蛮！联通吐蕃！造船下南洋，建立万代功绩！\n这时朝廷忽然发现，不在京城，秦明走到哪都发光！但朝廷没了这位太子，窟窿却越来越大！\n乾帝急了：你回来吧，北莽防不住了！大臣们慌了：殿下您回来吧！朝廷亏空兜不住了！九皇子：兄长，这皇位让给你，我坐不下去啊！\n（爽文不无脑，老作者，更新勤快，放心看。）",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/506/1516672_360x480.jpg?time=1707013759",
+      "latest_chapter": " 第1308章  不枉此生",
+      "updated_at": "2025-10-01 01:38:12",
+      "rank_change": 0,
+      "heat_change": 0,
+      "is_new": true,
+      "boards_count": 1,
+      "stale_update": true,
+      "category": "架空历史"
+    },
+    {
+      "rank": 7,
       "title": "无敌六皇子",
       "book_id": 1747899,
       "url": "https://www.qimao.com/shuku/1747899/",
@@ -149,15 +207,44 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
       "latest_chapter": " 第1634章  番外——十年后",
       "updated_at": "2025-03-03 00:03:29",
-      "rank_change": 1,
-      "heat_change": -4000,
+      "rank_change": -2,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
       "category": "架空历史"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "重回六十年代，从挖何首乌开始",
+      "book_id": 2064995,
+      "url": "https://www.qimao.com/shuku/2064995/",
+      "author": "巍巍青山",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%B7%8D%E5%B7%8D%E9%9D%92%E5%B1%B1_14/",
+      "major": "都市",
+      "minor": "乡村生活",
+      "major_id": 203,
+      "minor_id": 48,
+      "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+      "status": "连载中",
+      "word_count_text": "207.44万字",
+      "word_count": 2074400,
+      "heat": 102000,
+      "platform_trend": "rise",
+      "badge": "最新上榜",
+      "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
+      "latest_chapter": " 第1006章  还有变数",
+      "updated_at": "2026-08-31 10:47:08",
+      "rank_change": 0,
+      "heat_change": 0,
+      "is_new": true,
+      "boards_count": 2,
+      "stale_update": false,
+      "category": "乡村生活"
+    },
+    {
+      "rank": 9,
       "title": "噬神鼎",
       "book_id": 1868453,
       "url": "https://www.qimao.com/shuku/1868453/",
@@ -171,22 +258,51 @@
       "status": "已完结",
       "word_count_text": "416.71万字",
       "word_count": 4167100,
-      "heat": 96000,
+      "heat": 100000,
       "platform_trend": "rise",
       "badge": "",
       "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
       "latest_chapter": " 第2024章  斩杀妖神（大结局）",
       "updated_at": "2026-08-21 13:02:14",
-      "rank_change": 1,
-      "heat_change": 5000,
+      "rank_change": -3,
+      "heat_change": 4000,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "东方玄幻"
     },
     {
-      "rank": 7,
+      "rank": 10,
+      "title": "重生2000：从追求青涩校花同桌开始",
+      "book_id": 1758273,
+      "url": "https://www.qimao.com/shuku/1758273/",
+      "author": "痞子老妖",
+      "author_url": "https://www.qimao.com/zuozhe/%E7%97%9E%E5%AD%90%E8%80%81%E5%A6%96_14/",
+      "major": "都市",
+      "minor": "热血校园",
+      "major_id": 203,
+      "minor_id": 222,
+      "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
+      "status": "已完结",
+      "word_count_text": "429.99万字",
+      "word_count": 4299900,
+      "heat": 89000,
+      "platform_trend": "rise",
+      "badge": "",
+      "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
+      "latest_chapter": " 第1992章  讣告",
+      "updated_at": "2025-12-10 14:02:20",
+      "rank_change": -1,
+      "heat_change": 3000,
+      "is_new": false,
+      "boards_count": 2,
+      "stale_update": true,
+      "category": "热血校园"
+    },
+    {
+      "rank": 11,
       "title": "荒古圣体：在娘胎开始悟道",
       "book_id": 1849458,
       "url": "https://www.qimao.com/shuku/1849458/",
@@ -201,21 +317,21 @@
       "word_count_text": "276.73万字",
       "word_count": 2767300,
       "heat": 87000,
-      "platform_trend": "drop",
+      "platform_trend": "rise",
       "badge": "",
       "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
       "latest_chapter": " 第1077章  大结局",
       "updated_at": "2026-06-10 17:01:11",
-      "rank_change": 1,
-      "heat_change": -3000,
+      "rank_change": -4,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "东方玄幻"
     },
     {
-      "rank": 8,
+      "rank": 12,
       "title": "我和软萌女友的恋爱日常",
       "book_id": 214789,
       "url": "https://www.qimao.com/shuku/214789/",
@@ -229,51 +345,22 @@
       "status": "已完结",
       "word_count_text": "299.99万字",
       "word_count": 2999900,
-      "heat": 87000,
+      "heat": 83000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "甜甜的治愈文，带你重回校园时代！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
       "latest_chapter": " 第1338章  完结感言",
       "updated_at": "2023-02-18 08:11:26",
-      "rank_change": 1,
-      "heat_change": -3000,
+      "rank_change": -4,
+      "heat_change": -4000,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
       "category": "热血校园"
     },
     {
-      "rank": 9,
-      "title": "重生2000：从追求青涩校花同桌开始",
-      "book_id": 1758273,
-      "url": "https://www.qimao.com/shuku/1758273/",
-      "author": "痞子老妖",
-      "author_url": "https://www.qimao.com/zuozhe/%E7%97%9E%E5%AD%90%E8%80%81%E5%A6%96_14/",
-      "major": "都市",
-      "minor": "热血校园",
-      "major_id": 203,
-      "minor_id": 222,
-      "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "429.99万字",
-      "word_count": 4299900,
-      "heat": 86000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
-      "latest_chapter": " 第1992章  讣告",
-      "updated_at": "2025-12-10 14:02:20",
-      "rank_change": 1,
-      "heat_change": -2000,
-      "is_new": false,
-      "boards_count": 2,
-      "stale_update": true,
-      "category": "热血校园"
-    },
-    {
-      "rank": 10,
+      "rank": 13,
       "title": "民间诡闻实录",
       "book_id": 197091,
       "url": "https://www.qimao.com/shuku/197091/",
@@ -294,15 +381,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
       "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
       "updated_at": "2021-10-12 11:14:06",
-      "rank_change": 2,
-      "heat_change": -3000,
+      "rank_change": -3,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
       "category": "奇门秘术"
     },
     {
-      "rank": 11,
+      "rank": 14,
       "title": "世子无双",
       "book_id": 1860026,
       "url": "https://www.qimao.com/shuku/1860026/",
@@ -323,15 +410,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
       "latest_chapter": " 第1063章  大结局（下）",
       "updated_at": "2026-03-08 01:17:14",
-      "rank_change": 0,
-      "heat_change": -4000,
+      "rank_change": -3,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "架空历史"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "title": "山野诡闻笔记",
       "book_id": 214783,
       "url": "https://www.qimao.com/shuku/214783/",
@@ -352,15 +439,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
       "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
       "updated_at": "2024-05-11 07:57:09",
-      "rank_change": 1,
-      "heat_change": -3000,
+      "rank_change": -3,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "奇门秘术"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "title": "全球灾变之末日游戏",
       "book_id": 219542,
       "url": "https://www.qimao.com/shuku/219542/",
@@ -381,44 +468,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": 1,
-      "heat_change": -2000,
+      "rank_change": -3,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
       "category": "末世危机"
     },
     {
-      "rank": 14,
-      "title": "我非池中物",
-      "book_id": 1850580,
-      "url": "https://www.qimao.com/shuku/1850580/",
-      "author": "夜泊秦淮",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
-      "major": "都市",
-      "minor": "都市生活",
-      "major_id": 203,
-      "minor_id": 223,
-      "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "340.6万字",
-      "word_count": 3406000,
-      "heat": 70000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
-      "latest_chapter": " 第1631章  大结局",
-      "updated_at": "2026-01-01 00:43:17",
-      "rank_change": -10,
-      "heat_change": -71000,
-      "is_new": false,
-      "boards_count": 2,
-      "stale_update": true,
-      "category": "都市生活"
-    },
-    {
-      "rank": 15,
+      "rank": 17,
       "title": "被关女子监狱三年，我修炼成仙了",
       "book_id": 1697715,
       "url": "https://www.qimao.com/shuku/1697715/",
@@ -432,14 +490,14 @@
       "status": "已完结",
       "word_count_text": "760.62万字",
       "word_count": 7606200,
-      "heat": 63000,
+      "heat": 62000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
       "latest_chapter": " 第1891章  番外",
       "updated_at": "2026-08-17 18:03:16",
-      "rank_change": 0,
+      "rank_change": -2,
       "heat_change": -1000,
       "is_new": false,
       "boards_count": 2,
@@ -447,7 +505,7 @@
       "category": "都市高手"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "title": "最狂邪医",
       "book_id": 1821655,
       "url": "https://www.qimao.com/shuku/1821655/",
@@ -461,22 +519,22 @@
       "status": "已完结",
       "word_count_text": "523.03万字",
       "word_count": 5230300,
-      "heat": 60000,
-      "platform_trend": "drop",
+      "heat": 62000,
+      "platform_trend": "rise",
       "badge": "",
       "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
       "latest_chapter": " 第1847章  归途如歌，大结局",
       "updated_at": "2026-04-03 10:11:21",
-      "rank_change": 0,
-      "heat_change": -3000,
+      "rank_change": -2,
+      "heat_change": 2000,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "都市高武"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
       "book_id": 1809733,
       "url": "https://www.qimao.com/shuku/1809733/",
@@ -490,22 +548,22 @@
       "status": "已完结",
       "word_count_text": "289.78万字",
       "word_count": 2897800,
-      "heat": 58000,
+      "heat": 54000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "【没玩过云顶金铲铲不影响阅读。】\n深渊降临现世。\n蓝星人类进入全民转职时代。\n李遥转职A级召唤类职业，云顶执棋人。\n却被告知召唤师是下水道职业？\n女友提分手，资源被扣，副本没人组队？\n李遥：？？？\n那是召唤师，跟我云顶执棋人有什么关系？\n【执棋人】：召唤兽不死，召唤师为无敌状态！\n【实战训练】：杀一只怪获得1点属性！\n【恶魔契约】：献祭生命值获得额外召唤槽！\n【打气】：执棋人每提升一级，召唤兽提升10%敏捷！\n......\n十强争夺战！天骄争霸！一人独占十强！\n国境试炼！李遥一人即是军队！\n外域战场！一人诛灭魔族！\n深渊之行！李遥独面诸天神魔，打通职业者通天之路！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
       "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
       "updated_at": "2025-12-03 01:14:11",
-      "rank_change": 0,
-      "heat_change": -1000,
+      "rank_change": -2,
+      "heat_change": -4000,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "异世大陆"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "title": "神医出狱",
       "book_id": 1812061,
       "url": "https://www.qimao.com/shuku/1812061/",
@@ -526,404 +584,51 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
       "latest_chapter": " 第2033章  终究还是一场梦（结局）",
       "updated_at": "2026-03-13 23:00:18",
-      "rank_change": 0,
-      "heat_change": -1000,
-      "is_new": false,
-      "boards_count": 1,
-      "stale_update": true,
-      "category": "都市高手"
-    },
-    {
-      "rank": 19,
-      "title": "不死帝尊",
-      "book_id": 1737723,
-      "url": "https://www.qimao.com/shuku/1737723/",
-      "author": "布一二",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%B8%83%E4%B8%80%E4%BA%8C_14/",
-      "major": "玄幻奇幻",
-      "minor": "东方玄幻",
-      "major_id": 202,
-      "minor_id": 37,
-      "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "527.7万字",
-      "word_count": 5277000,
-      "heat": 52000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "【2024最火爆玄幻】【七猫年度最佳新秀奖】何为帝，何为至尊？\n什么是不朽，什么是长生？\n浩瀚苍穹我为帝，诸天万界我为尊！\n我道即天道，我意破长生！\n九天十地可碎，万古长河可崩，唯我萧沉，辉煌不灭，帝意永恒！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1390628_360x480.jpg?time=1713440890",
-      "latest_chapter": " 第2516章  终章",
-      "updated_at": "2026-07-31 22:58:18",
-      "rank_change": 1,
+      "rank_change": -2,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
-      "stale_update": true,
-      "category": "东方玄幻"
-    },
-    {
-      "rank": 20,
-      "title": "财戒",
-      "book_id": 1989239,
-      "url": "https://www.qimao.com/shuku/1989239/",
-      "author": "嚣张农民",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
-      "major": "都市",
-      "minor": "都市高手",
-      "major_id": 203,
-      "minor_id": 220,
-      "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "427.43万字",
-      "word_count": 4274300,
-      "heat": 51000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
-      "latest_chapter": " 第2058章  超脱之境（大结局）",
-      "updated_at": "2026-06-28 23:17:17",
-      "rank_change": -1,
-      "heat_change": -2000,
-      "is_new": false,
-      "boards_count": 2,
       "stale_update": true,
       "category": "都市高手"
     }
   ],
   "categories": [
     {
-      "name": "东方玄幻",
-      "major": "玄幻奇幻",
-      "count": 4,
-      "total_heat": 641000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "噬神鼎",
-            "book_id": 1868453,
-            "rank_change": 1
-          },
-          {
-            "title": "荒古圣体：在娘胎开始悟道",
-            "book_id": 1849458,
-            "rank_change": 1
-          },
-          {
-            "title": "不死帝尊",
-            "book_id": 1737723,
-            "rank_change": 1
-          }
-        ],
-        "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "荒古武神",
-            "book_id": 216404,
-            "heat_change": -11000
-          },
-          {
-            "title": "噬神鼎",
-            "book_id": 1868453,
-            "heat_change": 5000
-          },
-          {
-            "title": "荒古圣体：在娘胎开始悟道",
-            "book_id": 1849458,
-            "heat_change": -3000
-          }
-        ],
-        "summary": "**题材趋势**：传统玄幻题材稳居头部，以“荒古”系列为代表的经典升级流仍是市场压舱石。\n**读者偏好**：读者热衷于“废柴流”、“系统/神器流”及“娘胎开局”等强代入感设定，追求极致的成长快感与暴力美学。\n**变动解读**：头部书籍《荒古武神》出现热度回调，榜单中后部书籍排名微涨，显示出存量竞争下的波动常态。\n**值得关注**：在题材高度同质化背景下，具备独特金手指创意（如《荒古圣体：在娘胎开始悟道》）的作品更具长尾粘性。",
-        "ai_source": "ai"
-      },
-      "books": [
-        {
-          "rank": 1,
-          "title": "荒古武神",
-          "book_id": 216404,
-          "url": "https://www.qimao.com/shuku/216404/",
-          "author": "化十",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%8C%96%E5%8D%81_14/",
-          "major": "玄幻奇幻",
-          "minor": "东方玄幻",
-          "major_id": 202,
-          "minor_id": 37,
-          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "864.16万字",
-          "word_count": 8641600,
-          "heat": 406000,
-          "platform_trend": "drop",
-          "badge": "蝉联榜首",
-          "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
-          "latest_chapter": " 第3863章  另一个世界（大结局）",
-          "updated_at": "2026-04-22 00:17:41",
-          "rank_change": 0,
-          "heat_change": -11000,
-          "is_new": false,
-          "boards_count": 4,
-          "stale_update": true,
-          "category": "东方玄幻"
-        },
-        {
-          "rank": 6,
-          "title": "噬神鼎",
-          "book_id": 1868453,
-          "url": "https://www.qimao.com/shuku/1868453/",
-          "author": "三千晴空",
-          "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E5%8D%83%E6%99%B4%E7%A9%BA_14/",
-          "major": "玄幻奇幻",
-          "minor": "东方玄幻",
-          "major_id": 202,
-          "minor_id": 37,
-          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "416.71万字",
-          "word_count": 4167100,
-          "heat": 96000,
-          "platform_trend": "rise",
-          "badge": "",
-          "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
-          "latest_chapter": " 第2024章  斩杀妖神（大结局）",
-          "updated_at": "2026-08-21 13:02:14",
-          "rank_change": 1,
-          "heat_change": 5000,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "东方玄幻"
-        },
-        {
-          "rank": 7,
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "url": "https://www.qimao.com/shuku/1849458/",
-          "author": "鱼生",
-          "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E7%94%9F_14/",
-          "major": "玄幻奇幻",
-          "minor": "东方玄幻",
-          "major_id": 202,
-          "minor_id": 37,
-          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "276.73万字",
-          "word_count": 2767300,
-          "heat": 87000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
-          "latest_chapter": " 第1077章  大结局",
-          "updated_at": "2026-06-10 17:01:11",
-          "rank_change": 1,
-          "heat_change": -3000,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "东方玄幻"
-        },
-        {
-          "rank": 19,
-          "title": "不死帝尊",
-          "book_id": 1737723,
-          "url": "https://www.qimao.com/shuku/1737723/",
-          "author": "布一二",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%B8%83%E4%B8%80%E4%BA%8C_14/",
-          "major": "玄幻奇幻",
-          "minor": "东方玄幻",
-          "major_id": 202,
-          "minor_id": 37,
-          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "527.7万字",
-          "word_count": 5277000,
-          "heat": 52000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "【2024最火爆玄幻】【七猫年度最佳新秀奖】何为帝，何为至尊？\n什么是不朽，什么是长生？\n浩瀚苍穹我为帝，诸天万界我为尊！\n我道即天道，我意破长生！\n九天十地可碎，万古长河可崩，唯我萧沉，辉煌不灭，帝意永恒！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1390628_360x480.jpg?time=1713440890",
-          "latest_chapter": " 第2516章  终章",
-          "updated_at": "2026-07-31 22:58:18",
-          "rank_change": 1,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "东方玄幻"
-        }
-      ]
-    },
-    {
-      "name": "都市高武",
-      "major": "都市",
-      "count": 3,
-      "total_heat": 359000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "镇天神医",
-            "book_id": 1675640,
-            "rank_change": 1
-          }
-        ],
-        "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "小司机的美女总裁老婆",
-            "book_id": 2052700,
-            "heat_change": -6000
-          },
-          {
-            "title": "最狂邪医",
-            "book_id": 1821655,
-            "heat_change": -3000
-          },
-          {
-            "title": "镇天神医",
-            "book_id": 1675640,
-            "heat_change": -2000
-          }
-        ],
-        "summary": "**题材趋势**：都市爽文与医道流高度融合，强调“下山归来”、“婚书”、“武力复仇”等强冲突元素。\n**读者偏好**：偏好“扮猪吃虎”与“软饭硬吃”的爽点结合，对短剧化改编的高节奏叙事有较强认同感。\n**变动解读**：榜单整体格局趋于固化，头部书籍小幅热度流失，反映出长篇完结作品在进入长尾期后的自然回落。\n**值得关注**：IP跨媒介联动（如短剧背书）对书籍热度有显著加成作用，是目前提升完结作品留存的关键手段。",
-        "ai_source": "ai"
-      },
-      "books": [
-        {
-          "rank": 2,
-          "title": "小司机的美女总裁老婆",
-          "book_id": 2052700,
-          "url": "https://www.qimao.com/shuku/2052700/",
-          "author": "最爱老板娘",
-          "author_url": "https://www.qimao.com/zuozhe/%E6%9C%80%E7%88%B1%E8%80%81%E6%9D%BF%E5%A8%98_14/",
-          "major": "都市",
-          "minor": "都市高武",
-          "major_id": 203,
-          "minor_id": 219,
-          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "201.22万字",
-          "word_count": 2012200,
-          "heat": 173000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
-          "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
-          "updated_at": "2026-04-02 18:35:10",
-          "rank_change": 0,
-          "heat_change": -6000,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市高武"
-        },
-        {
-          "rank": 4,
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "url": "https://www.qimao.com/shuku/1675640/",
-          "author": "五杯咖啡",
-          "author_url": "https://www.qimao.com/zuozhe/%E4%BA%94%E6%9D%AF%E5%92%96%E5%95%A1_14/",
-          "major": "都市",
-          "minor": "都市高武",
-          "major_id": 203,
-          "minor_id": 219,
-          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "543.03万字",
-          "word_count": 5430300,
-          "heat": 126000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
-          "latest_chapter": " 第2590章  圆满。",
-          "updated_at": "2025-12-15 11:18:20",
-          "rank_change": 1,
-          "heat_change": -2000,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市高武"
-        },
-        {
-          "rank": 16,
-          "title": "最狂邪医",
-          "book_id": 1821655,
-          "url": "https://www.qimao.com/shuku/1821655/",
-          "author": "笑红尘",
-          "author_url": "https://www.qimao.com/zuozhe/%E7%AC%91%E7%BA%A2%E5%B0%98_14/",
-          "major": "都市",
-          "minor": "都市高武",
-          "major_id": 203,
-          "minor_id": 219,
-          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "523.03万字",
-          "word_count": 5230300,
-          "heat": 60000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
-          "latest_chapter": " 第1847章  归途如歌，大结局",
-          "updated_at": "2026-04-03 10:11:21",
-          "rank_change": 0,
-          "heat_change": -3000,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市高武"
-        }
-      ]
-    },
-    {
       "name": "架空历史",
       "major": "历史",
-      "count": 3,
-      "total_heat": 329000,
+      "count": 4,
+      "total_heat": 446000,
       "trend": {
-        "new_count": 0,
+        "new_count": 1,
         "dropped_count": 0,
-        "new_books": [],
+        "new_books": [
+          {
+            "title": "帝国皇太子，老子不干了！",
+            "book_id": 1801623
+          }
+        ],
         "dropped_books": [],
-        "top_risers": [
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": -3
+          },
           {
             "title": "无敌六皇子",
             "book_id": 1747899,
-            "rank_change": 1
+            "rank_change": -2
           }
         ],
-        "top_fallers": [],
         "heat_leaders": [
           {
             "title": "打到北极圈了，你让我继承皇位？",
             "book_id": 1864493,
-            "heat_change": -7000
-          },
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "heat_change": -4000
-          },
-          {
-            "title": "世子无双",
-            "book_id": 1860026,
-            "heat_change": -4000
+            "heat_change": -1000
           }
         ],
-        "summary": "**题材趋势**：权谋与种田流结合的“老六/纨绔”风格统治市场，强调穿越者利用现代知识实现降维打击。\n**读者偏好**：读者倾向于“不夺嫡、只搞钱/军权”的避世爽文逻辑，喜爱轻松幽默且具备建设感的历史叙事。\n**变动解读**：各书排名变动幅度较小，整体热度随完结周期小幅下滑，但粉丝基础稳固，头部效应明显。\n**值得关注**：多媒体生态（有声剧、短剧）的版权开发是提升历史类完结书长尾热度的核心动力，市场转化率高。",
+        "summary": "**题材趋势**：皇子流与“退圈/封地”流深度融合，强调主角在被压迫后的异地崛起与工业化经营。\n**读者偏好**：读者更倾向于“反抗式开局”，即主角通过脱离权力中心，在被忽视的边缘地带通过技术与武力逆袭。\n**变动解读**：存量竞争加剧，头部效应明显，榜单稳定性较高，新晋作品《帝国皇太子，老子不干了！》显示了“摆烂反击”题材的强劲号召力。\n**值得关注**：头部作品热度趋于平稳，后续作品需加强差异化经营情节的爽感密度以维持排位。",
         "ai_source": "ai"
       },
       "books": [
@@ -942,7 +647,7 @@
           "status": "已完结",
           "word_count_text": "304.01万字",
           "word_count": 3040100,
-          "heat": 142000,
+          "heat": 141000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
@@ -950,14 +655,43 @@
           "latest_chapter": " 第1257章  番外三：星辰大海",
           "updated_at": "2026-03-31 22:07:15",
           "rank_change": 0,
-          "heat_change": -7000,
+          "heat_change": -1000,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
           "category": "架空历史"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "帝国皇太子，老子不干了！",
+          "book_id": 1801623,
+          "url": "https://www.qimao.com/shuku/1801623/",
+          "author": "灰色小猫",
+          "author_url": "https://www.qimao.com/zuozhe/%E7%81%B0%E8%89%B2%E5%B0%8F%E7%8C%AB_14/",
+          "major": "历史",
+          "minor": "架空历史",
+          "major_id": 56,
+          "minor_id": 58,
+          "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "268.91万字",
+          "word_count": 2689100,
+          "heat": 118000,
+          "platform_trend": "rise",
+          "badge": "飙升92名",
+          "intro": "穿越大乾当太子，却摊上个偏心父皇，只爱那嫔妃生的皇子！自己立下多大功劳，都被视而不见！\n看着他们联合朝中人整自己，秦明怒了，帝国皇太子？老子不干了！\n远离京城，他带兵入岭南，发展工业！武装军队！提振经济！镇压南蛮！联通吐蕃！造船下南洋，建立万代功绩！\n这时朝廷忽然发现，不在京城，秦明走到哪都发光！但朝廷没了这位太子，窟窿却越来越大！\n乾帝急了：你回来吧，北莽防不住了！大臣们慌了：殿下您回来吧！朝廷亏空兜不住了！九皇子：兄长，这皇位让给你，我坐不下去啊！\n（爽文不无脑，老作者，更新勤快，放心看。）",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/506/1516672_360x480.jpg?time=1707013759",
+          "latest_chapter": " 第1308章  不枉此生",
+          "updated_at": "2025-10-01 01:38:12",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": true,
+          "boards_count": 1,
+          "stale_update": true,
+          "category": "架空历史"
+        },
+        {
+          "rank": 7,
           "title": "无敌六皇子",
           "book_id": 1747899,
           "url": "https://www.qimao.com/shuku/1747899/",
@@ -978,15 +712,15 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
           "latest_chapter": " 第1634章  番外——十年后",
           "updated_at": "2025-03-03 00:03:29",
-          "rank_change": 1,
-          "heat_change": -4000,
+          "rank_change": -2,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
           "category": "架空历史"
         },
         {
-          "rank": 11,
+          "rank": 14,
           "title": "世子无双",
           "book_id": 1860026,
           "url": "https://www.qimao.com/shuku/1860026/",
@@ -1007,8 +741,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
           "latest_chapter": " 第1063章  大结局（下）",
           "updated_at": "2026-03-08 01:17:14",
-          "rank_change": 0,
-          "heat_change": -4000,
+          "rank_change": -3,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1017,10 +751,144 @@
       ]
     },
     {
-      "name": "都市高手",
+      "name": "东方玄幻",
+      "major": "玄幻奇幻",
+      "count": 3,
+      "total_heat": 587000,
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "不死帝尊",
+            "book_id": 1737723,
+            "intro": "【2024最火爆玄幻】【七猫年度最佳新秀奖】何为帝，何为至尊？\n什么是不朽，什么是长生？\n浩瀚苍穹我为帝，诸天万界我为尊！\n我道即天道，我意破长生！\n九天十地可碎，万古长河可崩，唯我萧沉，辉煌不灭，帝"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "rank_change": -4
+          },
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -6000
+          },
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "**题材趋势**：传统废材流与系统/外挂流的经典结合，强调“极速升级”与“多重能力叠加”。\n**读者偏好**：读者依然偏爱“极致反转”与“血脉压制”类爽文，对胎儿悟道等新奇入场方式有较高接受度。\n**变动解读**：榜单流动性较强，腰部作品排名下滑显著，显示出读者对老套路内容的审美疲劳，对高频次更新的依赖度增加。\n**值得关注**：《荒古武神》稳居榜首，其长效热度验证了“复仇+外挂”模式在玄幻品类中的核心统治力。",
+        "ai_source": "ai"
+      },
+      "books": [
+        {
+          "rank": 1,
+          "title": "荒古武神",
+          "book_id": 216404,
+          "url": "https://www.qimao.com/shuku/216404/",
+          "author": "化十",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%8C%96%E5%8D%81_14/",
+          "major": "玄幻奇幻",
+          "minor": "东方玄幻",
+          "major_id": 202,
+          "minor_id": 37,
+          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "864.16万字",
+          "word_count": 8641600,
+          "heat": 400000,
+          "platform_trend": "drop",
+          "badge": "蝉联榜首",
+          "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
+          "latest_chapter": " 第3863章  另一个世界（大结局）",
+          "updated_at": "2026-04-22 00:17:41",
+          "rank_change": 0,
+          "heat_change": -6000,
+          "is_new": false,
+          "boards_count": 4,
+          "stale_update": true,
+          "category": "东方玄幻"
+        },
+        {
+          "rank": 9,
+          "title": "噬神鼎",
+          "book_id": 1868453,
+          "url": "https://www.qimao.com/shuku/1868453/",
+          "author": "三千晴空",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E5%8D%83%E6%99%B4%E7%A9%BA_14/",
+          "major": "玄幻奇幻",
+          "minor": "东方玄幻",
+          "major_id": 202,
+          "minor_id": 37,
+          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "416.71万字",
+          "word_count": 4167100,
+          "heat": 100000,
+          "platform_trend": "rise",
+          "badge": "",
+          "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
+          "latest_chapter": " 第2024章  斩杀妖神（大结局）",
+          "updated_at": "2026-08-21 13:02:14",
+          "rank_change": -3,
+          "heat_change": 4000,
+          "is_new": false,
+          "boards_count": 1,
+          "stale_update": true,
+          "category": "东方玄幻"
+        },
+        {
+          "rank": 11,
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "url": "https://www.qimao.com/shuku/1849458/",
+          "author": "鱼生",
+          "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E7%94%9F_14/",
+          "major": "玄幻奇幻",
+          "minor": "东方玄幻",
+          "major_id": 202,
+          "minor_id": 37,
+          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "276.73万字",
+          "word_count": 2767300,
+          "heat": 87000,
+          "platform_trend": "rise",
+          "badge": "",
+          "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
+          "latest_chapter": " 第1077章  大结局",
+          "updated_at": "2026-06-10 17:01:11",
+          "rank_change": -4,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "东方玄幻"
+        }
+      ]
+    },
+    {
+      "name": "都市高武",
       "major": "都市",
       "count": 3,
-      "total_heat": 168000,
+      "total_heat": 359000,
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -1029,118 +897,123 @@
         "top_risers": [],
         "top_fallers": [
           {
-            "title": "财戒",
-            "book_id": 1989239,
+            "title": "最狂邪医",
+            "book_id": 1821655,
+            "rank_change": -2
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
             "rank_change": -1
           }
         ],
         "heat_leaders": [
           {
-            "title": "财戒",
-            "book_id": 1989239,
-            "heat_change": -2000
+            "title": "最狂邪医",
+            "book_id": 1821655,
+            "heat_change": 2000
           },
           {
-            "title": "被关女子监狱三年，我修炼成仙了",
-            "book_id": 1697715,
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
             "heat_change": -1000
           },
           {
-            "title": "神医出狱",
-            "book_id": 1812061,
+            "title": "镇天神医",
+            "book_id": 1675640,
             "heat_change": -1000
           }
         ],
-        "summary": "**题材趋势**：都市高手类目前处于平稳期，以出狱、修仙与鉴宝为核心驱动力，叙事节奏趋于传统爽文模式。\n**读者偏好**：受众偏好强冲突、快节奏的“出狱流”与“逆袭流”，对带有职场身份或特殊技能（如鉴宝、医术）的主角有较高粘性。\n**变动解读**：榜单整体流动性较弱，存量书籍热度出现小幅普降，显示出该题材在长尾阶段缺乏新流量注入，正处于自然衰减期。\n**值得关注**：虽然排名波动极小，但《财戒》的排名下滑提醒我们，纯粹的“底层逆袭”在缺乏强钩子支撑时，用户留存压力正在增大。",
+        "summary": "**题材趋势**：都市异能与情感驱动并行，融合了“赘婿/小司机+神医/隐门”的复合型爽点。\n**读者偏好**：读者偏好强节奏的“下山/回归”题材，特别是带有婚书、师姐、绝色红颜等强社交属性的都市爽文。\n**变动解读**：榜单呈现固化趋势，头部作品依靠短剧转化与积累的口碑维持高位，腰部作品排名波动，反映出都市题材的存量博弈。\n**值得关注**：短剧IP联动对书籍热度的加持作用显著，此类题材的“网文+短剧”联动模式已成为稳定流量来源。",
         "ai_source": "ai"
       },
       "books": [
         {
-          "rank": 15,
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "url": "https://www.qimao.com/shuku/1697715/",
-          "author": "一只狸猫",
-          "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
+          "rank": 2,
+          "title": "小司机的美女总裁老婆",
+          "book_id": 2052700,
+          "url": "https://www.qimao.com/shuku/2052700/",
+          "author": "最爱老板娘",
+          "author_url": "https://www.qimao.com/zuozhe/%E6%9C%80%E7%88%B1%E8%80%81%E6%9D%BF%E5%A8%98_14/",
           "major": "都市",
-          "minor": "都市高手",
+          "minor": "都市高武",
           "major_id": 203,
-          "minor_id": 220,
-          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "minor_id": 219,
+          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
           "status": "已完结",
-          "word_count_text": "760.62万字",
-          "word_count": 7606200,
-          "heat": 63000,
+          "word_count_text": "201.22万字",
+          "word_count": 2012200,
+          "heat": 172000,
           "platform_trend": "drop",
           "badge": "",
-          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
-          "latest_chapter": " 第1891章  番外",
-          "updated_at": "2026-08-17 18:03:16",
+          "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
+          "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
+          "updated_at": "2026-04-02 18:35:10",
           "rank_change": 0,
           "heat_change": -1000,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
-          "category": "都市高手"
+          "category": "都市高武"
+        },
+        {
+          "rank": 5,
+          "title": "镇天神医",
+          "book_id": 1675640,
+          "url": "https://www.qimao.com/shuku/1675640/",
+          "author": "五杯咖啡",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%BA%94%E6%9D%AF%E5%92%96%E5%95%A1_14/",
+          "major": "都市",
+          "minor": "都市高武",
+          "major_id": 203,
+          "minor_id": 219,
+          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "543.03万字",
+          "word_count": 5430300,
+          "heat": 125000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
+          "latest_chapter": " 第2590章  圆满。",
+          "updated_at": "2025-12-15 11:18:20",
+          "rank_change": -1,
+          "heat_change": -1000,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市高武"
         },
         {
           "rank": 18,
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "url": "https://www.qimao.com/shuku/1812061/",
-          "author": "天下龟一",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
+          "title": "最狂邪医",
+          "book_id": 1821655,
+          "url": "https://www.qimao.com/shuku/1821655/",
+          "author": "笑红尘",
+          "author_url": "https://www.qimao.com/zuozhe/%E7%AC%91%E7%BA%A2%E5%B0%98_14/",
           "major": "都市",
-          "minor": "都市高手",
+          "minor": "都市高武",
           "major_id": 203,
-          "minor_id": 220,
-          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "minor_id": 219,
+          "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
           "status": "已完结",
-          "word_count_text": "419.7万字",
-          "word_count": 4197000,
-          "heat": 54000,
-          "platform_trend": "drop",
+          "word_count_text": "523.03万字",
+          "word_count": 5230300,
+          "heat": 62000,
+          "platform_trend": "rise",
           "badge": "",
-          "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
-          "latest_chapter": " 第2033章  终究还是一场梦（结局）",
-          "updated_at": "2026-03-13 23:00:18",
-          "rank_change": 0,
-          "heat_change": -1000,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "都市高手"
-        },
-        {
-          "rank": 20,
-          "title": "财戒",
-          "book_id": 1989239,
-          "url": "https://www.qimao.com/shuku/1989239/",
-          "author": "嚣张农民",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%9A%A3%E5%BC%A0%E5%86%9C%E6%B0%91_14/",
-          "major": "都市",
-          "minor": "都市高手",
-          "major_id": 203,
-          "minor_id": 220,
-          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "427.43万字",
-          "word_count": 4274300,
-          "heat": 51000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的陶瓷，惊心动魄的赌石，古朴大方的青铜器，美丽绚烂的宝石，国色天香的女人接踵而至。\n财运滚滚，桃运滔滔。\n我靠财戒，笑傲王侯。\n……\n本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐。数十位专业CV高精度演绎，上万条音效&amp;后期处理只为给你带来【声临其境】的听觉体验！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
-          "latest_chapter": " 第2058章  超脱之境（大结局）",
-          "updated_at": "2026-06-28 23:17:17",
-          "rank_change": -1,
-          "heat_change": -2000,
+          "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
+          "latest_chapter": " 第1847章  归途如歌，大结局",
+          "updated_at": "2026-04-03 10:11:21",
+          "rank_change": -2,
+          "heat_change": 2000,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
-          "category": "都市高手"
+          "category": "都市高武"
         }
       ]
     },
@@ -1148,72 +1021,43 @@
       "name": "热血校园",
       "major": "都市",
       "count": 2,
-      "total_heat": 173000,
+      "total_heat": 172000,
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
+        "top_risers": [],
+        "top_fallers": [
           {
             "title": "我和软萌女友的恋爱日常",
             "book_id": 214789,
-            "rank_change": 1
+            "rank_change": -4
           },
           {
             "title": "重生2000：从追求青涩校花同桌开始",
             "book_id": 1758273,
-            "rank_change": 1
+            "rank_change": -1
           }
         ],
-        "top_fallers": [],
         "heat_leaders": [
           {
             "title": "我和软萌女友的恋爱日常",
             "book_id": 214789,
-            "heat_change": -3000
+            "heat_change": -4000
           },
           {
             "title": "重生2000：从追求青涩校花同桌开始",
             "book_id": 1758273,
-            "heat_change": -2000
+            "heat_change": 3000
           }
         ],
-        "summary": "**题材趋势**：重生与纯爱甜宠成为核心赛道，校园题材已深度绑定“狗粮文”属性，强调怀旧感与情感治愈。\n**读者偏好**：读者热衷于“重生+弥补遗憾”的叙事模板，对青梅竹马、商业崛起与高甜恋爱日常的组合接受度极高。\n**变动解读**：该类目热度表现强势，两本在榜书籍排名均实现上升，证明在完结阶段，情感共鸣类作品比单纯的竞技热血更具长尾留存力。\n**值得关注**：在榜单热度普遍下滑的背景下，两本校园文表现稳定，显示出“治愈系校园”是目前七猫用户群体中的刚需品类。",
-        "ai_source": "ai"
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》下滑4位；《我和软萌女友的恋爱日常》热度-4000。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 8,
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "url": "https://www.qimao.com/shuku/214789/",
-          "author": "佛系和尚",
-          "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
-          "major": "都市",
-          "minor": "热血校园",
-          "major_id": 203,
-          "minor_id": 222,
-          "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "299.99万字",
-          "word_count": 2999900,
-          "heat": 87000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "甜甜的治愈文，带你重回校园时代！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
-          "latest_chapter": " 第1338章  完结感言",
-          "updated_at": "2023-02-18 08:11:26",
-          "rank_change": 1,
-          "heat_change": -3000,
-          "is_new": false,
-          "boards_count": 3,
-          "stale_update": true,
-          "category": "热血校园"
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
           "url": "https://www.qimao.com/shuku/1758273/",
@@ -1227,17 +1071,46 @@
           "status": "已完结",
           "word_count_text": "429.99万字",
           "word_count": 4299900,
-          "heat": 86000,
-          "platform_trend": "drop",
+          "heat": 89000,
+          "platform_trend": "rise",
           "badge": "",
           "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
           "latest_chapter": " 第1992章  讣告",
           "updated_at": "2025-12-10 14:02:20",
-          "rank_change": 1,
-          "heat_change": -2000,
+          "rank_change": -1,
+          "heat_change": 3000,
           "is_new": false,
           "boards_count": 2,
+          "stale_update": true,
+          "category": "热血校园"
+        },
+        {
+          "rank": 12,
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "url": "https://www.qimao.com/shuku/214789/",
+          "author": "佛系和尚",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
+          "major": "都市",
+          "minor": "热血校园",
+          "major_id": 203,
+          "minor_id": 222,
+          "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "299.99万字",
+          "word_count": 2999900,
+          "heat": 83000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "甜甜的治愈文，带你重回校园时代！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+          "latest_chapter": " 第1338章  完结感言",
+          "updated_at": "2023-02-18 08:11:26",
+          "rank_change": -4,
+          "heat_change": -4000,
+          "is_new": false,
+          "boards_count": 3,
           "stale_update": true,
           "category": "热血校园"
         }
@@ -1253,37 +1126,26 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
+        "top_risers": [],
+        "top_fallers": [
           {
             "title": "民间诡闻实录",
             "book_id": 197091,
-            "rank_change": 2
+            "rank_change": -3
           },
           {
             "title": "山野诡闻笔记",
             "book_id": 214783,
-            "rank_change": 1
+            "rank_change": -3
           }
         ],
-        "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "heat_change": -3000
-          },
-          {
-            "title": "山野诡闻笔记",
-            "book_id": 214783,
-            "heat_change": -3000
-          }
-        ],
-        "summary": "**题材趋势**：民俗怪谈与诡事笔记类题材热度回升，强调“第一人称”叙事带来的沉浸感与民间异闻的猎奇性。\n**读者偏好**：受众对扎纸人、接阴生、走蛟等极具中式民俗色彩的元素有极高兴趣，偏好带有强叙事感的“实录”或“笔记”风格。\n**变动解读**：本类目排名出现显著上移，尽管单日热度小幅回调，但相对竞争优势明显，说明在完结榜单中，民俗题材具有较强的抗跌性。\n**值得关注**：两本书籍排名双双上升，反映出读者在完结作品中更倾向于寻找具有强设定、高氛围感的悬疑类内容。",
-        "ai_source": "ai"
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《民间诡闻实录》下滑3位。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 10,
+          "rank": 13,
           "title": "民间诡闻实录",
           "book_id": 197091,
           "url": "https://www.qimao.com/shuku/197091/",
@@ -1304,15 +1166,15 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
           "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
           "updated_at": "2021-10-12 11:14:06",
-          "rank_change": 2,
-          "heat_change": -3000,
+          "rank_change": -3,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
           "category": "奇门秘术"
         },
         {
-          "rank": 12,
+          "rank": 15,
           "title": "山野诡闻笔记",
           "book_id": 214783,
           "url": "https://www.qimao.com/shuku/214783/",
@@ -1333,12 +1195,225 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
           "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
           "updated_at": "2024-05-11 07:57:09",
-          "rank_change": 1,
-          "heat_change": -3000,
+          "rank_change": -3,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
           "category": "奇门秘术"
+        }
+      ]
+    },
+    {
+      "name": "都市高手",
+      "major": "都市",
+      "count": 2,
+      "total_heat": 116000,
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "财戒",
+            "book_id": 1989239,
+            "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715,
+            "rank_change": -2
+          },
+          {
+            "title": "神医出狱",
+            "book_id": 1812061,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高手」《财戒》 掉出榜单；《被关女子监狱三年，我修炼成仙了》下滑2位；《被关女子监狱三年，我修炼成仙了》热度-1000。",
+        "ai_source": "rule"
+      },
+      "books": [
+        {
+          "rank": 17,
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "url": "https://www.qimao.com/shuku/1697715/",
+          "author": "一只狸猫",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
+          "major": "都市",
+          "minor": "都市高手",
+          "major_id": 203,
+          "minor_id": 220,
+          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "760.62万字",
+          "word_count": 7606200,
+          "heat": 62000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
+          "latest_chapter": " 第1891章  番外",
+          "updated_at": "2026-08-17 18:03:16",
+          "rank_change": -2,
+          "heat_change": -1000,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市高手"
+        },
+        {
+          "rank": 20,
+          "title": "神医出狱",
+          "book_id": 1812061,
+          "url": "https://www.qimao.com/shuku/1812061/",
+          "author": "天下龟一",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
+          "major": "都市",
+          "minor": "都市高手",
+          "major_id": 203,
+          "minor_id": 220,
+          "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "419.7万字",
+          "word_count": 4197000,
+          "heat": 54000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
+          "latest_chapter": " 第2033章  终究还是一场梦（结局）",
+          "updated_at": "2026-03-13 23:00:18",
+          "rank_change": -2,
+          "heat_change": 0,
+          "is_new": false,
+          "boards_count": 1,
+          "stale_update": true,
+          "category": "都市高手"
+        }
+      ]
+    },
+    {
+      "name": "都市生活",
+      "major": "都市",
+      "count": 1,
+      "total_heat": 138000,
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我非池中物",
+            "book_id": 1850580,
+            "rank_change": 10
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我非池中物",
+            "book_id": 1850580,
+            "heat_change": 68000
+          }
+        ],
+        "summary": "「都市生活」《我非池中物》上升10位领涨；《我非池中物》热度+68000。",
+        "ai_source": "rule"
+      },
+      "books": [
+        {
+          "rank": 4,
+          "title": "我非池中物",
+          "book_id": 1850580,
+          "url": "https://www.qimao.com/shuku/1850580/",
+          "author": "夜泊秦淮",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
+          "major": "都市",
+          "minor": "都市生活",
+          "major_id": 203,
+          "minor_id": 223,
+          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+          "status": "已完结",
+          "word_count_text": "340.6万字",
+          "word_count": 3406000,
+          "heat": 138000,
+          "platform_trend": "rise",
+          "badge": "飙升10名",
+          "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
+          "latest_chapter": " 第1631章  大结局",
+          "updated_at": "2026-01-01 00:43:17",
+          "rank_change": 10,
+          "heat_change": 68000,
+          "is_new": false,
+          "boards_count": 2,
+          "stale_update": true,
+          "category": "都市生活"
+        }
+      ]
+    },
+    {
+      "name": "乡村生活",
+      "major": "都市",
+      "count": 1,
+      "total_heat": 102000,
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "重回六十年代，从挖何首乌开始",
+            "book_id": 2064995
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」新上榜 《重回六十年代，从挖何首乌开始》。",
+        "ai_source": "rule"
+      },
+      "books": [
+        {
+          "rank": 8,
+          "title": "重回六十年代，从挖何首乌开始",
+          "book_id": 2064995,
+          "url": "https://www.qimao.com/shuku/2064995/",
+          "author": "巍巍青山",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%B7%8D%E5%B7%8D%E9%9D%92%E5%B1%B1_14/",
+          "major": "都市",
+          "minor": "乡村生活",
+          "major_id": 203,
+          "minor_id": 48,
+          "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+          "status": "连载中",
+          "word_count_text": "207.44万字",
+          "word_count": 2074400,
+          "heat": 102000,
+          "platform_trend": "rise",
+          "badge": "最新上榜",
+          "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
+          "latest_chapter": " 第1006章  还有变数",
+          "updated_at": "2026-08-31 10:47:08",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": true,
+          "boards_count": 2,
+          "stale_update": false,
+          "category": "乡村生活"
         }
       ]
     },
@@ -1352,27 +1427,21 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
+        "top_risers": [],
+        "top_fallers": [
           {
             "title": "全球灾变之末日游戏",
             "book_id": 219542,
-            "rank_change": 1
+            "rank_change": -3
           }
         ],
-        "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "heat_change": -2000
-          }
-        ],
-        "summary": "**题材趋势**：末世题材在完结榜单中表现出极强的长尾效应，即便缺乏新书冲击，存量头部作品仍保持稳定的市场占有率。\n**读者偏好**：读者高度青睐“重生+杀伐果断”的复仇叙事，且对跨媒介联动（如漫画化）的作品有更高的留存与关注意愿。\n**变动解读**：本期该类目呈现“存量博弈”态势，头部作品热度微降但排名逆势上升，反映出该赛道整体竞争压力较小，用户粘性较高。\n**值得关注**：需重点监测该类作品通过漫画、短剧等IP衍生带来的长尾流量转化效果。",
-        "ai_source": "ai"
+        "heat_leaders": [],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑3位。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 13,
+          "rank": 16,
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
           "url": "https://www.qimao.com/shuku/219542/",
@@ -1393,8 +1462,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": 1,
-          "heat_change": -2000,
+          "rank_change": -3,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -1403,10 +1472,10 @@
       ]
     },
     {
-      "name": "都市生活",
-      "major": "都市",
+      "name": "异世大陆",
+      "major": "玄幻奇幻",
       "count": 1,
-      "total_heat": 70000,
+      "total_heat": 54000,
       "trend": {
         "new_count": 0,
         "dropped_count": 0,
@@ -1415,78 +1484,24 @@
         "top_risers": [],
         "top_fallers": [
           {
-            "title": "我非池中物",
-            "book_id": 1850580,
-            "rank_change": -10
+            "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
+            "book_id": 1809733,
+            "rank_change": -2
           }
         ],
-        "heat_leaders": [
-          {
-            "title": "我非池中物",
-            "book_id": 1850580,
-            "heat_change": -71000
-          }
-        ],
-        "summary": "「都市生活」《我非池中物》下滑10位；《我非池中物》热度-71000。",
-        "ai_source": "rule"
-      },
-      "books": [
-        {
-          "rank": 14,
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "url": "https://www.qimao.com/shuku/1850580/",
-          "author": "夜泊秦淮",
-          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%9C%E6%B3%8A%E7%A7%A6%E6%B7%AE_14/",
-          "major": "都市",
-          "minor": "都市生活",
-          "major_id": 203,
-          "minor_id": 223,
-          "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "340.6万字",
-          "word_count": 3406000,
-          "heat": 70000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
-          "latest_chapter": " 第1631章  大结局",
-          "updated_at": "2026-01-01 00:43:17",
-          "rank_change": -10,
-          "heat_change": -71000,
-          "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "都市生活"
-        }
-      ]
-    },
-    {
-      "name": "异世大陆",
-      "major": "玄幻奇幻",
-      "count": 1,
-      "total_heat": 58000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
         "heat_leaders": [
           {
             "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
             "book_id": 1809733,
-            "heat_change": -1000
+            "heat_change": -4000
           }
         ],
-        "summary": "**题材趋势**：全民转职与系统流依然是异世大陆题材的基石，即使在完结榜单中也具备极高的题材辨识度。\n**读者偏好**：读者偏爱游戏化设定与反差感极强的升级逻辑，尤其是“低开高走”的打脸叙事，能够有效维持完结后的热度留存。\n**变动解读**：该类目本期表现极度稳定，热度微调属于正常波动范围，说明此类作品已建立起稳固的核心受众群体。\n**值得关注**：应持续观察“游戏系统+全民转职”的融合玩法，在完结后能否通过读者口碑实现长期的热度横盘。",
-        "ai_source": "ai"
+        "summary": "「异世大陆」《全民：召唤师弱？开局觉醒金铲铲系统！》下滑2位；《全民：召唤师弱？开局觉醒金铲铲系统！》热度-4000。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 17,
+          "rank": 19,
           "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
           "book_id": 1809733,
           "url": "https://www.qimao.com/shuku/1809733/",
@@ -1500,15 +1515,15 @@
           "status": "已完结",
           "word_count_text": "289.78万字",
           "word_count": 2897800,
-          "heat": 58000,
+          "heat": 54000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "【没玩过云顶金铲铲不影响阅读。】\n深渊降临现世。\n蓝星人类进入全民转职时代。\n李遥转职A级召唤类职业，云顶执棋人。\n却被告知召唤师是下水道职业？\n女友提分手，资源被扣，副本没人组队？\n李遥：？？？\n那是召唤师，跟我云顶执棋人有什么关系？\n【执棋人】：召唤兽不死，召唤师为无敌状态！\n【实战训练】：杀一只怪获得1点属性！\n【恶魔契约】：献祭生命值获得额外召唤槽！\n【打气】：执棋人每提升一级，召唤兽提升10%敏捷！\n......\n十强争夺战！天骄争霸！一人独占十强！\n国境试炼！李遥一人即是军队！\n外域战场！一人诛灭魔族！\n深渊之行！李遥独面诸天神魔，打通职业者通天之路！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
           "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
           "updated_at": "2025-12-03 01:14:11",
-          "rank_change": 0,
-          "heat_change": -1000,
+          "rank_change": -2,
+          "heat_change": -4000,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1519,19 +1534,19 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 0,
-    "dropped_count": 0,
-    "avg_heat": 101550,
-    "total_heat": 2031000,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 110350,
+    "total_heat": 2207000,
     "first_day": false
   },
   "keywords": [
     {
-      "word": "玄幻",
-      "count": 5
+      "word": "穿越",
+      "count": 6
     },
     {
-      "word": "穿越",
+      "word": "历史",
       "count": 5
     },
     {
@@ -1539,32 +1554,20 @@
       "count": 5
     },
     {
-      "word": "东方玄幻",
-      "count": 4
-    },
-    {
-      "word": "历史",
-      "count": 4
-    },
-    {
       "word": "无敌",
       "count": 4
     },
     {
+      "word": "东方玄幻",
+      "count": 3
+    },
+    {
+      "word": "玄幻",
+      "count": 3
+    },
+    {
       "word": "都市高武",
       "count": 3
-    },
-    {
-      "word": "鉴宝",
-      "count": 3
-    },
-    {
-      "word": "诸天",
-      "count": 2
-    },
-    {
-      "word": "万界",
-      "count": 1
     },
     {
       "word": "争霸",
@@ -1572,6 +1575,10 @@
     },
     {
       "word": "修仙",
+      "count": 1
+    },
+    {
+      "word": "工业",
       "count": 1
     },
     {
@@ -1584,6 +1591,14 @@
     },
     {
       "word": "神医",
+      "count": 1
+    },
+    {
+      "word": "诸天",
+      "count": 1
+    },
+    {
+      "word": "鉴宝",
       "count": 1
     }
   ]

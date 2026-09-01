@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "categories": [
     {
       "name": "都市高武",
@@ -57,6 +57,16 @@
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
+      "name": "穿越历史",
+      "major": "历史",
+      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
+    },
+    {
+      "name": "诸天万界",
+      "major": "玄幻奇幻",
+      "url": "api/categories/latest/%E8%AF%B8%E5%A4%A9%E4%B8%87%E7%95%8C.json"
+    },
+    {
       "name": "热血校园",
       "major": "都市",
       "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
@@ -80,11 +90,6 @@
       "name": "虚拟网游",
       "major": "游戏",
       "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
-      "name": "衍生同人",
-      "major": "N次元",
-      "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
       "name": "总裁豪门",
@@ -135,6 +140,11 @@
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "古代悬疑",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%82%AC%E7%96%91.json"
     },
     {
       "name": "末世求生",

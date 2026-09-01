@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 2
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：以“民俗恐怖+诡异生存”为核心，通过压抑的氛围营造和强悬念冲突吸引读者，差异化明显。\n**读者偏好**：读者热衷于探索未知恐惧与主角在极端环境下绝地反击的博弈快感，对故事的沉浸感要求较高。\n**变动解读**：本类书籍排名强势回升，显示出独特风格的作品在细分市场中具备极强的突围能力。\n**值得关注**：此类题材易受读者审美周期影响，后续应关注其如何通过世界观的持续展开来留存用户。",
+      "heat_leaders": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "heat_change": -1
+        }
+      ],
+      "summary": "**题材趋势**：民俗怪谈与诡异生存类题材保持窄众但稳定的输出，侧重于氛围营造与人性博弈。\n**读者偏好**：读者更青睐带有“规则怪谈”色彩的叙事，偏好主角在极端绝望环境下展现出的冷静与反杀逻辑。\n**变动解读**：榜单呈现单品支撑状态，热度小幅回落，反映出此类题材在长线留存上对剧情悬疑度的要求极高。\n**值得关注**：该题材具备较强的沉浸感，后续应关注是否有更多融合“反派/异界穿越”元素的作品进入该赛道。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -45,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "455.26万字",
-        "word_count": 4552600,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "457.29万字",
+        "word_count": 4572900,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1674章  人善被人欺，鬼善被人骑！",
-        "updated_at": "2026-08-30 06:57:12",
-        "rank_change": 2,
-        "heat_change": 0,
+        "latest_chapter": " 第1680章  供殿中的三幅画，黑金蟾寻丹",
+        "updated_at": "2026-09-01 06:57:13",
+        "rank_change": -1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

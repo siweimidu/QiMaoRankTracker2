@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -20,10 +20,16 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：历史爽文向“种田+争霸+权谋”融合，主角不再拘泥于宫斗，更倾向于通过掌控军权与经济实现降维打击。\n**读者偏好**：读者倾向于阅读“开局崩盘+绝地反击”的爽文剧本，对带有幽默叙事风格的“老六式”主角设定青睐有加。\n**变动解读**：榜单名次保持静止，头部作品已进入成熟期，热度主要依靠优质内容的口碑效应与多平台衍生开发（如喜马拉雅、腾讯音乐）持续获客。\n**值得关注**：IP衍生能力是该类目作品的核心竞争力，跨平台联动有效延长了完结作品的生命周期。",
-      "ai_source": "ai"
+      "summary": "「架空历史」《世子无双》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -85,7 +91,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -106,7 +112,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

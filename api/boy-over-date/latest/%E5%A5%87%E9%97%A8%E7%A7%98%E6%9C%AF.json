@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,37 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "rank_change": 2
+          "rank_change": -3
         },
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "rank_change": 1
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "heat_change": -3000
-        },
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "heat_change": -3000
-        }
-      ],
-      "summary": "**题材趋势**：民俗怪谈与诡事笔记类题材热度回升，强调“第一人称”叙事带来的沉浸感与民间异闻的猎奇性。\n**读者偏好**：受众对扎纸人、接阴生、走蛟等极具中式民俗色彩的元素有极高兴趣，偏好带有强叙事感的“实录”或“笔记”风格。\n**变动解读**：本类目排名出现显著上移，尽管单日热度小幅回调，但相对竞争优势明显，说明在完结榜单中，民俗题材具有较强的抗跌性。\n**值得关注**：两本书籍排名双双上升，反映出读者在完结作品中更倾向于寻找具有强设定、高氛围感的悬疑类内容。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「奇门秘术」《民间诡闻实录》下滑3位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 13,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -70,15 +59,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 2,
-        "heat_change": -3000,
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "奇门秘术"
       },
       {
-        "rank": 12,
+        "rank": 15,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -99,8 +88,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
