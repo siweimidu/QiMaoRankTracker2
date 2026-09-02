@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 280000,
+    "total_heat": 278000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -31,15 +31,15 @@
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 12000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：王朝争霸类题材在当前榜单呈现“单兵作战”态势，头部效应显著，市场竞争进入存量博弈阶段。\n**读者偏好**：读者更青睐带有强烈爽点与快节奏叙事风格的穿越文，尤其是“开局即冲突”的强代入感设定。\n**变动解读**：由于榜单缺乏竞品补充，存量作品《大周第一武夫》凭借稳定的内容输出与读者黏性，实现了排名与热度的双向爬升。\n**值得关注**：该书目前热度已达28万，在缺乏新书冲击的情况下，其后续长尾效应及是否能持续拉升热度上限是核心看点。",
+      "summary": "**题材趋势**：王朝争霸类目当前处于高度集约化状态，市场流量高度集中于头部作品，腰部竞争暂时处于真空期。\n**读者偏好**：读者对结合“武夫”元素与“穿越乱世”设定的大男主叙事保持稳定的阅读粘性，偏好强冲突的开局设定。\n**变动解读**：本周期内榜单结构稳定，仅存的头部作品《大周第一武夫》排名小幅攀升，虽热度微降，但仍稳固占据类目核心地位。\n**值得关注**：在缺乏新晋竞品冲击的情况下，该作品的存量市场表现是衡量当前王朝争霸类目用户活跃度的关键指标。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "194.35万字",
-        "word_count": 1943500,
-        "heat": 280000,
-        "platform_trend": "rise",
+        "word_count_text": "197.55万字",
+        "word_count": 1975500,
+        "heat": 278000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第900章  陈玄必须死",
-        "updated_at": "2026-09-01 18:02:10",
+        "latest_chapter": " 第915章  必杀之局（今日十五更完毕！）",
+        "updated_at": "2026-09-02 10:11:08",
         "rank_change": 1,
-        "heat_change": 12000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,37 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "rank_change": -1
-        },
-        {
-          "title": "最狂邪医",
-          "book_id": 1821655,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "最狂邪医",
-          "book_id": 1821655,
-          "heat_change": -1064000
-        },
-        {
-          "title": "小司机的美女总裁老婆",
-          "book_id": 2052700,
-          "heat_change": -936000
-        },
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "heat_change": -573000
-        }
-      ],
-      "summary": "「都市高武」《镇天神医》下滑1位；《最狂邪医》热度-1064000。",
-      "ai_source": "rule"
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 典型的“都市重生/医武双修”流派，强调“下山/回归”后的极速复仇与权势掌控。\n**读者偏好** 读者热衷于强烈的身份反差感（如小司机变身百亿富豪）以及“师姐/婚书/修仙强者”等经典爽文公式。\n**变动解读** 榜单呈现极高的稳定性，受众对套路化爽文的忠诚度高，市场处于存量竞争与内容变现（短剧化）的成熟期。\n**值得关注** IP多维开发（短剧改编）对书籍热度的加持效应显著，跨界联动已成为此类作品保持长青的重要策略。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -76,7 +49,7 @@
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": -936000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -104,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": -1,
-        "heat_change": -573000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -133,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": -1,
-        "heat_change": -1064000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

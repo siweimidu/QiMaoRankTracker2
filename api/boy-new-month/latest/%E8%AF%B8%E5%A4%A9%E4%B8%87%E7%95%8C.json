@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "诸天万界",
     "major": "玄幻奇幻",
@@ -19,22 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "斩神刀",
-          "book_id": 12337881,
-          "rank_change": 11
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "斩神刀",
-          "book_id": 12337881,
-          "heat_change": 1690000
-        }
-      ],
-      "summary": "**题材趋势**：回归硬核爽文逻辑，以“强者回归”与“杀伐果断”为核心驱动力。\n**读者偏好**：读者更倾向于节奏明快、主角人设霸气且具备极强战斗压制力的作品。\n**变动解读**：该小类表现出极高的爆发力，《斩神刀》通过大幅度的排名攀升与热度累积，验证了“强势回归”题材在榜单中极具冲击力。\n**值得关注**：《斩神刀》短期内热度激增，展示了该题材在当前市场环境下极强的转化效率。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：保持了典型的爽文节奏，核心驱动力为“强势回归+无敌流”，侧重于力量体系的极致输出。\n**读者偏好**：读者对快节奏的打脸复仇情节有极高忠诚度，偏好“一人一刀”横推万界的霸道叙事。\n**变动解读**：本品类进入存量竞争阶段，缺乏新书冲击，目前仅凭单一头部作品支撑热度。\n**值得关注**：在诸天万界题材中融入纯粹的武力霸权叙事，仍是低门槛获取男性用户点击的有效路径。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,19 +39,19 @@
         "minor_id": 217,
         "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.97万字",
-        "word_count": 479700,
+        "word_count_text": "48.61万字",
+        "word_count": 486100,
         "heat": 1935000,
         "platform_trend": "rise",
         "badge": "飙升11名",
         "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
-        "latest_chapter": " 第217章  黑龙舰",
-        "updated_at": "2026-09-02 01:22:03",
-        "rank_change": 11,
-        "heat_change": 1690000,
+        "latest_chapter": " 第220章  真的忍不住了",
+        "updated_at": "2026-09-03 02:01:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "诸天万界"
       }

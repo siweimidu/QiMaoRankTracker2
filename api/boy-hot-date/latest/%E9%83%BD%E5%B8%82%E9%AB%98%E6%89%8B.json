@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 1186000,
+    "total_heat": 1156000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -22,6 +22,11 @@
       "top_risers": [],
       "top_fallers": [
         {
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "book_id": 1710753,
+          "rank_change": -1
+        },
+        {
           "title": "傲世潜龙",
           "book_id": 207105,
           "rank_change": -1
@@ -29,22 +34,22 @@
       ],
       "heat_leaders": [
         {
-          "title": "警报！真龙出狱！",
-          "book_id": 1834789,
-          "heat_change": -84000
-        },
-        {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "heat_change": 10000
+          "heat_change": -17000
+        },
+        {
+          "title": "警报！真龙出狱！",
+          "book_id": 1834789,
+          "heat_change": -7000
         },
         {
           "title": "傲世潜龙",
           "book_id": 207105,
-          "heat_change": -8000
+          "heat_change": -6000
         }
       ],
-      "summary": "**题材趋势**：都市高手题材高度依赖“监狱王者回归”与“反派逆袭”两种经典模板，短剧IP化趋势明显，但头部作品热度波动加剧。\n**读者偏好**：读者偏好强冲突、强反转的剧情，尤其青睐“反套路”设定，即女主主动打破原定剧情的互动模式。\n**变动解读**：《警报！真龙出狱！》虽热度环比大幅回撤，但仍稳居榜首，反映出都市类作品在进入平稳期后，热度曲线呈现明显的周期性波动。\n**值得关注**：反派题材作品《舔狗反派只想苟，女主不按套路走！》呈现持续增长态势，说明都市读者对传统爽文审美疲劳，更倾向于“反套路”与“角色互动”的创新。",
+      "summary": "**题材趋势**：都市爽文呈现出“短剧IP驱动”与“反套路流”并行的态势，核心叙事围绕“入狱归来”或“反派逆袭”展开。\n**读者偏好**：受众对“身份压制”和“强者回归”的爽点反馈迅速，同时对带有一定趣味性的“反派苟住”题材表现出较高兴趣。\n**变动解读**：榜单热度整体走弱，头部《警报！真龙出狱！》优势明显，但腰部作品热度流失较快，反映出该类目对内容新鲜感要求极高。\n**值得关注**：都市类目下，自带短剧流量的作品在获取新读者方面具有显著的竞争优势，是目前市场扩张的关键点。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +66,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "367.53万字",
-        "word_count": 3675300,
-        "heat": 627000,
+        "word_count_text": "367.94万字",
+        "word_count": 3679400,
+        "heat": 620000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1790章  借鼎",
-        "updated_at": "2026-09-01 21:27:13",
+        "latest_chapter": " 第1792章  古妖传承",
+        "updated_at": "2026-09-02 20:37:14",
         "rank_change": 0,
-        "heat_change": -84000,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "舔狗反派只想苟，女主不按套路走！",
         "book_id": 1710753,
         "url": "https://www.qimao.com/shuku/1710753/",
@@ -90,24 +95,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "624.7万字",
-        "word_count": 6247000,
-        "heat": 293000,
-        "platform_trend": "rise",
+        "word_count_text": "625.14万字",
+        "word_count": 6251400,
+        "heat": 276000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2627章  看看谁比谁更惨",
-        "updated_at": "2026-09-01 22:57:19",
-        "rank_change": 0,
-        "heat_change": 10000,
+        "latest_chapter": " 第2629章  这下药丸了",
+        "updated_at": "2026-09-02 22:47:18",
+        "rank_change": -1,
+        "heat_change": -17000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "title": "傲世潜龙",
         "book_id": 207105,
         "url": "https://www.qimao.com/shuku/207105/",
@@ -119,17 +124,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "822万字",
-        "word_count": 8220000,
-        "heat": 266000,
+        "word_count_text": "822.21万字",
+        "word_count": 8222100,
+        "heat": 260000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4033章  拉你一把",
-        "updated_at": "2026-09-01 17:20:29",
+        "latest_chapter": " 第4034章  保住香火",
+        "updated_at": "2026-09-02 17:21:28",
         "rank_change": -1,
-        "heat_change": -8000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

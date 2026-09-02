@@ -8,38 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
     "total_heat": 7122000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "heat_change": -207000
-        }
-      ],
-      "summary": "**题材趋势**：民俗悬疑类作品表现稳健，强烈的民间诡事叙事风格是该细分赛道的核心驱动力。\n**读者偏好**：读者对带有“职业化”色彩的诡异探秘（如捞尸、接阴）具有极高粘性，偏好纪实感叙事。\n**变动解读**：《山野诡闻笔记》空降榜单表现亮眼，头部效应明显，整体热度呈现高位盘整态势。\n**值得关注**：民俗题材的地域化与碎片化叙事仍是吸睛关键，建议挖掘更多具有神秘色彩的职业视角。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：民俗志怪类作品持续占据头部，以第一人称口述风格为主，强调猎奇感与沉浸式体验。\n**读者偏好**：读者对捞尸、接阴、扎纸人等具象化的民间禁忌元素有高黏性，偏好强叙事性的单元剧结构。\n**变动解读**：榜单结构极度稳定，头部梯队壁垒坚固，反映出该垂类用户对长尾经典内容的高复读率与高认可度。\n**值得关注**：在现有题材红海中，如何通过更具差异化的地域民俗或更深层的文化内核挖掘，是破局的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -67,7 +50,7 @@
         "updated_at": "2024-05-11 07:57:09",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "奇门秘术"
@@ -94,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 1,
-        "heat_change": -207000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

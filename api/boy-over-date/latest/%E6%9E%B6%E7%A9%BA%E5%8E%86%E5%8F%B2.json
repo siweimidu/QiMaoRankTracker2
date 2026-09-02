@@ -8,54 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 335000,
+    "total_heat": 328000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "帝国皇太子，老子不干了！",
-          "book_id": 1801623,
-          "intro": "穿越大乾当太子，却摊上个偏心父皇，只爱那嫔妃生的皇子！自己立下多大功劳，都被视而不见！\n看着他们联合朝中人整自己，秦明怒了，帝国皇太子？老子不干了！\n远离京城，他带兵入岭南，发展工业！武装军队！提振经"
-        }
-      ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "无敌六皇子",
           "book_id": 1747899,
-          "rank_change": 2
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
+        {
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "heat_change": -3000
+        },
         {
           "title": "打到北极圈了，你让我继承皇位？",
           "book_id": 1864493,
-          "heat_change": 3000
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": 3000
+          "heat_change": -2000
         },
         {
           "title": "世子无双",
           "book_id": 1860026,
-          "heat_change": 1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：穿越权谋与种田经营相结合，侧重于“边缘皇子/世子”的逆袭，强调利用现代思维降维打击封建体制。\n**读者偏好**：读者更偏爱轻松幽默、带有“老六”属性的权谋文，对于具备多媒体IP转化（有声剧、短剧）的作品关注度显著提升。\n**变动解读**：榜单竞争激烈，排名变动频繁反映出读者在完结书领域对新鲜感与高评价作品的持续筛选。\n**值得关注**：IP联动属性在历史类中表现突出，有声剧与短剧的曝光显著带动了书籍热度，多渠道运营正成为该类目完结书维持热度的关键。",
+      "summary": "**题材趋势**：种田争霸与“老六”式权谋文为主流，侧重于展现主角利用现代知识在封建王朝实现降维打击。\n**读者偏好**：读者倾向于阅读具备多媒体IP开发（有声剧、短剧）的作品，对“开局被贬”后实现逆袭的经营类剧情有较高期待。\n**变动解读**：榜单整体热度小幅回落，排名变动仅限于《无敌六皇子》的微调，显示该品类读者群体对现有头部作品的忠诚度较高，新书切入难度大。\n**值得关注**：版权开发（有声、短剧）对榜单作品的赋能作用明显，已成为该细分赛道头部书籍的标配资产。",
       "ai_source": "ai"
     },
     "books": [
@@ -74,22 +63,22 @@
         "status": "已完结",
         "word_count_text": "304.01万字",
         "word_count": 3040100,
-        "heat": 144000,
-        "platform_trend": "rise",
+        "heat": 142000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "无敌六皇子",
         "book_id": 1747899,
         "url": "https://www.qimao.com/shuku/1747899/",
@@ -103,15 +92,15 @@
         "status": "已完结",
         "word_count_text": "350.25万字",
         "word_count": 3502500,
-        "heat": 109000,
-        "platform_trend": "rise",
+        "heat": 106000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 2,
-        "heat_change": 3000,
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -132,15 +121,15 @@
         "status": "已完结",
         "word_count_text": "284万字",
         "word_count": 2840000,
-        "heat": 82000,
-        "platform_trend": "rise",
+        "heat": 80000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

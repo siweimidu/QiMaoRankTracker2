@@ -8,27 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
     "total_heat": 2220000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "极品女神赖上我",
-          "book_id": 2012529
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「商战职场」新上榜 《极品女神赖上我》。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：商战职场类题材当前呈现明显的“短剧化”特征，头部作品与热门短剧IP绑定紧密。\n**读者偏好**：读者更倾向于快节奏、强冲突的爽文设定，尤其是融合了都市情感与“逆袭”元素的职场晋升故事。\n**变动解读**：本期榜单稳定性极高，仅存的在榜作品《极品女神赖上我》依靠短剧流量支撑，未发生排名更迭。\n**值得关注**：该题材目前高度依赖跨媒体联动（短剧转小说），市场存量竞争下，缺乏新晋作品冲击头部格局。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -55,7 +50,7 @@
         "updated_at": "2026-08-15 14:22:08",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "商战职场"

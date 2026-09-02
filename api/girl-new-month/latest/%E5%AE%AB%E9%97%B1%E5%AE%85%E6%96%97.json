@@ -8,61 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 5,
     "total_heat": 3815000,
     "trend": {
-      "new_count": 4,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "宫女朔宁",
-          "book_id": 12315174
-        },
-        {
-          "title": "夺她入帐，惹上疯批权臣逃不掉",
-          "book_id": 10423605
-        },
-        {
-          "title": "改嫁顶级纨绔，重生前夫悔疯了",
-          "book_id": 12417402
-        },
-        {
-          "title": "帝后十年无子，我入宫了",
-          "book_id": 12135627
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "通房带崽死遁后，大将军悔疯了",
-          "book_id": 12058821,
-          "intro": "云昭怀孕八个月，亲耳听见顾时樾说，“留子去母。”\n她是通房丫头，他是镇国将军。原来边疆的温柔，只是她一厢情愿。\n云昭彻底心死：她不过是个生育工具。\n她暗用积蓄投资、凭边疆所学医术铺路，在顾时樾大婚当日"
-        },
-        {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "妾万福",
-          "book_id": 11718738,
-          "rank_change": -9
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "妾万福",
-          "book_id": 11718738,
-          "heat_change": 66000
-        }
-      ],
-      "summary": "**题材趋势**：权谋斗争与虐心虐身并行，叙事重心从单纯的宅斗转向更宏大的“江山豪赌”与“强取豪夺”式情感拉扯。\n**读者偏好**：读者更青睐“疯批权臣”与“清醒大女主”的极限博弈，偏好带有宿命感、双向奔赴或强取豪夺的情感设定。\n**变动解读**：本期榜单几乎全员换血，除《妾万福》外其余均为新入榜作品，反映出该品类对新鲜感叙事的极高需求。\n**值得关注**：《宫女朔宁》将权谋与虐恋结合，体现了读者对高智商博弈与强情感冲突兼具的古言题材有明显偏好。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 传统宅斗正向“权谋+强取豪夺”转型，强调“疯批权臣”与“清醒小白花”的极限拉扯，弱化了传统的家长里短。\n**读者偏好** 读者审美倾向于“双向奔赴”的救赎向与“强强博弈”的权谋布局，同时也对带有被害妄想或反套路的轻喜剧元素表现出兴趣。\n**变动解读** 榜单缺乏流动性，说明当前市场对权谋类古言的需求已趋于饱和，新书需更具差异化的设定（如身份互换、特殊任务）才能突围。\n**值得关注** 《宫女朔宁》与《夺她入帐，惹上疯批权臣逃不掉》代表了当前市场对“虐心”与“强权”结合题材的深度认可，是该类目的流量中坚。",
       "ai_source": "ai"
     },
     "books": [
@@ -79,18 +39,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.26万字",
-        "word_count": 442600,
+        "word_count_text": "44.74万字",
+        "word_count": 447400,
         "heat": 1013000,
         "platform_trend": "rise",
         "badge": "飙升37名",
         "intro": "古言权谋+宫斗+女强男强+双向奔赴+虐到心肝\n这是一场以江山为注的豪赌。\n赌赢了，她送他登基。\n赌输了，她赔上自己。\n长门宫里有个哑奴，是被褫夺身份的九皇子。\n人人都能踩一脚，人人都能啐一口。\n她递给他一瓶药：“别死。”\n她教他下跪：“膝盖软了，才能活。”\n她给他吃肉：“跪着吃。吃饱了，才站得起来。”\n他一样一样地学。学跪，学忍，学笑里藏刀，学怎么把恨咽下去，等有一天连本带利讨回来。\n可他学不会的，是不爱她。\n后来他登上皇位，成了她手里最利的刃。\n她说：“你现在可以杀我了。”\n他说：“我学了一辈子听你的话，这是第一次不听。”\n她以为她养了一把刃。\n其实她养了一个愿意为她赴死的人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4106/12315174_360x480.jpg?time=1780883297",
-        "latest_chapter": " 第180章  侍寝",
-        "updated_at": "2026-09-01 23:32:05",
+        "latest_chapter": " 第182章  寝劫",
+        "updated_at": "2026-09-02 23:30:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
@@ -117,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718738_360x480.jpg?time=1783568075",
         "latest_chapter": " 第238章  污秽皇宫",
         "updated_at": "2026-09-01 08:26:04",
-        "rank_change": -9,
-        "heat_change": 66000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -137,19 +97,19 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.51万字",
-        "word_count": 315100,
+        "word_count_text": "31.95万字",
+        "word_count": 319500,
         "heat": 669000,
         "platform_trend": "rise",
         "badge": "飙升26名",
         "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1779185102",
-        "latest_chapter": " 第143章  这个问题，你可以去问你的好二哥",
-        "updated_at": "2026-09-02 00:00:08",
+        "latest_chapter": " 第145章  魏清绎也喜欢",
+        "updated_at": "2026-09-02 23:59:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
@@ -166,19 +126,19 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.93万字",
-        "word_count": 429300,
+        "word_count_text": "43.58万字",
+        "word_count": 435800,
         "heat": 625000,
         "platform_trend": "rise",
         "badge": "飙升21名",
         "intro": "当云舒遥踏上第一纨绔的接亲花轿时，有恃无恐的前夫，终于确定，她也带着前世的记忆回来了。\n前世，云舒遥耗尽心血，扶持平庸未婚夫步步高升，倒贴嫁妆操持落魄侯府。\n背负无后骂名，为不能人道的夫君遮掩。\n可她在临死前才得知，夫君不仅有个十四岁的儿子，还把娇柔表妹养在别庄。\n他们一家三口，不仅安心享受她挣来的家产，还一起盼着她咽气！\n亲眼看到这一幕的云舒遥，怒火攻心，含恨而终。\n一朝重生，她回到大婚前。\n云舒遥褪去贤孝的枷锁，果断撕毁虚伪婚约，斩断前世孽缘。\n人人都笑她糊涂，放着前程大好的侯府世子不要，偏偏选嫁给声名狼藉的京都第一纨绔。\n就在众人等着看笑话的时候，他们发现，小王爷成了皇上最倚重的朝臣。\n两人过上了没羞没臊，又让人羡慕的肆意日子。\n 而费尽心机嫁入侯府的心里表妹，却被罢官废爵的世子，送回了青楼！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12417402_360x480.jpg?time=1781245105",
-        "latest_chapter": " 第195章  反强北胡人",
-        "updated_at": "2026-09-01 22:29:03",
+        "latest_chapter": " 第198章  复仇",
+        "updated_at": "2026-09-02 23:56:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 2,
+        "is_new": false,
+        "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
@@ -195,19 +155,19 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.39万字",
-        "word_count": 453900,
+        "word_count_text": "45.8万字",
+        "word_count": 458000,
         "heat": 610000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "传闻中，卿柔气血双足，身壮如牛，定然能三年抱俩，诞下健康婴童。\n而帝后成婚十年，一直没有子嗣。\n为了延续血脉，继承皇位，皇后便依着传闻，挑了卿柔入宫侍寝。\n彼时她正在家中待嫁，突然的消息打得她措手不及。\n温柔未婚夫立马退了婚，天子的旨意又不能抗衡，卿柔只能不得已答应。\n皇上总是冷冰冰，只对皇后言听计从。\n而皇后召她进宫侍奉，却口口声声唤她是破坏旁人婚姻的“小三”。\n更是计划在她诞下孩子之后就想办法杀了她，想要去母留子。\n谁好端端的想死啊，卿柔心中生恨。\n既然进了宫，那她就会活下去，而且活得越来越好。\n“皇后，我生的孩子是我的，你的凤位也是我的。”\n至于皇上……这种男人，只配做她和她孩子掌皇权的垫脚石。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4046/12135627_360x480.jpg?time=1779334590",
-        "latest_chapter": " 第214章  皇上本就不属于臣妾",
-        "updated_at": "2026-09-01 13:58:03",
+        "latest_chapter": " 第216章  官复原职",
+        "updated_at": "2026-09-02 13:52:02",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

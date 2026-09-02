@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -16,32 +16,14 @@
     "total_heat": 2686000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "前脚离婚，后脚我成了顶级神豪",
-          "book_id": 1994990,
-          "intro": "都市神豪+后宫+日常+多女主\n人到中年，刚刚度过30岁生日的杜泽离婚又失业。\n然而，身处绝境之中的他手机上却出现了一个“神豪游戏”APP。\n创建账号送十连抽，直抽现金百万！\n杜泽本以为这只是一个游戏…"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "rank_change": 5
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "heat_change": 215000
-        }
-      ],
-      "summary": "「都市生活」《前脚离婚，后脚我成了顶级神豪》 掉出榜单；《我非池中物》上升5位领涨；《我非池中物》热度+215000。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市逆袭流回归经典叙事，聚焦于“受辱-抗争-逆袭”的成长链路。\n**读者偏好**：读者热衷于阶层跨越带来的爽感，同时对“后妈/校花”等强冲突的家庭伦理关系具有较高关注度。\n**变动解读**：榜单维持单品霸榜态势，数据平稳，显示该细分品类在完结榜中进入了长尾效应期。\n**值得关注**：作品通过“化龙”隐喻实现社会地位的跃迁，这种强调个人奋斗与财富积累的模式，是都市男性向读者的刚需。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -66,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": 5,
-        "heat_change": 215000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

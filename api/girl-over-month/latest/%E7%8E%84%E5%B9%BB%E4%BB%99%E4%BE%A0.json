@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -19,43 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "我团宠小师妹，嚣张点怎么了",
-          "book_id": 1764505,
-          "rank_change": 8
-        },
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "重回拜师日，偏心师尊靠边站",
-          "book_id": 1943722,
-          "rank_change": -4
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "重回拜师日，偏心师尊靠边站",
-          "book_id": 1943722,
-          "heat_change": -1398000
-        },
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "heat_change": -826000
-        },
-        {
-          "title": "我团宠小师妹，嚣张点怎么了",
-          "book_id": 1764505,
-          "heat_change": 319000
-        }
-      ],
-      "summary": "**题材趋势**：修仙文正在向“轻量化”转型，以师徒关系、团宠、对照组等情感矛盾替代单纯的升级打怪，更贴近女性向阅读习惯。\n**读者偏好**：读者倾向于具备“隐世天才”或“满级重开”设定的大女主爽文，对宗门内部的偏心、背叛等情感冲突有极高共鸣。\n**变动解读**：《我团宠小师妹》排名大幅跃升，反映出读者对快节奏、强情绪反馈剧情的追捧；整体热度波动较小，格局相对稳固。\n**值得关注**：名家推荐与出版联动（如孟子义、高瀚宇推荐）是该类目重要的流量入口，具备强IP属性的作品更具抗跌性。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：仙侠文呈现明显的“大女主群像”与“反套路”趋势，强调师徒关系与修真爽感的重构。\n**读者偏好**：读者对“废材逆袭”、“打脸渣师尊/渣亲”以及“团宠爽文”类设定有极高的阅读黏性。\n**变动解读**：榜单整体处于静止状态，反映出该垂类核心用户群对当前存量内容的认可度较高，缺乏强力黑马冲击。\n**值得关注**：出版及综艺推荐背书对玄幻类书籍的转化作用显著，建议关注《第一瞳术师》等兼具出版价值与大众曝光度的作品。",
       "ai_source": "ai"
     },
     "books": [
@@ -82,7 +49,7 @@
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
         "rank_change": 0,
-        "heat_change": -826000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -110,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": 1,
-        "heat_change": -122000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -139,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432610_360x480.jpg?time=1704683308",
         "latest_chapter": " 第1329章  番外九：魔与龙（完）全文完",
         "updated_at": "2025-09-01 23:57:12",
-        "rank_change": 8,
-        "heat_change": 319000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -168,10 +135,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/675/2022677_360x480.jpg?time=1744704209",
         "latest_chapter": " 第924章  幸得友人，幸得彼此（全文完）",
         "updated_at": "2026-07-06 00:01:08",
-        "rank_change": -4,
-        "heat_change": -1398000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "玄幻仙侠"
       }

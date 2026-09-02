@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "heat_change": -680000
-        }
-      ],
-      "summary": "**题材趋势**：传统历史架空题材依然占据稳固阵地，但缺乏新锐作品冲击，整体格局处于存量博弈阶段。\n**读者偏好**：读者对融合武道修行与权谋争斗的“武夫”流历史文保持较高粘性，偏好强冲突、快节奏的开局设定。\n**变动解读**：榜单呈现高度固化，头部作品热度出现小幅回撤，反映出该类目在缺乏新鲜血液补充时，长尾效应正面临挑战。\n**值得关注**：建议重点监测该类目后续是否有具备差异化切入点（如种田、工业化改良）的新作入场，以打破当前僵局。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，头部作品依靠极高的单书热度维持统治力。\n**读者偏好**：读者更青睐带有强烈“逆袭”色彩的开局，如卑微身份与高权势人物的强烈反差。\n**变动解读**：本期该细分品类处于“静止期”，榜单结构高度稳固，缺乏新晋黑马冲击。\n**值得关注**：头部作品《大周第一武夫》的长尾效应显著，需观察后续是否有同类竞品通过题材融合实现突围。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +39,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "194.35万字",
-        "word_count": 1943500,
+        "word_count_text": "197.55万字",
+        "word_count": 1975500,
         "heat": 8932000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第900章  陈玄必须死",
-        "updated_at": "2026-09-01 18:02:10",
+        "latest_chapter": " 第915章  必杀之局（今日十五更完毕！）",
+        "updated_at": "2026-09-02 10:11:08",
         "rank_change": 0,
-        "heat_change": -680000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

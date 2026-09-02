@@ -8,69 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 6,
-    "total_heat": 1239000,
+    "total_heat": 1222000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "随亲爹入赘，我靠吃软饭稳坐团宠",
-          "book_id": 2094008
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "解春衫",
-          "book_id": 2065888,
-          "rank_change": 1
+          "title": "王府里来了个捡破烂的崽崽",
+          "book_id": 2061856,
+          "rank_change": 2
+        },
+        {
+          "title": "随亲爹入赘，我靠吃软饭稳坐团宠",
+          "book_id": 2094008,
+          "rank_change": 2
         },
         {
           "title": "凤池生春",
           "book_id": 1830569,
           "rank_change": 1
-        },
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
           "book_id": 2019227,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+          "heat_change": -12000
+        },
         {
           "title": "第一凤女",
           "book_id": 1803136,
-          "rank_change": -1
-        },
-        {
-          "title": "王府里来了个捡破烂的崽崽",
-          "book_id": 2061856,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": 4000
+          "heat_change": -10000
         },
         {
           "title": "解春衫",
           "book_id": 2065888,
-          "heat_change": 3000
-        },
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": -2000
+          "heat_change": 7000
         }
       ],
-      "summary": "**题材趋势**：重生复仇题材占据统治地位，核心爽点向“大女主搞事业”、“团宠萌娃辅助”及“软饭硬吃”等反套路设定倾斜。\n**读者偏好**：读者偏爱节奏紧凑、伴随强力打脸的爽文架构，尤其青睐女主在复杂权谋环境下实现阶级跃迁或复仇的叙事逻辑。\n**变动解读**：榜单整体格局相对稳固，头部书籍热度微增，新书《随亲爹入赘》以差异化的“吃软饭”人设成功突围，市场容纳度较高。\n**值得关注**：随着《凤池生春》等原著改编作品的持续热度，影视化IP联动将是此类题材实现长尾增长的关键。",
+      "summary": "**题材趋势**：重生复仇与宅斗宅系题材表现强劲，且多部作品兼具影视剧IP联动，市场号召力显著。\n**读者偏好**：读者偏爱“女主成长型”剧本，特别是结合“团宠”、“萌娃”与“大女主爽文”元素的快节奏叙事更受欢迎。\n**变动解读**：榜单表现积极，多部作品排名稳步攀升，热度表现优于总裁类，反映出读者对古言爽文的持续追捧。\n**值得关注**：《王府里来了个捡破烂的崽崽》与《随亲爹入赘》排名显著上升，体现了“软饭硬吃”及“种田+团宠”类创新人设的受宠程度。",
       "ai_source": "ai"
     },
     "books": [
@@ -89,22 +73,22 @@
         "status": "已完结",
         "word_count_text": "213.78万字",
         "word_count": 2137800,
-        "heat": 334000,
+        "heat": 341000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "HE×双洁×甜宠×治愈\n戴缨第一次见陆铭章时。\n老夫人说：“他长你一辈，当按长辈呼之。”\n陆铭章随口道：“不必拘谨，把这里当成自家。”\n后来，她求到他跟前，先是言辞恳切，又作哀婉动人，而他……不为所动。\n她将眼睛一揉，拭了没有温度的泪。\n“您怎的不疼疼我？”\n陆铭章眉梢一跳，脸上情绪难辨，接着，声音低下去：“好”。\n她让他疼，他便真的……用最亲密的方式，疼她入骨。\n她更未曾想到，有朝一日，这位爷会在她耳边烙下低叹：\n“娘子不必踮脚，为夫自会低头。”\n后来，她端坐高堂，仇敌俯首，敬茶称母。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "rank_change": 0,
+        "heat_change": 7000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "凤池生春",
         "book_id": 1830569,
         "url": "https://www.qimao.com/shuku/1830569/",
@@ -118,15 +102,15 @@
         "status": "已完结",
         "word_count_text": "233.9万字",
         "word_count": 2339000,
-        "heat": 324000,
-        "platform_trend": "rise",
+        "heat": 318000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《凤池生春》原著改编，腾讯独播。\n【权谋+宅斗+杀伐果断大女主+爽文】\n许茵茵一生凄苦。\n幼年时被调包，从侯府千金沦落成杀猪匠的女儿。\n回府又被陷害，身败名裂，沦为弃子。\n最终为了活命，成了太孙殿下手中一把好用的刀。\n一睁眼，却又回到了被接回侯府的前夜。\n既如此——\n周遭都是些魑魅魍魉，那就杀出一片清明天！\n苦海无边，唯有自渡！\n只是一不小心，怎么又被上辈子的某位太孙殿下缠上了？\n许茵茵婉拒：殿下，我忙着呢！\n男人却慢条斯理，拥她入怀：你忙什么，孤为你扫尾便是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
         "rank_change": 1,
-        "heat_change": 4000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -147,22 +131,22 @@
         "status": "已完结",
         "word_count_text": "132.17万字",
         "word_count": 1321700,
-        "heat": 244000,
+        "heat": 232000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【重生+姐妹换府对照组+飒爽女主+虐渣复仇】\n上辈子，爹娘和离，陆未吟不敢争取跟随母亲，留在落魄将军府，爹不疼兄不爱。\n边疆起战事，她随军出征，九死一生挣下赫赫军功，结果军功成了父亲的，嘉奖是全家的。\n她只得到一支嵌入颈椎的断头针，废掉武功的羸弱身躯，以及顶着徒有虚名的郡主头衔嫁给心有所属的太子，落得被夫君一箭穿心的悲惨结局。\n再次睁眼，她听到妹妹说：\n“母亲贪图富贵，抛夫弃子，我才不要跟着她。我是爹爹的女儿，除了爹爹身边，我哪儿都不去！”\n是了，妹妹也重生了。\n可惜她只知道将军府即将崛起，却不知将军府为何崛起。\n没有她陆未吟！将军府何人能战？\n既然妹妹要跟着父亲，那她也不客气了。\n随母改嫁到侯府，在家当团宠，在外扬威名！\n这一世，她不仅要改变自己的命运，还要改变成千上万人的命运。\n当妹妹还在绞尽脑汁想嫁给太子时，她已经提枪上马奔赴疆场。\n身后，更有那邪魅矜贵的皇子一路保驾护航。\n少女立于马背，身披霞光。\n“太子无德，轻贱百姓，殿下可有兴趣取而代之，共谋大业？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -176,22 +160,22 @@
         "status": "已完结",
         "word_count_text": "238.38万字",
         "word_count": 2383800,
-        "heat": 150000,
-        "platform_trend": "rise",
+        "heat": 140000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "《奔跑吧》同款热门重生文，孟子义、高瀚宇推荐。\n北翼国的一代传奇人物惠正皇太后重生回到侯府。\n上一世时安夏眼瞎，对无能又自私凉薄的晋王一见钟情，还把他费力推上皇位，害苦了老百姓。熬到他死后，还得给他收拾烂摊子。\n这一世她只想守着母亲和失而复得的哥哥安安静静过完一生，谁知天生凤命，随手捡个上门夫婿竟然是西梁国死了十年的幼帝。\n她哀叹自己好命苦，忍痛放一纸和离书给他自由。\n而他却将和离书撕得稀烂，怒斥她：“你当朕是什么，想扔就扔？”\n扔不掉能怎么办？陪他走上夺位之路重操旧业呗。\n只是这一次的夫君强多了，恪守男德，对别的女子目不斜视。时安夏主动给他充盈后宫，他还很生气。\n能干的夫君把前朝管理得井井有条，时安夏非常满意，仍旧过着安安静静的幸福生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 1,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "title": "王府里来了个捡破烂的崽崽",
         "book_id": 2061856,
         "url": "https://www.qimao.com/shuku/2061856/",
@@ -212,15 +196,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "随亲爹入赘，我靠吃软饭稳坐团宠",
         "book_id": 2094008,
         "url": "https://www.qimao.com/shuku/2094008/",
@@ -234,16 +218,16 @@
         "status": "已完结",
         "word_count_text": "128.13万字",
         "word_count": 1281300,
-        "heat": 89000,
+        "heat": 93000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "上辈子，沈月娇跟着美人爹入赘，仗着长公主宠爱，父女俩软饭硬吃，享尽荣华富贵，更想一步登天，结果却都惨死在楚琰手下。\n重生后，沈月娇悟了：与其跟着野心勃勃的美人爹走向绝路，不如抱紧长公主一家金灿灿的大腿。\n所有人都以为她是楚家人捡来寻乐的贱丫头，直到一场宫宴风波，她与谈笑间替长公主化解致命危机，初露锋芒。\n从此，她成了长公主的贴心小棉袄，成了大哥的追妻的红娘，成了给二哥的出谋划策的谋士，她讨好所有人，唯独对楚琰避之不及。\n美人爹仕途高升，她则靠精准投喂稳坐团宠宝座。\n全京城都震惊了！这哪儿是吃软饭，这分明是隐藏的大佬。\n她想平安富贵，苟命到老，却被权倾朝野的楚琰把她困至书案与她之间，眼底是狩猎的兴味：“继续装，我就喜欢看你扮猪吃老虎的样子。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2781312_360x480.jpg?time=1762970142",
         "latest_chapter": " 第622章  阿辞，你母亲来接我了（昭锦）",
         "updated_at": "2026-08-25 18:27:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 2,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "宫闱宅斗"

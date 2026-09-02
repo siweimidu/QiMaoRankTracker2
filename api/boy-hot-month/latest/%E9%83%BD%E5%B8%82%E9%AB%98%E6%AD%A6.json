@@ -8,32 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
     "total_heat": 49790000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "heat_change": -1191000
-        }
-      ],
-      "summary": "**题材趋势**：都市高武类题材趋于存量博弈，头部效应极强，长线作品统治力稳固。\n**读者偏好**：读者更倾向于“神医”类爽文及带有轻喜剧色彩的“修仙+桃花运”设定，追求快节奏的打脸与情感爽点。\n**变动解读**：榜单结构趋于稳定，新书《我在都市修了个野仙》入局，补充了都市修仙赛道的细分供给。\n**值得关注**：《盖世神医》热度虽有波动，但仍以绝对优势领跑，需警惕头部作品热度下滑对该类目整体大盘的影响。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市高武类题材进入存量竞争阶段，头部效应显著，长尾作品难以撼动现有格局。\n**读者偏好**：读者热衷于“全能型”主角，倾向于具备绝对掌控力的爽文设定，兼顾医术与武力值。\n**变动解读**：本期榜单保持高度稳定，无新书入局，显示该细分领域作品生命周期较长，但也面临内容同质化风险。\n**值得关注**：头部作品《盖世神医》热度断层领先，其“救人与杀人”的反差叙事仍是该品类的核心吸引力。",
       "ai_source": "ai"
     },
     "books": [
@@ -50,17 +39,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "902.85万字",
-        "word_count": 9028500,
+        "word_count_text": "903.26万字",
+        "word_count": 9032600,
         "heat": 42544000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4404章  继续送人",
-        "updated_at": "2026-09-01 10:01:31",
+        "latest_chapter": " 第4406章  送他上路",
+        "updated_at": "2026-09-02 10:02:32",
         "rank_change": 0,
-        "heat_change": -1191000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
@@ -79,18 +68,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "228.76万字",
-        "word_count": 2287600,
+        "word_count_text": "229.38万字",
+        "word_count": 2293800,
         "heat": 7246000,
         "platform_trend": "rise",
         "badge": "飙升64名",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1102章  骨气呢？",
-        "updated_at": "2026-09-01 22:41:09",
+        "latest_chapter": " 第1105章  一起杀敌 ？",
+        "updated_at": "2026-09-02 22:45:09",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

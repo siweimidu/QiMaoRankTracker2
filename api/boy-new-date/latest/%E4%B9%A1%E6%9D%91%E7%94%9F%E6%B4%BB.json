@@ -8,41 +8,65 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 71000,
+    "total_heat": 85000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "重生八零：赶海捞金，我娇养俏前妻",
-          "book_id": 12746721
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "春风得意小医仙",
-          "book_id": 12295515,
-          "rank_change": 2
+          "title": "重生八零：赶海捞金，我娇养俏前妻",
+          "book_id": 12746721,
+          "rank_change": 6
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "春风得意小医仙",
-          "book_id": 12295515,
-          "heat_change": 3000
+          "title": "重生八零：赶海捞金，我娇养俏前妻",
+          "book_id": 12746721,
+          "heat_change": 14000
         }
       ],
-      "summary": "**题材趋势**：乡村文向“生活流+功能型金手指”转型，种田、赶海与医术结合成为主流卖点。\n**读者偏好**：读者偏爱“温情+补偿”心理，即通过重生或神技改变家庭困境，实现从破碎到圆满的爽感补偿。\n**变动解读**：《春风得意小医仙》热度稳步上扬，展现了强冲突（生存危机）与软性吸引（俏嫂子）结合的成功；《重生八零》入榜，进一步印证了“年代+赶海+家庭悔悟”模式的市场韧性。\n**值得关注**：乡村题材的“金手指”需具备强功能属性（如续命、捞金），同时需强化家庭修复类剧情的沉浸感。",
+      "summary": "**题材趋势** 时代背景下沉至“八零年代”与“乡野神医”的双轨并行，年代怀旧与异能修仙成为主要叙事载体。\n**读者偏好** 读者高度偏好“重生弥补遗憾”的强情感驱动，以及“种田+异能”带来的平民逆袭爽感。\n**变动解读** 《重生八零》热度激增并强势冲榜，说明强矛盾冲突与“浪子回头”题材在下沉市场极具号召力。\n**值得关注** 乡村生活类题材近期展现出极强的用户粘性与热度转化效率，是目前新书榜上的潜力增长点。",
       "ai_source": "ai"
     },
     "books": [
+      {
+        "rank": 12,
+        "title": "重生八零：赶海捞金，我娇养俏前妻",
+        "book_id": 12746721,
+        "url": "https://www.qimao.com/shuku/12746721/",
+        "author": "六郎",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%85%AD%E9%83%8E_14/",
+        "major": "都市",
+        "minor": "乡村生活",
+        "major_id": 203,
+        "minor_id": 48,
+        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.83万字",
+        "word_count": 378300,
+        "heat": 48000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
+        "latest_chapter": " 第183章  灯下黑",
+        "updated_at": "2026-09-03 00:12:11",
+        "rank_change": 6,
+        "heat_change": 14000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "乡村生活"
+      },
       {
         "rank": 16,
         "title": "春风得意小医仙",
@@ -56,47 +80,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.76万字",
-        "word_count": 357600,
+        "word_count_text": "36.17万字",
+        "word_count": 361700,
         "heat": 37000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第172章  残魂搞事",
-        "updated_at": "2026-09-01 00:55:04",
-        "rank_change": 2,
-        "heat_change": 3000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "乡村生活"
-      },
-      {
-        "rank": 18,
-        "title": "重生八零：赶海捞金，我娇养俏前妻",
-        "book_id": 12746721,
-        "url": "https://www.qimao.com/shuku/12746721/",
-        "author": "六郎",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%85%AD%E9%83%8E_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "37.22万字",
-        "word_count": 372200,
-        "heat": 34000,
-        "platform_trend": "rise",
-        "badge": "飙升41名",
-        "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第180章  毫无退路",
-        "updated_at": "2026-09-02 00:12:12",
+        "latest_chapter": " 第174章  毒蛊",
+        "updated_at": "2026-09-02 23:51:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

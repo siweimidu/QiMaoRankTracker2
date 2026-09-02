@@ -8,69 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 6,
     "total_heat": 45002000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "一枕春深",
-          "book_id": 11512461
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "rank_change": 4
-        },
-        {
-          "title": "王府里来了个捡破烂的崽崽",
-          "book_id": 2061856,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "rank_change": -1
-        },
-        {
-          "title": "解春衫",
-          "book_id": 2065888,
-          "rank_change": -1
-        },
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": -4418000
-        },
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": 3248000
-        },
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "heat_change": -2126000
-        }
-      ],
-      "summary": "**题材趋势**：重生复仇与大女主权谋依然是市场刚需，通过“对照组”设定与“萌娃辅助”来增加宅斗文的爽感与趣味性。\n**读者偏好**：读者热衷于“嘎嘎乱杀”式的爽文逻辑，同时对带有救赎与萌宠元素的宫廷背景故事表现出持续高关注。\n**变动解读**：《凤池生春》凭借剧集改编热度逆势上涨，显示了影视化对原著阅读量的强力拉动；整体榜单头部竞争激烈，长尾作品更新迭代较快。\n**值得关注**：除传统权谋外，“捡破烂崽崽”等反差萌设定在宅斗题材中异军突起，具备极强的社交传播属性。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：宅斗文正向“大女主复仇”与“轻喜萌宝”双向并行，版权改编（网剧原著）对热度加持效果明显。\n**读者偏好**：读者倾向于杀伐果断、智商在线的大女主设定，特别偏爱“重生+虐渣”及“对照组”带来的爽感反馈。\n**变动解读**：榜单呈现高度固化趋势，头部作品已形成稳定的粉丝集群，短期内新书切入难度较大。\n**值得关注**：作品《凤池生春》依托影视化IP展现了极强的头部效应，此类“网文+短剧”联动模式是未来获取高热度的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -96,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": 4,
-        "heat_change": 3248000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -125,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": -1,
-        "heat_change": -4418000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -154,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": -1,
-        "heat_change": -1662000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -183,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -1,
-        "heat_change": -2126000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -212,8 +164,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
-        "rank_change": 3,
-        "heat_change": 36000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -232,18 +184,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "68.57万字",
-        "word_count": 685700,
+        "word_count_text": "68.99万字",
+        "word_count": 689900,
         "heat": 3095000,
         "platform_trend": "rise",
         "badge": "飙升10名",
         "intro": "沈姝为了活命去做了留种娘子，给一位病重的神秘贵人留下血脉。数年后，她带着软萌萌的小女儿重返京城，入了凛王府做奶娘。只是这凛王看她的眼神越来越不对劲，吻她的腰，进她的房，最后还逼她承认宝儿是他的女儿……她曾发誓此生再不为奴，于是让她骑于肩头，做他的主人。从此后她在上，他在下。她要吻，他便温柔送上。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3838/11512461_360x480.jpg?time=1776072488",
-        "latest_chapter": " 第322章  皇寺，小羊",
-        "updated_at": "2026-09-01 09:22:04",
+        "latest_chapter": " 第324章  结亲，依偎",
+        "updated_at": "2026-09-02 09:11:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"

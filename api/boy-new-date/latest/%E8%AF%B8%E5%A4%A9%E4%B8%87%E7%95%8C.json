@@ -8,38 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-22",
+  "date": "2026-09-03",
   "category": {
     "name": "诸天万界",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 40000,
+    "total_heat": 29000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "斩神刀",
+          "book_id": 12337881
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "斩神刀",
-          "book_id": 12337881,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "斩神刀",
-          "book_id": 12337881,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "**题材趋势**：传统玄幻式快节奏爽文仍是主力，但面临一定程度的审美竞争压力，市场表现趋于平淡。\n**读者偏好**：核心受众依然偏好“强势回归+霸绝天下”的经典爽文套路，对主角的武力值扩张有极高期待。\n**变动解读**：该小类热度出现回调，排名下滑显示出单一传统套路在当前榜单中的竞争优势减弱，用户注意力有转移趋势。\n**值得关注**：建议在“诸天”设定中引入差异化世界观或更具冲突感的升级体系，以应对读者对同质化内容的疲劳。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：诸天题材回归到“杀伐果断”的传统爽文路径，强调主角的绝对武力值与成长爆发性。\n**读者偏好**：读者依然偏爱“蛰伏归来、唯我纵横”的强人设，追求直白、高强度的阅读快感。\n**变动解读**：《斩神刀》作为新上榜作品，迅速占据榜位，证明了“强势回归”型叙事在诸天类目中依然具备强劲的吸睛能力。\n**值得关注**：作为新晋上榜书，其后续热度能否持续攀升，将决定诸天类目在近期是否会迎来新一轮的题材红利期。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "斩神刀",
         "book_id": 12337881,
         "url": "https://www.qimao.com/shuku/12337881/",
@@ -51,19 +44,19 @@
         "minor_id": 217,
         "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.68万字",
-        "word_count": 406800,
-        "heat": 40000,
+        "word_count_text": "48.61万字",
+        "word_count": 486100,
+        "heat": 29000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
-        "latest_chapter": " 第183章  消息有误？",
-        "updated_at": "2026-08-21 06:02:06",
-        "rank_change": -2,
-        "heat_change": -4000,
-        "is_new": false,
-        "boards_count": 1,
+        "latest_chapter": " 第220章  真的忍不住了",
+        "updated_at": "2026-09-03 02:01:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "诸天万界"
       }

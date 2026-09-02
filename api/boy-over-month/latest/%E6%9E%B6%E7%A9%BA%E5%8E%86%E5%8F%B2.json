@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -19,43 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": 2
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": 1
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -882000
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": -454000
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -22000
-        }
-      ],
-      "summary": "「架空历史」《打到北极圈了，你让我继承皇位？》上升2位领涨；《世子无双》热度-882000。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势** “种田搞基建+权谋夺嫡”成为主流，穿越者通过降维打击（工业/军事）实现逆风翻盘。\n**读者偏好** 读者偏好“扮猪吃虎”与“藩王/皇子争霸”的爽感，对带有轻松幽默风格的权谋斗争尤为买账。\n**变动解读** 榜单格局极其稳固，头部作品均已完成多版权开发（有声剧、短剧），显示出该类目头部效应显著，生态链成熟。\n**值得关注** “不夺嫡、只搞军权”的避战型权谋设定，在当前市场中更易引发读者的代入感与阅读期待。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -80,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 2,
-        "heat_change": -22000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -109,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 1,
-        "heat_change": -454000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -138,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 1,
-        "heat_change": -882000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

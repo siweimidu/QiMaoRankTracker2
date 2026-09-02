@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：题材呈现明显的“老书长青”特征，榜单头部缺乏新锐作品冲击，整体市场处于存量博弈阶段。\n**读者偏好**：读者偏好具备强爽感、快节奏的都市异能叙事，尤其是医武双修及“游戏现实化”的设定依然拥有固定受众。\n**变动解读**：本周期榜单呈“僵持”状态，两部上榜作品排名与热度均未发生波动，反映出该细分领域短期内缺乏热门新作带动流量。\n**值得关注**：需警惕榜单活性不足带来的用户审美疲劳，后续关注是否有具备强冲突、高概念的新书能打破现状。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "902.85万字",
-        "word_count": 9028500,
+        "word_count_text": "903.26万字",
+        "word_count": 9032600,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4404章  继续送人",
-        "updated_at": "2026-09-01 10:01:31",
+        "latest_chapter": " 第4406章  送他上路",
+        "updated_at": "2026-09-02 10:02:32",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

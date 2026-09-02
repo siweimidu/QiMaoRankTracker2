@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 102000,
+    "total_heat": 101000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "重回六十年代，从挖何首乌开始",
           "book_id": 2064995,
-          "rank_change": 1
+          "heat_change": -1000
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代文与乡村致富题材持续稳健，强调“弥补遗憾+奋斗逆袭”的爽感叙事。\n**读者偏好**：受众倾向于具有强情感驱动（家庭羁绊）和硬核生存技能（挖药、冬捕）的草根崛起故事。\n**变动解读**：该书排名稳步上升，表明其在长尾周期内具备较强的读者黏性与口碑转化能力。\n**值得关注**：在乡村生活垂类中，具备家庭温情与时代背景结合的产品更容易获得高热度留存。",
+      "summary": "**题材趋势**：年代种田文依然是该细分赛道的压舱石，依靠强烈的时代背景与家庭温情驱动故事发展。\n**读者偏好**：读者倾向于“浪子回头”与“弥补遗憾”的叙事模式，对野外求生、山林物产等写实向经营元素有较高关注度。\n**变动解读**：本期榜单处于固化期，头部作品热度微幅下探，反映出该书进入完结后的平稳长尾增长阶段。\n**值得关注**：建议后续观察是否存在同类题材新书入场，以打破当前单书垄断的局面。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "208.05万字",
-        "word_count": 2080500,
-        "heat": 102000,
-        "platform_trend": "rise",
+        "word_count_text": "208.66万字",
+        "word_count": 2086600,
+        "heat": 101000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
-        "latest_chapter": " 第1009章  倒戈",
-        "updated_at": "2026-09-01 10:47:08",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第1012章  生娃的药方子",
+        "updated_at": "2026-09-02 10:21:08",
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

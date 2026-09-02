@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -19,23 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": 81000
-        }
-      ],
-      "summary": "「末世危机」《全球灾变之末日游戏》上升3位领涨；《全球灾变之末日游戏》热度+81000。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：末世题材正向“杀伐果断”与“游戏化生存”深度融合，强调极端环境下的生存法则。\n**读者偏好**：读者偏好冷酷型主角，追求在死亡威胁中追求绝对权力的爽点，拒绝圣母式叙事。\n**变动解读**：榜单热度锁定在头部，无新入榜作品，显示出该类目完结作品的口碑壁垒较为坚固。\n**值得关注**：该作品通过漫画化改编实现跨平台联动，展示了末世题材在多媒体版权开发上的高变现潜力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -60,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 3,
-        "heat_change": 81000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 121000,
+    "total_heat": 120000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,36 +21,25 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "神医出狱",
-          "book_id": 1812061,
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "heat_change": 4000
-        },
         {
           "title": "神医出狱",
           "book_id": 1812061,
-          "heat_change": 1000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：出狱流、战神退婚与都市修仙是主要表现形式，融合了强冲突的快节奏剧情。\n**读者偏好**：读者偏爱极具反差感的开篇（如监狱修炼）及都市背景下的“强者归来”式爽文节奏。\n**变动解读**：榜单内部排名微调，头部作品热度小幅增长，反映出该类目依然具备稳定的流量吸附能力。\n**值得关注**：都市高手类作品在完结榜中表现稳健，强人设、高密度的冲突铺设是维持长尾效应的核心。",
+      "summary": "**题材趋势**：出狱流题材热度趋于平稳，叙事逻辑高度依赖强冲突的“开局暴击”式爽点。\n**读者偏好**：读者偏好高反差设定，如“女子监狱+修仙”或“师徒传承+退婚”等强冲突、快节奏的爽文模式。\n**变动解读**：榜单波动较小，头部作品通过题材差异化（修仙背景）成功实现排名微升，显示出读者对单一医术题材的脱敏。\n**值得关注**：都市高手类作品需通过更具想象力的背景设定（如特殊环境、特殊身份）来维持热度优势。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 17,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -71,8 +60,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": -1,
-        "heat_change": 4000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -93,15 +82,15 @@
         "status": "已完结",
         "word_count_text": "419.7万字",
         "word_count": 4197000,
-        "heat": 55000,
-        "platform_trend": "rise",
+        "heat": 54000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/523/1567273_360x480.jpg?time=1710904715",
         "latest_chapter": " 第2033章  终究还是一场梦（结局）",
         "updated_at": "2026-03-13 23:00:18",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

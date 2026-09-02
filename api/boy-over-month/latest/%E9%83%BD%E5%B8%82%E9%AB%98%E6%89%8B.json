@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -16,36 +16,13 @@
     "total_heat": 4394000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "财戒",
-          "book_id": 1989239,
-          "intro": "【主角老六】【强势无虐】【底层男人逆袭】【捡漏暴富】\n鉴宝专业毕业的我，住进了艳若桃李的空姐家里。\n从此交了好运。\n偶得一枚戒指，能鉴宝，能修复损坏的文物，能获得美女信息。\n瑰丽迷人的书画，美轮美奂的"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "下山后，漂亮姐姐蠢蠢欲动",
-          "book_id": 2053900,
-          "heat_change": -437000
-        },
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "heat_change": -131000
-        }
-      ],
-      "summary": "**题材趋势**：都市高手文进入存量竞争期，核心卖点集中在“反差感”与“极度爽点”的强设定。\n**读者偏好**：受众偏好带有轻喜剧色彩的下山流，以及打破常规环境（如女子监狱）的猎奇设定。\n**变动解读**：榜单整体处于回调周期，《财戒》出局说明传统捡漏类题材在当前环境下竞争乏力，市场趋向更强冲突性的内容。\n**值得关注**：都市高手文需在“开篇强人设”基础上，引入更多具备社交传播属性的冲突桥段以维持热度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市高手题材保持极高的人设张力，核心卖点集中在“反差萌”与“开局即巅峰”的爽文逻辑。\n**读者偏好**：受众偏好强冲突的开篇设定，如“下山/出狱”带来的身份反差，以及与高位阶女性角色的强社交关系。\n**变动解读**：榜单排名持平，说明头部作品的读者留存能力极强，市场对该类模式化爽文的需求依然旺盛。\n**值得关注**：此类题材高度依赖爽点密度，后续作品需在“退婚”或“被动卷入”的传统套路中寻找新的剧情钩子。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,7 +49,7 @@
         "latest_chapter": " 第995章  沧海桑田（大结局）",
         "updated_at": "2026-08-19 01:08:08",
         "rank_change": 0,
-        "heat_change": -437000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -100,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 1,
-        "heat_change": -131000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

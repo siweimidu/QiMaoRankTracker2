@@ -8,55 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
     "total_heat": 21230000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "玲珑塔",
-          "book_id": 1754203
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "掌门怀孕，关我一个杂役什么事",
-          "book_id": 2014393,
-          "rank_change": -17
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "掌门怀孕，关我一个杂役什么事",
-          "book_id": 2014393,
-          "heat_change": -2776000
-        },
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -1587000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": -860000
-        }
-      ],
-      "summary": "「东方玄幻」新上榜 《玲珑塔》；《荒古圣体：在娘胎开始悟道》上升1位领涨；《掌门怀孕，关我一个杂役什么事》下滑17位；《掌门怀孕，关我一个杂役什么事》热度-2776000。",
-      "ai_source": "rule"
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** 传统升级流与“胎穿/系统/女帝”等网文爽点深度融合，强调快节奏与无敌流叙事。\n**读者偏好** 偏爱“废柴逆袭”与“开局即巅峰”的双重爽感，对带有情感纠葛（如女帝、多女主）的修仙背景接受度极高。\n**变动解读** 榜单结构高度固化，头部作品《荒古武神》断层领先，显示出成熟长篇作品在长尾阶段的极强统治力。\n**值得关注** 题材创新点向“反套路”倾斜，如《掌门怀孕》类带有轻喜剧与伦理碰撞元素的设定，是目前提升粘性的关键。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -82,7 +49,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -1587000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -110,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 1,
-        "heat_change": -860000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -141,7 +108,7 @@
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
@@ -168,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/793/2376988_360x480.jpg?time=1754997545",
         "latest_chapter": " 第979章  世间三千大道，而吾为道祖！（大结局）",
         "updated_at": "2026-08-03 23:32:10",
-        "rank_change": -17,
-        "heat_change": -2776000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

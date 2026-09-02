@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -21,15 +21,9 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重回六十年代，从挖何首乌开始",
-          "book_id": 2064995,
-          "heat_change": -718000
-        }
-      ],
-      "summary": "「乡村生活」《重回六十年代，从挖何首乌开始》热度-718000。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：年代+种田流仍是乡村题材的核心支柱，强调通过勤劳致富与家庭温情的双重叙事。\n**读者偏好**：受众倾向于“重活一世”的补偿心理，偏爱从底层赌徒到富甲一方的极致反转。\n**变动解读**：本期榜单稳定性极高，头部作品热度稳固，未出现新晋作品冲击，市场处于存量竞争阶段。\n**值得关注**：在物资匮乏年代背景下，利用山林资源（如挖药、冬捕）进行原始积累的叙事模式，依然具备较强的情绪号召力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -45,17 +39,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "208.05万字",
-        "word_count": 2080500,
+        "word_count_text": "208.66万字",
+        "word_count": 2086600,
         "heat": 3415000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
-        "latest_chapter": " 第1009章  倒戈",
-        "updated_at": "2026-09-01 10:47:08",
+        "latest_chapter": " 第1012章  生娃的药方子",
+        "updated_at": "2026-09-02 10:21:08",
         "rank_change": 0,
-        "heat_change": -718000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

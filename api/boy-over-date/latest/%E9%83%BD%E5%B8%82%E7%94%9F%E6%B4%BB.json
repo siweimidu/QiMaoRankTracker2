@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 72000,
+    "total_heat": 77000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我非池中物",
-          "book_id": 1850580,
-          "rank_change": -10
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我非池中物",
           "book_id": 1850580,
-          "heat_change": -66000
+          "heat_change": 5000
         }
       ],
-      "summary": "**题材趋势**：都市逆袭类小说市场波动加剧，传统“后妈/校花”矛盾冲突模式已现疲态。\n**读者偏好**：读者对高压迫感的虐主开局耐受度降低，更倾向于快节奏的财富积累与社交爽感。\n**变动解读**：由于热度大幅缩水且排名暴跌，说明该书已进入生命周期后期，难以持续吸引新读者。\n**值得关注**：都市生活类产品需警惕套路化陷阱，避免因情节陈旧导致榜单竞争力快速流失。",
-      "ai_source": "ai"
+      "summary": "「都市生活」《我非池中物》热度+5000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -53,15 +47,15 @@
         "status": "已完结",
         "word_count_text": "340.6万字",
         "word_count": 3406000,
-        "heat": 72000,
-        "platform_trend": "drop",
+        "heat": 77000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "金鳞岂是池中物，一遇风云便化龙。\n初中时，后妈带着漂亮女儿来到家里，她是我心动的校花。\n然而，她却欺我辱我，让我活成了一条狗。\n我不愿屈服命运沉沦，踩着泥沼，奋力抗争，终于逆袭而上，鱼跃龙门。\n我拥有财富无双，身边花团锦簇。\n惜我者当惜之，欺我者必弃之。\n站在巅峰之上，我看着她的背影远去，竟莫名心痛。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
         "latest_chapter": " 第1631章  大结局",
         "updated_at": "2026-01-01 00:43:17",
-        "rank_change": -10,
-        "heat_change": -66000,
+        "rank_change": 0,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
