@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-new-date",
+    "name": "女生新书日榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-04",
+  "category": {
+    "name": "权谋天下",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 29000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：以“女扮男装+宫廷轻喜剧”为核心，将严肃的权谋背景与轻松的恋爱互动解构，降低了阅读门槛。\n**读者偏好**：倾向于快节奏、高糖度的互动，尤其是“误会系”带来的身份错位感，满足了读者对于轻松爽文的需求。\n**变动解读**：《本侍卫是娇花》作为新上榜作品，以鲜明的“男女主脑回路冲突”切入，迅速占据榜位，表现出极强的受众吸引力。\n**值得关注**：轻快幽默的权谋文在女性受众中具有较强市场，后续作品可深耕“宫廷职场+情感错位”的创新组合。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "本侍卫是娇花",
+        "book_id": 12090615,
+        "url": "https://www.qimao.com/shuku/12090615/",
+        "author": "阿也pro",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%98%BF%E4%B9%9Fpro_14/",
+        "major": "古代言情",
+        "minor": "权谋天下",
+        "major_id": 2,
+        "minor_id": 280,
+        "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.65万字",
+        "word_count": 316500,
+        "heat": 29000,
+        "platform_trend": "rise",
+        "badge": "飙升60名",
+        "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
+        "latest_chapter": " 第128章  何以如此恨我",
+        "updated_at": "2026-09-03 23:47:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "权谋天下"
+      }
+    ]
+  }
+}

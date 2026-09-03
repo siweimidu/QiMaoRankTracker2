@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 85000,
+    "total_heat": 93000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,12 @@
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "rank_change": 6
+          "rank_change": 1
+        },
+        {
+          "title": "春风得意小医仙",
+          "book_id": 12295515,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +36,15 @@
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "heat_change": 14000
+          "heat_change": 8000
         }
       ],
-      "summary": "**题材趋势** 时代背景下沉至“八零年代”与“乡野神医”的双轨并行，年代怀旧与异能修仙成为主要叙事载体。\n**读者偏好** 读者高度偏好“重生弥补遗憾”的强情感驱动，以及“种田+异能”带来的平民逆袭爽感。\n**变动解读** 《重生八零》热度激增并强势冲榜，说明强矛盾冲突与“浪子回头”题材在下沉市场极具号召力。\n**值得关注** 乡村生活类题材近期展现出极强的用户粘性与热度转化效率，是目前新书榜上的潜力增长点。",
+      "summary": "**题材趋势**：重回80年代“年代+赶海”与“乡村神医”流派稳居头部，题材兼具怀旧复兴与爽文节奏。\n**读者偏好**：读者对“家庭救赎”、“弥补前世遗憾”以及“带有奇遇性质的乡村医武”类慢节奏生活文表现出极高粘性。\n**变动解读**：榜单结构趋于稳定，头部作品《重生八零》热度持续上涨，显示出该赛道用户对情感修复类叙事的强劲需求。\n**值得关注**：需重点监测该品类在“亲情羁绊”与“事业起家”双线并进模式下的长尾增长空间。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "重生八零：赶海捞金，我娇养俏前妻",
         "book_id": 12746721,
         "url": "https://www.qimao.com/shuku/12746721/",
@@ -51,24 +56,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.83万字",
-        "word_count": 378300,
-        "heat": 48000,
+        "word_count_text": "38.45万字",
+        "word_count": 384500,
+        "heat": 56000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第183章  灯下黑",
-        "updated_at": "2026-09-03 00:12:11",
-        "rank_change": 6,
-        "heat_change": 14000,
+        "latest_chapter": " 第186章  清早砸错房门",
+        "updated_at": "2026-09-04 00:12:12",
+        "rank_change": 1,
+        "heat_change": 8000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "春风得意小医仙",
         "book_id": 12295515,
         "url": "https://www.qimao.com/shuku/12295515/",
@@ -80,16 +85,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.17万字",
-        "word_count": 361700,
+        "word_count_text": "36.58万字",
+        "word_count": 365800,
         "heat": 37000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第174章  毒蛊",
-        "updated_at": "2026-09-02 23:51:04",
-        "rank_change": 0,
+        "latest_chapter": " 第176章  庞玄策",
+        "updated_at": "2026-09-04 00:18:02",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -12,7 +12,7 @@
       "board": "boy-new-date",
       "board_name": "男生新书日榜",
       "rank": 8,
-      "heat": 78000
+      "heat": 82000
     },
     {
       "board": "boy-new-month",
@@ -23,8 +23,8 @@
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
-      "rank": 19,
-      "heat": 0
+      "rank": 18,
+      "heat": 1
     }
   ],
   "history": [
@@ -141,6 +141,24 @@
       "b": "boy-update-date",
       "r": 19,
       "h": 0
+    },
+    {
+      "d": "2026-09-04",
+      "b": "boy-new-date",
+      "r": 8,
+      "h": 82000
+    },
+    {
+      "d": "2026-09-04",
+      "b": "boy-new-month",
+      "r": 9,
+      "h": 1355000
+    },
+    {
+      "d": "2026-09-04",
+      "b": "boy-update-date",
+      "r": 18,
+      "h": 1
     }
   ]
 }

@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 69000,
+    "total_heat": 71000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -2000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：杀伐果断的系统流与灾变求生类作品热度依旧，强调极端环境下的生存博弈。\n**读者偏好**：读者热衷于“重生+杀戮”的强刺激情节，对能够提供超前预知与绝对掌控力的主角形象评价较高。\n**变动解读**：排名虽小幅上升，但整体热度有所回撤，显示该书在完结后的流量转化进入瓶颈期。\n**值得关注**：作者通过漫画化运营进行IP跨界联动，是此类末世题材扩充受众覆盖面的有效手段。",
+      "summary": "**题材趋势**：末世题材进入存量博弈阶段，具备高辨识度标签（如“末日游戏”、“杀戮流”）的头部老书仍占据稳固份额。\n**读者偏好**：读者对黑暗风、杀伐果断的生存挑战类设定保持高粘性，对具备漫画化延伸的作品关注度较高。\n**变动解读**：《全球灾变之末日游戏》热度稳步回升，显示出完结长尾期作品通过多媒体矩阵（漫画联动）能有效维持读者活跃度。\n**值得关注**：跨平台（漫画/短剧）联动带来的IP长尾效应，是末世类存量作品保持热度不衰的关键路径。",
       "ai_source": "ai"
     },
     "books": [
@@ -53,15 +47,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 69000,
-        "platform_trend": "drop",
+        "heat": 71000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

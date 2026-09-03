@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": -1
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "heat_change": 1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：受众需求稳健，但目前处于短期流量低谷，缺乏头部效应带动。\n**读者偏好**：偏好带有游戏化规则、极端生存环境以及“系统提示”等金手指设定的末世文。\n**变动解读**：该类目仅存一本在榜且排名下移，虽有热度微增，但整体活跃度不足，市场亟需强力新作入场。\n**值得关注**：该书已具备漫剧化改编基础，证明其核心内容具备IP衍生潜力，后续可观察其跨媒体联动的转化效果。",
+      "summary": "**题材趋势**：全民求生类题材热度回升，特别是结合“系统提示+生存资源获取”的经营类爽文更受青睐。\n**读者偏好**：读者倾向于硬核求生与资源积累带来的成就感，对已改编为漫剧的IP具有天然的高信任度。\n**变动解读**：《破洞小木屋求生指南》排名大幅跃升（↑3），显示出IP联动与前期积累的口碑效应在榜单竞争中具有显著优势。\n**值得关注**：多媒体联动（漫剧化）对提升网文热度具有直接促进作用，建议关注具备跨平台潜力的高转化率作品。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 16,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -51,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "120.21万字",
-        "word_count": 1202100,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "120.82万字",
+        "word_count": 1208200,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第578章  不能打快板",
-        "updated_at": "2026-09-02 23:47:06",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第581章  斩杀阶段",
+        "updated_at": "2026-09-03 23:47:10",
+        "rank_change": 3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

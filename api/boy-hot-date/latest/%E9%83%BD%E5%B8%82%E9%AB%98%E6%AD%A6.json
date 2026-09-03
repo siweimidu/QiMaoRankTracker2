@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1388000,
+    "total_heat": 1368000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": 1000
+          "heat_change": -20000
         }
       ],
-      "summary": "**题材趋势**：都市高武类目头部集中化效应显著，单一超级爆款《盖世神医》占据绝对统治地位，题材壁垒极高。\n**读者偏好**：读者核心偏好“医武双绝+绝对掌控力”的设定，即主角通过特殊技能实现对现实权势的降维打击。\n**变动解读**：榜单数据极其固化，热度小幅波动反映了长篇连载作品在进入稳定期后的读者粘性波动。\n**值得关注**：该题材已进入存量竞争阶段，新书若无极具辨识度的“强冲突”设定，极难撼动头部位置。",
+      "summary": "**题材趋势**：头部效应极度显著，单品统治力强，展现了都市异能结合爽文逻辑的强大生命力。\n**读者偏好**：读者对“全能型主角”具有高度忠诚，即主角需同时具备超凡医术与绝对武力，满足底层爽感需求。\n**变动解读**：虽热度小幅下滑2万，但基于其断层式领先的绝对值，该题材依然是目前七猫男生榜的定海神针。\n**值得关注**：《盖世神医》的长青表现验证了“医武双修”题材在下沉市场中极高的容错率与用户粘性。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "903.26万字",
-        "word_count": 9032600,
-        "heat": 1388000,
-        "platform_trend": "rise",
+        "word_count_text": "903.47万字",
+        "word_count": 9034700,
+        "heat": 1368000,
+        "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4406章  送他上路",
-        "updated_at": "2026-09-02 10:02:32",
+        "latest_chapter": " 第4407章  夭折？",
+        "updated_at": "2026-09-03 22:47:31",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": -20000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,

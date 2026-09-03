@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "重生1984：我靠赶海打渔成首富",
           "book_id": 1988961,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代重生题材热度趋冷，市场正进入存量博弈阶段，单纯的“赶海致富”模式吸引力有所下降。\n**读者偏好**：读者对套路化的重生文产生审美疲劳，更倾向于寻找具备强戏剧冲突或短剧联动的特色作品。\n**变动解读**：仅存书籍《重生1984》排名下滑，说明该题材在当前榜单环境中缺乏足够的留存竞争力。\n**值得关注**：需观察该题材是否能通过加入新的行业元素或更紧凑的节奏实现破局，否则将面临进一步边缘化。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "重生1984：我靠赶海打渔成首富",
+          "book_id": 1988961,
+          "heat_change": -1
+        }
+      ],
+      "summary": "**题材趋势**：重生致富流依然是都市生活品类的核心，且“短剧原著”标签已成为重要的流量助推器。\n**读者偏好**：读者偏好“年代重生+弥补遗憾+奋斗致富”的叙事结构，对带有强烈时代怀旧感和逆袭暴富的故事有高共鸣。\n**变动解读**：虽然热度数值波动微小，但排名上升显示其内容适配度较好，短剧IP的联动效应正持续释放价值。\n**值得关注**：关注此类“短剧+网文”联动模式的转化率，验证IP跨媒介联动在提升榜单稳定性方面的实效。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "重生1984：我靠赶海打渔成首富",
         "book_id": 1988961,
         "url": "https://www.qimao.com/shuku/1988961/",
@@ -45,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "341.81万字",
-        "word_count": 3418100,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "342.52万字",
+        "word_count": 3425200,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【短剧《重回80:从小渔民到水产大王》原著！】　债主上门讨债，青梅竹马险被玷污。\n懦弱的林斌亲眼看着江清雪为求自保，一刀刺向那个玷污她的男人，却因过失杀人，被判入狱，家破人亡。\n这一幕，成为他一生的遗憾！\n却不料一场车祸，让他重回1984年的小渔村。\n这一次，他不惧危险，冒死出海，一网捞起三千斤大黄鱼，还上了赌债，救下了自己挚爱一生的女人！\n林斌：“重活一世，我要驾驶万吨巨轮，征服这片星辰大海！”\n江清雪一把拧住他的耳朵。\n“海什么海，还不赶紧去给孩子换尿布！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/766/2295128_360x480.jpg?time=1745215580",
-        "latest_chapter": " 第1561章  这种事情，就这一次！",
-        "updated_at": "2026-09-02 18:11:11",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第1564章  林斌反倒成了最大的赢家！",
+        "updated_at": "2026-09-03 17:04:12",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

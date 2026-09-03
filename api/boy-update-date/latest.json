@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "types": [
     {
       "name": "全部",
@@ -31,8 +31,12 @@
       "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+      "name": "都市高手",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
+    },
+    {
+      "name": "现代军事",
+      "url": "api/boy-update-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
     },
     {
       "name": "奇门秘术",
@@ -43,8 +47,8 @@
       "url": "api/boy-update-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
-      "name": "现代军事",
-      "url": "api/boy-update-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
+      "name": "都市生活",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     }
   ]
 }

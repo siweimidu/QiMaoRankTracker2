@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-over-date",
+    "name": "男生完结日榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-04",
+  "category": {
+    "name": "商战职场",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 77000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "极品女神赖上我",
+          "book_id": 2012529
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：短剧IP化趋势显著，具备强视觉冲突与快节奏叙事的作品更易突围。\n**读者偏好**：读者倾向于“身份反差”与“强情感纠葛”结合的叙事，职场背景下“逆袭+情感羁绊”的爽点组合极具吸引力。\n**变动解读**：《极品女神赖上我》作为短剧原著新晋上榜，验证了“网文+短剧”联动模式对流量的强拉动作用。\n**值得关注**：关注具备短剧改编潜力的职场题材作品，此类作品在完结榜单中往往能通过IP联动实现热度二次爆发。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 14,
+        "title": "极品女神赖上我",
+        "book_id": 2012529,
+        "url": "https://www.qimao.com/shuku/2012529/",
+        "author": "陈行者",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%99%88%E8%A1%8C%E8%80%85_14/",
+        "major": "都市",
+        "minor": "商战职场",
+        "major_id": 203,
+        "minor_id": 221,
+        "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "297.07万字",
+        "word_count": 2970700,
+        "heat": 77000,
+        "platform_trend": "rise",
+        "badge": "飙升17名",
+        "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
+        "latest_chapter": " 第829章  千帆尽处，般若归远",
+        "updated_at": "2026-08-15 14:22:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": true,
+        "category": "商战职场"
+      }
+    ]
+  }
+}

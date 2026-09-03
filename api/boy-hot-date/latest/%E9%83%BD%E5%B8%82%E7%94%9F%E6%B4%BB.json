@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 401000,
+    "total_heat": 391000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "步步登阶",
-          "book_id": 1982360,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -14000
+          "heat_change": -10000
         }
       ],
-      "summary": "**题材趋势**：都市生活题材回归现实主义叙事，侧重于小人物进城打工、职场人情冷暖等具有真实社会映射感的题材。\n**读者偏好**：读者更关注“沉浸式成长”与“人性博弈”，作品常伴随有声剧联动，显示出跨媒介内容消费的强劲需求。\n**变动解读**：核心作品《步步登阶》出现排名与热度双降，说明该题材在缺乏新内容补充时，读者的忠诚度存在自然流失。\n**值得关注**：需重点监测该题材的长线长尾效应，尤其是配套有声剧的引流逻辑是否能有效转化为文字端的持续热度。",
+      "summary": "**题材趋势**：偏向现实主义基调，通过社会底层打拼的真实感触引发读者共鸣，注重代入感与情绪价值。\n**读者偏好**：读者偏好具有“人生沉淀”色彩的作品，尤其是涉及职场打拼、人性博弈等真实社会写照的题材。\n**变动解读**：榜单热度呈现平稳态势，虽有小幅波动，但未出现剧烈的位次变动，显示该品类读者群体相对稳定。\n**值得关注**：该书联动有声剧策略成效明显，多渠道推广对维持都市生活类作品的流量存续具有重要支撑作用。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "277.58万字",
-        "word_count": 2775800,
-        "heat": 401000,
+        "word_count_text": "277.99万字",
+        "word_count": 2779900,
+        "heat": 391000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1321章  人不能太急",
-        "updated_at": "2026-09-02 23:47:13",
-        "rank_change": -1,
-        "heat_change": -14000,
+        "latest_chapter": " 第1323章  什么时候跟你关系不错了？",
+        "updated_at": "2026-09-04 00:57:10",
+        "rank_change": 0,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

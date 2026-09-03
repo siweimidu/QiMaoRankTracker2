@@ -8,42 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 147000,
+    "total_heat": 164000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "夺她入帐，惹上疯批权臣逃不掉",
-          "book_id": 10423605
+          "book_id": 10423605,
+          "rank_change": 1
         },
         {
           "title": "帝后十年无子，我入宫了",
-          "book_id": 12135627
+          "book_id": 12135627,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [
-        {
-          "title": "改嫁顶级纨绔，重生前夫悔疯了",
-          "book_id": 12417402,
-          "intro": "当云舒遥踏上第一纨绔的接亲花轿时，有恃无恐的前夫，终于确定，她也带着前世的记忆回来了。\n前世，云舒遥耗尽心血，扶持平庸未婚夫步步高升，倒贴嫁妆操持落魄侯府。\n背负无后骂名，为不能人道的夫君遮掩。\n可她"
-        }
-      ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "夺她入帐，惹上疯批权臣逃不掉",
+          "book_id": 10423605,
+          "heat_change": 10000
+        },
+        {
           "title": "侯府来了个小阎王，满朝权贵争又抢",
           "book_id": 12479613,
-          "heat_change": -1000
+          "heat_change": 6000
+        },
+        {
+          "title": "帝后十年无子，我入宫了",
+          "book_id": 12135627,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：题材向细分化转型，玄学萌崽文与强取豪夺类的权谋文成为新宠，不仅局限于传统的宅斗。\n**读者偏好**：读者更青睐“强弱对比”带来的张力，无论是萌崽带来的亲情爽感，还是小白花在权谋背景下的极限拉扯，都极具吸睛度。\n**变动解读**：榜单处于洗牌期，两本新书的入驻极大提升了板块活力，显示出读者对新鲜设定和强剧情冲突的强烈渴望。\n**值得关注**：《夺她入帐，惹上疯批权臣逃不掉》凭借“无金手指+极限拉扯”的设定切中读者痛点，具备较强的黑马潜质。",
+      "summary": "**题材趋势**：传统宅斗向“玄学”、“萌崽”及“强取豪夺”等多元化方向延展，快节奏的爽文叙事成为提升粘性的手段。\n**读者偏好**：读者更倾向于“弱者生存”到“权力反转”的爽感，喜欢看女主在阴谋算计中保持清醒，或通过奇特外挂（如玄学）降维打击。\n**变动解读**：榜单整体处于上升期，所有书籍热度均呈增长态势，说明该赛道用户活跃度高，且对强情节、高冲突的宫廷文需求旺盛。\n**值得关注**：《夺她入帐，惹上疯批权臣逃不掉》热度增幅最快，突显了“极致拉扯”的禁忌感在宫闱文中的引流效果。",
       "ai_source": "ai"
     },
     "books": [
@@ -60,24 +66,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.35万字",
-        "word_count": 333500,
-        "heat": 69000,
-        "platform_trend": "drop",
+        "word_count_text": "33.76万字",
+        "word_count": 337600,
+        "heat": 75000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第161章  曹掌柜交代，鬼差上来找仁宝",
-        "updated_at": "2026-09-03 06:02:06",
+        "latest_chapter": " 第163章  仁宝溜进魔界",
+        "updated_at": "2026-09-04 06:02:06",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 6000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "夺她入帐，惹上疯批权臣逃不掉",
         "book_id": 10423605,
         "url": "https://www.qimao.com/shuku/10423605/",
@@ -89,24 +95,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.95万字",
-        "word_count": 319500,
-        "heat": 50000,
+        "word_count_text": "32.61万字",
+        "word_count": 326100,
+        "heat": 60000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "",
         "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1779185102",
-        "latest_chapter": " 第145章  魏清绎也喜欢",
-        "updated_at": "2026-09-02 23:59:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
+        "latest_chapter": " 第148章  接她回府",
+        "updated_at": "2026-09-04 00:57:04",
+        "rank_change": 1,
+        "heat_change": 10000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "帝后十年无子，我入宫了",
         "book_id": 12135627,
         "url": "https://www.qimao.com/shuku/12135627/",
@@ -118,18 +124,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.8万字",
-        "word_count": 458000,
-        "heat": 28000,
-        "platform_trend": "drop",
+        "word_count_text": "46.01万字",
+        "word_count": 460100,
+        "heat": 29000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "传闻中，卿柔气血双足，身壮如牛，定然能三年抱俩，诞下健康婴童。\n而帝后成婚十年，一直没有子嗣。\n为了延续血脉，继承皇位，皇后便依着传闻，挑了卿柔入宫侍寝。\n彼时她正在家中待嫁，突然的消息打得她措手不及。\n温柔未婚夫立马退了婚，天子的旨意又不能抗衡，卿柔只能不得已答应。\n皇上总是冷冰冰，只对皇后言听计从。\n而皇后召她进宫侍奉，却口口声声唤她是破坏旁人婚姻的“小三”。\n更是计划在她诞下孩子之后就想办法杀了她，想要去母留子。\n谁好端端的想死啊，卿柔心中生恨。\n既然进了宫，那她就会活下去，而且活得越来越好。\n“皇后，我生的孩子是我的，你的凤位也是我的。”\n至于皇上……这种男人，只配做她和她孩子掌皇权的垫脚石。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4046/12135627_360x480.jpg?time=1779334590",
-        "latest_chapter": " 第216章  官复原职",
-        "updated_at": "2026-09-02 13:52:02",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第217章  人心易变",
+        "updated_at": "2026-09-03 11:18:03",
+        "rank_change": 1,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"

@@ -8,74 +8,80 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 7,
-    "total_heat": 9,
+    "count": 6,
+    "total_heat": 8,
     "trend": {
       "new_count": 1,
-      "dropped_count": 0,
+      "dropped_count": 2,
       "new_books": [
         {
-          "title": "冷淡七年，离婚后被顶级大佬追着宠",
-          "book_id": 12214737
+          "title": "婚情告急！太太揣崽跑路了",
+          "book_id": 12285861
         }
       ],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "薄总，婚后请节制！",
+          "book_id": 11498553,
+          "intro": "他将她控在怀里翻天覆地，强迫她一遍遍叫自己的名。\n——\n领完证当天，他无情扔下一句：“我们只是各取所需，非必要时别联系。”\n聂大小姐不以为然，婚后肆意撩拨他。\n某天夜晚，他应酬回晚了些，家中却没给他留"
+        },
+        {
+          "title": "冷淡七年，离婚后被顶级大佬追着宠",
+          "book_id": 12214737,
+          "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于"
+        }
+      ],
       "top_risers": [
         {
           "title": "离婚后她惊艳了世界",
           "book_id": 222767,
-          "rank_change": 3
-        },
-        {
-          "title": "薄总，婚后请节制！",
-          "book_id": 11498553,
-          "rank_change": 1
+          "rank_change": 2
         },
         {
           "title": "霍先生，上位别太急",
           "book_id": 11989218,
           "rank_change": 1
+        },
+        {
+          "title": "她玩火",
+          "book_id": 12264417,
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "她玩火",
-          "book_id": 12264417,
-          "rank_change": -2
-        },
-        {
-          "title": "霍二爷，新婚请克制！",
-          "book_id": 10373634,
+          "title": "大佬十代单传，我为他一胎生四宝",
+          "book_id": 1726987,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "离婚后她惊艳了世界",
-          "book_id": 222767,
-          "heat_change": -4
+          "title": "大佬十代单传，我为他一胎生四宝",
+          "book_id": 1726987,
+          "heat_change": 1
+        },
+        {
+          "title": "霍二爷，新婚请克制！",
+          "book_id": 10373634,
+          "heat_change": -1
         },
         {
           "title": "她玩火",
           "book_id": 12264417,
-          "heat_change": 2
-        },
-        {
-          "title": "薄总，婚后请节制！",
-          "book_id": 11498553,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：赛道热度依然集中于“带球跑”、“破镜重圆”及“追妻火葬场”等经典爽点，复仇逆袭类题材表现强劲。\n**读者偏好**：读者对女主从卑微隐忍到清醒独立、打脸前任的剧情有极高忠诚度，尤其中后期“追妻火葬场”的强冲突剧情最能带动热度。\n**变动解读**：《离婚后她惊艳了世界》通过强烈的身份反差和爽点叠加，热度与排名同步大幅上升，显示出读者对“离婚后开挂”叙事逻辑的高度买账。\n**值得关注**：新上榜的《冷淡七年，离婚后被顶级大佬追着宠》验证了“被家人抛弃后觉醒”的题材红利，建议关注此类情感裂痕修复与升级的后续表现。",
+      "summary": "**题材趋势**：离婚后女主“开挂”逆袭与“带球跑”仍是核心驱动力，叙事重心正从单纯的霸总宠溺向女主独立、事业与复仇并重转变。\n**值得关注**：读者对“上位者低头”的追妻火葬场情节极其买账，如《婚情告急！太太揣崽跑路了》的入榜即展现了该类题材的稳健生命力。\n**变动解读**：《离婚后她惊艳了世界》排名大涨，说明“离婚+事业线+追妻”的组合拳依然是提升留存与热度的金字招牌。\n**值得关注**：建议关注兼具“事业打脸”与“追妻火葬场”双重爽点的作品，这是当前豪门文提升排名的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 3,
         "title": "大佬十代单传，我为他一胎生四宝",
         "book_id": 1726987,
         "url": "https://www.qimao.com/shuku/1726987/",
@@ -87,48 +93,19 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "535.14万字",
-        "word_count": 5351400,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "535.76万字",
+        "word_count": 5357600,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "六年前，唐暖宁意外失身，薄宴沉说她不守妇道，一纸离婚协议书将她扫地出门，净身出户。\n六年后，她带着孩子归来，看到她身边缩小版的自己，某人才知道当年那个野男人就是他本尊。\n他追悔莫及，又惊又喜，从此高冷总裁化身黏人精，夜夜都想爬她的床。\n再后来，听说她要嫁人，他冲进酒店砸了婚礼现场，咬牙切齿，“你老公还没死呢！”\n众人目瞪口呆，“！！！！！！”\n大儿子无语摇头，“这个男人，我不想认识。”\n二儿子嫌弃捂眼睛，“丢死个人了，没眼看，根本没眼看。”\n三儿子一脸担忧，“完了，爹地今晚要挨打了。”\n四儿子蹙眉黑脸翻白眼，白眼翻到天上去了，无力吐槽。\n只有小女儿穿着公主裙跑过去，揪着薄宴沉的衣角，歪着小脑袋奶萌奶萌的说，\n“爹地，妈咪不可以当伴娘嘛？”\n薄宴沉：“……”\n喜提年度最佳大型社死现场！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/440/1319050_360x480.jpg?time=1706144634",
-        "latest_chapter": " 第2225章  我梦见你不要我了",
-        "updated_at": "2026-09-02 23:27:16",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 5,
-        "title": "薄总，婚后请节制！",
-        "book_id": 11498553,
-        "url": "https://www.qimao.com/shuku/11498553/",
-        "author": "我是宝宝",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%98%AF%E5%AE%9D%E5%AE%9D_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "53.86万字",
-        "word_count": 538600,
-        "heat": 1,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "他将她控在怀里翻天覆地，强迫她一遍遍叫自己的名。\n——\n领完证当天，他无情扔下一句：“我们只是各取所需，非必要时别联系。”\n聂大小姐不以为然，婚后肆意撩拨他。\n某天夜晚，他应酬回晚了些，家中却没给他留灯。\n小女人躺在床上安然入睡，丝毫不在意他有没有回家。\n他起了无名怒火，扯掉领带，将她控在怀里翻天覆地，强迫她一遍遍叫自己的名。\n她脸红气喘，羞愤瞪他：“九爷，我们只是合作关系。”\n他掐住她的腰，眸色沉沉：“合作也包括身心。”\n说好各取所需，他却在婚后对她动了心。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3833/11498553_360x480.jpg?time=1781168473",
-        "latest_chapter": " 第245章  说我爱你啊。",
-        "updated_at": "2026-09-02 23:27:05",
-        "rank_change": 1,
+        "latest_chapter": " 第2227章  曾经的美好，不好忘记",
+        "updated_at": "2026-09-03 23:27:16",
+        "rank_change": -1,
         "heat_change": 1,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": false,
         "category": "总裁豪门"
       },
@@ -147,14 +124,14 @@
         "status": "连载中",
         "word_count_text": "85.4万字",
         "word_count": 854000,
-        "heat": 1,
-        "platform_trend": "drop",
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "原书名《都说霍二爷不行？其实会哄不会停》\n恢复听力那天，阮念念得知自己被绿，甩了渣男贱女几巴掌后，转头就答应替逃婚的姐姐嫁给那位传闻中阴戾狠辣的霍二爷。\n人人都说，霍凛重病缠身、性情暴戾，嫁过去就是守活寡。\n可新婚夜，男人掐着她的细腰按在落地窗前，“听说你觉得我不行？”\n之后的三天阮念念颤着腿软成春水才知传言误人……\n后来的宴会上，渣男红着眼纠缠求复合。\n霍凛慢条斯理地将几片药片扔进嘴里，齿间碾磨得嘎巴作响，“阿耀，找把刀来，老子现在犯病了，杀人不犯法！”\n——众人皆惧他疯魔，唯她知晓这滔天戾气下，是只为她沸腾的灼热爱意。\n【狠戾偏执占有欲爆棚男主×外柔内刚反撩达人女主，双强互撩，顶级暧昧拉扯】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3458/10373634_360x480.jpg?time=1778484086",
         "latest_chapter": " 第360章  父母死因",
         "updated_at": "2026-09-03 00:02:31",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 3,
@@ -162,7 +139,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "霍先生，上位别太急",
         "book_id": 11989218,
         "url": "https://www.qimao.com/shuku/11989218/",
@@ -184,14 +161,14 @@
         "latest_chapter": " 第214章  最后的赢家",
         "updated_at": "2026-09-02 23:44:04",
         "rank_change": 1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "她玩火",
         "book_id": 12264417,
         "url": "https://www.qimao.com/shuku/12264417/",
@@ -203,24 +180,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.02万字",
-        "word_count": 490200,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "49.64万字",
+        "word_count": 496400,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "「生理性喜欢+见色起意」\n所有人都知道，童喻是霍放的秘密情人，她在锁骨处纹了他的名字，很显眼。\n只有霍放知道，这个女人是在利用他。\n这天，童喻被人抵在休息室的门板上，对方掐着她的腰，欲行不轨。\n“你当真敢动我？”童喻看着眼前担大的男人。\n“为什么不敢？”\n“我是霍二少的女人，你不怕他弄死你？”\n男人笑了，“所以，我动我自己的女人，不行？”\n。\n开始，他说：“童喻，我们说好，只是玩玩，不走心的。你别爱上我。”\n后来，童喻身边有了亲密对象。\n他又说：“童喻，回来爱我，好不好？”\n。\n霍放原本只是想跟童喻玩一阵子。\n后来，他想和她玩一辈子。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
-        "latest_chapter": " 第239章  我会解除婚约",
-        "updated_at": "2026-09-02 08:01:09",
-        "rank_change": -2,
-        "heat_change": 2,
+        "latest_chapter": " 第242章  劝劝霍放，让他回来",
+        "updated_at": "2026-09-03 08:01:08",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "title": "离婚后她惊艳了世界",
         "book_id": 222767,
         "url": "https://www.qimao.com/shuku/222767/",
@@ -232,17 +209,17 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "914.29万字",
-        "word_count": 9142900,
-        "heat": 3,
+        "word_count_text": "914.93万字",
+        "word_count": 9149300,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "隐婚三年，他突然提出离婚，苏婳忍痛一笑，拿钱走人，从此踏上开挂之路，修宝，鉴宝，轻松玩转古玩界。\n离婚后的某霸总，看着电视里艳惊四座的前妻，悔不当初。\n他化身妻奴，满世界追着她跑，“老婆，心给你，命给你，回来吧！”\n苏婳红唇微启：“抱歉，忙得很，没空！”\n后来，她终于遇到年少时的救命恩人，大婚当日，噩耗传来。\n她抛下新郎，抱着前夫支离破碎的身体，痛不欲生。\n直到他手拿钻戒，单膝跪在她面前，“老婆，我们复婚吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/82/245473_1648091517_360x480.jpg",
-        "latest_chapter": " 第3956章  秦珩556(秦霄)",
-        "updated_at": "2026-09-02 09:17:25",
-        "rank_change": 3,
-        "heat_change": -4,
+        "latest_chapter": " 第3959章  秦珩559(霄画)",
+        "updated_at": "2026-09-03 08:37:26",
+        "rank_change": 2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
@@ -250,26 +227,26 @@
       },
       {
         "rank": 20,
-        "title": "冷淡七年，离婚后被顶级大佬追着宠",
-        "book_id": 12214737,
-        "url": "https://www.qimao.com/shuku/12214737/",
-        "author": "星星口袋",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%98%9F%E6%98%9F%E5%8F%A3%E8%A2%8B_14/",
+        "title": "婚情告急！太太揣崽跑路了",
+        "book_id": 12285861,
+        "url": "https://www.qimao.com/shuku/12285861/",
+        "author": "月影千帆",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E5%BD%B1%E5%8D%83%E5%B8%86_14/",
         "major": "现代言情",
         "minor": "总裁豪门",
         "major_id": 1,
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.28万字",
-        "word_count": 462800,
-        "heat": 1,
+        "word_count_text": "44.74万字",
+        "word_count": 447400,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于想通了，决定好好爱自己。\n江太太她不做了，儿子也不要了。\n江叙珩认定当初为了嫁他不惜爬床的安宥禾，没了江太太的身份，根本无法生活。\n却不知，他瞧不上的妻子，不仅是能卡他全家脖子的学术界天才。而且，身边优秀的追求者无数。\n误会解开，得知真相的江叙珩慌了，但安宥禾身边早已经被那个说一不二的顶级男人牢牢霸占。\n随着安宥禾一层层身份曝光，再次引来那位顶级豪门真千金的忌惮。却不知，安宥禾这个假千金才是这顶级豪门的唯一继承人。\n后来，狗前夫痛彻心扉，“小禾，我后悔了，我们复婚吧。”\n安宥禾：“脏狗，滚远些。”\n儿子：“妈妈，你不要我了吗？”\n安宥禾：“抱歉，你真不是我儿子。”\n商执：“亲爱的，不如我们生一个呢？”\n安宥禾：“呵呵，你还在考察期。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4072/12214737_360x480.jpg?time=1780052801",
-        "latest_chapter": " 第204章  明白",
-        "updated_at": "2026-09-02 17:41:03",
+        "intro": "【上位者为爱低头+清醒大女主】\n白书珺的婚姻是一场交易，她签下一千万的协议，嫁给她暗恋了三年的景慕寒。\n一腔孤勇的走进了婚姻里。\n她以为他活不过三个月，他却活了三年。\n他好了以后她觉得苦尽甘来，她是爱着景慕寒才嫁给他的。\n他却从未相信过她的真心，他欺负了她整整三年，让她在婚姻里受尽了委屈。\n原以为三年时间，她全心全意付出总能焐热景慕寒的心。\n却在她母亲去世的时候，她悚然发现丈夫的秘密。 \n他的白月光，在他们婚姻期间给他生了个儿子。在她母亲下葬那天，他高调给他的白月光大办生日宴，拒绝参加葬礼。\n白书珺心碎，递上了离婚协议书。他却不同意，让她做好景太太。\n她不愿意再跟他继续下去，男人却拖着不肯离婚，他说：“你要生生世世看着我。”\n她远走他乡。\n再见面是离婚案开庭，景慕寒抱来了一个小女孩。\n向来薄情寡欲的男人将她堵在众目睽睽之下，咬牙切齿问：“我不离婚。老婆，你看看我们的女儿，你留下来好不好？求你爱一爱我。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4096/12285861_360x480.jpg?time=1780476323",
+        "latest_chapter": " 第191章  秦月歆怀孕",
+        "updated_at": "2026-09-03 21:02:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

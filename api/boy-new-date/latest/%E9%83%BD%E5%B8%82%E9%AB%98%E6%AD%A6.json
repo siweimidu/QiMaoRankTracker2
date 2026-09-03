@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 89000,
+    "total_heat": 86000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -26,25 +26,26 @@
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
+          "rank_change": -4
+        }
+      ],
       "heat_leaders": [
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "heat_change": -12000
-        },
-        {
-          "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650,
-          "heat_change": 1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势** 高武题材正处于从“个人暴力美学”向“多维爽点融合”转型的阶段，系统流依然是核心驱动力。\n**读者偏好** 读者对“反套路成长”与“强人设关联”的题材买单，如父子羁绊加持与都市隐世修行的组合。\n**变动解读** 榜首热度出现明显回调，显示出该题材在存量竞争下，用户留存与持续阅读的挑战正在加大。\n**值得关注** 《高武严父》虽热度下滑但仍占据高位，侧面印证了“养成+系统”设定在都市高武中的长尾爆发力。",
+      "summary": "**题材趋势**：高武世界观下的“养成流”与“战神出狱流”双雄并立，强调主角身份反差与金手指的爽感。\n**读者偏好**：读者偏爱强逻辑的辅助成长系统，如“父慈子孝”的养成反哺，以及“身份隐匿”后的全能复仇爽点。\n**变动解读**：榜首《高武严父》出现明显波动，热度下滑暗示该类题材在进入中期后需更强的剧情驱动力支撑。\n**值得关注**：关注“反套路”养成类作品在热度衰减期后的留存策略，以及传统出狱流的题材迭代。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 13,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -56,24 +57,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.53万字",
-        "word_count": 445300,
-        "heat": 57000,
+        "word_count_text": "45.15万字",
+        "word_count": 451500,
+        "heat": 54000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第211章  回城，伤势恢复！",
-        "updated_at": "2026-09-03 00:07:07",
-        "rank_change": 0,
-        "heat_change": -12000,
+        "latest_chapter": " 第214章  数十亿收获！！？",
+        "updated_at": "2026-09-04 00:07:07",
+        "rank_change": -4,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -85,17 +86,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.2万字",
-        "word_count": 472000,
+        "word_count_text": "47.81万字",
+        "word_count": 478100,
         "heat": 32000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第217章  答案揭晓，崩溃的洪天",
-        "updated_at": "2026-09-02 23:01:04",
+        "latest_chapter": " 第220章  血压飙升的洪太尉",
+        "updated_at": "2026-09-04 00:04:03",
         "rank_change": 1,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

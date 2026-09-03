@@ -8,60 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 119000,
+    "total_heat": 133000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "表妹貌美，冷面世子情难自恃",
-          "book_id": 12443391,
-          "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "无心情爱？嘴硬王爷又又又醋疯了",
-          "book_id": 12335439,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "heat_change": 8000
+          "title": "春闺小寡妇",
+          "book_id": 12644022,
+          "rank_change": 5
         },
         {
-          "title": "无心情爱？嘴硬王爷又又又醋疯了",
-          "book_id": 12335439,
-          "heat_change": -1000
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：爽文节奏加快，融合玄幻元素与极致拉扯的“先婚后爱”题材仍是市场中流砥柱。\n**读者偏好**：读者更倾向于具备“强人设”和“强冲突”的开篇，如“退婚后逆袭”、“权臣宠妻”及带有禁忌色彩的“寡妇文学”极具吸睛力。\n**变动解读**：《王妃一身妖骨》凭借爽点密集的设定实现逆袭，而《春闺小寡妇》以高压迫感的强情节切入，迅速填补了榜单空缺，反映出市场对情感张力更强的题材需求增加。\n**值得关注**：从被替出的《表妹貌美》与新晋的《春闺小寡妇》来看，带有“身份反差”与“伦理禁忌”元素的古言作品，正成为流量增长的新爆点。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "春闺小寡妇",
+          "book_id": 12644022,
+          "heat_change": 9000
+        },
+        {
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
+          "heat_change": 4000
+        },
+        {
+          "title": "攀君",
+          "book_id": 12335439,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：题材高度集中于“强强联手”与“特殊身份”博弈，融合了玄幻、摄政王权谋及禁忌关系等热门元素，节奏紧凑。\n**读者偏好**：受众偏好“反差感”极强的爽文，如被退婚后的逆袭、寡妇与冷面权臣的禁忌碰撞，强调女主在逆境中的主导权。\n**变动解读**：《春闺小寡妇》通过强冲突的剧情设定实现爆发式增长，排名跃升5位，显示读者对强戏剧张力及情感拉扯题材的极高粘性。\n**值得关注**：高戏剧性与强反差设定仍是目前榜单的流量密码，后续创作可侧重于“身份不对等”下的情感博弈。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "王妃一身妖骨，京城百祟俯首",
         "book_id": 12328977,
         "url": "https://www.qimao.com/shuku/12328977/",
@@ -73,17 +66,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.52万字",
-        "word_count": 375200,
-        "heat": 46000,
+        "word_count_text": "38万字",
+        "word_count": 380000,
+        "heat": 50000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
-        "latest_chapter": " 第168章  你有心的",
-        "updated_at": "2026-09-02 08:12:06",
-        "rank_change": 2,
-        "heat_change": 8000,
+        "latest_chapter": " 第170章  什么样的钝刀割肉，最能恶心人",
+        "updated_at": "2026-09-03 08:12:07",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -91,7 +84,7 @@
       },
       {
         "rank": 13,
-        "title": "无心情爱？嘴硬王爷又又又醋疯了",
+        "title": "攀君",
         "book_id": 12335439,
         "url": "https://www.qimao.com/shuku/12335439/",
         "author": "唐十雾",
@@ -102,24 +95,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.2万字",
-        "word_count": 352000,
-        "heat": 44000,
-        "platform_trend": "drop",
+        "word_count_text": "35.8万字",
+        "word_count": 358000,
+        "heat": 45000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【先婚后爱+甜宠+双洁】遭继妹算计，未婚夫悔婚，戚姝深陷流言，京城都传再没人会娶她。\n可当天，权倾朝野的摄政王却登门求娶。\n他说：“我无心情爱，你不会争风吃醋的性子，甚合我意。”\n戚姝当场应了。\n哪怕他大她一轮，京中传言他身有隐疾、不能人道。\n嫁谁不是嫁？她要的是安稳，他图的是省心，各取所需，皆大欢喜。\n成婚后，她守着本分，不作闹、不求爱、不奢望子嗣，甚至大度地替他张罗纳妾。\n可他那双冷淡的墨眸，却越来越灼热。\n后来，连身体都滚烫，他同她耳鬓厮磨，哑声：“给我生个孩子，可好？”\n她腰酸腿软，方知传言误人，他身子……分明好得！\n摄政王言出必行，说护她一生，便没让她受过半点委屈，唯独在情爱一事上食了言。\n巴不得她为他争风吃醋，夜夜欢好。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4112/12335439_360x480.jpg?time=1781836664",
-        "latest_chapter": " 第165章  我喜欢王爷",
-        "updated_at": "2026-09-02 23:58:06",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4112/12335439_360x480.jpg?time=1788431656",
+        "latest_chapter": " 第167章  把她给我关到老宅去",
+        "updated_at": "2026-09-03 23:59:02",
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 19,
+        "rank": 14,
         "title": "春闺小寡妇",
         "book_id": 12644022,
         "url": "https://www.qimao.com/shuku/12644022/",
@@ -131,18 +124,18 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.67万字",
-        "word_count": 256700,
-        "heat": 29000,
+        "word_count_text": "26.09万字",
+        "word_count": 260900,
+        "heat": 38000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第118章  掌心隔着薄薄的春衫",
-        "updated_at": "2026-09-02 23:25:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第120章  摸耳垂，抚弄她的翡翠耳环",
+        "updated_at": "2026-09-03 22:57:03",
+        "rank_change": 5,
+        "heat_change": 9000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
