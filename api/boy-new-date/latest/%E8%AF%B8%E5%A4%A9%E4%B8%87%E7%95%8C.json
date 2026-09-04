@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "诸天万界",
     "major": "玄幻奇幻",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "斩神刀",
+          "book_id": 12337881,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：回归经典“蛰伏回归+无敌流”模式，通过极简的复仇叙事构建爽点框架。\n**读者偏好**：受众偏好强力主角设定，追求简单直接的打怪升级与征服感。\n**变动解读**：当前排名与热度保持稳定，显示出该作品在粉丝群体中具有稳固的留存能力。\n**值得关注**：在缺乏新书竞争的情况下，该作品形成了稳定的阅读壁垒，后续表现取决于剧情的世界观展开深度。",
+      "summary": "**题材趋势**：回归经典“蛰伏回归+杀伐果断”模式，强调主角绝对武力值的进阶与压制。\n**读者偏好**：受众偏好极其直接的爽点输出，对“人挡杀人”的霸道主角设定具有极高的忠诚度。\n**变动解读**：榜单呈现平稳过渡态势，作品排名微调，说明该赛道目前处于用户口碑沉淀期，缺乏强力竞品冲击。\n**值得关注**：该类题材需警惕同质化，未来作品若能结合更具新意的“诸天”背景设定，有望进一步突破热度瓶颈。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 19,
         "title": "斩神刀",
         "book_id": 12337881,
         "url": "https://www.qimao.com/shuku/12337881/",
@@ -39,16 +45,16 @@
         "minor_id": 217,
         "minor_url": "https://www.qimao.com/shuku/a-202-217-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.04万字",
-        "word_count": 490400,
+        "word_count_text": "49.68万字",
+        "word_count": 496800,
         "heat": 29000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "昔年天才，蛰隐五年，强势回归！\n从此，人为鱼肉，我为刀俎！\n一柄斩神刀，饮敌魂，炼万血，斩天破地断万古，霸绝天下了恩仇！\n这诸天万界，秦绝持刀而入，神挡杀神，唯我纵横！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4113/12337881_360x480.jpg?time=1783339625",
-        "latest_chapter": " 第222章  留给秦天骄杀",
-        "updated_at": "2026-09-04 00:31:04",
-        "rank_change": 0,
+        "latest_chapter": " 第225章  被惦记上了！",
+        "updated_at": "2026-09-05 00:11:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

@@ -8,30 +8,23 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
-    "total_heat": 65000,
+    "count": 2,
+    "total_heat": 121000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "神医出狱",
-          "book_id": 1812061,
-          "intro": "师父说过，忘记一个女人最好的办法，就是睡另外一个女人。\n而我找来的包小姐，竟然是……"
+          "title": "我医武双绝，体内还有一条龙",
+          "book_id": 1885468
         }
       ],
-      "top_risers": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -40,7 +33,7 @@
           "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：都市高手类题材竞争白热化，榜单头部更迭频繁，出狱、退婚等经典“强冲突”开篇仍是市场刚需。\n**读者偏好**：读者偏好高反差人设与爽感节奏，对带有玄幻色彩的都市修仙题材表现出持续的阅读兴趣。\n**变动解读**：《被关女子监狱三年，我修炼成仙了》通过题材融合实现排名逆袭，显示出“都市+监狱+修仙”的复合设定比单一高手流更具竞争力。\n**值得关注**：题材内卷下，单一的“出狱流”正面临被更具新奇感、强情节包装的复合题材取代的风险。",
+      "summary": "**题材趋势**：都市高手文依然保持强劲的商业化节奏，通过“特殊背景+退婚/复仇”的经典套路，维持着高频的新书迭代。\n**读者偏好**：读者追求极致的爽感反馈，偏好“出狱/隐居+战神/医武/龙气”等高冲突、快节奏的强人设组合。\n**变动解读**：《我医武双绝》的补位上榜显示了该赛道极强的流动性，新人新作依靠强冲突开局仍能迅速切入市场。\n**值得关注**：该赛道竞争极其激烈，需重点关注如何通过差异化的“金手指”设定（如体内藏龙）来突破同质化竞争。",
       "ai_source": "ai"
     },
     "books": [
@@ -59,17 +52,46 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 65000,
+        "heat": 64000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "都市高手"
+      },
+      {
+        "rank": 19,
+        "title": "我医武双绝，体内还有一条龙",
+        "book_id": 1885468,
+        "url": "https://www.qimao.com/shuku/1885468/",
+        "author": "月辰",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E8%BE%B0_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "279.31万字",
+        "word_count": 2793100,
+        "heat": 57000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "姜晨，桃源村村长，村民们卧虎藏龙，他体内是真藏有一条龙！\n在他突破之际，一美女武道宗师将他推倒，竟助他突破到巅峰！\n他回归都市开启复仇之路，线索却指向未婚妻……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/632/1893830_360x480.jpg?time=1736496216",
+        "latest_chapter": " 第1327章  灭杀双皇，新的篇章（大结局）",
+        "updated_at": "2026-08-31 20:18:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

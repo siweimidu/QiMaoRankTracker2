@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "女总裁重生后，非逼我娶校花",
           "book_id": 12625923,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "女总裁重生后，非逼我娶校花",
-          "book_id": 12625923,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：主打“重生+职场+情感羁绊”的都市轻喜剧风格，强调人设反差带来的阅读爽感。\n**读者偏好**：读者热衷于快节奏、强社交互动以及带有一定“反套路”色彩的都市轻爽文。\n**变动解读**：热度环比小幅回落，排名下挫，表明该书在获客转化上进入存量博弈阶段。\n**值得关注**：此类题材依赖极强的情节钩子，需关注作者后续剧情是否能持续提供高密度的爽点输出。",
-      "ai_source": "ai"
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「都市生活」《女总裁重生后，非逼我娶校花》上升1位领涨。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "女总裁重生后，非逼我娶校花",
         "book_id": 12625923,
         "url": "https://www.qimao.com/shuku/12625923/",
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.9万字",
-        "word_count": 419000,
+        "word_count_text": "42.24万字",
+        "word_count": 422400,
         "heat": 30000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第177章   证据到手，秦震病危！",
-        "updated_at": "2026-09-03 16:48:04",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "latest_chapter": " 第178章  彻底清算，秦家生变！",
+        "updated_at": "2026-09-04 20:02:07",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

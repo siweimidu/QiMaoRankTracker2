@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-new-date",
+    "name": "女生新书日榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-05",
+  "category": {
+    "name": "青春校园",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 28000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "年上野",
+          "book_id": 10314366
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：校园题材向“高年龄差”与“极致拉扯”转型，强调上位者低头与情感博弈的张力。\n**读者偏好**：读者偏好带有“绿茶”、“禁欲”等标签的极端人设碰撞，追求“掉马”与“上位者破戒”的戏剧性快感。\n**变动解读**：新书《年上野》成功上榜，凭借“年龄差+网恋掉马”的经典爆款元素组合，迅速占据市场视野。\n**值得关注**：该题材正从单纯的校园纯爱向更具成人质感的都市言情风格靠拢，强反差人设是吸引流量的核心抓手。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "年上野",
+        "book_id": 10314366,
+        "url": "https://www.qimao.com/shuku/10314366/",
+        "author": "墨圭琰",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%9C%AD%E7%90%B0_14/",
+        "major": "现代言情",
+        "minor": "青春校园",
+        "major_id": 1,
+        "minor_id": 275,
+        "minor_url": "https://www.qimao.com/shuku/a-1-275-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.2万字",
+        "word_count": 382000,
+        "heat": 28000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【年龄差12岁+双洁+上位者低头+网恋掉马】\n【娇媚自私真绿茶VS禁欲凉薄假正经】\n姜未晞醉酒，爬上准表姐夫季东勋的床。\n那个北国行政院最年轻的参长，刻板严肃，端方持重。\n季东勋毫不留情将她扔下床，冷声喊她滚，当众斥责，让她无地自容。\n姜未晞为钱做网上陪聊，挑中大鱼，对方出手大方，花钱包她网恋。\n男人要求越来越过分。\n姜未晞咬牙出卖自己，一口一个老公喊的甜腻。\n网恋即将奔现。\n当躲在暗处看到那张熟悉的冷漠脸时，她吓得落荒而逃。\n隔着屏幕一口一个宝贝的男人，现实中却对她不假辞色，厌恶至极。\n姜未晞不敢继续招惹他，单方面切断联系。\n被网恋对象断崖式分手，一向冷静自持的季参长崩溃，险些发疯。\n后来，被识破身份的姜未晞瑟瑟发抖，没等到他的怒火，只等到他炽热的吻。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3439/10314366_360x480.jpg?time=1779711314",
+        "latest_chapter": " 第177章  他的好，他的坏，她都记得清楚",
+        "updated_at": "2026-09-03 23:41:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "青春校园"
+      }
+    ]
+  }
+}

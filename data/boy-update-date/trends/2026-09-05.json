@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-05",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 14,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "葬神渊",
+            "book_id": 2008158,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "葬神渊",
+            "book_id": 2008158,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势**：传统玄幻套路占据绝对主流，核心卖点集中在“废柴逆袭”、“金手指觉醒”与“女帝囚禁/复仇”元素。\n**读者偏好**：读者对高强度爽点需求明显，尤其是带有“杀伐果断”、“无敌流”标签且包含强冲突开局的作品更容易获得关注。\n**变动解读**：《葬神渊》凭借差异化的“女帝囚禁”开局实现排名上升，显示出读者对传统升级流中加入情感羁绊或虐心元素的接受度较高。\n**值得关注**：当前榜单整体热度平淡，建议关注具有强人设冲突的作品，此类题材在同质化竞争中更易突围。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "修仙从神秘小鼎开始",
+            "book_id": 1800823,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "rank_change": -3
+          },
+          {
+            "title": "众仙俯首",
+            "book_id": 1971590,
+            "rank_change": -1
+          },
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：呈现“凡人流”与“种田/系统辅助流”双强并立的局面，强调从微末崛起至登顶的过程。\n**读者偏好**：读者更倾向于具备“成长感”和“资源累积感”的作品，如通过金手指将废弃物转化为极品资源是核心爽点。\n**变动解读**：《修仙从神秘小鼎开始》排名回升，《九转仙葫》热度波动较大，反映出读者对长线养成类剧情的偏好正在进行内部迭代。\n**值得关注**：凡人流作品在当前榜单中占据重要地位，具备稳健的读者留存能力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "医仙，将军，少年侯！谁与争锋！",
+            "book_id": 12371697,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势**：以“穿越+身份反差+权谋/爽文”为主，侧重于草根逆袭与皇权博弈的结合。\n**读者偏好**：读者偏好带有轻喜剧色彩或强设定反差的题材，例如“假太监”、“痛觉共享”等具备话题性的创意设定。\n**变动解读**：榜单整体排名较稳，仅《天命纨绔》出现微调，说明该细分领域读者忠诚度高，且对创新性设定的包容性较强。\n**值得关注**：具备强人设互动（如主角与女帝的特殊关联）的作品更具竞争优势。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：市场进入存量博弈阶段，传统“系统+神医”类爽文生命周期较长，但缺乏创新驱动。\n**读者偏好**：受众倾向于具有极强反差感与复仇驱动的经典叙事，对“底层崛起”的模板化爽点仍有消费习惯。\n**变动解读**：《盖世神医》小幅下滑，反映出该细分赛道近期缺乏强力新书注入，整体热度表现平淡。\n**值得关注**：当前榜单缺乏高热度作品支撑，建议关注后续是否有具备“异能升级+都市隐匿”双重属性的爆款新书入局。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": 2
+          }
+        ],
+        "summary": "**题材趋势**：军事题材正从硬核战争转向“反套路、趣味化”风格，带有角色性格缺陷或“刺头”属性的主角更受青睐。\n**读者偏好**：读者更喜欢轻松诙谐、带有军营生活趣味与反差萌的“兵王”变体，追求爽点与幽默感的平衡。\n**变动解读**：《四次入伍》热度激增，排名大幅跃升，验证了“军营搞怪+反常规叙事”模式在当前市场的强劲号召力。\n**值得关注**：该书表现出极高的用户留存潜力，其“军营钉子户”的差异化人设是后续同类作品可参考的爆款逻辑。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：悬疑与诡异元素逐渐向“民俗恐怖”与“生存博弈”融合，强调环境压迫感与主角的冷静应对。\n**读者偏好**：受众偏好具有沉浸式恐怖氛围、强调“诡异规则”与“人性博弈”的硬核悬疑文，追求阅读时的心理刺激感。\n**变动解读**：《天黑请点灯》排名小幅上升，显示出该类题材在小众市场中具有较好的粘性与口碑支撑。\n**值得关注**：在“人吃人”背景下的生存逻辑设定，是此类文吸引读者的核心卖点，建议持续观察其长线留存表现。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "边关小卒：未婚妻抢功退婚，我反手封侯",
+            "book_id": 12560163,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「异世大陆」《边关小卒：未婚妻抢功退婚，我反手封侯》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生1984：我靠赶海打渔成首富",
+            "book_id": 1988961,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市生活」《重生1984：我靠赶海打渔成首富》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -6
+          }
+        ],
+        "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》热度-6。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

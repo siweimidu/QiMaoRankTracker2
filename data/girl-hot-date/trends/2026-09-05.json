@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-05",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 506350,
+    "total_heat": 10127000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 3
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 3
+          },
+          {
+            "title": "离婚后，沈总彻夜白头悔疯了",
+            "book_id": 9527521,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553,
+            "rank_change": -2
+          },
+          {
+            "title": "渣夫别跪了，夫人嫁顶级大佬啦",
+            "book_id": 1982356,
+            "rank_change": -1
+          },
+          {
+            "title": "玄学小祖宗：叼奶瓶算命全家宠",
+            "book_id": 1764909,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": 324000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": 31000
+          },
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553,
+            "heat_change": -31000
+          }
+        ],
+        "summary": "「总裁豪门」《八年冷淡你提离婚，我签字你疯什么》上升3位领涨；《薄总，婚后请节制！》下滑2位；《封总，太太想跟你离婚很久了》热度+324000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": -2
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -1
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "heat_change": 22000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -15000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「宫闱宅斗」《凰宫梦》上升1位领涨；《玉帐春》下滑2位；《抢我婚约嫁太子？我携孕肚嫁皇帝》热度+22000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

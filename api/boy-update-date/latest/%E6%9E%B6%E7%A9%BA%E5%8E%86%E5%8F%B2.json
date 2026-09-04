@@ -8,44 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天命纨绔",
           "book_id": 9839805,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "医仙，将军，少年侯！谁与争锋！",
-          "book_id": 12371697,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "heat_change": -1
-        },
-        {
-          "title": "天命纨绔",
-          "book_id": 9839805,
+          "title": "医仙，将军，少年侯！谁与争锋！",
+          "book_id": 12371697,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：以“穿越+特殊身份+权谋爽感”为核心，故事多围绕主角在特定政权背景下如何实现身份逆袭与权力掌控。\n**读者偏好**：读者偏好带有强反差感和博弈色彩的设定，如“假太监”、“痛觉相通”等，此类设定能迅速拉高读者的阅读期待。\n**变动解读**：榜单竞争进入胶着期，热度分布趋于平稳，排名变动主要反映了读者对不同爽点的审美轮换。\n**值得关注**：《天命纨绔》通过“痛觉共享”的强互动机制实现排名提升，这种以“情感/身体羁绊”作为权谋博弈筹码的写法值得进一步深挖。",
+      "summary": "**题材趋势**：以“穿越+身份反差+权谋/爽文”为主，侧重于草根逆袭与皇权博弈的结合。\n**读者偏好**：读者偏好带有轻喜剧色彩或强设定反差的题材，例如“假太监”、“痛觉共享”等具备话题性的创意设定。\n**变动解读**：榜单整体排名较稳，仅《天命纨绔》出现微调，说明该细分领域读者忠诚度高，且对创新性设定的包容性较强。\n**值得关注**：具备强人设互动（如主角与女帝的特殊关联）的作品更具竞争优势。",
       "ai_source": "ai"
     },
     "books": [
@@ -62,17 +51,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.4万字",
-        "word_count": 484000,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "48.84万字",
+        "word_count": 488400,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第208章  构陷",
-        "updated_at": "2026-09-04 00:12:14",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第210章  借刀",
+        "updated_at": "2026-09-05 00:12:15",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -91,24 +80,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "100.05万字",
-        "word_count": 1000500,
+        "word_count_text": "100.73万字",
+        "word_count": 1007300,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第298章  魏无忌斩杀马王爷！",
-        "updated_at": "2026-09-04 00:32:04",
+        "latest_chapter": " 第300章  秦王天子汇合！",
+        "updated_at": "2026-09-05 00:32:05",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -120,17 +109,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "168.68万字",
-        "word_count": 1686800,
+        "word_count_text": "169.34万字",
+        "word_count": 1693400,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第767章  被逼到悬崖边上了",
-        "updated_at": "2026-09-04 00:07:11",
-        "rank_change": 1,
-        "heat_change": -1,
+        "latest_chapter": " 第770章  失望了",
+        "updated_at": "2026-09-05 00:07:11",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

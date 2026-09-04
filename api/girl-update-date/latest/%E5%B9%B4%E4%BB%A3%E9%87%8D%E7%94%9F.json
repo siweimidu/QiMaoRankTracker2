@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 3,
+    "total_heat": 4,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "我才五岁，怎么就成军区团宠了",
-          "book_id": 12134931
-        }
-      ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+          "book_id": 12134931,
+          "rank_change": 3
+        },
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "一胎五宝，我成军属院顶流",
-          "book_id": 12655653,
+          "title": "我才五岁，怎么就成军区团宠了",
+          "book_id": 12134931,
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：聚焦“年代+军婚+萌宝”的复合型爽文，强调极致反差与系统加持。\n**读者偏好**：受众偏向于快节奏的“重生改命”与“团宠逆袭”模式，对家庭羁绊与爽感升级有强需求。\n**变动解读**：榜单波动较小，新书《我才五岁，怎么就成军区团宠了》展现出较强的入局竞争力，挤压了头部作品的排名空间。\n**值得关注**：幼崽文与年代背景的结合正成为新的流量增长点，作者应重点挖掘“童言无忌”与“年代反差”的爽点结合。",
+      "summary": "**题材趋势** 军婚背景下的“萌娃/团宠”与“多胎养育”成为主流，题材从单纯的家长里短向“极致反差”与“爽感升级”演变。\n**读者偏好** 读者更青睐带有系统加持、幼态视角下的复仇与反击，以及军属院背景带来的身份优越感。\n**变动解读** 在榜作品排名齐头并进，无掉榜风险；《我才五岁》热度与排名同步上扬，印证了“幼态团宠+重生复仇”的强劲市场潜力。\n**值得关注** 需进一步挖掘“年代+极致反差”的创新叙事，以保持在小类中较高的阅读粘性。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
         "title": "一胎五宝，我成军属院顶流",
         "book_id": 12655653,
         "url": "https://www.qimao.com/shuku/12655653/",
@@ -56,24 +56,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.46万字",
-        "word_count": 304600,
+        "word_count_text": "30.89万字",
+        "word_count": 308900,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第138章  瑶瑶，你穿军装太好看了！",
-        "updated_at": "2026-09-03 10:07:03",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第140章  这狗粮谁爱吃谁吃！",
+        "updated_at": "2026-09-04 10:27:03",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "title": "我才五岁，怎么就成军区团宠了",
         "book_id": 12134931,
         "url": "https://www.qimao.com/shuku/12134931/",
@@ -85,18 +85,18 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "56.91万字",
-        "word_count": 569100,
-        "heat": 2,
+        "word_count_text": "57.53万字",
+        "word_count": 575300,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "上辈子，亲妈为了给继姐筹嫁妆把阮晓春嫁给了一个家暴屠夫，最后她被活生生折磨死了，而最终得来亲妈一句叹息。\n“和她那个早死的傻爹一样命不好。”\n这一世，阮晓春重生了，看着护着自己的傻爹红了眼睛。\n亲妈踩着傻爹的功勋获得好工作，做梦！\n她带着傻爹闹上了军区，是谁让英雄流血又流泪？\n夺回工作，补贴和房子，撕开出轨亲妈的虚伪面具。\n那么喜欢给别人当后妈，滚远点吧！\n后来，给别人当后妈的女人家里鸡飞狗跳，而带着傻爹生活的小春宝却过得风生水起。\n“听说了吗？小春帮忙破了几十个人的盗窃团队！”\n“什么？不是说小春帮忙公安抓到了杀了五人的江洋大盗？”\n“你们这些消息都过时了，我听说公安部的亲自来聘请小春当专家，工资一年有一千块！！！”\n“不对！你们不知道阮家的傻子爹不傻了，还成了刑警呢！”\n一旁买菜路过的阮老太昂首挺胸：“是我家乖乖孙女哟~”\n众人酸溜溜：“......”\n这阮家真是走了狗屎运了，祖坟是装了原子弹吗，还带这么冒烟的？？\n原女主的亲妈：为什么？明明上辈子不是这样的，到底哪里出错了？\n休眠回来的系统：说好的犯罪大师培养系统，你跟我说你现在当条子老大了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
-        "latest_chapter": " 第210章  夕阳下的茵茵",
-        "updated_at": "2026-09-04 00:02:20",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第212章  卖掉了",
+        "updated_at": "2026-09-05 00:02:12",
+        "rank_change": 3,
+        "heat_change": 1,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

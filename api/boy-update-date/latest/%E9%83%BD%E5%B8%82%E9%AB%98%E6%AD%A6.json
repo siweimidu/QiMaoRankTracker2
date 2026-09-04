@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -27,19 +27,8 @@
           "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "heat_change": -93
-        },
-        {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "heat_change": 1
-        }
-      ],
-      "summary": "**题材趋势**：市场进入存量博弈阶段，缺乏新作注入，头部效应减弱，整体热度处于低位徘徊。\n**读者偏好**：读者对传统“系统+战神/神医”套路的审美疲劳加剧，留存读者的阅读粘性显著下降。\n**变动解读**：《盖世神医》虽有微幅热度增长但排名下挫，反映出老书在缺乏运营支撑下，难以维持高位流量。\n**值得关注**：建议重点观察《神武天下之睚眦》这类融合灾难重生元素的题材，验证其在冷门期能否通过差异化设定实现反弹。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：市场进入存量博弈阶段，传统“系统+神医”类爽文生命周期较长，但缺乏创新驱动。\n**读者偏好**：受众倾向于具有极强反差感与复仇驱动的经典叙事，对“底层崛起”的模板化爽点仍有消费习惯。\n**变动解读**：《盖世神医》小幅下滑，反映出该细分赛道近期缺乏强力新书注入，整体热度表现平淡。\n**值得关注**：当前榜单缺乏高热度作品支撑，建议关注后续是否有具备“异能升级+都市隐匿”双重属性的爆款新书入局。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,24 +45,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "418.5万字",
-        "word_count": 4185000,
+        "word_count_text": "418.95万字",
+        "word_count": 4189500,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1006章  世界之巅 杀之盟",
-        "updated_at": "2026-09-03 09:02:12",
+        "latest_chapter": " 第1007章  世界之巅 夜尽",
+        "updated_at": "2026-09-04 09:02:13",
         "rank_change": 0,
-        "heat_change": -93,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -85,17 +74,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "903.47万字",
-        "word_count": 9034700,
+        "word_count_text": "903.89万字",
+        "word_count": 9038900,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4407章  夭折？",
-        "updated_at": "2026-09-03 22:47:31",
+        "latest_chapter": " 第4409章  恋爱脑！",
+        "updated_at": "2026-09-04 23:07:28",
         "rank_change": -1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,

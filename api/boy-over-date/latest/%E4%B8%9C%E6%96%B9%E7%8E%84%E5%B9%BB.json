@@ -8,49 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 5,
-    "total_heat": 742000,
+    "count": 4,
+    "total_heat": 697000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "rank_change": 6
+          "title": "至尊剑帝",
+          "book_id": 215157,
+          "intro": "叶家世子叶青，为家族而战，却被剥夺血脉，关押天牢，九死一生。\n为了生存，叶青屠尽一切敌，踏着累累尸骨，闯出天牢，强势归来！\n一朝觉醒逆天血脉，参悟无上剑道，成绝世剑修！\n欠我的，你们都要还回来！"
         }
       ],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "噬神鼎",
           "book_id": 1868453,
-          "rank_change": -5
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "玲珑塔",
           "book_id": 1754203,
-          "heat_change": 23000
+          "heat_change": 11000
         },
         {
           "title": "噬神鼎",
           "book_id": 1868453,
-          "heat_change": -21000
+          "heat_change": -6000
         },
         {
           "title": "荒古圣体：在娘胎开始悟道",
           "book_id": 1849458,
-          "heat_change": 3000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：传统“废柴流”与“系统/神器流”依然是核心驱动，融合“女帝”、“胎穿”等强人设元素成为提升热度的关键。\n**读者偏好**：读者极度青睐快节奏、强反转的暴爽文，对“被迫沦为炉鼎”等带有冲突性的新颖开局有较高接受度。\n**变动解读**：《玲珑塔》凭借多女主与快节奏叙事实现大幅跃升，而《噬神鼎》等传统炼化流作品热度有所回落，显示出存量竞争中“人设差异化”的重要性。\n**值得关注**：作者“一丝凉意”表现强势，多本作品在榜，说明其对爽点节奏的精准把控已形成稳定的读者粘性。",
+      "summary": "**题材趋势** 市场进入存量博弈阶段，以“废柴流”、“系统/金手指流”及“胎穿流”为核心的传统网文框架依旧稳固。\n**读者偏好** 读者对“极致虐主后爆发”的爽点依赖度极高，尤其是融合了女帝、多女主等快节奏元素的爽文更具吸睛效应。\n**变动解读** 头部书籍热度稳定，但中腰部作品流动性增强，如《噬神鼎》凭借炼化万物的金手指设定保持上升势头，显示出读者对“养成+掠夺”升级模式的持续追捧。\n**值得关注** 具备明显“短剧/有声剧”适配属性的题材（如《玲珑塔》）在榜单中表现出的热度增量，预示着跨媒介联动已成为维持长尾热度的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -69,15 +69,15 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 405000,
-        "platform_trend": "drop",
+        "heat": 406000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -98,15 +98,15 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 104000,
+        "heat": 115000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
-        "rank_change": 6,
-        "heat_change": 23000,
+        "rank_change": 0,
+        "heat_change": 11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -127,7 +127,7 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 91000,
+        "heat": 93000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
@@ -135,14 +135,14 @@
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -156,44 +156,15 @@
         "status": "已完结",
         "word_count_text": "416.71万字",
         "word_count": 4167100,
-        "heat": 89000,
+        "heat": 83000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": -5,
-        "heat_change": -21000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "东方玄幻"
-      },
-      {
-        "rank": 20,
-        "title": "至尊剑帝",
-        "book_id": 215157,
-        "url": "https://www.qimao.com/shuku/215157/",
-        "author": "一丝凉意",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E4%B8%9D%E5%87%89%E6%84%8F_14/",
-        "major": "玄幻奇幻",
-        "minor": "东方玄幻",
-        "major_id": 202,
-        "minor_id": 37,
-        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "780.56万字",
-        "word_count": 7805600,
-        "heat": 53000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "叶家世子叶青，为家族而战，却被剥夺血脉，关押天牢，九死一生。\n为了生存，叶青屠尽一切敌，踏着累累尸骨，闯出天牢，强势归来！\n一朝觉醒逆天血脉，参悟无上剑道，成绝世剑修！\n欠我的，你们都要还回来！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/215211_360x480.jpg?time=1638352955",
-        "latest_chapter": " 第3523章  上苍之上",
-        "updated_at": "2026-08-19 11:05:25",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

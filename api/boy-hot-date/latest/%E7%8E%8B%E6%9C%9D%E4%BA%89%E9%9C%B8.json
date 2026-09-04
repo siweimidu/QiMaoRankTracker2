@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 278000,
+    "total_heat": 289000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：王朝争霸类目目前呈现出高度集中的头部垄断态势，仅有《大周第一武夫》单本支撑榜单。\n**读者偏好**：读者倾向于结合“穿越、武夫、权谋”元素的爽文，对出身微末却能通过个人武力与权谋改变世道的英雄叙事有较高粘性。\n**变动解读**：本期榜单稳定性过高，缺乏新鲜血液注入，排名微跌反映了该书在面对其他热门赛道竞争时的流量波动，未见明显新增供给。\n**值得关注**：需警惕该细分赛道因缺乏新品更迭而导致的流量萎缩，后续重点观察是否有具备强冲突、快节奏的同类竞品补位。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": 11000
+        }
+      ],
+      "summary": "**题材趋势**：传统王朝争霸题材在七猫生态中表现稳健，强情节、快节奏的权谋与武道融合模式仍是核心驱动力。\n**读者偏好**：读者更青睐带有“底层逆袭”色彩的开局，通过身份反差（杂役到武夫）迅速拉高期待感。\n**变动解读**：本期《大周第一武夫》排名稳步上扬，热度增长1.1万，显示出该书在存量市场中具备较强的用户粘性与长尾效应。\n**值得关注**：该书通过高烈度冲突切入王朝背景，后续需关注其在争霸线上的叙事张力能否持续支撑热度增长。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 11,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -45,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "199.69万字",
-        "word_count": 1996900,
-        "heat": 278000,
-        "platform_trend": "drop",
+        "word_count_text": "201.8万字",
+        "word_count": 2018000,
+        "heat": 289000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第925章  太阴神教",
-        "updated_at": "2026-09-03 18:10:14",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第935章  暴露（十更完毕！）",
+        "updated_at": "2026-09-05 00:01:14",
+        "rank_change": 2,
+        "heat_change": 11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

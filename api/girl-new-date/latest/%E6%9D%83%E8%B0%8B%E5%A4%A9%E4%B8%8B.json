@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 30000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "本侍卫是娇花",
-          "book_id": 12090615
+          "book_id": 12090615,
+          "rank_change": 4
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：以“女扮男装+宫廷轻喜剧”为核心，将严肃的权谋背景与轻松的恋爱互动解构，降低了阅读门槛。\n**读者偏好**：倾向于快节奏、高糖度的互动，尤其是“误会系”带来的身份错位感，满足了读者对于轻松爽文的需求。\n**变动解读**：《本侍卫是娇花》作为新上榜作品，以鲜明的“男女主脑回路冲突”切入，迅速占据榜位，表现出极强的受众吸引力。\n**值得关注**：轻快幽默的权谋文在女性受众中具有较强市场，后续作品可深耕“宫廷职场+情感错位”的创新组合。",
+      "heat_leaders": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：权谋题材在本榜单中呈现小众精品化趋势，作品多倾向于融合“女扮男装”与“宫廷欢喜冤家”元素。\n**读者偏好**：读者更倾向于轻快、带有反差萌的权谋叙事，而非沉重的政治博弈，强调主角在身份错位下的情感拉扯。\n**变动解读**：《本侍卫是娇花》热度稳步回升，排名上升4位，显示出该类读者对于快节奏、强情绪互动作品的高留存率。\n**值得关注**：在权谋框架下注入“侍卫VS太子”的身份反差与情感张力，是该赛道突围的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 16,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -46,16 +53,16 @@
         "status": "连载中",
         "word_count_text": "31.65万字",
         "word_count": 316500,
-        "heat": 29000,
+        "heat": 30000,
         "platform_trend": "rise",
-        "badge": "飙升60名",
+        "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
         "latest_chapter": " 第128章  何以如此恨我",
         "updated_at": "2026-09-03 23:47:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 4,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "权谋天下"

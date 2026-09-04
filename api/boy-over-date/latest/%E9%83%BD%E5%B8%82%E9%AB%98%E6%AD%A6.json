@@ -8,43 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 370000,
+    "total_heat": 384000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "最狂邪医",
-          "book_id": 1821655,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "小司机的美女总裁老婆",
           "book_id": 2052700,
-          "heat_change": 7000
+          "heat_change": 17000
         },
         {
           "title": "最狂邪医",
           "book_id": 1821655,
-          "heat_change": -2000
-        },
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "heat_change": -1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：以“赘婿/小司机+绝美总裁”的都市情感爽文，与“下山强者+医术/婚书”的传统套路文占据统治地位。\n**读者偏好**：读者高度依赖短剧IP带来的流量转化，对具备“短剧化”叙事特征（燃、爽、嗨皮）的作品有天然亲和力。\n**变动解读**：榜单整体处于高度固化期，头部作品热度微调，显示出此类题材已进入成熟的存量消耗阶段，缺乏新内容冲击。\n**值得关注**：作品的跨媒介联动（如短剧上线）是维持热度的重要手段，未来应重点关注具备强视听转化潜力的作品。",
+      "summary": "**题材趋势** 题材高度同质化，以“都市赘婿/小人物逆袭”搭配“神医/武道”的组合拳仍是当前都市赛道的流量基石。\n**读者偏好** 读者偏好强节奏的复仇爽感与“身边人变顶级大佬”的反差设定，对带有短剧标签的作品有天然的点击冲动。\n**变动解读** 榜单结构趋于固化，头部作品热度断层严重，且多部作品通过前置“短剧上线”信息引导流量转化，市场竞争已从单纯的内容比拼转向宣发资源的博弈。\n**值得关注** 内容创作与短剧联动模式的深度绑定，尤其是《镇天神医》类自带短剧光环的作品，正通过多渠道导流形成稳固的流量闭环。",
       "ai_source": "ai"
     },
     "books": [
@@ -63,7 +52,7 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 177000,
+        "heat": 194000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
@@ -71,7 +60,7 @@
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": 17000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -100,7 +89,7 @@
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -121,15 +110,15 @@
         "status": "已完结",
         "word_count_text": "523.03万字",
         "word_count": 5230300,
-        "heat": 65000,
+        "heat": 62000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁若招惹，唯有一死。\n《重生 1976，从退婚娶资本家大小姐开始》新书启航，七猫搜索即可阅读！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

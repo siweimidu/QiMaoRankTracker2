@@ -8,27 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 6,
+    "total_heat": 0,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：短剧联动成为引流核心手段，自带“爆爽”标签的强剧情IP在榜单中具备极强的统治力。\n**读者偏好**：读者追求极致的爽点反馈，偏好“复仇+豪门+短剧原著”的快节奏叙事，抗拒拖沓与圣母情节。\n**变动解读**：新上榜的《SSSSSSSSSSSSS级镇狱狂龙》以单本之姿撑起该类目热度，证明了“短剧效应”对网文转化的强力拉动。\n**值得关注**：该模式是当前流量变现的标杆，需关注此类“短剧原著”类书籍在后续更新中的热度留存表现。",
-      "ai_source": "ai"
+      "heat_leaders": [
+        {
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
+          "heat_change": -6
+        }
+      ],
+      "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》热度-6。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -44,18 +45,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "322.15万字",
-        "word_count": 3221500,
-        "heat": 6,
-        "platform_trend": "rise",
+        "word_count_text": "322.84万字",
+        "word_count": 3228400,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1394章  下家",
-        "updated_at": "2026-09-03 07:02:13",
+        "latest_chapter": " 第1397章  我们有重要的事情做",
+        "updated_at": "2026-09-04 07:02:12",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -6,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

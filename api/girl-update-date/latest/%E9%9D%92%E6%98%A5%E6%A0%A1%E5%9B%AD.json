@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-update-date",
+    "name": "女生更新日榜",
+    "channel": "female",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-05",
+  "category": {
+    "name": "青春校园",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 0,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "今日宜结婚",
+          "book_id": 12908187
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：校园题材目前处于极度冷门期，榜单流动性极低，市场竞争压力较小。\n**读者偏好**：受众倾向于带有强烈冲突感的“追夫”及“破镜重圆”类设定，对强情绪驱动的叙事更感兴趣。\n**变动解读**：新上榜的《今日宜结婚》以“强取豪夺”式开篇切入，通过极具反差的互动拉动读者关注，虽目前总热度显示为0，但其题材标签具备一定市场潜力。\n**值得关注**：建议重点观察该书后续在“先婚后爱”或“久别重逢”元素下的留存表现，判断校园题材是否能够通过高浓度情感冲突实现破局。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 14,
+        "title": "今日宜结婚",
+        "book_id": 12908187,
+        "url": "https://www.qimao.com/shuku/12908187/",
+        "author": "知零",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%9F%A5%E9%9B%B6_14/",
+        "major": "现代言情",
+        "minor": "青春校园",
+        "major_id": 1,
+        "minor_id": 275,
+        "minor_url": "https://www.qimao.com/shuku/a-1-275-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "21.73万字",
+        "word_count": 217300,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "最新上榜",
+        "intro": "许宛泱追周叙的时候，追到整个C大人尽皆知。\n可她怎么都捂不热那块冰。\n出国前，她借着酒劲干了这辈子最疯的事——\n“追不到，那就睡了他。”\n一夜荒唐。\n此后拉黑所有联系方式，飞英国。\n-\n周叙醒来，身边是空的。\n空气里还剩一点她的味道。\n桌上留了个钱包，里面塞着一张男明星的公式照。\n那张脸，跟他有几分像。\n他捏着照片，指节发白。\n“许宛泱，你他妈把我当替身。”\n-\n再重逢。\n他用一场蓄谋已久的闪婚将人留在身边。\n新婚夜，她钱包里照片本人的信息追了过来：\n“泱泱，你真的爱他吗？”\n后来，一贯冷静自持的男人，第一次失了态。\n他抵住她的脖颈，声音发颤：\n“许宛泱，我当初到底是不是替身？”\n“算了，我是想问，你到底爱不爱我？”\n-\n“蜉蝣蔽朝夕，我只想抓住你。”\n-\n【明媚小公主×闷骚腹黑男｜破镜重圆｜双c】\n· 无替身无白月光\n· 人设不完美\n· 穿插部分校园回忆",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4303/12908187_360x480.jpg?time=1784965484",
+        "latest_chapter": " 第89章  别再气我了许宛泱",
+        "updated_at": "2026-09-04 08:02:19",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "青春校园"
+      }
+    ]
+  }
+}

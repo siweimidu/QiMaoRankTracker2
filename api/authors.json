@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T07:03:24",
-  "date": "2026-09-04",
+  "generated_at": "2026-09-05T06:50:57",
+  "date": "2026-09-05",
   "authors": [
     {
       "author": "化十",
@@ -11,6 +11,17 @@
       "titles": [
         "荒古武神",
         "吞天神体"
+      ]
+    },
+    {
+      "author": "骑着猫的小鱼干",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 7590000,
+      "titles": [
+        "大佬归来，假千金她不装了",
+        "小姑奶奶下山了，在桥洞底下摆摊算命"
       ]
     },
     {
@@ -66,17 +77,6 @@
       "titles": [
         "众仙俯首",
         "盗梦千年"
-      ]
-    },
-    {
-      "author": "一丝凉意",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E4%B8%9D%E5%87%89%E6%84%8F_14/",
-      "books": 2,
-      "boards": 2,
-      "total_heat": 2739000,
-      "titles": [
-        "至尊剑帝",
-        "玲珑塔"
       ]
     },
     {
@@ -144,7 +144,7 @@
       "author": "琼玉",
       "author_url": "https://www.qimao.com/zuozhe/%E7%90%BC%E7%8E%89_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 24038000,
       "titles": [
         "朱门春闺"

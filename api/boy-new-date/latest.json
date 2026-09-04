@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "types": [
     {
       "name": "全部",
@@ -49,6 +49,10 @@
     {
       "name": "诸天万界",
       "url": "api/boy-new-date/latest/%E8%AF%B8%E5%A4%A9%E4%B8%87%E7%95%8C.json"
+    },
+    {
+      "name": "商战职场",
+      "url": "api/boy-new-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     }
   ]
 }
