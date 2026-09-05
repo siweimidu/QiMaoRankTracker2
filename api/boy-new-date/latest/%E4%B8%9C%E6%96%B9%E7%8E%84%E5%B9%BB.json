@@ -8,38 +8,37 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 1,
-    "total_heat": 61000,
+    "count": 2,
+    "total_heat": 98000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "镇魔司第一狠人",
+          "book_id": 12802632
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "九帝塔",
           "book_id": 11901855,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "九帝塔",
-          "book_id": 11901855,
-          "heat_change": 6000
-        }
-      ],
-      "summary": "**题材趋势**：传统玄幻内核叠加“多女帝”与“复仇流”元素，强调极致的压抑与反转快感。\n**读者偏好**：受众倾向于具有强烈冲突感的“天才陨落+至宝加持”开篇，偏爱群像式爽点挖掘。\n**变动解读**：本期榜单处于稳态，头部作品《九帝塔》热度增长6000，显示出其在存量用户中具备较强的长尾吸粉能力。\n**值得关注**：该题材的核心竞争力在于“爽点节奏”的把控，建议后续重点观察传统玄幻与多女主情感线的融合深度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统玄幻正向“系统化”与“快节奏”转型，以“废柴逆袭”为基础框架，融合女帝、镇魔等流行元素提升吸睛度。\n**读者偏好**：读者倾向于带有明确系统加持的成长流，且对“遭人陷害后通过努力翻盘”的复仇叙事具有高度期待。\n**变动解读**：新书《镇魔司第一狠人》入榜，挤压了传统题材《九帝塔》的生存空间，反映出市场对新颖背景设定（镇魔司）的接纳度。\n**值得关注**：关注系统文与传统玄幻赛道的融合趋势，以及“天道酬勤”类设定在快节奏阅读中的表现力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -51,19 +50,48 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.46万字",
-        "word_count": 424600,
+        "word_count_text": "42.87万字",
+        "word_count": 428700,
         "heat": 61000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第205章  元剑真人，剑主人皇",
-        "updated_at": "2026-09-04 21:07:03",
-        "rank_change": 1,
-        "heat_change": 6000,
+        "latest_chapter": " 第207章  驾鹤西去，官瘾很大",
+        "updated_at": "2026-09-05 18:37:03",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 16,
+        "title": "镇魔司第一狠人",
+        "book_id": 12802632,
+        "url": "https://www.qimao.com/shuku/12802632/",
+        "author": "天秀",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E7%A7%80_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.68万字",
+        "word_count": 366800,
+        "heat": 37000,
+        "platform_trend": "rise",
+        "badge": "飙升69名",
+        "intro": "妖魔乱世，哀鸿遍野。\n许夜穿越成镇魔司官吏之子，可惜天赋平平无法修炼。\n乱世之中，命如草芥，父辈以命换来的父荫，却被他人当做平步青云的捷径，以命要挟，好在天道酬勤系统觉醒。\n从此天赋不再是唯一，只要努力必有回报。\n别人拼死也无法突破的境界，许夜无视境关直接突破。\n别人无法修炼的功法武技，许夜肝够经验轻松掌握。\n别人做不到的，他能轻松做到！\n别人能做到的，他能直接超越！\n天道酬勤，一证永证！\n若干年后，许夜举刀向天：“我这一刀下，万年功力，这苍天挡得住吗？”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802632_360x480.jpg?time=1785153441",
+        "latest_chapter": " 第175章  你看你看！他又装起来了！",
+        "updated_at": "2026-09-05 18:49:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
       }

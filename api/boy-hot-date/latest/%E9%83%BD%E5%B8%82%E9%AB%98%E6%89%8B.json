@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 1158000,
+    "total_heat": 1162000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "警报！真龙出狱！",
           "book_id": 1834789,
-          "heat_change": -13000
+          "heat_change": 11000
         },
         {
           "title": "傲世潜龙",
           "book_id": 207105,
-          "heat_change": 5000
-        },
-        {
-          "title": "舔狗反派只想苟，女主不按套路走！",
-          "book_id": 1710753,
-          "heat_change": 2000
+          "heat_change": -7000
         }
       ],
-      "summary": "**题材趋势**：都市爽文呈现两极分化，一方面是经典的“出狱/回归”流，另一方面是融入反套路元素的“穿书反派”流。\n**读者偏好**：读者对强冲突、快节奏的剧情需求极大，且对具备影视化改编基础（短剧原著）的作品表现出明显的偏爱。\n**变动解读**：榜单结构趋于固化，头部作品虽然热度小幅波动，但整体排名变动较小，市场进入平稳期。\n**值得关注**：《警报！真龙出狱！》作为短剧原著稳坐榜首，印证了都市高手题材与短剧生态的高度适配性与强联动效应。",
+      "summary": "**题材趋势**：经典“狱中归来”与“反派逆袭”双轨并行，短剧IP化已成为该赛道获取头部流量的必经之路。\n**读者偏好**：读者对于爽文套路化（如监狱神医、反套路反派）的接受度极高，倾向于快节奏、强冲突的剧情推进。\n**变动解读**：榜单结构极其稳定，头部作品《警报！真龙出狱！》依靠短剧流量效应持续吸热，反派文表现出较强韧性。\n**值得关注**：需警惕榜单固化风险，建议关注反派流题材在逻辑反转上的创新尝试。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +56,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "368.76万字",
-        "word_count": 3687600,
-        "heat": 610000,
-        "platform_trend": "drop",
+        "word_count_text": "369.18万字",
+        "word_count": 3691800,
+        "heat": 621000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1796章  拦路截杀",
-        "updated_at": "2026-09-05 01:47:13",
+        "latest_chapter": " 第1798章  沈白馨的告知",
+        "updated_at": "2026-09-05 20:57:14",
         "rank_change": 0,
-        "heat_change": -13000,
+        "heat_change": 11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "舔狗反派只想苟，女主不按套路走！",
         "book_id": 1710753,
         "url": "https://www.qimao.com/shuku/1710753/",
@@ -90,17 +85,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "625.98万字",
-        "word_count": 6259800,
+        "word_count_text": "626.4万字",
+        "word_count": 6264000,
         "heat": 281000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2633章  老熟人了",
-        "updated_at": "2026-09-04 00:41:19",
-        "rank_change": -1,
-        "heat_change": 2000,
+        "latest_chapter": " 第2635章  折寿之门",
+        "updated_at": "2026-09-05 21:07:20",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -119,17 +114,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "822.62万字",
-        "word_count": 8226200,
-        "heat": 267000,
-        "platform_trend": "rise",
+        "word_count_text": "822.83万字",
+        "word_count": 8228300,
+        "heat": 260000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4036章  有遗言么",
-        "updated_at": "2026-09-04 16:02:26",
+        "latest_chapter": " 第4037章  只身前往",
+        "updated_at": "2026-09-05 13:37:26",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

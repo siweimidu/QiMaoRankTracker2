@@ -8,43 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 2,
-    "total_heat": 163000,
+    "total_heat": 160000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "rank_change": -2
-        },
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": -8000
-        },
-        {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "heat_change": -2000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：校园题材目前处于存量盘整期，核心叙事高度集中在“恋爱日常”与“重生怀旧”两大刚需赛道。\n**读者偏好**：读者对纯粹的甜宠治愈与“重生+搞钱+追妻”的爽点结合体表现出极高粘性，期待高情绪价值。\n**变动解读**：头部作品热度均出现下滑，显示出该细分领域缺乏新鲜血液补充，市场对现有书目的审美疲劳初显。\n**值得关注**：需警惕榜单萎缩风险，后续作品若无强力创新点（如职场化转型或新颖人设），热度流失或将加剧。",
+      "summary": "**题材趋势**：校园题材目前处于存量盘整期，重回青春与商业搞钱相结合的“怀旧+爽文”模式是当前主流。\n**读者偏好**：读者高度青睐“治愈系恋爱”与“重生弥补遗憾”的复合型内容，强情感共鸣是留存核心。\n**变动解读**：本期榜单结构极度稳定，无新书入榜，头部作品热度小幅回落，反映出该品类进入长尾阅读周期。\n**值得关注**：建议重点观察《重生2000》等强商业属性作品的后续热度波动，判断读者对于“搞钱+恋爱”双线叙事的审美疲劳阈值。",
       "ai_source": "ai"
     },
     "books": [
@@ -70,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": -2,
-        "heat_change": -8000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -92,15 +76,15 @@
         "status": "已完结",
         "word_count_text": "429.99万字",
         "word_count": 4299900,
-        "heat": 81000,
+        "heat": 78000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": -2,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "categories": [
     {
       "name": "都市高武",
@@ -130,6 +130,11 @@
       "name": "末世求生",
       "major": "幻想言情",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
+    },
+    {
+      "name": "现代悬疑",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     }
   ]
 }

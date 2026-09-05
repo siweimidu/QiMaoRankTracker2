@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 1
+          "heat_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：悬疑与诡异元素逐渐向“民俗恐怖”与“生存博弈”融合，强调环境压迫感与主角的冷静应对。\n**读者偏好**：受众偏好具有沉浸式恐怖氛围、强调“诡异规则”与“人性博弈”的硬核悬疑文，追求阅读时的心理刺激感。\n**变动解读**：《天黑请点灯》排名小幅上升，显示出该类题材在小众市场中具有较好的粘性与口碑支撑。\n**值得关注**：在“人吃人”背景下的生存逻辑设定，是此类文吸引读者的核心卖点，建议持续观察其长线留存表现。",
+      "summary": "**题材趋势** 奇门秘术类目前处于极度冷门期，市场供给与活跃度极低。\n**读者偏好** 读者倾向于带有民俗诡异、生存惊悚元素的题材，对“人吃人”等极具冲突感的暗黑风格有一定关注度。\n**变动解读** 榜单仅存一书且热度归零，表明该细分赛道在七猫男生频道正面临严重的流量缺口或审核调整。\n**值得关注** 关注《天黑请点灯》后续热度是否回升，以判断该题材是否存在潜在的读者复苏空间。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "460.22万字",
-        "word_count": 4602200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "461.23万字",
+        "word_count": 4612300,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1689章  罗显神会来！",
-        "updated_at": "2026-09-04 06:57:11",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第1693章  疯狂的黑罗刹！",
+        "updated_at": "2026-09-05 06:57:12",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

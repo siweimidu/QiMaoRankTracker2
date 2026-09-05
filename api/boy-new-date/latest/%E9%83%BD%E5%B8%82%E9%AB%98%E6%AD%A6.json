@@ -8,33 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 82000,
+    "total_heat": 80000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
           "book_id": 12514650,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "heat_change": -4000
+          "heat_change": -1000
+        },
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：高武世界观融合“父子养成”与“战神回归”元素，爽点向极度细分化发展。\n**读者偏好**：读者倾向于快节奏的战神复仇叙事，以及极具反差感的“严父养成”强人设。\n**变动解读**：尽管头部作品热度略有回落，但整体排名表现稳定，显示出该题材在都市赛道依然具备极强的抗压性。\n**值得关注**：《高武严父，永远比儿子高五个境界》的强设定叙事，是目前都市高武类产品差异化突围的关键路径。",
+      "summary": "**题材趋势**：高武题材已进入“设定创新期”，通过“父子养成”与“监狱背景”等反套路设定，增强故事的戏剧张力与爽点密度。\n**读者偏好**：读者喜爱强人设、高反差的爽文，既看重主角的实力碾压，也关注其在社会关系（如父子、师徒）中的特殊地位。\n**变动解读**：由于缺乏新书冲击，存量书籍热度略有回落，市场处于平稳调整期，头部效应依然显著。\n**值得关注**：《高武严父》这类以“父子双强”为核心的养成类爽文，其差异化设定是当前高武题材突破同质化的关键点。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,24 +56,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.87万字",
-        "word_count": 458700,
-        "heat": 50000,
+        "word_count_text": "46.5万字",
+        "word_count": 465000,
+        "heat": 49000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第217章  王腾的惊愕！！",
-        "updated_at": "2026-09-05 00:07:07",
+        "latest_chapter": " 第220章  二品武者，修行成本加大！",
+        "updated_at": "2026-09-06 00:07:07",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -80,17 +85,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.81万字",
-        "word_count": 478100,
-        "heat": 32000,
+        "word_count_text": "48.41万字",
+        "word_count": 484100,
+        "heat": 31000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第220章  血压飙升的洪太尉",
-        "updated_at": "2026-09-04 00:04:03",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第223章  妖魔封印松动，准备前往东州",
+        "updated_at": "2026-09-05 21:30:07",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

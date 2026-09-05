@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
-    "total_heat": 551000,
+    "total_heat": 575000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,41 +21,46 @@
       "dropped_books": [],
       "top_risers": [
         {
+          "title": "让你当个替身，你咋君临天下",
+          "book_id": 12647139,
+          "rank_change": 2
+        },
+        {
           "title": "本王只想就藩，皇兄竟逼我造反",
           "book_id": 12818454,
-          "rank_change": 2
+          "rank_change": 1
+        },
+        {
+          "title": "我一人一刀，横扫边军",
+          "book_id": 12312078,
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
           "title": "边军第一悍卒",
           "book_id": 12086658,
-          "rank_change": -3
-        },
-        {
-          "title": "我一人一刀，横扫边军",
-          "book_id": 12312078,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "诗仙，诗圣，镇国公！",
-          "book_id": 11834034,
-          "heat_change": -21000
+          "title": "让你当个替身，你咋君临天下",
+          "book_id": 12647139,
+          "heat_change": 67000
         },
         {
-          "title": "本王只想就藩，皇兄竟逼我造反",
-          "book_id": 12818454,
-          "heat_change": 15000
+          "title": "诗仙，诗圣，镇国公！",
+          "book_id": 11834034,
+          "heat_change": -43000
         },
         {
           "title": "边军第一悍卒",
           "book_id": 12086658,
-          "heat_change": -12000
+          "heat_change": -9000
         }
       ],
-      "summary": "**题材趋势**：权谋斗争与“替身/造反”类爽文占据绝对主流，穿越者改写王朝格局的设定持续走俏。\n**读者偏好**：读者更青睐带有强冲突、快节奏打脸以及“软饭硬吃”或“被动造反”等反套路爽点的作品。\n**变动解读**：头部书籍热度整体回落，但《本王只想就藩，皇兄竟逼我造反》凭借强冲突的剧情逆势上扬，显示出读者对“被迫崛起”题材的高度粘性。\n**值得关注**：边军题材书目排名下滑，说明当前市场对“从军流”的审美疲劳，创作者需寻找更具新意的切入点。",
+      "summary": "**题材趋势**：权谋爽文与“反套路”历史文占据主导，强调极致的爽点输出与快节奏剧情推进。\n**读者偏好**：读者热衷于身份反差（如替身、皇子）与快节奏的打脸虐渣，对带有“女帝”、“将门女”等强情绪价值的元素有较高留存度。\n**变动解读**：头部作品热度出现分化，替身类题材展现出极强的爆发力，排名持续攀升，而纯粹的边军题材热度略有回落，显示读者更青睐带有强社交属性的爽文。\n**值得关注**：《让你当个替身，你咋君临天下》增长势头最猛，其“身份错位+情感纠葛”的设定是当前拉新留存的核心驱动力。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,24 +77,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.86万字",
-        "word_count": 358600,
-        "heat": 225000,
+        "word_count_text": "36.29万字",
+        "word_count": 362900,
+        "heat": 182000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\n继母陷害，亲爹驱逐。\n本来只想做点小生意，潇洒的过完这一生，没想到……\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
-        "latest_chapter": " 第165章  金殿弹劾",
-        "updated_at": "2026-09-04 10:37:03",
+        "latest_chapter": " 第167章  陈长安的条件",
+        "updated_at": "2026-09-05 14:02:04",
         "rank_change": 0,
-        "heat_change": -21000,
+        "heat_change": -43000,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "让你当个替身，你咋君临天下",
         "book_id": 12647139,
         "url": "https://www.qimao.com/shuku/12647139/",
@@ -101,24 +106,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.9万字",
-        "word_count": 369000,
-        "heat": 103000,
+        "word_count_text": "37.31万字",
+        "word_count": 373100,
+        "heat": 170000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\n\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\n\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\n\n　　一开始皇帝是想用林玄削弱外戚，结果事情越来越不对。\n\n　　乾帝：“太子，你六个摩托化兵团，真的是来京城给朕贺寿的？”\n\n　　太子妃：“林玄，我闺蜜是你的人，就连她嫂嫂……”\n\n　　林玄双手插兜，北狄公主肚子都大了，想让我给她个名分呢！\n\n怎么办？挺急的！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
-        "latest_chapter": " 第174章  灭张家李家",
-        "updated_at": "2026-09-04 08:37:03",
-        "rank_change": 0,
-        "heat_change": 3000,
+        "latest_chapter": " 第176章  朕还没死呢！",
+        "updated_at": "2026-09-05 08:37:03",
+        "rank_change": 2,
+        "heat_change": 67000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "本王只想就藩，皇兄竟逼我造反",
         "book_id": 12818454,
         "url": "https://www.qimao.com/shuku/12818454/",
@@ -130,24 +135,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.91万字",
-        "word_count": 419100,
-        "heat": 87000,
+        "word_count_text": "42.59万字",
+        "word_count": 425900,
+        "heat": 92000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越十年，只想当个闲散九皇子的陆渊，万万没想到自己竟被二哥算计，跟未来的皇嫂、将门女战神苏玉灵生米煮成了熟饭！\n二哥带着带刀侍卫来“抓奸”？\n陆渊反手就是一套夺命王八拳，直接把二皇子干成了全身裹白布的“木乃伊”！\n面对暴怒要杀头的皇帝老爹，陆渊不慌不忙地掏出一张“马蹄铁”图纸：“父皇息怒！老神仙托梦，只要儿子多娶漂亮媳妇多生娃，就赐下强国至宝，保大雍万世不衰！这是行房后的新手大礼包！”\n皇帝看了看能让骑兵战力翻倍的图纸，又看了看担架上残废的二儿子，猛地一拍龙书案：“来人！赐婚！必须赐婚！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12818454_360x480.jpg?time=1784194022",
-        "latest_chapter": " 第190章  姐妹一起伺候，你能受得了吗？",
-        "updated_at": "2026-09-04 08:50:05",
-        "rank_change": 2,
-        "heat_change": 15000,
+        "latest_chapter": " 第193章  今晚教你们吃汉堡包",
+        "updated_at": "2026-09-05 14:41:03",
+        "rank_change": 1,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "边军第一悍卒",
         "book_id": 12086658,
         "url": "https://www.qimao.com/shuku/12086658/",
@@ -159,24 +164,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.05万字",
-        "word_count": 430500,
-        "heat": 76000,
+        "word_count_text": "43.52万字",
+        "word_count": 435200,
+        "heat": 67000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "权谋+边军+热血+爽文\n现代青年唐舜魂穿战乱年代，成为边疆小兵。七国争霸，民不聊生，他刚睁眼就在尸堆里爬行。  \n杀敌立功升什长，赏了个美人，却要率九人断后送死。  \n从什长起步，步步升官，扮猪吃虎，暗中扩张，势力席卷乡镇县城。  \n手握兵权，心藏大志，一边平定内乱，一边对抗强国。最终扫灭七国，一统天下，登基为帝。  \n美人变皇后，兄弟成重臣，一个现代人的古代逆袭路就此封神。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1787628489",
-        "latest_chapter": " 第192章  沉冤终得见天日",
-        "updated_at": "2026-09-04 23:14:04",
-        "rank_change": -3,
-        "heat_change": -12000,
+        "latest_chapter": " 第194章  恃权终落断头台",
+        "updated_at": "2026-09-05 20:41:04",
+        "rank_change": -1,
+        "heat_change": -9000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "我一人一刀，横扫边军",
         "book_id": 12312078,
         "url": "https://www.qimao.com/shuku/12312078/",
@@ -188,17 +193,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.15万字",
-        "word_count": 391500,
-        "heat": 60000,
+        "word_count_text": "39.81万字",
+        "word_count": 398100,
+        "heat": 64000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "谁能想到，穿越第一天，就差点被人下锅烹煮？\n大武王朝北境，林阳穿越而来便身陷死局。\n为了活命，他以命相搏，斩杀数名军卒，硬生生拿下了整座边堡。\n利用现代知识，开垦冻土发展大棚种植，发掘煤矿冶炼战刀铠甲。\n灭山匪、收流民，打蛮人、抗边军。\n林阳凭借一己之力，带领十名美娇娘白手起家，将整座边堡打造为了乱世第一堡",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4105/12312078_360x480.jpg?time=1786812366",
-        "latest_chapter": " 第174章  有朝一日，你会不会去见她！",
-        "updated_at": "2026-09-04 19:53:03",
-        "rank_change": -2,
-        "heat_change": 1000,
+        "latest_chapter": " 第177章  北蛮军营，都烈到来！",
+        "updated_at": "2026-09-05 22:45:03",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
