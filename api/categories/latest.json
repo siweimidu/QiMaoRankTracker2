@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "categories": [
     {
       "name": "都市高武",
@@ -22,19 +22,24 @@
       "url": "api/categories/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
     {
-      "name": "都市生活",
-      "major": "都市",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "商战职场",
       "major": "都市",
       "url": "api/categories/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
+      "name": "都市生活",
+      "major": "都市",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
       "name": "王朝争霸",
       "major": "玄幻奇幻",
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
+    },
+    {
+      "name": "幻想修真",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "现代军事",
@@ -47,14 +52,14 @@
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "幻想修真",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
       "name": "乡村生活",
       "major": "都市",
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "异世大陆",
+      "major": "玄幻奇幻",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
       "name": "诸天万界",
@@ -77,11 +82,6 @@
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "异世大陆",
-      "major": "玄幻奇幻",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "总裁豪门",
       "major": "现代言情",
       "url": "api/categories/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
@@ -95,6 +95,11 @@
       "name": "年代重生",
       "major": "现代言情",
       "url": "api/categories/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+    },
+    {
+      "name": "都市奇幻",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "古代情缘",
@@ -120,11 +125,6 @@
       "name": "玄幻仙侠",
       "major": "幻想言情",
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
-    },
-    {
-      "name": "都市奇幻",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "末世求生",

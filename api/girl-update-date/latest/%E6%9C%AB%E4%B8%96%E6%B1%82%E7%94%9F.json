@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": -1
+          "heat_change": -1
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 品类进入存量博弈阶段，目前在榜书籍以“系统+经营+极端环境”的经典模式为主。\n**读者偏好** 读者偏好具有强IP衍生潜力的作品，如已有漫剧化背书的《破洞小木屋求生指南》，具备天然的信任背书。\n**变动解读** 榜单出现明显的缩减与下滑趋势，热度反馈冷淡，反映出单一求生流在女生频道正面临审美疲劳。\n**值得关注** 关注该题材后续是否有新颖的“求生+”复合型作品入局，以突破当前仅存一本在榜的低迷现状。",
+      "summary": "**题材趋势**：全民求生类题材进入存量竞争阶段，强调极致环境生存与系统化规则设定。\n**读者偏好**：读者对“小木屋”、“极寒求生”等强代入感的生存模式有固定需求，但对题材新鲜度的要求日益严苛。\n**变动解读**：榜单热度呈现低位徘徊，受限题材新鲜感缺失，作品热度出现小幅下滑，市场活力亟待新爆点刺激。\n**值得关注**：该类作品虽有漫剧开发加持，但目前在榜单表现平平，需关注其如何通过剧情升级提升用户活跃度。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "122.04万字",
-        "word_count": 1220400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "122.64万字",
+        "word_count": 1226400,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第587章  小心影子",
-        "updated_at": "2026-09-05 23:21:07",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第590章  还有第二关",
+        "updated_at": "2026-09-06 23:31:07",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 100000,
+    "total_heat": 97000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重回六十年代，从挖何首乌开始",
+          "book_id": 2064995,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "重回六十年代，从挖何首乌开始",
           "book_id": 2064995,
-          "heat_change": -1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：年代重生文依然是乡村生活赛道的主流支柱，强调通过勤劳致富与弥补家庭遗憾实现爽感。\n**读者偏好**：读者热衷于“大山资源挖掘+家庭温情修复”的复合叙事，对充满烟火气的年代致富经营情有独钟。\n**变动解读**：本期榜单保持高度稳定性，头部作品热度微降，反映出该细分领域存量竞争激烈，缺乏新爆款冲击。\n**值得关注**：如何平衡“资源挖掘”的节奏感与“家庭情感修复”的沉浸感，是该题材长尾留存的核心。",
+      "summary": "**题材趋势**：年代种田文依然是核心阵地，侧重于“逆袭+家庭修复”的温情创业叙事。\n**读者偏好**：读者热衷于主角从“底层赌徒”到“富甲一方”的阶级跃升，以及对家庭温情与生活细节的细致刻画。\n**变动解读**：该品类近期热度微降，反映出单品在完结后进入了正常的流量自然回落期。\n**值得关注**：此类题材的关键在于“年代氛围感”的营造，建议分析该书在处理家庭矛盾与致富情节的节奏分配，以优化完结期留存。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "重回六十年代，从挖何首乌开始",
         "book_id": 2064995,
         "url": "https://www.qimao.com/shuku/2064995/",
@@ -45,17 +51,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "210.49万字",
-        "word_count": 2104900,
-        "heat": 100000,
+        "word_count_text": "211.1万字",
+        "word_count": 2111000,
+        "heat": 97000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
-        "latest_chapter": " 第1021章  马季业的磨难",
-        "updated_at": "2026-09-05 08:51:08",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第1024章  出河",
+        "updated_at": "2026-09-06 08:51:08",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

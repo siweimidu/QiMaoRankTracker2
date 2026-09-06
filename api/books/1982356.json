@@ -13,12 +13,6 @@
       "board_name": "女生大热月榜",
       "rank": 9,
       "heat": 12810000
-    },
-    {
-      "board": "girl-hot-date",
-      "board_name": "女生大热日榜",
-      "rank": 12,
-      "heat": 324000
     }
   ],
   "history": [
@@ -258,6 +252,12 @@
     },
     {
       "d": "2026-09-06",
+      "b": "girl-hot-month",
+      "r": 9,
+      "h": 12810000
+    },
+    {
+      "d": "2026-09-07",
       "b": "girl-hot-month",
       "r": 9,
       "h": 12810000

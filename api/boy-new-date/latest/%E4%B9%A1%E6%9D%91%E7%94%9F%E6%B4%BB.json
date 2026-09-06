@@ -8,30 +8,35 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 107000,
+    "total_heat": 104000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "春风得意小医仙",
+          "book_id": 12295515,
+          "rank_change": -2
+        },
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "heat_change": 5000
+          "heat_change": -4000
         },
         {
           "title": "春风得意小医仙",
@@ -39,12 +44,12 @@
           "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：重生年代赶海与山村异能医术是当前的热门切入点，强互动性的“家庭关系重构”与“爽感养成”是核心驱动力。\n**读者偏好**：读者热衷于逆袭改命题材，尤其偏好主角通过金手指修复破碎家庭、获得社会地位的爽点叙事。\n**变动解读**：榜单结构稳定，头部书籍《重生八零》热度持续攀升，显示出读者对“重生+年代+弥补遗憾”类题材的粘性极高。\n**值得关注**：需持续追踪《重生八零：赶海捞金，我娇养俏前妻》的家庭关系冲突升级，此类强情绪价值内容极易引发读者共鸣。",
+      "summary": "**题材趋势**：重生年代赶海流与乡村异能医术流双雄并立，侧重于家庭关系修复与生活致富的爽点构建。\n**读者偏好**：读者倾向于带有强烈情感纠葛（如前妻、俏嫂子）与生活化升级（如赶海、医术）的叙事，追求“弥补遗憾”的代入感。\n**变动解读**：本类书籍排名出现整体下滑，热度增长放缓，显示该赛道目前处于存量博弈阶段，缺乏强力新书冲击。\n**值得关注**：情感驱动型乡村文依然稳固，但后续需在“生活开挂”的基础上，增加更具悬念的冲突节点以维持热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "重生八零：赶海捞金，我娇养俏前妻",
         "book_id": 12746721,
         "url": "https://www.qimao.com/shuku/12746721/",
@@ -56,24 +61,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.67万字",
-        "word_count": 396700,
-        "heat": 68000,
-        "platform_trend": "rise",
+        "word_count_text": "40.29万字",
+        "word_count": 402900,
+        "heat": 64000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第192章  上梁不正下梁歪",
-        "updated_at": "2026-09-06 00:12:12",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "latest_chapter": " 第195章  打破隔阂！",
+        "updated_at": "2026-09-07 00:12:13",
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "title": "春风得意小医仙",
         "book_id": 12295515,
         "url": "https://www.qimao.com/shuku/12295515/",
@@ -85,16 +90,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.41万字",
-        "word_count": 374100,
-        "heat": 39000,
+        "word_count_text": "37.82万字",
+        "word_count": 378200,
+        "heat": 40000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第180章  前任主人",
-        "updated_at": "2026-09-06 01:33:03",
-        "rank_change": 0,
+        "latest_chapter": " 第182章  疯狂",
+        "updated_at": "2026-09-06 23:55:03",
+        "rank_change": -2,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,

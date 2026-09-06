@@ -8,44 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 125000,
+    "count": 1,
+    "total_heat": 63000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
           "title": "我医武双绝，体内还有一条龙",
           "book_id": 1885468,
-          "rank_change": 1
+          "intro": "姜晨，桃源村村长，村民们卧虎藏龙，他体内是真藏有一条龙！\n在他突破之际，一美女武道宗师将他推倒，竟助他突破到巅峰！\n他回归都市开启复仇之路，线索却指向未婚妻……"
         }
       ],
-      "top_fallers": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": -1
-        }
-      ],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "我医武双绝，体内还有一条龙",
-          "book_id": 1885468,
-          "heat_change": 3000
-        },
-        {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "heat_change": 1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：都市高手题材呈现出“强设定+快节奏”的特征，出狱、退婚、医武双绝等经典爽点依然是流量基石。\n**读者偏好**：读者更倾向于追求强冲突、快节奏的复仇或升级剧情，带有“开局即满级”色彩的爽文更具吸睛力。\n**变动解读**：榜单内部排名发生动态置换，表现出明显的竞争态势，热度整体呈上行趋势，说明市场活跃度较高。\n**值得关注**：需关注《我医武双绝》这类结合了“复仇+情感线”的作品，其反超趋势证明了复合型爽点在当前市场更具爆发力。",
+      "summary": "**题材趋势**：都市高手类题材进入洗牌期，传统“监狱+退婚”的经典设定虽有审美疲劳，但仍具备较强市场韧性。\n**读者偏好**：读者偏好极端的开篇设定，如“女子监狱”这一封闭环境带来的反差感与“退婚”带来的冲突张力。\n**变动解读**：榜单出现新旧更替，原头部作品《我医武双绝》掉榜，说明同类作品在竞争中极易被读者以“同质化”理由快速迭代。\n**值得关注**：题材内卷下，如何通过差异化的背景设定（如特殊职业、特殊地点）留住读者是后续创作者的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,46 +53,17 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 65000,
-        "platform_trend": "rise",
+        "heat": 63000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "都市高手"
-      },
-      {
-        "rank": 18,
-        "title": "我医武双绝，体内还有一条龙",
-        "book_id": 1885468,
-        "url": "https://www.qimao.com/shuku/1885468/",
-        "author": "月辰",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E8%BE%B0_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "279.31万字",
-        "word_count": 2793100,
-        "heat": 60000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "姜晨，桃源村村长，村民们卧虎藏龙，他体内是真藏有一条龙！\n在他突破之际，一美女武道宗师将他推倒，竟助他突破到巅峰！\n他回归都市开启复仇之路，线索却指向未婚妻……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/632/1893830_360x480.jpg?time=1736496216",
-        "latest_chapter": " 第1327章  灭杀双皇，新的篇章（大结局）",
-        "updated_at": "2026-08-31 20:18:10",
-        "rank_change": 1,
-        "heat_change": 3000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

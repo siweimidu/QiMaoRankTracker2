@@ -8,32 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 2,
-    "total_heat": 160000,
+    "total_heat": 170000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": 1
+        },
         {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "heat_change": -3000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：校园题材目前处于存量盘整期，重回青春与商业搞钱相结合的“怀旧+爽文”模式是当前主流。\n**读者偏好**：读者高度青睐“治愈系恋爱”与“重生弥补遗憾”的复合型内容，强情感共鸣是留存核心。\n**变动解读**：本期榜单结构极度稳定，无新书入榜，头部作品热度小幅回落，反映出该品类进入长尾阅读周期。\n**值得关注**：建议重点观察《重生2000》等强商业属性作品的后续热度波动，判断读者对于“搞钱+恋爱”双线叙事的审美疲劳阈值。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "heat_change": 5000
+        },
+        {
+          "title": "重生2000：从追求青涩校花同桌开始",
+          "book_id": 1758273,
+          "heat_change": 5000
+        }
+      ],
+      "summary": "**题材趋势**：校园题材向“怀旧+甜宠”双核驱动转型，重生年代文与恋爱日常文占据核心头部流量。\n**读者偏好**：读者高度聚焦于“弥补遗憾”的情感补偿机制，以及“事业成功+恋爱圆满”的双重爽感需求。\n**变动解读**：本期两部作品热度同步增长，显示该细分品类存量作品的长尾效应强，用户粘性较高。\n**值得关注**：建议重点关注“重生+商业帝国+青梅恋”这一组合拳模式，该类作品在完结榜单中展现了稳健的吸粉能力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -47,22 +63,22 @@
         "status": "已完结",
         "word_count_text": "299.99万字",
         "word_count": 2999900,
-        "heat": 82000,
-        "platform_trend": "drop",
+        "heat": 87000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "热血校园"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -76,15 +92,15 @@
         "status": "已完结",
         "word_count_text": "429.99万字",
         "word_count": 4299900,
-        "heat": 78000,
-        "platform_trend": "drop",
+        "heat": 83000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "rank_change": 1,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

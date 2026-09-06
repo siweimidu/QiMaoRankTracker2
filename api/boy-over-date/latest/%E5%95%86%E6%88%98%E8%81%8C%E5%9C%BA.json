@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 84000,
+    "total_heat": 75000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "极品女神赖上我",
+          "book_id": 2012529,
+          "rank_change": -4
+        }
+      ],
       "heat_leaders": [
         {
           "title": "极品女神赖上我",
           "book_id": 2012529,
-          "heat_change": 1000
+          "heat_change": -9000
         }
       ],
-      "summary": "**题材趋势**：商战职场题材正加速向“短剧化”叙事靠拢，强调强冲突、快节奏的强人设互动。\n**读者偏好**：读者更倾向于“身份反差（如司机vs女总裁）+强关联情感羁绊”的爽文模式，弱化职场专业性，强化爽点驱动。\n**变动解读**：榜单呈现固化特征，单书热度小幅回升，说明此类题材在完结后仍具备较强的长尾转化能力，尤其在短剧联动效应下。\n**值得关注**：IP跨媒介转化（如网文转短剧）带来的流量回流，是目前商战类书籍保持热度的关键路径。",
+      "summary": "**题材趋势**：商战类题材在男频头部竞争中略显疲态，目前呈现“单极化”分布，市场存量书目依赖短剧IP联动维持热度。\n**读者偏好**：读者更倾向于“都市+商战+强爽”的强冲突模式，尤其是带入“下属反向掌控女总裁”等带有视觉冲击力的情感叙事。\n**变动解读**：本期排名下滑且热度缩水9000，显示出单一头部作品在缺乏新书填充时，其长尾效应正在减弱。\n**值得关注**：短剧IP转化对原著热度的持续支撑力，需警惕此类作品在缺乏新内容迭代下的自然衰减。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 14,
         "title": "极品女神赖上我",
         "book_id": 2012529,
         "url": "https://www.qimao.com/shuku/2012529/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "297.07万字",
         "word_count": 2970700,
-        "heat": 84000,
-        "platform_trend": "rise",
+        "heat": 75000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
         "latest_chapter": " 第829章  千帆尽处，般若归远",
         "updated_at": "2026-08-15 14:22:08",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "rank_change": -4,
+        "heat_change": -9000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

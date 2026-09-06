@@ -8,59 +8,58 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 4,
-    "total_heat": 182000,
+    "total_heat": 204000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "王妃她是引渡人",
-          "book_id": 12507633
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "攀君",
-          "book_id": 12335439,
-          "rank_change": 7
+          "title": "王妃她是引渡人",
+          "book_id": 12507633,
+          "rank_change": 4
         },
         {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
+          "title": "攀君",
+          "book_id": 12335439,
+          "rank_change": 2
+        },
         {
           "title": "王妃一身妖骨，京城百祟俯首",
           "book_id": 12328977,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "攀君",
           "book_id": 12335439,
-          "heat_change": 15000
+          "heat_change": 16000
         },
         {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "heat_change": -1000
+          "title": "王妃她是引渡人",
+          "book_id": 12507633,
+          "heat_change": 4000
+        },
+        {
+          "title": "春闺小寡妇",
+          "book_id": 12644022,
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：先婚后爱、带球跑及玄幻悬疑元素深度融合，古言赛道细分特征明显。\n**读者偏好**：读者对高冷上位者（摄政王、大理寺卿）的“破戒”过程及带有爽文属性的女性成长故事表现出极高热度。\n**变动解读**：《攀君》凭借经典的先婚后爱梗实现强势领跑，新书《王妃她是引渡人》借助IP姊妹篇效应成功入榜。\n**值得关注**：高冷禁欲男主与大女主爽文模式的结合是当前流量增长的核心引擎。",
+      "summary": "**题材趋势**：传统古言热度稳固，核心卖点高度集中于“先婚后爱”、“反差人设”与“悬疑爽文”的融合。\n**读者偏好**：受众偏向带有禁欲系男主、身份悬殊（权臣/王爷）及带有一定冲突性（如退婚、借种、引渡）的强情节故事。\n**变动解读**：《攀君》表现强劲领跑榜单，说明“大叔+权臣+甜宠”的经典组合仍是吸睛利器，《王妃她是引渡人》排名大幅跃升，反映读者对“甜宠+悬疑”复合赛道的接受度显著提高。\n**值得关注**：高热度作品普遍具备“开局即冲突”的特点，后续创作应强化女主在复杂关系网中的破局能力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 4,
         "title": "攀君",
         "book_id": 12335439,
         "url": "https://www.qimao.com/shuku/12335439/",
@@ -72,24 +71,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.01万字",
-        "word_count": 370100,
-        "heat": 61000,
+        "word_count_text": "37.62万字",
+        "word_count": 376200,
+        "heat": 77000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【先婚后爱+甜宠+双洁】遭继妹算计，未婚夫悔婚，戚姝深陷流言，京城都传再没人会娶她。\n可当天，权倾朝野的摄政王却登门求娶。\n他说：“我无心情爱，你不会争风吃醋的性子，甚合我意。”\n戚姝当场应了。\n哪怕他大她一轮，京中传言他身有隐疾、不能人道。\n嫁谁不是嫁？她要的是安稳，他图的是省心，各取所需，皆大欢喜。\n成婚后，她守着本分，不作闹、不求爱、不奢望子嗣，甚至大度地替他张罗纳妾。\n可他那双冷淡的墨眸，却越来越灼热。\n后来，连身体都滚烫，他同她耳鬓厮磨，哑声：“给我生个孩子，可好？”\n她腰酸腿软，方知传言误人，他身子……分明好得！\n摄政王言出必行，说护她一生，便没让她受过半点委屈，唯独在情爱一事上食了言。\n巴不得她为他争风吃醋，夜夜欢好。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4112/12335439_360x480.jpg?time=1788431656",
-        "latest_chapter": " 第171章  与本王结盟？你还不配",
-        "updated_at": "2026-09-06 00:00:10",
-        "rank_change": 7,
-        "heat_change": 15000,
+        "latest_chapter": " 第173章  这样的邬序实在是陌生",
+        "updated_at": "2026-09-07 00:04:13",
+        "rank_change": 2,
+        "heat_change": 16000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "王妃一身妖骨，京城百祟俯首",
         "book_id": 12328977,
         "url": "https://www.qimao.com/shuku/12328977/",
@@ -101,17 +100,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.94万字",
-        "word_count": 389400,
+        "word_count_text": "39.39万字",
+        "word_count": 393900,
         "heat": 49000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
-        "latest_chapter": " 第174章  将计就计",
-        "updated_at": "2026-09-05 08:12:07",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第176章  依臣妾看，不如大事化小",
+        "updated_at": "2026-09-06 08:12:06",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -130,24 +129,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.91万字",
-        "word_count": 269100,
-        "heat": 44000,
+        "word_count_text": "27.32万字",
+        "word_count": 273200,
+        "heat": 46000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第124章  裴知珩是变态！",
-        "updated_at": "2026-09-05 22:52:03",
-        "rank_change": 3,
-        "heat_change": 0,
+        "latest_chapter": " 第126章  裴让送的书被小叔发现",
+        "updated_at": "2026-09-06 22:18:03",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 18,
+        "rank": 14,
         "title": "王妃她是引渡人",
         "book_id": 12507633,
         "url": "https://www.qimao.com/shuku/12507633/",
@@ -159,18 +158,18 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.72万字",
-        "word_count": 417200,
-        "heat": 28000,
+        "word_count_text": "42.29万字",
+        "word_count": 422900,
+        "heat": 32000,
         "platform_trend": "rise",
-        "badge": "飙升10名",
+        "badge": "",
         "intro": "【《将军她是引渡人》姊妹篇，悬疑+爽文+甜宠】\n归杳无过往，无五感，亦无七情六欲，却有五千张不同面孔。\n她替女子化灾解难，引渡新生。\n正妻想惩治私通的丈夫和养妹？\n当众抓奸并送渣男贱女上刑场。\n失散兄妹错恋成痴，妹妹想救相思成疾的哥哥？\n斩情丝，断情念，拨乱反正各自安好。\n被凌虐却要救凶手母亲的少女？被娘家算计与男子同床，却怪她因此带来厄运的出嫁女？雌雄同体爱而不得的阴阳人……\n归杳通通接下，与之结契，借五感，塑已身，收愿力，补神魂。\n世间最美的男子，也被她收于裙下，五感是借来的，但枕边的风景是自己的……\n世人问她为何只渡女子？\n她眉目慈悲：女子万般苦楚，总该有人来渡。\n实则她若懈怠，便会天雷滚滚，外焦里嫩。\n而天雷背后，是五千忠魂的以命相护，是毁天灭地的血海深仇……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4170/12507633_360x480.jpg?time=1784801356",
-        "latest_chapter": " 第167章  以宝珠的样子现身",
-        "updated_at": "2026-09-05 09:02:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第169章  废后",
+        "updated_at": "2026-09-06 08:12:03",
+        "rank_change": 4,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"

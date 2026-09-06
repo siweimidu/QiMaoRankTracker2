@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 392000,
+    "total_heat": 357000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": 1000
+          "heat_change": -35000
         }
       ],
-      "summary": "**题材趋势**：现实主义题材回归，强调个人奋斗与社会生存法则，受众群体相对垂直。\n**题材趋势**：读者偏好带有社会写实色彩的成长叙事，尤其是“小人物进城”的奋斗史，极易引发读者的现实共鸣。\n**变动解读**：本期榜单表现平稳，热度微增，显示该赛道用户留存稳定，但缺乏爆款事件驱动，处于存量竞争的平稳期。\n**值得关注**：该书通过“精品有声剧”联动推广，显示在都市生活类题材中，跨平台联动对于维持日榜热度的重要性。",
+      "summary": "**题材趋势**：都市生活类题材近期出现明显的热度回调，市场活跃度有所收缩，创作进入瓶颈期。\n**读者偏好**：受众依然偏爱带有“打工进阶”与“社会生存启示”的现实题材，对具有高辨识度有声剧背书的作品更为青睐。\n**变动解读**：《步步登阶》热度下滑明显且排名后移，反映出当前读者注意力正从传统写实流向其他高爽点题材转移。\n**值得关注**：需关注该类题材内容侧的创新，如何通过更具张力的剧情冲突重燃读者兴趣是后续的关键所在。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 10,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -45,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "278.82万字",
-        "word_count": 2788200,
-        "heat": 392000,
-        "platform_trend": "rise",
+        "word_count_text": "279.23万字",
+        "word_count": 2792300,
+        "heat": 357000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1327章  我觉得她是有点想法的",
-        "updated_at": "2026-09-05 23:47:11",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "latest_chapter": " 第1329章  你娶我好不好？",
+        "updated_at": "2026-09-07 00:41:10",
+        "rank_change": -2,
+        "heat_change": -35000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

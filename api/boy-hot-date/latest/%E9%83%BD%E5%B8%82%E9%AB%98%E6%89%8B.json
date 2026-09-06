@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 1162000,
+    "total_heat": 1167000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,25 +21,31 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "舔狗反派只想苟，女主不按套路走！",
-          "book_id": 1710753,
-          "rank_change": 1
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "rank_change": 2
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "book_id": 1710753,
+          "rank_change": -4
+        }
+      ],
       "heat_leaders": [
         {
           "title": "警报！真龙出狱！",
           "book_id": 1834789,
-          "heat_change": 11000
+          "heat_change": 36000
         },
         {
-          "title": "傲世潜龙",
-          "book_id": 207105,
-          "heat_change": -7000
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "book_id": 1710753,
+          "heat_change": -31000
         }
       ],
-      "summary": "**题材趋势**：经典“狱中归来”与“反派逆袭”双轨并行，短剧IP化已成为该赛道获取头部流量的必经之路。\n**读者偏好**：读者对于爽文套路化（如监狱神医、反套路反派）的接受度极高，倾向于快节奏、强冲突的剧情推进。\n**变动解读**：榜单结构极其稳定，头部作品《警报！真龙出狱！》依靠短剧流量效应持续吸热，反派文表现出较强韧性。\n**值得关注**：需警惕榜单固化风险，建议关注反派流题材在逻辑反转上的创新尝试。",
+      "summary": "**题材趋势**：都市爽文呈现两极分化，以“回归/出狱+战神/医圣”为代表的经典复仇题材热度稳步回升，反派流题材热度下滑。\n**读者偏好**：读者对高代入感的“身份反转+都市守护”情节依赖度极高，对反套路或反派流剧情的耐心有所下降，更追求直接的心理满足。\n**变动解读**：《警报！真龙出狱！》作为短剧原著热度持续领跑，显示出短剧生态对网文榜单的强力反哺效应。\n**值得关注**：都市分类的短剧IP转化率极高，后续创作应优先考虑具备强视觉感、强冲突的“出狱/回归”类题材。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,17 +62,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "369.18万字",
-        "word_count": 3691800,
-        "heat": 621000,
+        "word_count_text": "369.58万字",
+        "word_count": 3695800,
+        "heat": 657000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1798章  沈白馨的告知",
-        "updated_at": "2026-09-05 20:57:14",
+        "latest_chapter": " 第1800章  圣火海",
+        "updated_at": "2026-09-06 20:41:15",
         "rank_change": 0,
-        "heat_change": 11000,
+        "heat_change": 36000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -74,35 +80,6 @@
       },
       {
         "rank": 12,
-        "title": "舔狗反派只想苟，女主不按套路走！",
-        "book_id": 1710753,
-        "url": "https://www.qimao.com/shuku/1710753/",
-        "author": "我是愤怒",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%98%AF%E6%84%A4%E6%80%92_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "626.4万字",
-        "word_count": 6264000,
-        "heat": 281000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2635章  折寿之门",
-        "updated_at": "2026-09-05 21:07:20",
-        "rank_change": 1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 14,
         "title": "傲世潜龙",
         "book_id": 207105,
         "url": "https://www.qimao.com/shuku/207105/",
@@ -114,19 +91,48 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "822.83万字",
-        "word_count": 8228300,
+        "word_count_text": "823.03万字",
+        "word_count": 8230300,
         "heat": 260000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4037章  只身前往",
-        "updated_at": "2026-09-05 13:37:26",
-        "rank_change": 0,
-        "heat_change": -7000,
+        "latest_chapter": " 第4038章  拜访闫家",
+        "updated_at": "2026-09-06 16:30:33",
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 16,
+        "title": "舔狗反派只想苟，女主不按套路走！",
+        "book_id": 1710753,
+        "url": "https://www.qimao.com/shuku/1710753/",
+        "author": "我是愤怒",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%98%AF%E6%84%A4%E6%80%92_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "626.83万字",
+        "word_count": 6268300,
+        "heat": 250000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
+        "latest_chapter": " 第2637章  巳神就是记仇",
+        "updated_at": "2026-09-06 16:07:20",
+        "rank_change": -4,
+        "heat_change": -31000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "都市高手"
       }
