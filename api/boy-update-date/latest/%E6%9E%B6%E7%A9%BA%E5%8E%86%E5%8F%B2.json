@@ -8,25 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天命纨绔",
           "book_id": 9839805,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天命纨绔",
@@ -34,7 +34,7 @@
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：穿越题材结合“权谋+反差”的叙事结构，侧重于主角身份错位引发的戏剧性冲突，爽感来源多为“以下犯上”。\n**读者偏好**：读者倾向于阅读带有“特殊身份”（如假太监、纨绔）与“强力互动对象”（如女帝）设定，且节奏明快的历史架空文。\n**变动解读**：榜单流动性极低，整体热度处于低位徘徊，《天命纨绔》虽有排名微降，但仍保持着核心读者的活跃度。\n**值得关注**：《天命纨绔》中“痛觉相通”的特殊设定，是该类目下通过互动机制提升阅读趣味性的典型案例，值得持续追踪。",
+      "summary": "**题材趋势** 节奏轻快、带有强烈博弈色彩的“权谋+玩梗”流派占据主流，强调主角与权力核心（如女帝）的互动冲突。\n**读者偏好** 读者倾向于“身份错位带来的反差爽感”，如假太监、纨绔子弟在乱世或深宫中通过特殊机制掌握主动权。\n**变动解读** 榜单头部稳固，《天命纨绔》凭借独特的痛觉相通设定实现热度与排名的双重跃升，展现了高概念设定的流量爆发力。\n**值得关注** 历史题材中“强冲突设定”是破局关键，如《天命纨绔》此类将主角与女帝命运强绑定的创意，能有效提升读者的阅读期待。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,15 +51,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.72万字",
-        "word_count": 497200,
+        "word_count_text": "50.16万字",
+        "word_count": 501600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第214章  药局",
-        "updated_at": "2026-09-07 00:12:15",
+        "latest_chapter": " 第216章  赴北",
+        "updated_at": "2026-09-08 00:12:15",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -80,15 +80,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "102.12万字",
-        "word_count": 1021200,
+        "word_count_text": "102.72万字",
+        "word_count": 1027200,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第304章  魏无忌大战皇帝！",
-        "updated_at": "2026-09-07 00:32:04",
+        "latest_chapter": " 第306章  九大神女凑齐！",
+        "updated_at": "2026-09-08 00:32:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -97,7 +97,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -109,16 +109,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "170.64万字",
-        "word_count": 1706400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "171.28万字",
+        "word_count": 1712800,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第776章  将军难免阵上亡",
-        "updated_at": "2026-09-07 00:07:12",
-        "rank_change": -1,
+        "latest_chapter": " 第779章  守住防线，比什么都重要！",
+        "updated_at": "2026-09-08 00:07:10",
+        "rank_change": 2,
         "heat_change": 1,
         "is_new": false,
         "boards_count": 1,

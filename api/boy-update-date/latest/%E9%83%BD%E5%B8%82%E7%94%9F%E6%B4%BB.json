@@ -8,32 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 0,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "让你演反派，你教警队破案？",
           "book_id": 12516690,
-          "heat_change": -1
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：题材呈现明显的“影视/短剧IP化”与“职业模拟+直播”趋势，强调强情节与高冲突的开篇。\n**读者偏好**：读者偏好“年代重生致富”与“反套路职业模拟”，对能够提供爽点前置的快节奏故事更为买账。\n**变动解读**：榜单陷入沉寂，入榜书籍热度均趋近于零，市场表现平淡，缺乏强有力的新增流量支撑。\n**值得关注**：短剧IP联动类作品表现平稳，此类题材自带受众基础，后续可观察其在长线阅读中的转化能力。",
+      "top_fallers": [
+        {
+          "title": "重生1984：我靠赶海打渔成首富",
+          "book_id": 1988961,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "重生1984：我靠赶海打渔成首富",
+          "book_id": 1988961,
+          "heat_change": 1
+        },
+        {
+          "title": "让你演反派，你教警队破案？",
+          "book_id": 12516690,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：重生年代致富与职业反差爽文占据主流，强剧情驱动特征明显。\n**读者偏好**：读者对带有“短剧改编”背书的怀旧复仇题材，以及“演艺/职场反转”类强互动设定展现出较高粘性。\n**变动解读**：本区头部格局稳定，仅两书互换位次，显示出该题材目前处于存量竞争的平稳期。\n**值得关注**：创作者应重视“直播/综艺流”与传统都市题材的融合，此类互动性强的设定正逐步获得更多流量倾斜。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "重生1984：我靠赶海打渔成首富",
         "book_id": 1988961,
         "url": "https://www.qimao.com/shuku/1988961/",
@@ -45,24 +62,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "344.58万字",
-        "word_count": 3445800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "345.27万字",
+        "word_count": 3452700,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【短剧《重回80:从小渔民到水产大王》原著！】　债主上门讨债，青梅竹马险被玷污。\n懦弱的林斌亲眼看着江清雪为求自保，一刀刺向那个玷污她的男人，却因过失杀人，被判入狱，家破人亡。\n这一幕，成为他一生的遗憾！\n却不料一场车祸，让他重回1984年的小渔村。\n这一次，他不惧危险，冒死出海，一网捞起三千斤大黄鱼，还上了赌债，救下了自己挚爱一生的女人！\n林斌：“重活一世，我要驾驶万吨巨轮，征服这片星辰大海！”\n江清雪一把拧住他的耳朵。\n“海什么海，还不赶紧去给孩子换尿布！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/766/2295128_360x480.jpg?time=1745215580",
-        "latest_chapter": " 第1573章  看穿了又能怎么样？",
-        "updated_at": "2026-09-06 18:19:13",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1576章  凭什么不给我钱？",
+        "updated_at": "2026-09-07 18:25:12",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "让你演反派，你教警队破案？",
         "book_id": 12516690,
         "url": "https://www.qimao.com/shuku/12516690/",
@@ -74,17 +91,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.92万字",
-        "word_count": 449200,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "45.57万字",
+        "word_count": 455700,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【第六期前摇比较长，大家如果不喜欢可以切到122章第七期的内容，不影响阅读。】\n《天网无情》大型模拟作案直播节目在全网爆火，各路明星纷纷加盟。\n第一期宁李扮演变态杀人犯，跟警察玩对冲，三天后被警察合围拿下。\n第二期张文扮演制毒师，狡兔三窟，第四天被拿下。\n第三期王宝宝扮演抢劫犯，躲到深山当野人，七天后被拿下。\n...\n没人能在节目里撑到十五天结束。\n直到第5期节目《误杀》开播。\n因为明星档期问题，节目组临时找了个素人孟阳参加。\n原本是想着顶着骂声，顶多三天结束。\n没想到孟阳是个穿越众，凭着前世丰富的追剧经验，硬是将节目组和侦破组逼到了绝境。\n为了维护警察的荣誉，节目组不得不开黑，打算强行结束本期节目。\n结果却是被狠狠打脸。\n孟阳成为了第一个通关节目的人。\n所有人都以为他是运气好。\n第6期《校园》开播，孟阳被当做吉祥物上场，所有人都以为他会毫无作为，没想到他从头杀到尾根本没人知晓，再次给侦破组好好上了一课。\n第7期，节目组为了限制他发挥，直接压缩时间压缩地点，依然被他顽强破局。\n之后，通关成为了孟阳的常态。\n警队果断邀请孟阳成为顾问，于是孟阳一边在节目里演反派，一边帮助警队破悬案。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4173/12516690_360x480.jpg?time=1786644864",
-        "latest_chapter": " 第211章  第一次杀人的感觉怎么样",
-        "updated_at": "2026-09-06 19:32:04",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第214章  小河村",
+        "updated_at": "2026-09-07 21:11:04",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

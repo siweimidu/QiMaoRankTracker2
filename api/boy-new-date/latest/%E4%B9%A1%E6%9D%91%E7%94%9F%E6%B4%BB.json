@@ -8,24 +8,30 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 104000,
+    "total_heat": 90000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        {
+          "title": "重回83：赶山猎熊发家致富",
+          "book_id": 12519594
+        }
+      ],
+      "dropped_books": [
         {
           "title": "春风得意小医仙",
           "book_id": 12295515,
-          "rank_change": -2
-        },
+          "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
@@ -36,20 +42,15 @@
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "heat_change": -4000
-        },
-        {
-          "title": "春风得意小医仙",
-          "book_id": 12295515,
-          "heat_change": 1000
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：重生年代赶海流与乡村异能医术流双雄并立，侧重于家庭关系修复与生活致富的爽点构建。\n**读者偏好**：读者倾向于带有强烈情感纠葛（如前妻、俏嫂子）与生活化升级（如赶海、医术）的叙事，追求“弥补遗憾”的代入感。\n**变动解读**：本类书籍排名出现整体下滑，热度增长放缓，显示该赛道目前处于存量博弈阶段，缺乏强力新书冲击。\n**值得关注**：情感驱动型乡村文依然稳固，但后续需在“生活开挂”的基础上，增加更具悬念的冲突节点以维持热度。",
+      "summary": "**题材趋势** 80年代背景下的“重生+弥补遗憾”成为绝对主流，结合赶海、赶山等地域特色职业获取爽点。\n**读者偏好** 读者热衷于底层奋斗与家庭情感修复的复合叙事，强调通过劳动致富及改善家庭关系的成就感。\n**变动解读** 榜单出现新老更替，《重回83：赶山猎熊发家致富》成功入局，挤掉医术种田类题材，显示出读者对“硬核职业技能”的偏好回升。\n**值得关注** 头部作品《重生八零：赶海捞金》热度下滑明显，需警惕同质化竞争导致的读者审美疲劳。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "重生八零：赶海捞金，我娇养俏前妻",
         "book_id": 12746721,
         "url": "https://www.qimao.com/shuku/12746721/",
@@ -61,47 +62,47 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.29万字",
-        "word_count": 402900,
-        "heat": 64000,
+        "word_count_text": "40.9万字",
+        "word_count": 409000,
+        "heat": 59000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第195章  打破隔阂！",
-        "updated_at": "2026-09-07 00:12:13",
+        "latest_chapter": " 第198章  杀出个程咬金",
+        "updated_at": "2026-09-08 00:12:13",
         "rank_change": -1,
-        "heat_change": -4000,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 17,
-        "title": "春风得意小医仙",
-        "book_id": 12295515,
-        "url": "https://www.qimao.com/shuku/12295515/",
-        "author": "喜欢猫猫猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%96%9C%E6%AC%A2%E7%8C%AB%E7%8C%AB%E7%8C%AB_14/",
+        "rank": 18,
+        "title": "重回83：赶山猎熊发家致富",
+        "book_id": 12519594,
+        "url": "https://www.qimao.com/shuku/12519594/",
+        "author": "下水道蚊子",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%8B%E6%B0%B4%E9%81%93%E8%9A%8A%E5%AD%90_14/",
         "major": "都市",
         "minor": "乡村生活",
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.82万字",
-        "word_count": 378200,
-        "heat": 40000,
+        "word_count_text": "37.74万字",
+        "word_count": 377400,
+        "heat": 31000,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第182章  疯狂",
-        "updated_at": "2026-09-06 23:55:03",
-        "rank_change": -2,
-        "heat_change": 1000,
-        "is_new": false,
+        "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最后过劳惨死。重生回到1983年与爷爷进山的那天，这一次陈向阳不想后悔，不想有任何遗憾。他要守护家人，守护那个心爱的人，弥补所有遗憾。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4174/12519594_360x480.jpg?time=1781771131",
+        "latest_chapter": " 第182章  奔赴冰城",
+        "updated_at": "2026-09-08 06:02:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

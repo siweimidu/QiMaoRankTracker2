@@ -8,78 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
-    "count": 2,
-    "total_heat": 225000,
+    "count": 3,
+    "total_heat": 306000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "神算萌妻：傅太太才是玄学真大佬",
+          "book_id": 1803024
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "rank_change": 2
+          "rank_change": 3
         }
       ],
       "top_fallers": [
         {
           "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
           "book_id": 1978758,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
           "book_id": 1978758,
-          "heat_change": -29000
+          "heat_change": -15000
         },
         {
           "title": "阴当",
           "book_id": 1979356,
-          "heat_change": 2000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：玄学元素持续占据核心地位，萌宝团宠与民俗悬疑类（如当铺、命格）是当前都市奇幻赛道的两大主流驱动力。\n**读者偏好**：读者倾向于“爽感+猎奇”结合的阅读体验，既喜爱反差萌的萌宝打脸剧情，也对带有传统民俗色彩的悬疑探秘题材保持长期粘性。\n**变动解读**：榜单头部出现轻微震荡，玄学爽文《小姑奶奶下山了》热度回落明显，而《阴当》凭借稳健的民俗悬疑口碑实现排名逆袭，显示出读者对长线剧情的青睐。\n**值得关注**：需警惕萌宝玄学类题材的审美疲劳，民俗悬疑类作品在完结期仍具备较强的长尾效应和吸金潜力。",
+      "summary": "**题材趋势** 细分赛道竞争激烈，内容呈现明显的“玄学+萌宝/甜宠”融合趋势，轻量化阅读特征明显。\n**读者偏好** 读者热衷于将“玄学打脸”与“豪门/萌宝”元素结合，倾向于阅读具有综艺感、快节奏且带有轻喜剧色彩的故事。\n**变动解读** 榜内竞争格局更迭较快，《阴当》排名上扬，而《小姑奶奶下山了》热度下滑，显示出读者对同质化玄学题材的审美疲劳。\n**值得关注** 新书《神算萌妻》的入榜印证了“玄学+豪门联姻”依然是都市奇幻类目下的重要流量抓手。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 12,
-        "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
-        "book_id": 1978758,
-        "url": "https://www.qimao.com/shuku/1978758/",
-        "author": "骑着猫的小鱼干",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
-        "major": "现代言情",
-        "minor": "都市奇幻",
-        "major_id": 1,
-        "minor_id": 279,
-        "minor_url": "https://www.qimao.com/shuku/a-1-279-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "150.12万字",
-        "word_count": 1501200,
-        "heat": 118000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "（萌宝团宠+玄学，综艺算命打脸，大佬异世界姐妹篇）\n被四位师父养大的小阿岁原来是万家被抱错的真千金。\n归家第一天，四岁的小阿岁就指着假千金对妈妈说，\n“这个姐姐也是爸爸的女儿哦，不过她妈妈是另一个姨姨~”\n迅速达成拆散爹妈成就，渣爹却逼妈妈净身出户。\n小阿岁当即拍着胸脯表示她来养家。\n结果妈妈掏出手机按下了那个多年没联系过的号码。\n南家五位天骄纷纷丢下工作来接妹妹和小外甥女回家。\n却发现，妹妹家的小外甥女好像有些特别？\n恋爱脑舅舅被绿了，对方还不要脸地邀请舅舅出席他们的婚礼？\n小阿岁直接当着所有宾客问舅舅，\n“这个姨姨和叔叔明明是亲兄妹，为什么他们可以结婚？”\n渣女渣男沦为京圈笑话。\n影帝舅舅带小阿岁出门被传出隐婚生子的丑闻，事业面临危机。\n小阿岁直接跟舅舅参加综艺，以一己之力把带娃综艺整成了玄学综艺频道。\n不小心全网爆火的小阿岁工作之余不忘给自己攒功德。\n结果功德一边攒一边漏，小阿岁不明所以，直到有天她捡到了一个满身功德的小孩。\n小阿岁当即悟了，指着幼年司北桉气势汹汹，\n“好啊！就是你天天偷我功德！”\n小北桉：？？？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/742/2224329_360x480.jpg?time=1758188095",
-        "latest_chapter": " 第699章  番外10：外公外婆（完）",
-        "updated_at": "2026-04-07 20:59:09",
-        "rank_change": -1,
-        "heat_change": -29000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "都市奇幻"
-      },
-      {
-        "rank": 15,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -93,17 +69,75 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 107000,
+        "heat": 110000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 2,
-        "heat_change": 2000,
+        "rank_change": 3,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "都市奇幻"
+      },
+      {
+        "rank": 15,
+        "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
+        "book_id": 1978758,
+        "url": "https://www.qimao.com/shuku/1978758/",
+        "author": "骑着猫的小鱼干",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
+        "major": "现代言情",
+        "minor": "都市奇幻",
+        "major_id": 1,
+        "minor_id": 279,
+        "minor_url": "https://www.qimao.com/shuku/a-1-279-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "150.12万字",
+        "word_count": 1501200,
+        "heat": 103000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "（萌宝团宠+玄学，综艺算命打脸，大佬异世界姐妹篇）\n被四位师父养大的小阿岁原来是万家被抱错的真千金。\n归家第一天，四岁的小阿岁就指着假千金对妈妈说，\n“这个姐姐也是爸爸的女儿哦，不过她妈妈是另一个姨姨~”\n迅速达成拆散爹妈成就，渣爹却逼妈妈净身出户。\n小阿岁当即拍着胸脯表示她来养家。\n结果妈妈掏出手机按下了那个多年没联系过的号码。\n南家五位天骄纷纷丢下工作来接妹妹和小外甥女回家。\n却发现，妹妹家的小外甥女好像有些特别？\n恋爱脑舅舅被绿了，对方还不要脸地邀请舅舅出席他们的婚礼？\n小阿岁直接当着所有宾客问舅舅，\n“这个姨姨和叔叔明明是亲兄妹，为什么他们可以结婚？”\n渣女渣男沦为京圈笑话。\n影帝舅舅带小阿岁出门被传出隐婚生子的丑闻，事业面临危机。\n小阿岁直接跟舅舅参加综艺，以一己之力把带娃综艺整成了玄学综艺频道。\n不小心全网爆火的小阿岁工作之余不忘给自己攒功德。\n结果功德一边攒一边漏，小阿岁不明所以，直到有天她捡到了一个满身功德的小孩。\n小阿岁当即悟了，指着幼年司北桉气势汹汹，\n“好啊！就是你天天偷我功德！”\n小北桉：？？？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/742/2224329_360x480.jpg?time=1758188095",
+        "latest_chapter": " 第699章  番外10：外公外婆（完）",
+        "updated_at": "2026-04-07 20:59:09",
+        "rank_change": -3,
+        "heat_change": -15000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "都市奇幻"
+      },
+      {
+        "rank": 17,
+        "title": "神算萌妻：傅太太才是玄学真大佬",
+        "book_id": 1803024,
+        "url": "https://www.qimao.com/shuku/1803024/",
+        "author": "易小升",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%98%93%E5%B0%8F%E5%8D%87_14/",
+        "major": "现代言情",
+        "minor": "都市奇幻",
+        "major_id": 1,
+        "minor_id": 279,
+        "minor_url": "https://www.qimao.com/shuku/a-1-279-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "135.13万字",
+        "word_count": 1351300,
+        "heat": 93000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "《奔跑吧》同款！又名《坠入月光》\n他是豪门贵子，年纪轻轻手握大权，为人冷漠，待人冷血。\n她是玄门最后的继承人，破破烂烂，缝缝补补。\n一个命里财薄，一个命里有灾。\n他若不娶她，事业尽毁，生死难料。\n她若不嫁他一辈子身无分文，穷困潦倒。\n结婚当天，他冷血无情地说，“锦朝朝，你就算用尽办法嫁给了我，我也不会爱你分毫！”\n锦朝朝：“没关系，我只要嫁给你就好了。”\n婚后她财运亨通，运势逆转，锦鲤附体，在整个帝都她说一，没人敢说二。\n傅霆渊看着第N次舍命救她的女人，陷入了沉思。\n他是不是狠话说的太早了？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/509/1524039_360x480.jpg?time=1709703740",
+        "latest_chapter": " 第673章  相亲相爱一家人10完结",
+        "updated_at": "2025-02-04 16:29:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市奇幻"
       }

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 1167000,
+    "total_heat": 1194000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,31 +21,36 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "傲世潜龙",
-          "book_id": 207105,
-          "rank_change": 2
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "book_id": 1710753,
+          "rank_change": 3
         }
       ],
       "top_fallers": [
         {
-          "title": "舔狗反派只想苟，女主不按套路走！",
-          "book_id": 1710753,
-          "rank_change": -4
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "rank_change": -5
         }
       ],
       "heat_leaders": [
         {
-          "title": "警报！真龙出狱！",
-          "book_id": 1834789,
-          "heat_change": 36000
-        },
-        {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "heat_change": -31000
+          "heat_change": 19000
+        },
+        {
+          "title": "警报！真龙出狱！",
+          "book_id": 1834789,
+          "heat_change": 16000
+        },
+        {
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "heat_change": -8000
         }
       ],
-      "summary": "**题材趋势**：都市爽文呈现两极分化，以“回归/出狱+战神/医圣”为代表的经典复仇题材热度稳步回升，反派流题材热度下滑。\n**读者偏好**：读者对高代入感的“身份反转+都市守护”情节依赖度极高，对反套路或反派流剧情的耐心有所下降，更追求直接的心理满足。\n**变动解读**：《警报！真龙出狱！》作为短剧原著热度持续领跑，显示出短剧生态对网文榜单的强力反哺效应。\n**值得关注**：都市分类的短剧IP转化率极高，后续创作应优先考虑具备强视觉感、强冲突的“出狱/回归”类题材。",
+      "summary": "**题材趋势**：都市爽文正深度绑定短剧生态，以“回归/出狱身份反差”为核心，叠加“反派觉醒”等反套路元素，构建极速爽感闭环。\n**读者偏好**：读者对快节奏、高频冲突的爽文需求旺盛，尤其倾向于逻辑清晰、角色关系错位（如反派与女主）的轻量化阅读体验。\n**变动解读**：榜单波动剧烈，反映出都市高手类目流量流动性极高，具备短剧背书或强情节反转的作品更易获取新增流量。\n**值得关注**：《舔狗反派只想苟，女主不按套路走！》呈现强劲上涨势头，说明“反穿+反套路”题材在都市高手类目中具有显著的差异化突围潜力。",
       "ai_source": "ai"
     },
     "books": [
@@ -62,53 +67,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "369.58万字",
-        "word_count": 3695800,
-        "heat": 657000,
+        "word_count_text": "369.99万字",
+        "word_count": 3699900,
+        "heat": 673000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1800章  圣火海",
-        "updated_at": "2026-09-06 20:41:15",
+        "latest_chapter": " 第1802章  成圣",
+        "updated_at": "2026-09-07 20:37:15",
         "rank_change": 0,
-        "heat_change": 36000,
+        "heat_change": 16000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 12,
-        "title": "傲世潜龙",
-        "book_id": 207105,
-        "url": "https://www.qimao.com/shuku/207105/",
-        "author": "西装暴徒",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%A5%BF%E8%A3%85%E6%9A%B4%E5%BE%92_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "823.03万字",
-        "word_count": 8230300,
-        "heat": 260000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4038章  拜访闫家",
-        "updated_at": "2026-09-06 16:30:33",
-        "rank_change": 2,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 16,
+        "rank": 13,
         "title": "舔狗反派只想苟，女主不按套路走！",
         "book_id": 1710753,
         "url": "https://www.qimao.com/shuku/1710753/",
@@ -120,19 +96,48 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "626.83万字",
-        "word_count": 6268300,
-        "heat": 250000,
-        "platform_trend": "drop",
+        "word_count_text": "627.24万字",
+        "word_count": 6272400,
+        "heat": 269000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2637章  巳神就是记仇",
-        "updated_at": "2026-09-06 16:07:20",
-        "rank_change": -4,
-        "heat_change": -31000,
+        "latest_chapter": " 第2639章  镜像入阵",
+        "updated_at": "2026-09-07 19:47:19",
+        "rank_change": 3,
+        "heat_change": 19000,
         "is_new": false,
         "boards_count": 3,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 17,
+        "title": "傲世潜龙",
+        "book_id": 207105,
+        "url": "https://www.qimao.com/shuku/207105/",
+        "author": "西装暴徒",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%A5%BF%E8%A3%85%E6%9A%B4%E5%BE%92_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "823.23万字",
+        "word_count": 8232300,
+        "heat": 252000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
+        "latest_chapter": " 第4039章  万事俱备",
+        "updated_at": "2026-09-07 18:41:26",
+        "rank_change": -5,
+        "heat_change": -8000,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       }

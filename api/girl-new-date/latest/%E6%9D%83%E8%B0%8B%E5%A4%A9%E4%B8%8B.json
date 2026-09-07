@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 33000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：该小类目前呈现出明显的“轻量化”趋势，权谋元素多作为背景，叙事重心向“女扮男装+宫廷甜宠”倾斜。\n**读者偏好**：读者更倾向于快节奏、强反差的互动关系，对严肃政治斗争的兴趣度较低，更看重男女主在身份错位下的情感张力。\n**变动解读**：榜单整体热度相对平稳，目前仅有一本独苗在榜，显示该赛道在当前新书日榜中缺乏强劲的增量供给。\n**值得关注**：单一作品占据榜单，建议后续产品尝试将权谋与时下流行的“搞事业”爽点深度绑定，以提升赛道竞争力。",
+      "heat_leaders": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "**题材趋势**：以“女扮男装+宫廷身份差”为核心架构，通过反差萌与强冲突的互动模式吸引读者。\n**读者偏好**：偏好“侍卫vs太子”这种带有禁忌感与轻喜剧色彩的权谋互动，追求快速建立的情感羁绊与戏剧张力。\n**变动解读**：该小类目前处于长尾表现期，仅剩《本侍卫是娇花》单兵作战，但其热度稳步上升，说明此类题材在垂直受众中口碑良好。\n**值得关注**：该书通过“满脑子杀招vs满脑子春宵”的心理落差制造爽点，是当前权谋文向轻量化、趣味化转型的典型样本。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 16,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -39,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.4万字",
-        "word_count": 324000,
-        "heat": 29000,
-        "platform_trend": "drop",
+        "word_count_text": "32.76万字",
+        "word_count": 327600,
+        "heat": 33000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第131章  给他面子",
-        "updated_at": "2026-09-06 22:41:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第132章  看不穿你的眼睛",
+        "updated_at": "2026-09-07 23:48:03",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

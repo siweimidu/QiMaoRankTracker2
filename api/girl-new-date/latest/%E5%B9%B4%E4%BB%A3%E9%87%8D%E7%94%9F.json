@@ -8,49 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 5,
-    "total_heat": 320000,
+    "total_heat": 323000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "七零，咸鱼假千金带空间下乡躺赢",
-          "book_id": 12265746,
-          "intro": "虞晚倒霉的穿进七十年代。\n成为一本书中注定要被女主踩在脚下的炮灰假千金。\n假千金过的就一定是好日子吗？\n每天吃着糙米杂粮饭，住在逼仄的楼房里，给全家六口人洗衣做饭，还要当保姆带孩子。\n等真千金回来就要"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "七零退婚嫌我瞎？我嫁军少旺全家",
           "book_id": 12637551,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "八零女配睡了就跑，高冷军少追疯了",
+          "book_id": 12193602,
+          "rank_change": -4
+        },
+        {
+          "title": "错嫁随军：新婚夜冷面军少沦陷了",
+          "book_id": 12792057,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "京少不育，小保姆却怀了他的崽",
           "book_id": 11851533,
-          "heat_change": 5000
+          "heat_change": 3000
         },
         {
           "title": "七零退婚嫌我瞎？我嫁军少旺全家",
           "book_id": 12637551,
-          "heat_change": 5000
+          "heat_change": 3000
         },
         {
           "title": "八零女配睡了就跑，高冷军少追疯了",
           "book_id": 12193602,
-          "heat_change": -5000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：军婚题材统治力极强，融合带崽、空间、穿书与系统元素成为标配。\n**读者偏好**：偏好极致反差与强冲突设定，如“残疾男主vs娇媚女主”、“恶毒炮灰逆袭”等爽点密集型内容。\n**变动解读**：榜单结构趋于稳固，头部作品热度优势明显，低阶作品通过提升爽感（如旺家、复仇）仍具备上升潜力。\n**值得关注**：《七零退婚嫌我瞎？我嫁军少旺全家》热度上涨，反映出“打脸虐渣+旺夫”的复合型叙事依然是拉动流量的核心驱动力。",
+      "summary": "**题材趋势**：军婚、带崽、穿书与空间系统依然是年代文的四大标配，题材同质化较高，侧重于展现“反差爽感”与“治愈系”情感互动。\n**读者偏好**：读者偏好强人设冲突，尤其是“娇媚女主vs高冷/腹黑/残疾军少”的组合，同时对“一胎多宝”等极致爽点设定有持续性需求。\n**变动解读**：榜单整体格局趋于稳定，头部作品《京少不育，小保姆却怀了他的崽》持续吸睛，显示出读者对“军婚+带崽”题材的长期粘性。\n**值得关注**：《七零退婚嫌我瞎？我嫁军少旺全家》排名稳步上升，说明“打脸退婚+旺夫+系统”的复合型爽点依然是拉动排名的利器。",
       "ai_source": "ai"
     },
     "books": [
@@ -67,24 +72,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.14万字",
-        "word_count": 451400,
-        "heat": 104000,
+        "word_count_text": "45.55万字",
+        "word_count": 455500,
+        "heat": 107000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【你保家卫国，我保护你】\n【年代军婚＋带崽＋日久生情＋治愈＋男主真正经＋女主真色批】\n京北空军总部少校周偃沉，出任务受伤双腿落下残疾。\n为了照顾他，家里人给他请了小保姆。\n小保姆长得妖，生得俏，力气大，性子野，还带了一个长得很像他的崽。\n——\n都说陆烟不检点，未婚生子不说还勾三搭四，为了留在城里，抢了弟弟的工作，把家人捅进医院，是个不好惹的主儿，偏偏被首长夫人一眼相中请去照顾双腿残疾的儿子。\n陆烟空降军区大院，本想拿着五倍的工资，背靠周家这座大山，没成想首长的家人争相宠着她。\n“你们听说了吗，首长多年老毛病让小保姆给治好了。”\n“听说了，政委多年腿疾也被小保姆治好了！”\n“什么，周偃沉站起来了！也是小保姆的功劳？！”\n不知何时，大院谁家有个头疼脑热都来找周偃沉的小保姆，小保姆一时间成了大院的香饽饽。\n小保姆哪哪都好，就是有点色色的。\n“周先生，你长得真帅。”\n“周先生，腹肌让我摸摸。”\n“周先生，你的嘴真好亲。”\n一向冷静克制的周偃沉将她压在墙上，抓着她的手放在他身前，嘴唇贴着她的唇瓣，嗓音嘶哑，“那就好好亲。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3951/11851533_360x480.jpg?time=1786202062",
-        "latest_chapter": " 第223章  会不会觉得她不是个好同志啊！",
-        "updated_at": "2026-09-06 23:57:09",
+        "latest_chapter": " 第225章  亲一下忽然就不困了",
+        "updated_at": "2026-09-08 01:17:03",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "错嫁随军：新婚夜冷面军少沦陷了",
         "book_id": 12792057,
         "url": "https://www.qimao.com/shuku/12792057/",
@@ -96,19 +101,19 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.37万字",
-        "word_count": 253700,
+        "word_count_text": "25.78万字",
+        "word_count": 257800,
         "heat": 79000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二代，夫妻恩爱，风光无限。\n她自私懒惰嫁穷苦男配，丈夫还要爱慕女主。\n甚至为了救下扭伤的女主，任由她被横梁砸碎，落个惨死的结局。\n姜珍霓不想死，抗争后发现根本没办法摆脱剧情，她准备熬一熬。\n熬到剧情上线——\n等周厉骁爱上女主，她就可以离婚，以后好好爱自己。\n姜珍霓揉着酸痛的腰，抚着一天天大起来的肚子，看着蹲在水池边给她洗内衣的周厉骁，有些疑惑，他怎么还不去给女主当舔狗？？\n……\n本该嫁红二代，风光无限的江明月，背着孩子洗衣服，看着被周厉骁百般疼宠的姜珍霓彻底傻眼——\n她怎么也想不通，　明明红二代是属于她的姻缘，怎么阴差阳错，周厉骁才是隐藏的红二代？\n到底是哪一步出了错？\n【时代背景一九七八年】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4265/12792057_360x480.jpg?time=1784770379",
-        "latest_chapter": " 第123章  亲一下，还被人看见……",
-        "updated_at": "2026-09-06 08:59:03",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第125章  小两口蜜里调油",
+        "updated_at": "2026-09-07 08:16:03",
+        "rank_change": -2,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "年代重生"
       },
@@ -125,15 +130,15 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.79万字",
-        "word_count": 317900,
-        "heat": 59000,
+        "word_count_text": "32.19万字",
+        "word_count": 321900,
+        "heat": 58000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第144章  有些不服，但又不敢……挑衅！",
-        "updated_at": "2026-09-06 10:07:03",
+        "latest_chapter": " 第146章  她可太怀念舞台了！",
+        "updated_at": "2026-09-07 10:07:04",
         "rank_change": 0,
         "heat_change": -1000,
         "is_new": false,
@@ -142,7 +147,7 @@
         "category": "年代重生"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "七零退婚嫌我瞎？我嫁军少旺全家",
         "book_id": 12637551,
         "url": "https://www.qimao.com/shuku/12637551/",
@@ -154,24 +159,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.76万字",
-        "word_count": 417600,
-        "heat": 48000,
+        "word_count_text": "42.37万字",
+        "word_count": 423700,
+        "heat": 51000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林菀绑定抽卡系统，获得短暂复明，\n看清了未婚夫的欺骗和虚伪，\n也看透了亲妈的偏心，\n果断卖掉工作，下乡嫁给娃娃亲对象。\n可不想，却被瘸腿小叔子拉进房……\n东北的热炕头，夜夜抵死纠缠，谁知今夕是何年？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4213/12637551_360x480.jpg?time=1783532008",
-        "latest_chapter": " 第198章  人心",
-        "updated_at": "2026-09-07 00:01:07",
-        "rank_change": 3,
-        "heat_change": 5000,
+        "latest_chapter": " 第201章  也不看是谁家男人",
+        "updated_at": "2026-09-08 00:03:04",
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 15,
+        "rank": 19,
         "title": "八零女配睡了就跑，高冷军少追疯了",
         "book_id": 12193602,
         "url": "https://www.qimao.com/shuku/12193602/",
@@ -183,17 +188,17 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.54万字",
-        "word_count": 415400,
-        "heat": 30000,
+        "word_count_text": "41.95万字",
+        "word_count": 419500,
+        "heat": 28000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【佛系不好惹女主vs偏执崩人设男主，年代+军婚+空间+真假千金+甜爽】\n林雪穿进一本刚看完的年代文里，成了书里活得窝囊、死得凄惨的炮灰女配。\n开局中药，二话不说先偷偷睡了男主，再瘸腿离开犯罪现场。\n被男主缠上要求处对象，先虚以委蛇答应再偷偷跑路。\n她可不想成为男女主play的一环，年纪轻轻就噶了。\n直到在亲生父母家被男主撞见，还来不及跑就被他带走。\n还被他设计让人抓奸在床。\n这都是什么跟什么啊！\n书里男主不是高冷禁欲？不耻原主设计他？\n怎么现在变得重欲又黏人！\n还反过来设计她！\n而且，假千金竟然是重生的！\n就连书里真善美女主也变了样。\n她怕不是穿了本假书吧？\n本想做只咸鱼，躺平享受生活，没想到被害得事业有成。\n男主更是动不动红着眼眶盯着她，就怕被她抛弃。\n造孽啊……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4065/12193602_360x480.jpg?time=1788513448",
-        "latest_chapter": " 第205章  想想就刺激",
-        "updated_at": "2026-09-06 20:07:03",
-        "rank_change": 0,
-        "heat_change": -5000,
+        "latest_chapter": " 第207章  要战便战",
+        "updated_at": "2026-09-07 13:47:03",
+        "rank_change": -4,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

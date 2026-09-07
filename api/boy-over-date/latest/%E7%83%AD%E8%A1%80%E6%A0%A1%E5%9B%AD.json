@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 2,
-    "total_heat": 170000,
+    "total_heat": 172000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,64 +21,36 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "rank_change": 1
-        },
-        {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": 5000
-        },
-        {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "heat_change": 5000
+          "heat_change": 10000
+        },
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "heat_change": -8000
         }
       ],
-      "summary": "**题材趋势**：校园题材向“怀旧+甜宠”双核驱动转型，重生年代文与恋爱日常文占据核心头部流量。\n**读者偏好**：读者高度聚焦于“弥补遗憾”的情感补偿机制，以及“事业成功+恋爱圆满”的双重爽感需求。\n**变动解读**：本期两部作品热度同步增长，显示该细分品类存量作品的长尾效应强，用户粘性较高。\n**值得关注**：建议重点关注“重生+商业帝国+青梅恋”这一组合拳模式，该类作品在完结榜单中展现了稳健的吸粉能力。",
+      "summary": "**题材趋势**：重生+恋爱狗粮文依然是该品类的绝对核心，强调弥补遗憾与商业崛起并行的双线叙事。\n**读者偏好**：读者更青睐带有强情感驱动和“白月光”情结的怀旧向作品，对纯粹的日常治愈风存在审美疲劳。\n**变动解读**：榜首易位反映出读者对“事业线+恋爱线”复合型爽点的需求高于单纯的恋爱日常，互动反馈更积极。\n**值得关注**：痞子老妖的作品通过高互动带动热度上涨，证明“重生+赚钱”的强代入感模式在完结榜单中更具长尾效应。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 10,
-        "title": "我和软萌女友的恋爱日常",
-        "book_id": 214789,
-        "url": "https://www.qimao.com/shuku/214789/",
-        "author": "佛系和尚",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
-        "major": "都市",
-        "minor": "热血校园",
-        "major_id": 203,
-        "minor_id": 222,
-        "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "299.99万字",
-        "word_count": 2999900,
-        "heat": 87000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "甜甜的治愈文，带你重回校园时代！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
-        "latest_chapter": " 第1338章  完结感言",
-        "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 1,
-        "heat_change": 5000,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": true,
-        "category": "热血校园"
-      },
-      {
-        "rank": 12,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -92,17 +64,46 @@
         "status": "已完结",
         "word_count_text": "429.99万字",
         "word_count": 4299900,
-        "heat": 83000,
+        "heat": 93000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "rank_change": 2,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "热血校园"
+      },
+      {
+        "rank": 12,
+        "title": "我和软萌女友的恋爱日常",
+        "book_id": 214789,
+        "url": "https://www.qimao.com/shuku/214789/",
+        "author": "佛系和尚",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
+        "major": "都市",
+        "minor": "热血校园",
+        "major_id": 203,
+        "minor_id": 222,
+        "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "299.99万字",
+        "word_count": 2999900,
+        "heat": 79000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "甜甜的治愈文，带你重回校园时代！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+        "latest_chapter": " 第1338章  完结感言",
+        "updated_at": "2023-02-18 08:11:26",
+        "rank_change": -2,
+        "heat_change": -8000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": true,
         "category": "热血校园"
       }

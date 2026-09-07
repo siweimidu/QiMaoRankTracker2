@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-09-08",
+  "category": {
+    "name": "恐怖灵异",
+    "major": "奇闻异事",
+    "count": 1,
+    "total_heat": 546000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "诡异游戏：我的天赋有亿点强",
+          "book_id": 12382644
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：无限流与诡异游戏的结合仍是主流，但核心竞争力已转向“天赋溢出”带来的反向压制爽感。\n**读者偏好**：读者追求“诡异环境下的人格无敌”，即通过系统天赋将恐怖元素转化为正面收益，满足“猎奇+无敌”的双重心理。\n**变动解读**：新书上榜即占据位置，体现了“强天赋+诡异游戏”题材在七猫平台拥有稳定的受众基础和极高的首发爆发力。\n**值得关注**：关注如何将恐怖元素与“反向加成”机制深度绑定，重点在于天赋设定的新奇程度对读者的吸引力。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "诡异游戏：我的天赋有亿点强",
+        "book_id": 12382644,
+        "url": "https://www.qimao.com/shuku/12382644/",
+        "author": "离火加农炮",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A6%BB%E7%81%AB%E5%8A%A0%E5%86%9C%E7%82%AE_14/",
+        "major": "奇闻异事",
+        "minor": "恐怖灵异",
+        "major_id": 204,
+        "minor_id": 229,
+        "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.81万字",
+        "word_count": 478100,
+        "heat": 546000,
+        "platform_trend": "rise",
+        "badge": "飙升23名",
+        "intro": "开局死刑犯，进入诡异游戏换取刑期。结果范辰进入诡异游戏后，幸运觉醒了“食灵者”唯一级天赋，诡异影响全部转化正向收益。煞气入体，我反向增强灵性！恶鬼诅咒，我血条反向加满！别人不敢用的灵异物品，我用。别人不敢接的任务，我接。吞噬灵异，无限增强。范辰表示：我的天赋真的有亿点强！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4128/12382644_360x480.jpg?time=1781157117",
+        "latest_chapter": " 第162章  高明的猎人，总是以猎物身份出现（二合一）",
+        "updated_at": "2026-09-07 23:30:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "恐怖灵异"
+      }
+    ]
+  }
+}

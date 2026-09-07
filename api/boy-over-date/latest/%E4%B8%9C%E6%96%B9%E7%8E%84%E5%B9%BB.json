@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -19,37 +19,27 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": -2
-        },
+      "top_risers": [
         {
           "title": "噬神鼎",
           "book_id": 1868453,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -15000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": -6000
+          "heat_change": -4000
         },
         {
           "title": "玲珑塔",
           "book_id": 1754203,
-          "heat_change": 5000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：传统废柴流与系统/外挂流仍是核心，强调“开局被废+奇遇觉醒”的经典爽点闭环。\n**读者偏好**：读者对高压开局下的快速反转（如“神挡杀神”）及多女主元素表现出较强的粘性。\n**变动解读**：榜单整体趋于稳固，但头部书籍热度出现小幅震荡，中后部书籍热度流失，显示出长尾作品在长线留存上存在挑战。\n**值得关注**：《荒古武神》统治力稳固，建议关注具备“快节奏+强互动（如女帝元素）”特质的《玲珑塔》后续热度攀升潜力。",
+      "summary": "**题材趋势**：传统废柴流与“系统/金手指”变种依然是市场基石，题材稳定性极高。\n**读者偏好**：读者对“被废-获宝-崛起”的经典爽文套路表现出极高粘性，且对“快节奏”及“女帝/多女主”等强冲突元素接受度高。\n**变动解读**：榜单整体格局固化，《噬神鼎》凭借炼化万物的爽点模型实现排名小幅跃升，头部作品热度波动微弱，处于存量竞争阶段。\n**值得关注**：如《荒古圣体》这类“娘胎悟道”的开局创新，通过降低受众门槛和提升期待感，是目前该类目下保持热度的有效差异化手段。",
       "ai_source": "ai"
     },
     "books": [
@@ -68,7 +58,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 385000,
+        "heat": 381000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -76,7 +66,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -15000,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -97,7 +87,7 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 124000,
+        "heat": 128000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
@@ -105,14 +95,14 @@
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -133,8 +123,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -162,8 +152,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -2,
-        "heat_change": -6000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

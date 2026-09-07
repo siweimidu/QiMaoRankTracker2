@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -19,10 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "rank_change": 1
+        },
+        {
+          "title": "六扇门第一悍捕",
+          "book_id": 11988894,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：侧重“系统化外挂”与“宿命感”结合，强调主角从底层逆袭的过程。\n**读者偏好**：读者青睐“悟性流”、“道具流”等具备明确成长反馈的设定，以及带有情感羁绊或因果纠缠的叙事。\n**变动解读**：本期榜单稳定性极高，头部作品竞争格局固化，暂无新进势力挑战现有热度梯队。\n**值得关注**：《盗梦千年》凭借跨越时空的宿命叙事保持断层领先，体现了读者对强情节与强人设作品的持续青睐。",
+      "summary": "**题材趋势**：传统凡人流、悟性流与历史修真融合题材并存，作品风格向多元化与高概念化发展。\n**读者偏好**：读者更偏爱带有“系统/金手指”且具备成长反馈机制的修真文，对“底层逆袭”与“补全残缺”类的养成式爽点尤为偏好。\n**变动解读**：榜单内部排名小幅更迭，显示出读者群体对成长性叙事的持续关注，作品间热度差距正在逐步缩小，竞争进入白热化。\n**值得关注**：《聚宝仙炉》的凡人流养成与《六扇门第一悍捕》的悟性流体系，两者代表了当前修真品类中极受欢迎的成长叙事模型。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,15 +50,15 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.8万字",
-        "word_count": 398000,
+        "word_count_text": "40.61万字",
+        "word_count": 406100,
         "heat": 2990000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第172章  猜想",
-        "updated_at": "2026-09-06 07:01:05",
+        "latest_chapter": " 第176章  功法",
+        "updated_at": "2026-09-08 07:01:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +67,7 @@
         "category": "幻想修真"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -72,12 +83,12 @@
         "word_count": 405900,
         "heat": 1355000,
         "platform_trend": "rise",
-        "badge": "飙升13名",
+        "badge": "飙升14名",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
         "latest_chapter": " 第193章  真魔",
         "updated_at": "2026-09-07 00:02:09",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -85,7 +96,7 @@
         "category": "幻想修真"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "六扇门第一悍捕",
         "book_id": 11988894,
         "url": "https://www.qimao.com/shuku/11988894/",
@@ -97,16 +108,16 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.9万字",
-        "word_count": 479000,
+        "word_count_text": "48.31万字",
+        "word_count": 483100,
         "heat": 1061000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "意外穿越大夏王朝，秦动成为了大夏六扇门最底层的一个小小协捕。\n眼看深陷负债，相依为命的童养媳都差点受辱抵债下，他突然觉醒了满级悟性，只要看过功法便能领悟学会。\n至此他在六扇门都踏上了一条登天之路，从正式捕快到银牌捕快，金牌捕快……\n“大人，我请你去怡红楼喝过茶呢？你还记得吗？”\n“秦金捕，只要您一句话，赴汤蹈火弟兄们都在所不辞！”\n“指挥使大人，天气冷了，加件黄袍吧。”\n谁在称无敌，哪个敢言不败？\n天才？天才也只是见到我的门槛！\n多年后秦动回首前尘，江湖与庙堂之上的敌人早已成为了自己座下累累白骨堆砌的王座。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3997/11988894_360x480.jpg?time=1780989850",
-        "latest_chapter": " 第178章  目的",
-        "updated_at": "2026-09-06 02:22:03",
-        "rank_change": 0,
+        "latest_chapter": " 第180章  上面的动作",
+        "updated_at": "2026-09-07 23:42:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

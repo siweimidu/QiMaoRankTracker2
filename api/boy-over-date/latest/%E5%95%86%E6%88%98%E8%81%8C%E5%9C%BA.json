@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 75000,
+    "total_heat": 63000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "极品女神赖上我",
           "book_id": 2012529,
-          "rank_change": -4
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "极品女神赖上我",
           "book_id": 2012529,
-          "heat_change": -9000
+          "heat_change": -12000
         }
       ],
-      "summary": "**题材趋势**：商战类题材在男频头部竞争中略显疲态，目前呈现“单极化”分布，市场存量书目依赖短剧IP联动维持热度。\n**读者偏好**：读者更倾向于“都市+商战+强爽”的强冲突模式，尤其是带入“下属反向掌控女总裁”等带有视觉冲击力的情感叙事。\n**变动解读**：本期排名下滑且热度缩水9000，显示出单一头部作品在缺乏新书填充时，其长尾效应正在减弱。\n**值得关注**：短剧IP转化对原著热度的持续支撑力，需警惕此类作品在缺乏新内容迭代下的自然衰减。",
+      "summary": "**题材趋势**：商战职场类题材当前呈现热度回调趋势，市场存量竞争加剧。\n**读者偏好**：读者更青睐“都市生活+情感爽文”的融合模式，带有短剧IP属性的作品更易获得流量加持。\n**变动解读**：头部作品《极品女神赖上我》排名下滑2位且热度流失明显，反映出完结书籍在缺乏强力运营支撑下的自然回落。\n**值得关注**：作为短剧原著改编作品，如何利用短剧热度红利维持长线阅读转化是该类作品的运营重点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 16,
         "title": "极品女神赖上我",
         "book_id": 2012529,
         "url": "https://www.qimao.com/shuku/2012529/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "297.07万字",
         "word_count": 2970700,
-        "heat": 75000,
+        "heat": 63000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
         "latest_chapter": " 第829章  千帆尽处，般若归远",
         "updated_at": "2026-08-15 14:22:08",
-        "rank_change": -4,
-        "heat_change": -9000,
+        "rank_change": -2,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

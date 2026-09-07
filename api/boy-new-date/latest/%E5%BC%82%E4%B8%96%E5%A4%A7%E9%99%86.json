@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 44000,
+    "total_heat": 54000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "从野狗开始一路修仙",
-          "book_id": 12451830
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：异世大陆类题材回归“苟道修仙”本源，非人流开局（妖兽/土狗）成为吸引读者的细分赛道。\n**读者偏好**：读者对于“开局弱小、发育稳健”的成长路线有极高心理预期，侧重于从底层视角带来的反差爽感。\n**变动解读**：《从野狗开始一路修仙》作为新书空降，证明了“异兽流+苟道”题材在当前市场仍具备较强的吸粉能力。\n**值得关注**：此类作品后续的进化路径与化形节奏，是决定其能否维持高热度的核心看点。",
+      "heat_leaders": [
+        {
+          "title": "从野狗开始一路修仙",
+          "book_id": 12451830,
+          "heat_change": 10000
+        }
+      ],
+      "summary": "**题材趋势**：异兽流、苟道流题材持续发酵，非人类开局的成长型叙事在榜单中占据独特生态位。\n**读者偏好**：读者倾向于“反常规”开局与“稳健发育”的爽点结合，对从底层生物进化至巅峰的蜕变过程有高期待。\n**变动解读**：本类目近期处于存量博弈状态，头部作品《从野狗开始一路修仙》热度增幅显著（+10000），显示出极强的用户粘性与长尾效应。\n**值得关注**：需重点观察该类目是否存在同质化竞争挤压，以及后续是否有具备高概念创新点的新书入场。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.6万字",
-        "word_count": 416000,
-        "heat": 44000,
+        "word_count_text": "42.22万字",
+        "word_count": 422200,
+        "heat": 54000,
         "platform_trend": "rise",
-        "badge": "飙升33名",
+        "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第178章  特供",
-        "updated_at": "2026-09-06 17:18:04",
+        "latest_chapter": " 第181章  不收徒",
+        "updated_at": "2026-09-07 18:30:04",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 10000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "异世大陆"

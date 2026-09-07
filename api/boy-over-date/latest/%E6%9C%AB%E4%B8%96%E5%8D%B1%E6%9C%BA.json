@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：末世题材整体趋于稳定，但缺乏新鲜血液涌入，市场表现为典型的“存量博弈”。\n**读者偏好**：读者青睐“死亡重生+杀伐果断”的硬核爽点，对于带有漫画改编背景的成熟作品具有较高黏性。\n**变动解读**：榜单波动微小，热度仅小幅回落2000，说明该书拥有稳定的核心粉丝群体，市场生命周期较长。\n**值得关注**：跨媒介联动（如漫画上线）对原著长尾热度的平滑作用，是延长末世类作品寿命的有效路径。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：末世题材在完结榜单中表现出极强的长尾效应，单品支撑力稳健。\n**读者偏好**：读者倾向于“重生+杀伐果断”的复仇爽文设定，对具有强视觉冲击力和强代入感的作品粘性较高。\n**变动解读**：本期《全球灾变之末日游戏》热度逆势上涨，排名上升2位，显示出该作在完结阶段依然具备极强的吸睛能力。\n**值得关注**：该作通过跨媒介联动（漫画化）反哺原著热度，是网文IP多维运营的典型范例。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 14,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,33 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "heat_change": 5000
-        },
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "heat_change": -3000
-        }
-      ],
-      "summary": "**题材趋势**：民俗恐怖与“职业诡异”类叙事依然是该赛道的主流，强调沉浸式的民间传说体验。\n**读者偏好**：读者偏好具备强烈视觉冲击力的“硬核民俗”元素（如接阴、捞尸、问米），追求猎奇与解密的爽感。\n**变动解读**：榜单内部出现位次更迭，《山野诡闻笔记》热度增长显著，显示读者对更具乡野气息的单元式叙事表现出更高兴趣。\n**值得关注**：民俗类内容在完结阶段存在一定的热度波动，应关注长篇叙事在结尾处的口碑反馈对总热度的影响。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：民间民俗诡事与职业化民俗叙事（如接阴婆、捞尸人）构成了该品类的核心竞争力，注重氛围营造。\n**读者偏好**：读者倾向于碎片化、单元剧式的诡异叙事，对带有地域色彩的民俗禁忌和神秘职业设定有极高粘性。\n**变动解读**：榜单结构极其稳固，说明该品类已形成稳定的头部梯队，读者对长篇连载完结内容的认可度较高。\n**值得关注**：两部作品均通过“第一人称视角+职业背景”增强沉浸感，此类“伪纪实”写法是该题材吸引读者的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -65,14 +42,14 @@
         "word_count_text": "243.5万字",
         "word_count": 2435000,
         "heat": 78000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -1,
-        "heat_change": -3000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -100,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 2,
-        "heat_change": 5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -8,43 +8,37 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 3,
     "total_heat": 136000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "九帝塔",
-          "book_id": 11901855,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "九帝塔",
-          "book_id": 11901855,
-          "heat_change": 4000
-        },
         {
           "title": "镇魔司第一狠人",
           "book_id": 12802632,
           "heat_change": 4000
+        },
+        {
+          "title": "九帝塔",
+          "book_id": 11901855,
+          "heat_change": -3000
+        },
+        {
+          "title": "长生猎户，从形意拳到人间武圣！",
+          "book_id": 12789207,
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻与“系统+面板”流派深度融合，强调快节奏的升级反馈与极致的复仇爽感。\n**读者偏好**：读者热衷于“天才陨落后通过系统逆袭”的经典套路，且对多女角互动（如女帝、圣女）具备高关注度。\n**变动解读**：《九帝塔》凭强烈的复仇冲突领跑，新书《长生猎户》入榜，显示出“武道面板+妖魔乱世”题材在下沉市场极具竞争力。\n**值得关注**：兼具“系统辅助”与“群像压迫感”的作品表现强劲，建议创作者强化主角初期受辱与后期暴力反击的对比张力。",
+      "summary": "**题材趋势** 传统玄幻复仇与“系统+武道”流派并存，虐主开局与快速变强节奏是核心驱动力。\n**读者偏好** 偏好带有“女帝”、“妖魔乱世”等强冲突元素的爽文，对主角从废柴到崛起的过程有极高忠诚度。\n**变动解读** 榜单结构趋于固化，头部书籍热度波动较小，市场进入存量博弈阶段，缺乏新作注入新鲜活力。\n**值得关注** 《镇魔司第一狠人》热度逆势上涨，反映出“天道酬勤”式的努力流设定在当前环境下具备更强的留存黏性。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,17 +55,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.27万字",
-        "word_count": 432700,
-        "heat": 65000,
-        "platform_trend": "rise",
+        "word_count_text": "43.68万字",
+        "word_count": 436800,
+        "heat": 62000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第209章  长老试炼，九大先祖",
-        "updated_at": "2026-09-06 23:33:03",
-        "rank_change": 3,
-        "heat_change": 4000,
+        "latest_chapter": " 第211章  一百阶梯，巅峰剑主",
+        "updated_at": "2026-09-07 23:17:06",
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -90,15 +84,15 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.32万字",
-        "word_count": 373200,
-        "heat": 41000,
+        "word_count_text": "37.96万字",
+        "word_count": 379600,
+        "heat": 45000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "妖魔乱世，哀鸿遍野。\n许夜穿越成镇魔司官吏之子，可惜天赋平平无法修炼。\n乱世之中，命如草芥，父辈以命换来的父荫，却被他人当做平步青云的捷径，以命要挟，好在天道酬勤系统觉醒。\n从此天赋不再是唯一，只要努力必有回报。\n别人拼死也无法突破的境界，许夜无视境关直接突破。\n别人无法修炼的功法武技，许夜肝够经验轻松掌握。\n别人做不到的，他能轻松做到！\n别人能做到的，他能直接超越！\n天道酬勤，一证永证！\n若干年后，许夜举刀向天：“我这一刀下，万年功力，这苍天挡得住吗？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802632_360x480.jpg?time=1785153441",
-        "latest_chapter": " 第178章  实力暴露，震惊全场！",
-        "updated_at": "2026-09-06 18:20:06",
+        "latest_chapter": " 第181章  连吃带拿，你配吗？",
+        "updated_at": "2026-09-07 21:03:03",
         "rank_change": 0,
         "heat_change": 4000,
         "is_new": false,
@@ -119,18 +113,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.79万字",
-        "word_count": 327900,
-        "heat": 30000,
-        "platform_trend": "rise",
+        "word_count_text": "33.39万字",
+        "word_count": 333900,
+        "heat": 29000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第159章  凶地鬼愁涧！陈寻的未婚妻？",
-        "updated_at": "2026-09-06 23:36:04",
+        "latest_chapter": " 第162章  狼王授首！突破的契机！",
+        "updated_at": "2026-09-08 00:34:04",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
