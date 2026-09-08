@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 95000,
+    "total_heat": 90000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "重回六十年代，从挖何首乌开始",
-          "book_id": 2064995,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重回六十年代，从挖何首乌开始",
           "book_id": 2064995,
-          "heat_change": -2000
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：年代文与乡村致富流深度融合，以“悔恨重生+守护家庭+资源开发”为黄金卖点。\n**读者偏好**：读者偏好从底层逆袭到富甲一方的成就感，特别是带有年代滤镜和家庭温情补偿的剧情极易引发共鸣。\n**变动解读**：尽管排名略有波动，但该题材在完结榜中仍保持极高热度，显示出读者对稳健叙事类作品的持续关注。\n**值得关注**：该题材的核心逻辑在于“信息差致富+家庭守护”，作者通过具象化的山野捕猎描写，成功抓住了中青年读者的爽点。",
+      "summary": "**题材趋势**：年代文与种田致富相结合，主打“重回过去、改变命运”的奋斗叙事，兼具怀旧感与爽感。\n**读者偏好**：读者偏好从底层逆袭、家庭经营与乡村资源开发的复合型剧情，尤其关注主角在艰苦环境下实现财富积累的成长路径。\n**变动解读**：该类目目前处于头部作品垄断状态，唯一上榜作品《重回六十年代》虽排名持平，但热度微降，显示出该单本作品在完结后的自然流量衰减趋势。\n**值得关注**：该题材作为强情绪价值类目，建议挖掘更多具有时代特征的创业点或家庭情感羁绊，以维持读者的长期阅读动力。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "211.71万字",
-        "word_count": 2117100,
-        "heat": 95000,
+        "word_count_text": "212.32万字",
+        "word_count": 2123200,
+        "heat": 90000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
-        "latest_chapter": " 第1027章  教我写字",
-        "updated_at": "2026-09-07 20:37:09",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "latest_chapter": " 第1030章  刘县长偷腥",
+        "updated_at": "2026-09-08 10:11:08",
+        "rank_change": 0,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

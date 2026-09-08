@@ -9,16 +9,16 @@
   "word_count_text": "45.55万字",
   "latest": [
     {
-      "board": "girl-new-date",
-      "board_name": "女生新书日榜",
-      "rank": 2,
-      "heat": 107000
-    },
-    {
       "board": "girl-new-month",
       "board_name": "女生新书月榜",
       "rank": 2,
       "heat": 4139000
+    },
+    {
+      "board": "girl-new-date",
+      "board_name": "女生新书日榜",
+      "rank": 4,
+      "heat": 106000
     }
   ],
   "history": [
@@ -282,6 +282,18 @@
     },
     {
       "d": "2026-09-08",
+      "b": "girl-new-month",
+      "r": 2,
+      "h": 4139000
+    },
+    {
+      "d": "2026-09-09",
+      "b": "girl-new-date",
+      "r": 4,
+      "h": 106000
+    },
+    {
+      "d": "2026-09-09",
       "b": "girl-new-month",
       "r": 2,
       "h": 4139000

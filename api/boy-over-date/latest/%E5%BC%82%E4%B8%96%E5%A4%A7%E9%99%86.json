@@ -8,57 +8,56 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-09-09",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 54000,
+    "total_heat": 56000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
-          "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
-          "book_id": 1809733,
-          "rank_change": -1
+          "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+          "book_id": 2027749
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「异世大陆」《全民：召唤师弱？开局觉醒金铲铲系统！》下滑1位。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：游戏异界与系统流结合仍是核心驱动力，强调开局金手指与身份反差带来的爽感。\n**读者偏好**：受众偏好“赘婿+系统”的强冲突设定，倾向于主角在绝境中通过外挂实现修为逆袭的快节奏叙事。\n**变动解读**：本期新书《刚抽中SSS级天赋，你跟我说游戏停服》以56000热度入榜，显示出高概念开篇对读者的即时吸引力。\n**值得关注**：该类目热度集中度高，后续需观察此类“游戏停服+天赋觉醒”题材在男频市场的留存与转化表现。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "全民：召唤师弱？开局觉醒金铲铲系统！",
-        "book_id": 1809733,
-        "url": "https://www.qimao.com/shuku/1809733/",
-        "author": "一脸糊涂",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E8%84%B8%E7%B3%8A%E6%B6%82_14/",
+        "rank": 19,
+        "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+        "book_id": 2027749,
+        "url": "https://www.qimao.com/shuku/2027749/",
+        "author": "吃猫的鱼仔",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%90%83%E7%8C%AB%E7%9A%84%E9%B1%BC%E4%BB%94_14/",
         "major": "玄幻奇幻",
         "minor": "异世大陆",
         "major_id": 202,
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "已完结",
-        "word_count_text": "289.78万字",
-        "word_count": 2897800,
-        "heat": 54000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【没玩过云顶金铲铲不影响阅读。】\n深渊降临现世。\n蓝星人类进入全民转职时代。\n李遥转职A级召唤类职业，云顶执棋人。\n却被告知召唤师是下水道职业？\n女友提分手，资源被扣，副本没人组队？\n李遥：？？？\n那是召唤师，跟我云顶执棋人有什么关系？\n【执棋人】：召唤兽不死，召唤师为无敌状态！\n【实战训练】：杀一只怪获得1点属性！\n【恶魔契约】：献祭生命值获得额外召唤槽！\n【打气】：执棋人每提升一级，召唤兽提升10%敏捷！\n......\n十强争夺战！天骄争霸！一人独占十强！\n国境试炼！李遥一人即是军队！\n外域战场！一人诛灭魔族！\n深渊之行！李遥独面诸天神魔，打通职业者通天之路！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/519/1554201_360x480.jpg?time=1732844820",
-        "latest_chapter": " 第1398章  有资格成为父亲对手的强者！",
-        "updated_at": "2025-12-03 01:14:11",
-        "rank_change": -1,
+        "word_count_text": "236.82万字",
+        "word_count": 2368200,
+        "heat": 56000,
+        "platform_trend": "rise",
+        "badge": "飙升30名",
+        "intro": "云澈穿越到了游戏世界，还成了秦王府的赘婿。\n可他的命运似乎仅限于成为秦大小姐修炼双修之法的牺牲品。\n濒临死亡之际，天赋神来之手显威，云澈幸运获得了对方的双修之法。\n一夜之间，云澈修为突飞猛进，成为大元帝国所有男人羡慕嫉妒恨的焦点。\n对着秦王爷施展神来之手，抓取成功，恭喜获得上品身法，飞絮飘步。\n对着小姨子施展神来之手，抓取成功，恭喜获得中品防具，冰丝锦绣衣。\n对着秦女魔施展神来之手，抓取成功，恭喜获得100点经验。\n对着毒灵花施展神来之手，抓取成功，恭喜获得5点毒抗。\n对着巨灵龟施展神来之手，抓取成功，恭喜获得500点耐力。\n对着NPC老爷爷施展神来之手，抓取成功，恭喜获得转职卷轴（唯一）。\n云澈满脸狂喜，不用做任务就能成功转职，这比躺平还爽啊！\n某日，云澈偶然遇到了同班同学，他这才得知，原来是地球疯了，带着全人类融入到了妖魔与邪修肆虐的神武世界，艰难苟活。\n他只不过是比其他人早来那么一年时间而已......",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
+        "latest_chapter": " 第1074章  仙人也折腰(终)",
+        "updated_at": "2026-09-06 08:21:09",
+        "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 1,
-        "stale_update": true,
+        "stale_update": false,
         "category": "异世大陆"
       }
     ]

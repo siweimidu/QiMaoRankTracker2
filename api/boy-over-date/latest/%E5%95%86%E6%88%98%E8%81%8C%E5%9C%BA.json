@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 63000,
+    "total_heat": 62000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "极品女神赖上我",
           "book_id": 2012529,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "极品女神赖上我",
           "book_id": 2012529,
-          "heat_change": -12000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：商战职场类题材当前呈现热度回调趋势，市场存量竞争加剧。\n**读者偏好**：读者更青睐“都市生活+情感爽文”的融合模式，带有短剧IP属性的作品更易获得流量加持。\n**变动解读**：头部作品《极品女神赖上我》排名下滑2位且热度流失明显，反映出完结书籍在缺乏强力运营支撑下的自然回落。\n**值得关注**：作为短剧原著改编作品，如何利用短剧热度红利维持长线阅读转化是该类作品的运营重点。",
+      "summary": "**题材趋势**：商战职场题材当前已深度绑定“短剧IP化”，原著小说成为短剧生态的重要流量入口。\n**读者偏好**：读者偏好快节奏、强反差的职场情缘，尤其是“司机逆袭”等具有极高辨识度的爽文模版。\n**变动解读**：排名微降且热度小幅回落，反映出该类作品依赖短剧热度红利，存在一定的生命周期波动。\n**值得关注**：作为短剧原著，该书具备极强的商业转化属性，后续需关注其如何通过短剧持续反哺阅读数据。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 17,
         "title": "极品女神赖上我",
         "book_id": 2012529,
         "url": "https://www.qimao.com/shuku/2012529/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "297.07万字",
         "word_count": 2970700,
-        "heat": 63000,
+        "heat": 62000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
         "latest_chapter": " 第829章  千帆尽处，般若归远",
         "updated_at": "2026-08-15 14:22:08",
-        "rank_change": -2,
-        "heat_change": -12000,
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

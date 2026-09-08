@@ -8,26 +8,76 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 11202000,
+    "count": 4,
+    "total_heat": 16966000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "边关猎户，我粮肉满仓富甲一方",
+          "book_id": 2093494
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "打到北极圈了，你让我继承皇位？",
+          "book_id": 1864493,
+          "rank_change": -1
+        },
+        {
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "rank_change": -1
+        },
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：以“权谋+种田+老六”为核心范式，强调皇子身份带来的资源开发与军事扩张爽感。\n**读者偏好**：读者倾向于“扮猪吃虎”与“科技/工业降维打击”的爽文逻辑，偏爱带有明确权谋博弈色彩的快节奏历史爽文。\n**变动解读**：榜单表现出明显的IP联动特征，在榜作品大多已实现有声剧或短剧转化，市场头部效应显著，排名无波动。\n**值得关注**：多媒体版权（有声、短剧）的联动已成为提升历史类书籍长尾热度的关键，建议关注此类跨平台联动模式。",
+      "summary": "**题材趋势**：种田经营与权谋争霸持续融合，“基建+多女主”成为提升留存的核心配置。\n**读者偏好**：读者更青睐“开局困境+资源开发+势力扩张”的爽文模式，对“老六”式低调搞军权的情节有极高共鸣。\n**变动解读**：橙年岁月的《边关猎户》强势登榜，说明生活气息浓郁、带有家庭经营色彩的种田文在七猫生态中具备极强穿透力。\n**值得关注**：IP联动与短剧改编对热度有明显加持，榜单前列作品多为多平台联动的大IP，长尾效应显著。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
+        "title": "边关猎户，我粮肉满仓富甲一方",
+        "book_id": 2093494,
+        "url": "https://www.qimao.com/shuku/2093494/",
+        "author": "橙年岁月",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%A9%99%E5%B9%B4%E5%B2%81%E6%9C%88_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "189.56万字",
+        "word_count": 1895600,
+        "heat": 5764000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
+        "latest_chapter": " 第795章  找打他们了",
+        "updated_at": "2026-09-09 00:02:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 5,
         "title": "打到北极圈了，你让我继承皇位？",
         "book_id": 1864493,
         "url": "https://www.qimao.com/shuku/1864493/",
@@ -48,7 +98,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -56,7 +106,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "无敌六皇子",
         "book_id": 1747899,
         "url": "https://www.qimao.com/shuku/1747899/",
@@ -77,7 +127,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -85,7 +135,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -106,7 +156,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

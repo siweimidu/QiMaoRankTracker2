@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 33000,
+    "total_heat": 49000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "rank_change": 1
+          "rank_change": 5
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "heat_change": 4000
+          "heat_change": 16000
         }
       ],
-      "summary": "**题材趋势**：以“女扮男装+宫廷身份差”为核心架构，通过反差萌与强冲突的互动模式吸引读者。\n**读者偏好**：偏好“侍卫vs太子”这种带有禁忌感与轻喜剧色彩的权谋互动，追求快速建立的情感羁绊与戏剧张力。\n**变动解读**：该小类目前处于长尾表现期，仅剩《本侍卫是娇花》单兵作战，但其热度稳步上升，说明此类题材在垂直受众中口碑良好。\n**值得关注**：该书通过“满脑子杀招vs满脑子春宵”的心理落差制造爽点，是当前权谋文向轻量化、趣味化转型的典型样本。",
+      "summary": "**题材趋势**：轻喜风格的“女扮男装+错位恋爱”题材展现出极强的突围能力，市场需求向轻松幽默的权谋文倾斜。\n**变动解读**：《本侍卫是娇花》单日排名跃升5位、热度暴涨16000，显示出该书在内容节奏或推广投放上实现了精准的流量爆发。\n**读者偏好**：读者偏好带有反差萌、调侃性质的权谋互动，而非严肃沉重的政治斗争。\n**值得关注**：该书作为该小类当前唯一上榜作，具备极强的统治力，需重点监测其后续是否能引发同类题材的跟风热潮。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 11,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -51,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.76万字",
-        "word_count": 327600,
-        "heat": 33000,
+        "word_count_text": "33.12万字",
+        "word_count": 331200,
+        "heat": 49000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第132章  看不穿你的眼睛",
-        "updated_at": "2026-09-07 23:48:03",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "latest_chapter": " 第133章  要活下去",
+        "updated_at": "2026-09-09 00:00:04",
+        "rank_change": 5,
+        "heat_change": 16000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

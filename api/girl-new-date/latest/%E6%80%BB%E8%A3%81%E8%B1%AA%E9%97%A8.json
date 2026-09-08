@@ -8,49 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 4,
-    "total_heat": 217000,
+    "total_heat": 216000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_books": [
         {
           "title": "盲婚",
-          "book_id": 12475164,
-          "intro": "司遇行眼盲时，姜荷嫁给他。他复明时，她却被迫离婚。\n得知怀孕，她抱有一丝奢望，被绑架时向他求救，他在为其他女人忙碌，语调不耐：\n“姜荷，被绑架能自如用手机？你装过了。”\n他说：“过来道歉，否则永远别出"
+          "book_id": 12475164
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "青梅消失五年后，顾医生再度失控",
+          "book_id": 12855951,
+          "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了"
         }
       ],
       "top_risers": [],
       "top_fallers": [
         {
-          "title": "冷淡七年，离婚后被顶级大佬追着宠",
-          "book_id": 12214737,
-          "rank_change": -2
+          "title": "疯犬玫瑰",
+          "book_id": 1939902,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "冷淡七年，离婚后被顶级大佬追着宠",
           "book_id": 12214737,
-          "heat_change": -1000
+          "heat_change": 2000
         },
         {
           "title": "余生高嫁",
           "book_id": 12261993,
-          "heat_change": 1000
-        },
-        {
-          "title": "青梅消失五年后，顾医生再度失控",
-          "book_id": 12855951,
-          "heat_change": 1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：市场进入存量博弈阶段，题材高度集中在“离婚/分手后追妻火葬场”及“强取豪夺”等高张力情感模式，主打极致虐恋与拉扯。\n**读者偏好**：读者对于“破镜重圆”、“上位者低头”及“禁忌感”情节有强烈偏好，倾向于阅读主角情感状态发生剧烈反转的作品。\n**变动解读**：榜单头部《冷淡七年，离婚后被顶级大佬追着宠》虽热度略有波动但仍稳居前列，反映出该题材仍是豪门小类的基本盘。\n**值得关注**：随着《盲婚》掉榜，市场对纯粹的“虐恋”需求有所分化，读者更青睐带有强烈情绪张力与角色成长曲线的豪门情感文。",
+      "summary": "**题材趋势**：虐心离婚赛道依然是核心驱动力，且叙事逻辑高度聚焦于“女性觉醒+脱离渣男+强势反转”。\n**读者偏好**：读者对“先苦后甜”的追妻火葬场及“被误解后决绝离场”的爽文桥段具有极高粘性。\n**变动解读**：新书《盲婚》凭借典型的“误会+绝情+消失”模板迅速入榜，挤出同类作品，显示出读者对高冲突开篇的持续偏好。\n**值得关注**：头部作品《冷淡七年》热度稳固，证明了长线虐恋题材在七猫生态中具备极强的吸金稳定性。",
       "ai_source": "ai"
     },
     "books": [
@@ -67,17 +67,17 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.04万字",
-        "word_count": 490400,
-        "heat": 106000,
-        "platform_trend": "drop",
+        "word_count_text": "49.46万字",
+        "word_count": 494600,
+        "heat": 108000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于想通了，决定好好爱自己。\n江太太她不做了，儿子也不要了。\n江叙珩认定当初为了嫁他不惜爬床的安宥禾，没了江太太的身份，根本无法生活。\n却不知，他瞧不上的妻子，不仅是能卡他全家脖子的学术界天才。而且，身边优秀的追求者无数。\n误会解开，得知真相的江叙珩慌了，但安宥禾身边早已经被那个说一不二的顶级男人牢牢霸占。\n随着安宥禾一层层身份曝光，再次引来那位顶级豪门真千金的忌惮。却不知，安宥禾这个假千金才是这顶级豪门的唯一继承人。\n后来，狗前夫痛彻心扉，“小禾，我后悔了，我们复婚吧。”\n安宥禾：“脏狗，滚远些。”\n儿子：“妈妈，你不要我了吗？”\n安宥禾：“抱歉，你真不是我儿子。”\n商执：“亲爱的，不如我们生一个呢？”\n安宥禾：“呵呵，你还在考察期。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4072/12214737_360x480.jpg?time=1780052801",
-        "latest_chapter": " 第215章  过街老鼠",
-        "updated_at": "2026-09-07 18:11:03",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第217章  报警告你",
+        "updated_at": "2026-09-08 17:57:03",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -96,24 +96,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.17万字",
-        "word_count": 491700,
-        "heat": 44000,
-        "platform_trend": "rise",
+        "word_count_text": "49.6万字",
+        "word_count": 496000,
+        "heat": 42000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "容筝从未想过自己会被前夫的大哥控在怀里抵死纠缠。\n……\n容筝是一个心理医生，线上问诊碰见一个小三病人，后来才知道这个小三爬的是她老公的床，生的是她老公的私生子。\n她果断离婚，带着女儿离开江城去京市深耕学术。\n一路从医院新人，蜕变成国际上精神心理科权威教授，成为医学界最年轻璀璨的新星。\n这一路走来，京市那个站在权力之巅的男人，一直以女儿大伯的身份，默默守护她。\n这天容筝拿着奖杯去感谢他，“大哥，谢谢你一直以来的支持。”\n却不想向来不近女色的男人，突然揽住她的腰，嗓音低沉，“怎么谢？”\n容筝眼中满是惊愕，心颤着说不出一句话。\n“以身相许怎么样？”男人俯首在她耳边哑声问。\n容筝从未想过自己会被前夫的大哥控在怀里抵死纠缠。\n事后，她红着眼问他，“你不嫌弃我离过婚，有个孩子吗？”\n“离婚不是你的错，至于孩子……”男人冷峻的眉眼划开一抹柔情，“我嫌弃我自己的孩子做什么？”\n容筝：“……”晴天霹雳！\n谁来告诉她，她明明怀的是前夫的孩子，怎么就成前夫大哥的了？\n【沉稳托举型大佬VS坚韧清醒女主】\n【上位者低头/伪骨科/暗恋/后悔流/男二上位】\n   一场十五年的暗恋成真",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4088/12261993_360x480.jpg?time=1786711256",
-        "latest_chapter": " 第215章  是哪个狐狸精青天白日勾引宋大哥？",
-        "updated_at": "2026-09-07 08:01:08",
+        "latest_chapter": " 第217章  宋时彦薄唇微勾，“这么粘我？”",
+        "updated_at": "2026-09-08 08:01:08",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "疯犬玫瑰",
         "book_id": 1939902,
         "url": "https://www.qimao.com/shuku/1939902/",
@@ -134,7 +134,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/636/1905281_360x480.jpg?time=1736792489",
         "latest_chapter": " 第252章  捧在心尖上",
         "updated_at": "2026-09-07 22:41:03",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -143,29 +143,29 @@
       },
       {
         "rank": 18,
-        "title": "青梅消失五年后，顾医生再度失控",
-        "book_id": 12855951,
-        "url": "https://www.qimao.com/shuku/12855951/",
-        "author": "翰霖",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%BF%B0%E9%9C%96_14/",
+        "title": "盲婚",
+        "book_id": 12475164,
+        "url": "https://www.qimao.com/shuku/12475164/",
+        "author": "九九先生",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E4%B9%9D%E5%85%88%E7%94%9F_14/",
         "major": "现代言情",
         "minor": "总裁豪门",
         "major_id": 1,
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.34万字",
-        "word_count": 323400,
-        "heat": 28000,
+        "word_count_text": "42.48万字",
+        "word_count": 424800,
+        "heat": 27000,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
-        "latest_chapter": " 第150章  老子忍你一天了",
-        "updated_at": "2026-09-07 08:12:05",
+        "intro": "司遇行眼盲时，姜荷嫁给他。他复明时，她却被迫离婚。\n得知怀孕，她抱有一丝奢望，被绑架时向他求救，他在为其他女人忙碌，语调不耐：\n“姜荷，被绑架能自如用手机？你装过了。”\n他说：“过来道歉，否则永远别出现在我面前！”\n她选择后者，一夜之间消失得干干净净。\n*\n再回云城。\n她改头换面，却避无可避，数次与他交集。\n那个厌她入骨的男人，频频截住她，“你到底是谁？”\n*\n直到两人被困那个密闭、阴暗的地下室。\n他痛苦的呼吸抵着她的耳廓：\n“是不是我再瞎一次，你才肯承认？”\n她没辙了，“也不是不行。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4159/12475164_360x480.jpg?time=1783594859",
+        "latest_chapter": " 第205章  你想好了就行",
+        "updated_at": "2026-09-08 20:38:05",
         "rank_change": 0,
-        "heat_change": 1000,
-        "is_new": false,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"

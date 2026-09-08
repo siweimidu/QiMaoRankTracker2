@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：回归“战神/龙王”核心模板，融合“师父养成”与“反派求生”等变体，强调身份反差带来的爽感。\n**读者偏好**：读者热衷于极度夸张的身份设定（如多位无敌师父）以及都市背景下的反套路博弈。\n**变动解读**：榜单流动性归零，显示出该赛道已进入存量博弈阶段，既有作品占据了读者心智资源。\n**值得关注**：《舔狗反派只想苟》体现了反派流在都市题材中的生命力，通过打破常规叙事逻辑吸引特定受众。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -126,15 +126,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "627.24万字",
-        "word_count": 6272400,
+        "word_count_text": "627.66万字",
+        "word_count": 6276600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2639章  镜像入阵",
-        "updated_at": "2026-09-07 19:47:19",
+        "latest_chapter": " 第2641章  狡诈恶徒",
+        "updated_at": "2026-09-08 19:27:18",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

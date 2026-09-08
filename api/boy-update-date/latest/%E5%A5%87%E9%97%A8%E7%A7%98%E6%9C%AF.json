@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -3
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 2
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：诡异复苏与民俗惊悚类题材仍保持强劲的吸睛能力，具备极高的单书热度爆发力。\n**读者偏好**：读者对带有“规则怪谈”色彩、世界观压抑且主角性格冷静果敢的诡异文有极高阅读兴趣。\n**变动解读**：《天黑请点灯》虽排名下滑，但热度表现依然亮眼，说明该类题材在读者群中拥有极强的长尾效应。\n**值得关注**：该类作品的核心竞争力在于氛围塑造与诡异设定，后续创作应深挖“民俗恐怖”与“生存博弈”的深度结合。",
+      "summary": "**题材趋势**：民俗恐怖与奇门秘术类题材正展现出较强的韧性，具有浓郁的悬疑氛围感和强烈的代入感。\n**读者偏好**：读者偏好带有诡异色彩、规则怪谈风格的叙事，特别是主角带有“反差感”或“智斗”属性的设定更受欢迎。\n**变动解读**：《天黑请点灯》排名强势攀升，证明此类高沉浸感作品在当前市场环境下具备较强的用户留存和转化能力。\n**值得关注**：该题材正处于上升通道，建议创作者深挖“诡异+生存”的融合叙事，该类型作品较易在短时间内获取高热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "463.27万字",
-        "word_count": 4632700,
-        "heat": 3,
-        "platform_trend": "drop",
+        "word_count_text": "464.08万字",
+        "word_count": 4640800,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1699章  新首座的人选？空安的走投无路",
-        "updated_at": "2026-09-07 06:57:12",
-        "rank_change": -3,
-        "heat_change": 2,
+        "latest_chapter": " 第1702章  秦某拭目以待",
+        "updated_at": "2026-09-08 06:57:12",
+        "rank_change": 2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -20,14 +20,25 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": -1
+        },
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：民俗志怪类作品占据绝对统治地位，内容高度聚焦于民间禁忌与职业诡闻。\n**读者偏好**：读者对“第一人称叙事”及“职业见闻式”的沉浸感有极高需求，偏好捞尸、接阴等极具视觉冲击力的民俗元素。\n**变动解读**：榜单结构极度稳固，头部作品积累了深厚的长尾热度，短期内题材格局缺乏外部扰动。\n**值得关注**：在存量竞争背景下，如何通过叙事创新迭代民俗审美，将是该题材后续突破的关键。",
+      "summary": "**题材趋势**：民俗悬疑类题材表现稳定，侧重于“民间异闻”与“职业诡事”的具象化描写，具备较强的长尾效应。\n**读者偏好**：读者对带有传统民俗色彩（如接阴生、扎纸人）的沉浸式叙事有较高黏性，偏好强代入感的第一人称视角。\n**变动解读**：本期榜单缺乏新书注入，整体热度呈现自然回落态势，存量作品统治力较强，但缺乏新的增量刺激。\n**值得关注**：建议重点观察此类作品在完结后的长线转化能力，以及是否存在具备爆款潜质的新兴民俗题材入场。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -43,12 +54,12 @@
         "word_count": 2562700,
         "heat": 4517000,
         "platform_trend": "rise",
-        "badge": "飙升27名",
+        "badge": "飙升26名",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -56,7 +67,7 @@
         "category": "奇门秘术"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -77,7 +88,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,

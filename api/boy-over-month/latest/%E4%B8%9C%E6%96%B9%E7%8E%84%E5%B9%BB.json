@@ -8,21 +8,38 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 4,
-    "total_heat": 21230000,
+    "count": 3,
+    "total_heat": 19152000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "掌门怀孕，关我一个杂役什么事",
+          "book_id": 2014393,
+          "intro": "穿越修仙界，因灵脉低下，修炼资质如同废柴，林陌被卖到初圣宗当杂役。\n因清洁工作干得好，林陌得以进入掌门寝宫负责杂役一职。\n这一干就是百年。\n时年一百一十岁的林陌仍然停留在炼气期，白发苍苍寿元将尽。\n掌"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
+          "rank_change": -1
+        },
+        {
+          "title": "玲珑塔",
+          "book_id": 1754203,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：传统玄幻架构依然稳固，强调“无敌流”、“胎穿”与“女帝+系统”的强冲突组合。\n**读者偏好**：偏向快节奏、强爽感，尤其是具备反差设定（如杂役、胎儿）与强情感羁绊（女帝、多女主）的成长叙事。\n**变动解读**：榜单呈现极高的固化态势，头部产品《荒古武神》断层领先，腰部作品热度稳定，缺乏新竞争者冲击。\n**值得关注**：建议关注“反套路”类设定，如《掌门怀孕》这类将底层视角与高位权力碰撞的作品，仍具备较强的吸引力。",
+      "summary": "**题材趋势**：经典“废柴流”与“胎穿/系统流”依旧占据统治地位，快节奏升级与高强度的爽点堆叠是主流。\n**读者偏好**：读者偏爱极端的逆袭设定，如“娘胎悟道”或“被废后获宝”，核心在于压抑后的爆发感。\n**变动解读**：榜单整体趋于固化，头部效应极强，《荒古武神》断层领先，腰部作品变动主要受新老交替影响，市场饱和度较高。\n**值得关注**：女帝、多女主等软色情或情感钩子元素已成为玄幻文的标配，用以调剂纯硬核升级的枯燥感。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,7 +73,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "title": "荒古圣体：在娘胎开始悟道",
         "book_id": 1849458,
         "url": "https://www.qimao.com/shuku/1849458/",
@@ -77,7 +94,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +102,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "title": "玲珑塔",
         "book_id": 1754203,
         "url": "https://www.qimao.com/shuku/1754203/",
@@ -106,39 +123,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "东方玄幻"
-      },
-      {
-        "rank": 20,
-        "title": "掌门怀孕，关我一个杂役什么事",
-        "book_id": 2014393,
-        "url": "https://www.qimao.com/shuku/2014393/",
-        "author": "雨夜终曲",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%9B%A8%E5%A4%9C%E7%BB%88%E6%9B%B2_14/",
-        "major": "玄幻奇幻",
-        "minor": "东方玄幻",
-        "major_id": 202,
-        "minor_id": 37,
-        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "202.98万字",
-        "word_count": 2029800,
-        "heat": 2078000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "穿越修仙界，因灵脉低下，修炼资质如同废柴，林陌被卖到初圣宗当杂役。\n因清洁工作干得好，林陌得以进入掌门寝宫负责杂役一职。\n这一干就是百年。\n时年一百一十岁的林陌仍然停留在炼气期，白发苍苍寿元将尽。\n掌门女帝说要满足林陌的临终遗愿，自己却躲在寝宫里修行。\n气不过的林陌去找掌门理论。\n却意外撞见正在独自修行阴阳邪魔功，却缺少阳气的掌门，进入了一种空虚寂寞、走火入魔的状态。\n林陌大喜：“掌门，让老奴来助你修行！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/793/2376988_360x480.jpg?time=1754997545",
-        "latest_chapter": " 第979章  世间三千大道，而吾为道祖！（大结局）",
-        "updated_at": "2026-08-03 23:32:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"
       }

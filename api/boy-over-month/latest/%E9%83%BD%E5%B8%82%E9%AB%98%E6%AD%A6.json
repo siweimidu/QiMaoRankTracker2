@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,9 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "镇天神医",
+          "book_id": 1675640,
+          "rank_change": -1
+        },
+        {
+          "title": "最狂邪医",
+          "book_id": 1821655,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：以“赘婿/司机+总裁”、“下山强者+婚书复仇”为核心，深度融合短剧改编与强爽文元素。\n**读者偏好**：读者热衷于身份反转、都市异能与情感爽点共存的快节奏故事，对已改编短剧的作品有天然信任度。\n**变动解读**：榜单结构高度稳定，书籍多为自带短剧IP效应的成熟作品，市场准入门槛高，热度区间趋于集中。\n**值得关注**：短剧协同效应明显，建议观察“鉴宝+技能”等新题材与现有都市爽文模式的融合潜力。",
+      "summary": "**题材趋势**：都市背景下的“强者下山/回归”题材依然是流量基石，医术、婚书与复仇是永恒的黄金三要素。\n**读者偏好**：读者倾向于阅读“扮猪吃虎”与“高阶身份反差”的爽文，追求从底层逆袭至权势巅峰的心理满足。\n**变动解读**：榜单结构稳定，整体热度呈现缓慢下滑趋势，反映出此类题材在存量竞争中急需新的叙事切入点。\n**值得关注**：短剧化改编已成为该类目作品延长生命周期的重要手段，头部作品基本实现文影联动，变现路径清晰。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,7 +67,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "镇天神医",
         "book_id": 1675640,
         "url": "https://www.qimao.com/shuku/1675640/",
@@ -77,7 +88,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +96,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "最狂邪医",
         "book_id": 1821655,
         "url": "https://www.qimao.com/shuku/1821655/",
@@ -106,10 +117,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市高武"
       }

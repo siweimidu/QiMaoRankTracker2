@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -20,14 +20,25 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": -1
+        },
+        {
+          "title": "重生2000：从追求青涩校花同桌开始",
+          "book_id": 1758273,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：校园题材已全面向“恋爱日常”与“重回青春”的怀旧模式转型，纯粹的打斗式热血逐渐让位于情感共鸣。\n**读者偏好**：读者渴望通过“重生+青梅+商业”的复合配方，体验极致的甜宠感与弥补前世遗憾的爽感。\n**变动解读**：榜单处于高粘性稳定期，书籍排名持平说明该类目核心用户群对“慢节奏甜宠”有极高忠诚度。\n**值得关注**：融合“商业帝国”目标与“治愈恋爱”的成长型叙事，依然是目前校园类目的最优解。",
+      "summary": "**题材趋势**：校园题材向“重生+恋爱+创业”的复合模式高度集中，纯粹的校园热血已弱化为恋爱日常的背景板。\n**读者偏好**：读者更青睐“甜宠治愈”与“事业成功”的双重满足感，怀旧情绪与爽文逻辑的结合是留存关键。\n**变动解读**：榜单呈现固化状态，排名微调反映了头部作品在长尾运营中的热度自然衰减，缺乏竞品冲击。\n**值得关注**：需关注此类作品如何平衡“恋爱日常”与“商业帝国”的节奏，避免剧情同质化带来的审美疲劳。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -48,7 +59,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -56,7 +67,7 @@
         "category": "热血校园"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -77,7 +88,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
