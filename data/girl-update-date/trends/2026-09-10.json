@@ -1,0 +1,259 @@
+{
+  "date": "2026-09-10",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 32,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "intro": "【重生复仇+将门嫡女+全家火葬场不原谅+真假千金】\n我女扮男装替父从军十年，挣得赫赫军功。\n大战平定后，我怕女扮男装之事暴露，\n不得已假死，恢复女儿身回京与家人团圆。\n谁曾想，家人怕被我连累，早已养了"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "rank_change": -2
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "heat_change": 2
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "heat_change": -2
+          },
+          {
+            "title": "改嫁顶级纨绔，重生前夫悔疯了",
+            "book_id": 12417402,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「宫闱宅斗」《全家夺我军功，重生嫡女屠了满门》 掉出榜单；《首辅绝嗣，我连生三子全家宠上天》下滑2位；《首辅绝嗣，我连生三子全家宠上天》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 9
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 9
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -2
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《她玩火》上升9位领涨；《霍二爷，新婚请克制！》下滑1位；《她玩火》热度+9。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "rank_change": 1
+          },
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "heat_change": 1
+          },
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「年代重生」《一胎五宝，我成军属院顶流》上升1位领涨；《一胎五宝，我成军属院顶流》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "heat_change": -2
+          },
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」《撩完清冷世子后，小通房她带球跑了》上升1位领涨；《皇妃来自地府，百鬼退散》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "逃荒前，我靠穿现代囤了百亿物资",
+            "book_id": 10469241,
+            "rank_change": -10
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "逃荒前，我靠穿现代囤了百亿物资",
+            "book_id": 10469241,
+            "heat_change": 10
+          }
+        ],
+        "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》下滑10位；《逃荒前，我靠穿现代囤了百亿物资》热度+10。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」新上榜 《家有玄妻，百邪不侵！》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "她鉴宝，她探案",
+            "book_id": 12951309,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「现代悬疑」《她鉴宝，她探案》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

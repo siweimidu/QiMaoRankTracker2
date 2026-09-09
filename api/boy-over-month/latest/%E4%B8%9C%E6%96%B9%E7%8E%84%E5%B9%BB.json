@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -16,30 +16,13 @@
     "total_heat": 19152000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "掌门怀孕，关我一个杂役什么事",
-          "book_id": 2014393,
-          "intro": "穿越修仙界，因灵脉低下，修炼资质如同废柴，林陌被卖到初圣宗当杂役。\n因清洁工作干得好，林陌得以进入掌门寝宫负责杂役一职。\n这一干就是百年。\n时年一百一十岁的林陌仍然停留在炼气期，白发苍苍寿元将尽。\n掌"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": -1
-        },
-        {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：经典“废柴流”与“胎穿/系统流”依旧占据统治地位，快节奏升级与高强度的爽点堆叠是主流。\n**读者偏好**：读者偏爱极端的逆袭设定，如“娘胎悟道”或“被废后获宝”，核心在于压抑后的爆发感。\n**变动解读**：榜单整体趋于固化，头部效应极强，《荒古武神》断层领先，腰部作品变动主要受新老交替影响，市场饱和度较高。\n**值得关注**：女帝、多女主等软色情或情感钩子元素已成为玄幻文的标配，用以调剂纯硬核升级的枯燥感。",
+      "summary": "**题材趋势**：东方玄幻题材持续向“极致爽感”与“快节奏”靠拢，荒古、圣体、武神等经典元素依然是构建大男主无敌流的基石。\n**读者偏好**：读者倾向于“胎穿/开局即无敌”的设定，追求从娘胎或废柴期开始的快速升级，以及带有一定博弈色彩的红颜羁绊与战斗反馈。\n**变动解读**：榜单格局稳固，未出现热度大幅波动或新秀冲击，显示出读者对传统玄幻升级流模式的持续认可。\n**值得关注**：题材中融入“女帝/多女主”等强情感冲突元素的作品，在维持核心战斗爽点之外，表现出更强的用户留存潜力。",
       "ai_source": "ai"
     },
     "books": [
@@ -94,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -123,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

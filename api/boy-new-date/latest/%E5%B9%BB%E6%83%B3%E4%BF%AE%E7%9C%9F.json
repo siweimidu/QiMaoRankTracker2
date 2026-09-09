@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 3,
-    "total_heat": 194000,
+    "total_heat": 175000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,23 +21,28 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
+          "title": "盗梦千年",
+          "book_id": 12257385,
           "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "盗梦千年",
-          "book_id": 12257385,
-          "rank_change": -2
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "rank_change": -4
         }
       ],
       "heat_leaders": [
         {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "heat_change": -17000
+        },
+        {
           "title": "盗梦千年",
           "book_id": 12257385,
-          "heat_change": -5000
+          "heat_change": -3000
         },
         {
           "title": "贱籍仵作，从摸尸开始炼成武神",
@@ -45,41 +50,12 @@
           "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：传统凡人修仙流与“系统/金手指”辅助流并存，强调草根背景下的资源积累与成长路径。\n**读者偏好**：读者更倾向于具备明确反馈机制（如“摸尸炼武”、“补天炉”）的升级体系，对“双时空交错”等差异化设定有一定尝鲜意愿。\n**变动解读**：《聚宝仙炉》通过稳扎稳打的凡人流叙事实现排名反超，而《盗梦千年》虽有特色，但因热度流失排名下滑，说明当前读者更看重升级爽感而非复杂叙事。\n**值得关注**：《贱籍仵作，从摸尸开始炼成武神》的“日结面板”设定，体现了极强的短平快爽点，具有持续吸引读者的潜力。",
+      "summary": "**题材趋势**：传统修真流式微，创新型“诡异修真”与“系统/面板流”成为维持榜单热度的核心驱动力。\n**读者偏好**：读者偏好带有“奇遇机制”的快速成长文，如“盗梦”、“补天”、“验尸”等设定，倾向于通过金手指实现数值的倍增与爽感反馈。\n**变动解读**：《聚宝仙炉》热度大幅回撤，显示该类“慢热型”修真在当前高强度阅读环境下竞争力不足，《盗梦千年》凭借情感羁绊与双视角叙事实现反超。\n**值得关注**：《贱籍仵作，从摸尸开始炼成武神》的稳健表现，证明“职业流+系统奖励”的组合模式依然具备深厚的读者基础。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
-        "title": "聚宝仙炉",
-        "book_id": 12452187,
-        "url": "https://www.qimao.com/shuku/12452187/",
-        "author": "我没偷懒",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%B2%A1%E5%81%B7%E6%87%92_14/",
-        "major": "武侠仙侠",
-        "minor": "幻想修真",
-        "major_id": 205,
-        "minor_id": 225,
-        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "41.02万字",
-        "word_count": 410200,
-        "heat": 80000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第195章  人前显魔！",
-        "updated_at": "2026-09-08 10:56:03",
-        "rank_change": 1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "幻想修真"
-      },
-      {
-        "rank": 8,
+        "rank": 7,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -93,17 +69,46 @@
         "status": "连载中",
         "word_count_text": "41.05万字",
         "word_count": 410500,
-        "heat": 78000,
+        "heat": 75000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
         "latest_chapter": " 第178章  传送",
         "updated_at": "2026-09-09 07:01:05",
-        "rank_change": -2,
-        "heat_change": -5000,
+        "rank_change": 1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "幻想修真"
+      },
+      {
+        "rank": 10,
+        "title": "聚宝仙炉",
+        "book_id": 12452187,
+        "url": "https://www.qimao.com/shuku/12452187/",
+        "author": "我没偷懒",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%B2%A1%E5%81%B7%E6%87%92_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "41.45万字",
+        "word_count": 414500,
+        "heat": 63000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
+        "latest_chapter": " 第197章  美人如此多娇",
+        "updated_at": "2026-09-09 13:50:03",
+        "rank_change": -4,
+        "heat_change": -17000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "幻想修真"
       },
@@ -120,15 +125,15 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.23万字",
-        "word_count": 352300,
-        "heat": 36000,
+        "word_count_text": "35.72万字",
+        "word_count": 357200,
+        "heat": 37000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "大雍乱世，妖魔横行，人命如草芥。\n沈砚穿越而来，成了青溪县最底层的贱籍仵作，备受欺凌。\n绝境之下，觉醒【日结面板】！\n只要验尸，就能结算奖励，积攒死气更能触发暴击翻倍！\n【勘验横死武人，获得《破岩拳》，白银二两！】\n【触发三倍赐福，获得《狂风刀法》，武道经验+300！】\n曾经欺我、辱我、压我之人，尽数被我踩于脚下！\n帮派跋扈肆虐，便斩尽凶徒，规矩桎梏，便打破规矩，深山妖兽祸民，便持刀镇邪！\n从烂泥巷卑贱仵作，到纵横乱世的武道强者。\n一步一脚印，万般蝼蚁命。\n尸间藏道径，扶摇上青云。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791520_360x480.jpg?time=1785477906",
-        "latest_chapter": " 第140章  生死相克，斩杀魔修",
-        "updated_at": "2026-09-08 12:02:11",
+        "latest_chapter": " 第142章  逃出小镇，乙木灵珠",
+        "updated_at": "2026-09-09 12:01:04",
         "rank_change": 0,
         "heat_change": 1000,
         "is_new": false,

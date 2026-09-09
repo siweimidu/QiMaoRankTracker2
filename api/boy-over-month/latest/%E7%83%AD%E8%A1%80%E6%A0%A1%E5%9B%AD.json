@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -20,20 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "rank_change": -1
-        },
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：校园题材向“重生+恋爱+创业”的复合模式高度集中，纯粹的校园热血已弱化为恋爱日常的背景板。\n**读者偏好**：读者更青睐“甜宠治愈”与“事业成功”的双重满足感，怀旧情绪与爽文逻辑的结合是留存关键。\n**变动解读**：榜单呈现固化状态，排名微调反映了头部作品在长尾运营中的热度自然衰减，缺乏竞品冲击。\n**值得关注**：需关注此类作品如何平衡“恋爱日常”与“商业帝国”的节奏，避免剧情同质化带来的审美疲劳。",
+      "summary": "**题材趋势**：校园题材核心已转向“重生+恋爱养成”，纯热血打斗色彩减弱，主打治愈与怀旧风。\n**读者偏好**：读者热衷于弥补青春遗憾、青梅竹马式恋爱以及带有轻创业元素的校园生活。\n**变动解读**：榜单格局固化，甜宠与重生怀旧类作品凭借稳定的受众黏性，长期占据榜单头部。\n**值得关注**：建议关注校园题材与职场奋斗、家庭温情等多元元素的融合，提升叙事深度。",
       "ai_source": "ai"
     },
     "books": [
@@ -59,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -88,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

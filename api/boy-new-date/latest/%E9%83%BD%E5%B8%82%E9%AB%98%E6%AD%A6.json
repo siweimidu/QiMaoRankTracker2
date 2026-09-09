@@ -8,43 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 2,
-    "total_heat": 80000,
+    "count": 1,
+    "total_heat": 52000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 0,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 1,
+      "new_books": [],
+      "dropped_books": [
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650
+          "book_id": 12514650,
+          "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让"
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "heat_change": -4000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：题材边界持续扩张，融合了“父子养成”的创新设定与经典的“战神归来/监狱出狱”套路，强调强人设输出。\n**读者偏好**：读者偏好极具冲突感的开篇，特别是身份反差与金手指带来的阶级跃迁，对强爽文期待值极高。\n**变动解读**：新上榜的监狱题材展现了强劲势头，而原有的养成类高武作品排名下滑，反映出读者对单一设定存在审美疲劳。\n**值得关注**：邯郸财阀的养成系作品热度波动较大，需警惕题材同质化带来的用户流失，创新性设定是后续破局的关键。",
+      "summary": "**题材趋势**：“高武+系统+强关系绑定”已成为该赛道的主流叙事框架，侧重于通过亲情或师徒羁绊驱动主角成长。\n**读者偏好**：读者对“资源置换”与“数值碾压”的爽点反馈敏锐，尤其是涉及父子、师徒等强人际关系的互动模式更易引发共鸣。\n**变动解读**：榜单出现新旧更替，传统战神流作品被淘汰，说明市场风向正从纯爽文向带有强人设标签的创意型爽文迁移。\n**值得关注**：如何利用系统规则构建新颖的成长闭环（如“父强子强”），是该题材后续拉开差异化的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -56,47 +57,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.35万字",
-        "word_count": 483500,
-        "heat": 50000,
-        "platform_trend": "drop",
+        "word_count_text": "48.96万字",
+        "word_count": 489600,
+        "heat": 52000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第229章  炎蛇！！",
-        "updated_at": "2026-09-09 00:07:05",
-        "rank_change": -2,
-        "heat_change": -4000,
+        "latest_chapter": " 第232章  宗师特权！",
+        "updated_at": "2026-09-10 00:07:09",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 19,
-        "title": "被关女子监狱五年，出狱后我医武双绝",
-        "book_id": 12514650,
-        "url": "https://www.qimao.com/shuku/12514650/",
-        "author": "蓝莓是只猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E8%8E%93%E6%98%AF%E5%8F%AA%E7%8C%AB_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.26万字",
-        "word_count": 502600,
-        "heat": 30000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第232章  计划成功了？",
-        "updated_at": "2026-09-09 00:05:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"

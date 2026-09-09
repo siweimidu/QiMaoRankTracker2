@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 56000,
+    "total_heat": 61000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "从野狗开始一路修仙",
+          "book_id": 12451830,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": 2000
+          "heat_change": 5000
         }
       ],
-      "summary": "**题材趋势**：异兽流与苟道流结合成为新趋势，弱化主角开局武力值，侧重于生存成长与进化逻辑。\n**读者偏好**：读者倾向于“开局低谷+反差发育”的爽感曲线，对主角通过隐忍逐步实现血脉蜕变的成长过程反馈积极。\n**变动解读**：榜单表现进入平稳期，上榜书籍《从野狗开始一路修仙》热度稳步增长，显示出该类题材较强的读者留存能力。\n**值得关注**：该题材的核心逻辑在于“扮猪吃虎”带来的期待感，作者应重点挖掘主角进化过程中的差异化体验。",
+      "summary": "**题材趋势**：异兽流与苟道流结合的“变身+成长”模式仍具强劲生命力，是目前异世大陆题材的重要细分赛道。\n**读者偏好**：读者倾向于观看主角从卑微生物起步，通过积累与进化实现跨越式成长的“养成感”叙事。\n**变动解读**：本期榜单稳定性高，头部作品《从野狗开始一路修仙》热度稳步攀升，显示出读者对该类长期发育题材的认可度极高。\n**值得关注**：主角低开高走、扮猪吃虎的设定在当前市场环境下极具转化潜力，建议关注后续进化路径是否能持续提供新鲜感。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 11,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -45,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.85万字",
-        "word_count": 428500,
-        "heat": 56000,
+        "word_count_text": "43.46万字",
+        "word_count": 434600,
+        "heat": 61000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第184章  试探",
-        "updated_at": "2026-09-08 15:04:05",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "latest_chapter": " 第186章  堂主之位",
+        "updated_at": "2026-09-09 18:01:06",
+        "rank_change": 3,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

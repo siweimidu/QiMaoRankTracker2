@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 31000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405
+          "book_id": 12606405,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：重生商战题材回归“硬核写实”风，强调逻辑性与现实主义色彩，与传统的“无脑爽文”拉开差异。\n**读者偏好**：读者对带有强烈社会共鸣（如改变原生家庭命运、创业奋斗）的现实题材兴趣浓厚，偏好智商在线的叙事风格。\n**变动解读**：新书《二本没毕业，你怎么登上福布斯了》成功突围上榜，显示出市场对高质量现实创业文的渴求。\n**值得关注**：该题材需关注“重生+创业”的逻辑链条完整性，真实感是目前吸引读者的核心竞争力。",
+      "heat_leaders": [
+        {
+          "title": "二本没毕业，你怎么登上福布斯了",
+          "book_id": 12606405,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "**题材趋势**：重生创业流回归现实主义叙事，强调“逻辑在线”与“真实成长”，去系统化的风格正受到资深读者的追捧。\n**读者偏好**：读者对无系统、无女主的纯粹创业经营文兴趣增加，更倾向于通过主角弥补前世遗憾、改变命运轨迹的深度叙事。\n**变动解读**：该领域榜单热度虽相对温和，但《二本没毕业，你怎么登上福布斯了》排名稳步上行，表明硬核经营题材有稳定的阅读基本盘。\n**值得关注**：时代背景（2009年）与真实社会痛点的结合，是该作品能够脱颖而出的核心驱动力，建议关注该类题材在现实共鸣层面的深化。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 19,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -44,19 +51,19 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.81万字",
-        "word_count": 478100,
-        "heat": 29000,
+        "word_count_text": "48.74万字",
+        "word_count": 487400,
+        "heat": 31000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第192章  问题频出",
-        "updated_at": "2026-09-09 00:32:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 2,
+        "latest_chapter": " 第196章  心照不宣",
+        "updated_at": "2026-09-10 00:42:03",
+        "rank_change": 1,
+        "heat_change": 2000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "商战职场"
       }

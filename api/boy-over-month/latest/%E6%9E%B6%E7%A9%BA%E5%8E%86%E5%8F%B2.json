@@ -8,42 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
     "total_heat": 16966000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "边关猎户，我粮肉满仓富甲一方",
-          "book_id": 2093494
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": -1
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": -1
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：种田经营与权谋争霸持续融合，“基建+多女主”成为提升留存的核心配置。\n**读者偏好**：读者更青睐“开局困境+资源开发+势力扩张”的爽文模式，对“老六”式低调搞军权的情节有极高共鸣。\n**变动解读**：橙年岁月的《边关猎户》强势登榜，说明生活气息浓郁、带有家庭经营色彩的种田文在七猫生态中具备极强穿透力。\n**值得关注**：IP联动与短剧改编对热度有明显加持，榜单前列作品多为多平台联动的大IP，长尾效应显著。",
+      "summary": "**题材趋势**：架空历史类目前处于存量博弈阶段，以“种田基建+争霸权谋”为核心驱动力，侧重于展现主角在特定环境下的资源整合能力。\n**读者偏好**：读者热衷于“降维打击”式的爽点，特别是将现代思维或经营手段应用于古代战乱或荒芜背景，追求极度的成就感反馈。\n**变动解读**：本期榜单稳定性极高，无新书入榜或排位更迭，说明头部作品已形成极强的长尾效应，读者对成熟IP的粘性极强。\n**值得关注**：榜单作品多具备多媒体联动属性（如短剧、有声剧），跨平台IP孵化已成为该品类维持热度的关键策略。",
       "ai_source": "ai"
     },
     "books": [
@@ -60,18 +39,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "189.56万字",
-        "word_count": 1895600,
+        "word_count_text": "190.07万字",
+        "word_count": 1900700,
         "heat": 5764000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-        "latest_chapter": " 第795章  找打他们了",
-        "updated_at": "2026-09-09 00:02:11",
+        "latest_chapter": " 第797章  龙儿是不是我们的孩子",
+        "updated_at": "2026-09-10 00:02:10",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
@@ -98,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -127,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -156,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

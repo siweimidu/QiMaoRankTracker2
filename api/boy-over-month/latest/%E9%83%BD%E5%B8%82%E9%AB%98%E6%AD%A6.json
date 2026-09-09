@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,20 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "rank_change": -1
-        },
-        {
-          "title": "最狂邪医",
-          "book_id": 1821655,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市背景下的“强者下山/回归”题材依然是流量基石，医术、婚书与复仇是永恒的黄金三要素。\n**读者偏好**：读者倾向于阅读“扮猪吃虎”与“高阶身份反差”的爽文，追求从底层逆袭至权势巅峰的心理满足。\n**变动解读**：榜单结构稳定，整体热度呈现缓慢下滑趋势，反映出此类题材在存量竞争中急需新的叙事切入点。\n**值得关注**：短剧化改编已成为该类目作品延长生命周期的重要手段，头部作品基本实现文影联动，变现路径清晰。",
+      "summary": "**题材趋势**：都市高武类呈现“都市生活+超凡武力+医武双修”的融合趋势，强调主角归来后的身份反差与势力碾压。\n**读者偏好**：读者偏好“都市隐龙”式叙事，钟情于“退婚、复仇、师姐/美女总裁”等强刺激元素，追求简单直接的爽点释放。\n**变动解读**：榜单呈现高度固化状态，头部作品通过短剧化改编成功反哺小说热度，形成了良好的流量闭环。\n**值得关注**：短剧改编已成为该品类作品巩固热度的标配，内容创作需进一步强化视觉化叙事能力，以适配短视频平台的宣推逻辑。",
       "ai_source": "ai"
     },
     "books": [
@@ -88,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -117,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/532/1595468_360x480.jpg?time=1713265574",
         "latest_chapter": " 第1847章  归途如歌，大结局",
         "updated_at": "2026-04-03 10:11:21",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -8,49 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 2,
-    "total_heat": 111000,
+    "count": 3,
+    "total_heat": 143000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207,
-          "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点"
+          "title": "葬仙塔，葬天，葬地，葬众仙",
+          "book_id": 12679578
         }
       ],
-      "top_risers": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "镇魔司第一狠人",
+          "book_id": 12802632,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "九帝塔",
           "book_id": 11901855,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
-          "title": "镇魔司第一狠人",
-          "book_id": 12802632,
-          "heat_change": 3000
-        },
-        {
           "title": "九帝塔",
           "book_id": 11901855,
+          "heat_change": -4000
+        },
+        {
+          "title": "镇魔司第一狠人",
+          "book_id": 12802632,
           "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻元素依然占据核心地位，复仇、系统养成与“女帝”等高爽点设定是维持热度的基本盘。\n**读者偏好**：读者更倾向于快节奏的“废柴逆袭”与“系统辅助”叙事，对带有明显群像特征和情感博弈的作品容忍度较高。\n**变动解读**：《九帝塔》排名下滑但热度微增，显示该赛道存量竞争激烈，头部作品面临较大的留存压力。\n**值得关注**：天秀作品《镇魔司第一狠人》通过“天道酬勤”系统强化爽感，在无新书冲击的情况下展现出更强的黏性。",
+      "summary": "**题材趋势**：虐主开局结合复仇反杀的“打脸爽文”是核心框架，强调“系统辅助+天赋兑现”的成长逻辑。\n**读者偏好**：读者对高压环境下实现绝地反击的剧本极其买账，尤其是“退婚”、“废柴逆袭”等经典元素的变体应用。\n**变动解读**：新书《葬仙塔》凭借极强的开篇冲突入榜，挤压了《九帝塔》等老牌作品的生存空间，反映出榜单对“快节奏爆发型”新书的极高宽容度。\n**值得关注**：虽然传统玄幻热度略有波动，但“镇魔司”、“葬仙塔”类带职业属性或特殊设定的玄幻题材，正成为吸引读者的重要抓手。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 13,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -62,24 +67,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.09万字",
-        "word_count": 440900,
-        "heat": 63000,
-        "platform_trend": "rise",
+        "word_count_text": "44.51万字",
+        "word_count": 445100,
+        "heat": 59000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第213章  六个名额，两道倩影",
-        "updated_at": "2026-09-08 21:54:04",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "latest_chapter": " 第215章  贵人良人，封神封王",
+        "updated_at": "2026-09-09 22:30:04",
+        "rank_change": -3,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "镇魔司第一狠人",
         "book_id": 12802632,
         "url": "https://www.qimao.com/shuku/12802632/",
@@ -91,18 +96,47 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.59万字",
-        "word_count": 385900,
-        "heat": 48000,
+        "word_count_text": "39.22万字",
+        "word_count": 392200,
+        "heat": 49000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "妖魔乱世，哀鸿遍野。\n许夜穿越成镇魔司官吏之子，可惜天赋平平无法修炼。\n乱世之中，命如草芥，父辈以命换来的父荫，却被他人当做平步青云的捷径，以命要挟，好在天道酬勤系统觉醒。\n从此天赋不再是唯一，只要努力必有回报。\n别人拼死也无法突破的境界，许夜无视境关直接突破。\n别人无法修炼的功法武技，许夜肝够经验轻松掌握。\n别人做不到的，他能轻松做到！\n别人能做到的，他能直接超越！\n天道酬勤，一证永证！\n若干年后，许夜举刀向天：“我这一刀下，万年功力，这苍天挡得住吗？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802632_360x480.jpg?time=1785153441",
-        "latest_chapter": " 第184章  如果我有证据呢？",
-        "updated_at": "2026-09-08 19:40:05",
-        "rank_change": 0,
-        "heat_change": 3000,
+        "latest_chapter": " 第187章  天骄榜放榜之日！",
+        "updated_at": "2026-09-09 18:18:04",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 18,
+        "title": "葬仙塔，葬天，葬地，葬众仙",
+        "book_id": 12679578,
+        "url": "https://www.qimao.com/shuku/12679578/",
+        "author": "无用一书生",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E7%94%A8%E4%B8%80%E4%B9%A6%E7%94%9F_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.96万字",
+        "word_count": 389600,
+        "heat": 35000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔。\n葬仙塔，每开启一层可获得一种仙级体质，每一层还有不同颜色的葬仙土，葬人可生出仙傀，埋药可结出仙丹……\n从此，秦长夜在埋葬的路上越走越远。\n葬人！葬药！葬诸天仙佛！葬万古大道！\n“生死看淡，不服就葬。”\n“本座是个讲究人，管杀又管葬。”\n“阁下虽然很强，但还没有资格让本座葬在第四层。”\n—史上最强葬帝，秦长夜。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12679578_360x480.jpg?time=1783065316",
+        "latest_chapter": " 第180章  最后的拍卖品",
+        "updated_at": "2026-09-09 08:12:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"

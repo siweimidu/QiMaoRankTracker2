@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 399000,
+    "total_heat": 396000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "步步登阶",
-          "book_id": 1982360,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": 18000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：现实主义与奋斗叙事相结合，带有强烈的社会沉浸感与草根逆袭色彩。\n**读者偏好**：读者更青睐带有“有声剧”背书、叙事平实且能引发职场/社会共鸣的现实向都市题材。\n**变动解读**：榜单呈现动态更新，作品《步步登阶》通过稳健的增长实现排名上浮，验证了有声书联动对纸面热度的反哺效应。\n**值得关注**：该类目热度增长虽平缓，但用户粘性较高，跨媒介（有声剧）运营是推动排名的核心动力。",
+      "summary": "**题材趋势**：都市生活类题材进入平稳过渡期，市场竞争集中在具备现实主义色彩的奋斗题材。\n**读者偏好**：读者更青睐带有强烈代入感、强调个人成长与职场沉浮的励志叙事，且对多平台联动（如有声剧）的IP敏感度较高。\n**变动解读**：榜单结构保持高度稳定，热度微调属于正常波动，显示该类目处于成熟期。\n**值得关注**：作品通过多渠道引流对热度加持显著，后续应关注此类跨平台联动运营对书籍长线留存的实际转化表现。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "280.07万字",
-        "word_count": 2800700,
-        "heat": 399000,
-        "platform_trend": "rise",
+        "word_count_text": "280.48万字",
+        "word_count": 2804800,
+        "heat": 396000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1333章  看不透",
-        "updated_at": "2026-09-09 00:07:15",
-        "rank_change": 1,
-        "heat_change": 18000,
+        "latest_chapter": " 第1335章  一点股份没有，那你图什么？",
+        "updated_at": "2026-09-10 00:01:15",
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

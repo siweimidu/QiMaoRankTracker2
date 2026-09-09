@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 10,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：种田经商类目目前处于极度低迷的冷启动期，市场活跃度处于冰点。\n**读者偏好**：读者对重生囤货、逃荒求生类题材仍保持基础关注，但对现有存量内容的转化动力不足。\n**变动解读**：本期榜单呈现“静态锁定”状态，无新书入局，无排名更迭，反映出该细分赛道近期缺乏强有力的内容供给。\n**值得关注**：在榜作品《逃荒前，我靠穿现代囤了百亿物资》虽维持在榜，但零热度现状警示该题材已出现明显的市场疲软，急需优质新内容注入刺激流量。",
-      "ai_source": "ai"
+      "top_fallers": [
+        {
+          "title": "逃荒前，我靠穿现代囤了百亿物资",
+          "book_id": 10469241,
+          "rank_change": -10
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "逃荒前，我靠穿现代囤了百亿物资",
+          "book_id": 10469241,
+          "heat_change": 10
+        }
+      ],
+      "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》下滑10位；《逃荒前，我靠穿现代囤了百亿物资》热度+10。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 1,
+        "rank": 11,
         "title": "逃荒前，我靠穿现代囤了百亿物资",
         "book_id": 10469241,
         "url": "https://www.qimao.com/shuku/10469241/",
@@ -39,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "92.34万字",
-        "word_count": 923400,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "蝉联榜首",
+        "word_count_text": "92.94万字",
+        "word_count": 929400,
+        "heat": 10,
+        "platform_trend": "drop",
+        "badge": "",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第396章  我有路子！",
-        "updated_at": "2026-09-08 22:11:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第397章  静待凯旋",
+        "updated_at": "2026-09-10 00:22:05",
+        "rank_change": -10,
+        "heat_change": 10,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

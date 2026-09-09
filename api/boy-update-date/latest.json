@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "types": [
     {
       "name": "全部",
@@ -31,8 +31,8 @@
       "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
-      "name": "奇门秘术",
-      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+      "name": "商战职场",
+      "url": "api/boy-update-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
       "name": "现代军事",

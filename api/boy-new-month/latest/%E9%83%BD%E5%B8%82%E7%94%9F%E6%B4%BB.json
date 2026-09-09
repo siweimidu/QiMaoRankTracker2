@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -19,15 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923,
+          "rank_change": 2
+        },
+        {
+          "title": "夜火倾唇",
+          "book_id": 11583732,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：题材呈现明显的“情感博弈”与“反套路”特征，重组家庭与职场情感纠葛是核心叙事点。\n**读者偏好**：倾向于带有强情绪冲突的恋爱爽文，尤其是“被动介入复杂人际关系”的设定具有高粘性。\n**变动解读**：榜单结构稳定，缺乏外部增量，显示此类题材在当前环境下已形成稳定的受众圈层。\n**值得关注**：《女总裁重生后》通过“强社交+高频互动”的设定，精准捕捉了读者对职场与情感双重爽感的诉求。",
+      "summary": "**题材趋势**：该小类主要被“轻小说化”的都市情感爽文占据，强调强冲突与“强人设”带来的阅读快感。\n**读者偏好**：读者热衷于“重生+职场/情感羁绊”的软饭流或反差感强烈的都市生活设定。\n**变动解读**：榜单内部排名整体上移，反映出该赛道读者对剧情节奏快、带有强冲突标签（如“被逼娶校花”）的作品反馈积极。\n**值得关注**：职场与家庭元素的深度捆绑是当前留存读者的核心钩子，未来可关注此类题材在“反套路”方面的创新。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 12,
         "title": "女总裁重生后，非逼我娶校花",
         "book_id": 12625923,
         "url": "https://www.qimao.com/shuku/12625923/",
@@ -39,16 +50,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.31万字",
-        "word_count": 433100,
+        "word_count_text": "43.62万字",
+        "word_count": 436200,
         "heat": 814000,
         "platform_trend": "rise",
-        "badge": "飙升22名",
+        "badge": "飙升24名",
         "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第182章  借力打力的舆论战！",
-        "updated_at": "2026-09-08 16:58:04",
-        "rank_change": 0,
+        "latest_chapter": " 第183章  致命把柄，深夜来访的内应！",
+        "updated_at": "2026-09-10 01:57:03",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -56,7 +67,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "夜火倾唇",
         "book_id": 11583732,
         "url": "https://www.qimao.com/shuku/11583732/",
@@ -68,16 +79,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.12万字",
-        "word_count": 491200,
+        "word_count_text": "49.53万字",
+        "word_count": 495300,
         "heat": 561000,
         "platform_trend": "rise",
-        "badge": "飙升10名",
+        "badge": "飙升12名",
         "intro": "父亲欠债自杀，母亲难产早逝。\n陈龙因打了强占土地的村长儿子，只能前往城里投奔父亲在外养的女人。\n她是一个温柔的年上姐姐，随着我的到来，从而彻底改变了彼此的人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3862/11583732_360x480.jpg?time=1775021177",
-        "latest_chapter": " 第227章  尊重",
-        "updated_at": "2026-09-08 22:00:06",
-        "rank_change": 0,
+        "latest_chapter": " 第229章  看王猛",
+        "updated_at": "2026-09-09 22:52:04",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
