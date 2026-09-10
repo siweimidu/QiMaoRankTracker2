@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "types": [
     {
       "name": "全部",
@@ -31,12 +31,12 @@
       "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
-      "name": "商战职场",
-      "url": "api/boy-update-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
-    },
-    {
       "name": "现代军事",
       "url": "api/boy-update-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
+    },
+    {
+      "name": "商战职场",
+      "url": "api/boy-update-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
       "name": "异世大陆",

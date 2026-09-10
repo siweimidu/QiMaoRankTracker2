@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T07:00:27",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T07:00:20",
+  "date": "2026-09-11",
   "authors": [
     {
       "author": "化十",
@@ -18,7 +18,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 7531000,
+      "total_heat": 7526000,
       "titles": [
         "大佬归来，假千金她不装了",
         "小姑奶奶下山了，在桥洞底下摆摊算命"
@@ -66,6 +66,17 @@
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
+      ]
+    },
+    {
+      "author": "咸鱼老白",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 2990005,
+      "titles": [
+        "众仙俯首",
+        "盗梦千年"
       ]
     },
     {
@@ -253,7 +264,7 @@
       "author": "一世从欢",
       "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E4%B8%96%E4%BB%8E%E6%AC%A2_14/",
       "books": 1,
-      "boards": 1,
+      "boards": 2,
       "total_heat": 11516000,
       "titles": [
         "离婚后，沈总彻夜白头悔疯了"
@@ -297,16 +308,6 @@
       "total_heat": 10015000,
       "titles": [
         "随母改嫁旺新家，重生嫡女嘎嘎乱杀"
-      ]
-    },
-    {
-      "author": "随山月",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 9871000,
-      "titles": [
-        "解春衫"
       ]
     }
   ]

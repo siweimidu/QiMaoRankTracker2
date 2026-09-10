@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 50000,
+    "total_heat": 53000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "heat_change": 1000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：轻喜风格的“女扮男装”题材占据主要位置，融合了宫廷职场与反差萌元素。\n**读者偏好**：读者偏好轻松幽默的叙事视角，尤其是“女主一心搞事业/杀招，男主一心谈恋爱”的错位互动极具吸引力。\n**变动解读**：《本侍卫是娇花》表现稳健，排名上升且热度持续微增，显示该作品在细分市场内拥有较高的用户黏性。\n**值得关注**：当前该类目上榜作品单一，具备极强的“爆款”潜力，后续可挖掘更多带有反套路人设的权谋作品。",
+      "summary": "**题材趋势**：权谋题材在当前榜单中呈现小众精品化趋势，融合轻喜剧元素的“女扮男装”设定依然具备极强的生命力。\n**读者偏好**：受众偏好“强反差”人设，即女主的“事业心/杀招”与男主的“情感攻势”形成的错位萌感。\n**变动解读**：《本侍卫是娇花》热度稳步攀升，在单品类竞争中展现出较强的用户留存力与增长潜力。\n**值得关注**：该题材目前上榜书目较少，建议关注此类“轻喜权谋”风格的后续长线表现，其轻松节奏更符合当下读者的碎片化阅读心理。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -51,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.38万字",
-        "word_count": 333800,
-        "heat": 50000,
+        "word_count_text": "33.71万字",
+        "word_count": 337100,
+        "heat": 53000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第134章  天选倒霉蛋",
-        "updated_at": "2026-09-09 23:41:03",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "latest_chapter": " 第135章  爱不上任何人",
+        "updated_at": "2026-09-10 23:18:03",
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

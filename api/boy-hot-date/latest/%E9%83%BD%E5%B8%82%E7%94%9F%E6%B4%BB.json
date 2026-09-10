@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 396000,
+    "total_heat": 381000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -3000
+          "heat_change": -15000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材进入平稳过渡期，市场竞争集中在具备现实主义色彩的奋斗题材。\n**读者偏好**：读者更青睐带有强烈代入感、强调个人成长与职场沉浮的励志叙事，且对多平台联动（如有声剧）的IP敏感度较高。\n**变动解读**：榜单结构保持高度稳定，热度微调属于正常波动，显示该类目处于成熟期。\n**值得关注**：作品通过多渠道引流对热度加持显著，后续应关注此类跨平台联动运营对书籍长线留存的实际转化表现。",
+      "summary": "**题材趋势**：现实题材类目进入调整期，市场热度出现明显分化与下行压力。\n**读者偏好**：偏好具有强代入感、职场逆袭或社会底层奋斗题材，且有声剧联动能有效转化流量。\n**变动解读**：头部作品排名下滑且热度缩水，显示读者对传统写实题材的审美疲劳，流量获取难度增大。\n**值得关注**：有声剧联动策略的边际效应，观察此类作品如何通过内容创新扭转热度下滑态势。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -47,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "280.48万字",
         "word_count": 2804800,
-        "heat": 396000,
+        "heat": 381000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
         "latest_chapter": " 第1335章  一点股份没有，那你图什么？",
         "updated_at": "2026-09-10 00:01:15",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "rank_change": -1,
+        "heat_change": -15000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

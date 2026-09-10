@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 100000,
+    "total_heat": 98000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重回六十年代，从挖何首乌开始",
-          "book_id": 2064995,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重回六十年代，从挖何首乌开始",
           "book_id": 2064995,
-          "heat_change": 10000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：年代文与乡村致富题材深度绑定，主打“重回过去+改变命运”的奋斗叙事。\n**读者偏好**：读者热衷于带有时代印记的草根逆袭，尤其是“从赌徒到富翁”的巨大反差及亲情补偿心理。\n**变动解读**：该类目头部效应明显，单本上榜且热度持续攀升，说明该细分题材具备极高的读者忠诚度与完读沉浸感。\n**值得关注**：此类题材在“年代+种田+亲情”的组合下，通过紧凑的剧情节奏能有效锁定核心用户，增长空间稳定。",
-      "ai_source": "ai"
+      "summary": "「乡村生活」《重回六十年代，从挖何首乌开始》热度-2000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -50,18 +44,18 @@
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "212.93万字",
-        "word_count": 2129300,
-        "heat": 100000,
-        "platform_trend": "rise",
+        "status": "已完结",
+        "word_count_text": "213.39万字",
+        "word_count": 2133900,
+        "heat": 98000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
-        "latest_chapter": " 第1033章  秋收危机",
-        "updated_at": "2026-09-09 10:11:09",
-        "rank_change": 1,
-        "heat_change": 10000,
+        "latest_chapter": " 第1035章  十七年后",
+        "updated_at": "2026-09-10 09:51:07",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

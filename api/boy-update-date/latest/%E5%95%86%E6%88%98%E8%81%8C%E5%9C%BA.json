@@ -8,31 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
     "total_heat": 4,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405
+          "book_id": 12606405,
+          "rank_change": 4
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：商战题材正从传统的“金手指爽文”向“现实主义重生流”转型，强调逻辑在线与真实创业感。\n**读者偏好**：读者对“无系统、无女主”的硬核创业文表现出极高兴趣，渴望通过重生弥补遗憾并实现阶级跨越。\n**变动解读**：《二本没毕业，你怎么登上福布斯了》凭借极具差异化的书名与“人间清醒”的人设，迅速占据榜单高位，展现出强劲的吸睛能力。\n**值得关注**：该书作为新晋上榜作品即获高热度，表明“职场+重生+创业”的组合在特定垂直市场具备极高的流量潜质。",
+      "summary": "**题材趋势** 现实主义重生题材崛起，读者更倾向于逻辑严密、避开系统外挂、强调个人奋斗与商业逻辑的作品。\n**读者偏好** 读者对“人间清醒”、“真实创业”类标签有较高共鸣，追求接地气且具备代入感的职场逆袭过程。\n**变动解读** 该书排名逆势上扬4位，证明“写实向”商战文在七猫平台具有显著的流量潜力与用户基础。\n**值得关注** 关注此类无系统、重逻辑的“硬核”职场文是否会引发跟风趋势，成为商战品类的新增长点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 13,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -44,18 +45,18 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.74万字",
-        "word_count": 487400,
+        "word_count_text": "49.37万字",
+        "word_count": 493700,
         "heat": 4,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第196章  心照不宣",
-        "updated_at": "2026-09-10 00:42:03",
-        "rank_change": 0,
+        "latest_chapter": " 第199章  预设危机",
+        "updated_at": "2026-09-11 00:22:05",
+        "rank_change": 4,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "商战职场"

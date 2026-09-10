@@ -8,39 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "heat_change": -2
-        },
-        {
           "title": "撩完清冷世子后，小通房她带球跑了",
           "book_id": 12107619,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "「古代情缘」《撩完清冷世子后，小通房她带球跑了》上升1位领涨；《皇妃来自地府，百鬼退散》热度-2。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：题材呈现出“强取豪夺+通房文学”与“灵异悬疑+宫廷权谋”并行的极化特征。\n**读者偏好**：读者对高冲突、强情绪拉扯的虐恋剧本（如带球跑、追妻火葬场）依然保持关注。\n**变动解读**：榜单陷入长期停滞，热度处于低位徘徊，缺乏新鲜血液注入，市场活跃度极低。\n**值得关注**：需警惕榜单缺乏更新导致的流量流失，建议引入具有强反转或新鲜设定（如灵异+宠文）的新书激活榜单。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -56,17 +45,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.9万字",
-        "word_count": 329000,
-        "heat": 1,
-        "platform_trend": "rise",
-        "badge": "",
+        "word_count_text": "33.32万字",
+        "word_count": 333200,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "蝉联榜首",
         "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，床上的谢寻有多恶劣。她盼着他能早日成婚，便能依着通房的惯例被遣散。婚事敲定，阿芙求他放她离府，谢寻皱眉道：“爷给你一个孩子傍身，莫要闹了。”他一面停了她的避子药，日日赐下雨露，一面却任由自己的未婚妻对她肆意折辱。阿芙表面隐忍，实则早已做好死遁的准备。后来，得知怀有三个月身孕的阿芙跳下了梓源河后，谢寻直接呕出一口心头血。多年之后再见阿芙，他拿出正妻之位求她回心转意，姿态低的不能再低。可阿芙早非当日阿芙，她坐拥大盛半壁财富，人称姜半城，天下男子争相攀附。那日风雪漫天，谢寻立于绵长的队伍末尾，从晨至昏，只为求见半城夫人一面。阿芙知晓后，只是淡淡一笑：“随他。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1788839445",
-        "latest_chapter": " 第155章  安顿幽州",
-        "updated_at": "2026-09-09 09:02:03",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第157章  白杨少年",
+        "updated_at": "2026-09-10 09:02:02",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -85,17 +74,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "107.87万字",
-        "word_count": 1078700,
+        "word_count_text": "108.48万字",
+        "word_count": 1084800,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第517章  活人勿用死人法",
-        "updated_at": "2026-09-09 20:07:20",
+        "latest_chapter": " 第520章  哭完算旧账",
+        "updated_at": "2026-09-10 22:52:06",
         "rank_change": 0,
-        "heat_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：重生复仇与“对照组”爽文模式占据主流，结合权谋斗争的大女主叙事是当前市场的核心卖点。\n**读者偏好**：读者偏好“杀伐果断”的成长型女主，对幼崽萌宠助攻、逆袭翻盘的剧情有极高粘性。\n**变动解读**：榜单格局趋于固化，头部作品凭借影视化联动及高辨识度的剧情钩子，实现了热度长期留存。\n**值得关注**：具备强网剧改编潜力、叙事节奏轻快且带有反套路元素的宅斗作品，更能获得市场青睐。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -167,7 +167,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
@@ -183,16 +183,16 @@
         "major_id": 2,
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "71.94万字",
-        "word_count": 719400,
+        "status": "已完结",
+        "word_count_text": "72.17万字",
+        "word_count": 721700,
         "heat": 3095000,
         "platform_trend": "rise",
         "badge": "飙升10名",
         "intro": "沈姝为了活命去做了留种娘子，给一位病重的神秘贵人留下血脉。数年后，她带着软萌萌的小女儿重返京城，入了凛王府做奶娘。只是这凛王看她的眼神越来越不对劲，吻她的腰，进她的房，最后还逼她承认宝儿是他的女儿……她曾发誓此生再不为奴，于是让她骑于肩头，做他的主人。从此后她在上，他在下。她要吻，他便温柔送上。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3838/11512461_360x480.jpg?time=1776072488",
-        "latest_chapter": " 第338章  结局十二",
-        "updated_at": "2026-09-09 09:01:04",
+        "latest_chapter": " 第339章  尾声:那年春",
+        "updated_at": "2026-09-10 09:02:09",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

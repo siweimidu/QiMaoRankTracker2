@@ -8,22 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 198000,
+    "total_heat": 193000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "阴当",
           "book_id": 1979356,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
+          "book_id": 1978758,
           "rank_change": -1
         }
       ],
@@ -31,20 +37,15 @@
         {
           "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
           "book_id": 1978758,
-          "heat_change": -11000
-        },
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "heat_change": -3000
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：民俗悬疑与玄学萌宝两极分化，传统诡异叙事与轻快打脸节奏并行。\n**读者偏好**：受众偏好带有宿命感、强设定（如当铺掌事、玄学萌宝）的沉浸式剧情。\n**变动解读**：本期榜单波动趋于平稳，头部书籍热度小幅回落，反映出该垂类进入存量竞争的“慢热期”。\n**值得关注**：两部作品均通过“职业/身份设定+强冲突开局”留存用户，后续创作需关注如何通过持续的钩子维持长线热度。",
+      "summary": "**题材趋势**：民俗悬疑与萌宝玄学双线并进，头部作品呈现稳固的存量博弈特征。\n**读者偏好**：读者对“诡异民俗+职业传承”的宿命感，以及“萌宝+综艺打脸”的爽感叙事表现出极高粘性。\n**变动解读**：本期榜单波动较小，仅头部位置微调，《阴当》凭借更强的悬疑沉浸感实现反超。\n**值得关注**：在榜作品均已完结，建议后续关注此类题材在完结后的长尾流量转化及读者评价口碑对排名的影响。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -65,15 +66,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": -1,
-        "heat_change": -3000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市奇幻"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
         "book_id": 1978758,
         "url": "https://www.qimao.com/shuku/1978758/",
@@ -87,15 +88,15 @@
         "status": "已完结",
         "word_count_text": "150.12万字",
         "word_count": 1501200,
-        "heat": 93000,
+        "heat": 88000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "（萌宝团宠+玄学，综艺算命打脸，大佬异世界姐妹篇）\n被四位师父养大的小阿岁原来是万家被抱错的真千金。\n归家第一天，四岁的小阿岁就指着假千金对妈妈说，\n“这个姐姐也是爸爸的女儿哦，不过她妈妈是另一个姨姨~”\n迅速达成拆散爹妈成就，渣爹却逼妈妈净身出户。\n小阿岁当即拍着胸脯表示她来养家。\n结果妈妈掏出手机按下了那个多年没联系过的号码。\n南家五位天骄纷纷丢下工作来接妹妹和小外甥女回家。\n却发现，妹妹家的小外甥女好像有些特别？\n恋爱脑舅舅被绿了，对方还不要脸地邀请舅舅出席他们的婚礼？\n小阿岁直接当着所有宾客问舅舅，\n“这个姨姨和叔叔明明是亲兄妹，为什么他们可以结婚？”\n渣女渣男沦为京圈笑话。\n影帝舅舅带小阿岁出门被传出隐婚生子的丑闻，事业面临危机。\n小阿岁直接跟舅舅参加综艺，以一己之力把带娃综艺整成了玄学综艺频道。\n不小心全网爆火的小阿岁工作之余不忘给自己攒功德。\n结果功德一边攒一边漏，小阿岁不明所以，直到有天她捡到了一个满身功德的小孩。\n小阿岁当即悟了，指着幼年司北桉气势汹汹，\n“好啊！就是你天天偷我功德！”\n小北桉：？？？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/742/2224329_360x480.jpg?time=1758188095",
         "latest_chapter": " 第699章  番外10：外公外婆（完）",
         "updated_at": "2026-04-07 20:59:09",
-        "rank_change": 0,
-        "heat_change": -11000,
+        "rank_change": -1,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

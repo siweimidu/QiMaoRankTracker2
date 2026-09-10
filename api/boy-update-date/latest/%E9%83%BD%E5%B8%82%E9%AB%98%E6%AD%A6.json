@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,38 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
+          "rank_change": -3
+        },
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
           "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "heat_change": 1
-        },
-        {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "heat_change": 1
-        }
-      ],
-      "summary": "**题材趋势**：都市高武类产品呈现“强冲突+快节奏”特征，传统系统流与神医流仍是市场主力。\n**读者偏好**：读者更倾向于具有强力爽点及身份反差（如保安/神医）的叙事，对“绝境重生”类题材有较高的共鸣度。\n**变动解读**：《盖世神医》凭借强烈的个人英雄主义色彩实现排名跃升，反映出读者对快节奏打脸爽文的持续偏爱。\n**值得关注**：需警惕《神武天下之睚眦》等带有深度悲剧色彩的开局，在当前快节奏市场中，如何通过系统流快速反转是维持热度的关键。",
+      "heat_leaders": [],
+      "summary": "**题材趋势** 题材进入存量博弈期，传统“系统+神医/战神”架构占据主导，创新匮乏。\n**读者偏好** 读者对带有强复仇动机、绝境反杀元素的都市异能类内容仍有固定消费习惯。\n**变动解读** 本期双双排名下滑，显示该题材在当前榜单头部竞争力不足，作品缺乏新鲜感导致用户粘性减弱。\n**值得关注** 后续需观察是否有具备强冲突、快节奏的新作入场，打破目前的低热度僵局。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -62,24 +50,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "422.69万字",
-        "word_count": 4226900,
+        "word_count_text": "423.42万字",
+        "word_count": 4234200,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1012章  世界之巅 简单原则",
-        "updated_at": "2026-09-09 09:02:11",
+        "latest_chapter": " 第1013章  世界之巅 不是巧合",
+        "updated_at": "2026-09-10 09:02:10",
         "rank_change": -1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 16,
+        "rank": 19,
         "title": "盖世神医",
         "book_id": 195958,
         "url": "https://www.qimao.com/shuku/195958/",
@@ -91,17 +79,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "905.96万字",
-        "word_count": 9059600,
+        "word_count_text": "906.38万字",
+        "word_count": 9063800,
         "heat": 3,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4419章  兄弟反目？",
-        "updated_at": "2026-09-09 23:27:29",
-        "rank_change": 3,
-        "heat_change": 1,
+        "latest_chapter": " 第4421章  死神来了（上）",
+        "updated_at": "2026-09-10 23:07:31",
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,

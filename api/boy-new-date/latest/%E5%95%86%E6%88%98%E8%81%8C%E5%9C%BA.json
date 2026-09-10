@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "商战职场",
     "major": "都市",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
           "book_id": 12606405,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "**题材趋势**：重生创业流回归现实主义叙事，强调“逻辑在线”与“真实成长”，去系统化的风格正受到资深读者的追捧。\n**读者偏好**：读者对无系统、无女主的纯粹创业经营文兴趣增加，更倾向于通过主角弥补前世遗憾、改变命运轨迹的深度叙事。\n**变动解读**：该领域榜单热度虽相对温和，但《二本没毕业，你怎么登上福布斯了》排名稳步上行，表明硬核经营题材有稳定的阅读基本盘。\n**值得关注**：时代背景（2009年）与真实社会痛点的结合，是该作品能够脱颖而出的核心驱动力，建议关注该类题材在现实共鸣层面的深化。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：重生商战类作品强调“逻辑在线”与“真实创业”的硬核属性，试图在爽文潮中通过写实感建立壁垒。\n**读者偏好**：读者对纯粹的无脑爽文产生审美疲劳，更偏向具备人间清醒视角、侧重弥补遗憾的现实主义叙事。\n**变动解读**：受限于榜单竞争环境，该书排名微跌，但在职场类细分赛道中仍维持了一定的活跃度。\n**值得关注**：在职场类题材中，如何平衡“真实逻辑”与“爽文节奏”仍是作者创作的核心挑战。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -51,17 +45,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.74万字",
-        "word_count": 487400,
+        "word_count_text": "49.37万字",
+        "word_count": 493700,
         "heat": 31000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第196章  心照不宣",
-        "updated_at": "2026-09-10 00:42:03",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第199章  预设危机",
+        "updated_at": "2026-09-11 00:22:05",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

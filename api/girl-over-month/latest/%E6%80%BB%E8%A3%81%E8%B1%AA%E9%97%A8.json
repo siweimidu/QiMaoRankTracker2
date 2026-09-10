@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：破镜重圆、先婚后爱与萌宝回归仍是核心驱动力，融合玄学、大女主打脸等元素成为提升竞争力的标配。\n**读者偏好**：读者倾向于“强强联合”与“身份反转”的爽点，尤其钟情于禁欲系大佬与清醒女主的情感博弈。\n**变动解读**：本期榜单稳定性极高，头部作品热度壁垒稳固，缺乏新晋黑马冲击，市场进入存量精细化竞争阶段。\n**值得关注**：兼具短剧化改编属性与强情绪冲突的现实向言情，依然是流量转化的关键锚点。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -254,7 +254,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 2,
         "stale_update": true,
         "category": "总裁豪门"
       }

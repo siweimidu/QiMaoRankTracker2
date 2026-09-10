@@ -8,40 +8,36 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
-    "total_heat": 524000,
+    "total_heat": 535000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "乱世边军：从军功换媳妇开始",
-          "book_id": 2032551
+          "book_id": 2032551,
+          "rank_change": 3
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [
         {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -2
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
+          "title": "边关猎户，我粮肉满仓富甲一方",
+          "book_id": 2093494,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -3000
+          "title": "乱世边军：从军功换媳妇开始",
+          "book_id": 2032551,
+          "heat_change": 15000
         },
         {
           "title": "边关猎户，我粮肉满仓富甲一方",
@@ -49,17 +45,17 @@
           "heat_change": -2000
         },
         {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
+          "title": "世子无双",
+          "book_id": 1860026,
           "heat_change": -2000
         }
       ],
-      "summary": "「架空历史」新上榜 《乱世边军：从军功换媳妇开始》；《世子无双》下滑2位；《世子无双》热度-3000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：种田经营、争霸与多女主元素深度融合，侧重于“冷门开局+资源积累+势力扩张”的爽感构建。\n**读者偏好**：偏好具有极强代入感的“生活流”开局，如饥荒、边关等极端环境，通过娶妻与经营实现阶级跃迁。\n**变动解读**：榜单整体格局稳定，头部产品护城河稳固；《乱世边军》凭借“娶妻变强”的强驱动力实现排名逆势上扬，显示出系统化爽点在下沉市场的持续号召力。\n**值得关注**：深耕“边关+多女主+系统”赛道的作品，在完结期仍具备极强的长尾热度转化能力。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "边关猎户，我粮肉满仓富甲一方",
         "book_id": 2093494,
         "url": "https://www.qimao.com/shuku/2093494/",
@@ -71,16 +67,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "190.07万字",
-        "word_count": 1900700,
-        "heat": 152000,
+        "word_count_text": "190.49万字",
+        "word_count": 1904900,
+        "heat": 150000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-        "latest_chapter": " 第797章  龙儿是不是我们的孩子",
-        "updated_at": "2026-09-10 00:02:10",
-        "rank_change": 0,
+        "latest_chapter": " 第799章  路是你们自己选的，怪不得我",
+        "updated_at": "2026-09-11 00:02:11",
+        "rank_change": -1,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
@@ -109,8 +105,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -160,22 +156,22 @@
         "status": "已完结",
         "word_count_text": "284万字",
         "word_count": 2840000,
-        "heat": 75000,
+        "heat": 73000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -2,
-        "heat_change": -3000,
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "乱世边军：从军功换媳妇开始",
         "book_id": 2032551,
         "url": "https://www.qimao.com/shuku/2032551/",
@@ -189,16 +185,16 @@
         "status": "已完结",
         "word_count_text": "135.67万字",
         "word_count": 1356700,
-        "heat": 54000,
+        "heat": 69000,
         "platform_trend": "rise",
-        "badge": "飙升55名",
+        "badge": "",
         "intro": "打工人杨凡穿越重伤垂死斥候身上，军功抵了三房老婆，本以为有媳妇没命享，却意外发现身体特殊，娶媳妇就变强，豪娶百八十房老婆。\n听说皇帝老儿后宫佳丽三千，这皇帝，我当定了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/829/2485298_360x480.jpg?time=1752470552",
         "latest_chapter": " 第655章  结局",
         "updated_at": "2026-03-10 17:21:13",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 3,
+        "heat_change": 15000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "架空历史"

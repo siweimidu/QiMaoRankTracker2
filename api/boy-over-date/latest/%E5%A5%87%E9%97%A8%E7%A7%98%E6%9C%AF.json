@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 83000,
+    "total_heat": 81000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "rank_change": -1
+          "heat_change": -2000
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：民俗悬疑类题材热度进入存量博弈阶段，市场表现平稳但缺乏头部新作注入。\n**读者偏好**：读者对“职业化”的奇门秘术（如接阴婆、捞尸人）具有高度粘性，偏爱带有强地域性与禁忌色彩的民间传说。\n**变动解读**：本期榜单出现缩水，头部作品受竞品挤压排名波动，反映出该垂类正面临用户注意力分散的挑战。\n**值得关注**：建议重点观察后续是否有同类题材新书补位，以判定该赛道是否存在季节性或周期性热度退潮。",
-      "ai_source": "ai"
+      "summary": "「奇门秘术」《民间诡闻实录》热度-2000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -53,15 +47,15 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 83000,
-        "platform_trend": "rise",
+        "heat": 81000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -1,
-        "heat_change": 0,
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

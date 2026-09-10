@@ -1,0 +1,302 @@
+{
+  "date": "2026-09-11",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 111950,
+    "total_heat": 2239000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乱世边军：从军功换媳妇开始",
+            "book_id": 2032551,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "边关猎户，我粮肉满仓富甲一方",
+            "book_id": 2093494,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "乱世边军：从军功换媳妇开始",
+            "book_id": 2032551,
+            "heat_change": 15000
+          },
+          {
+            "title": "边关猎户，我粮肉满仓富甲一方",
+            "book_id": 2093494,
+            "heat_change": -2000
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "**题材趋势**：种田经营、争霸与多女主元素深度融合，侧重于“冷门开局+资源积累+势力扩张”的爽感构建。\n**读者偏好**：偏好具有极强代入感的“生活流”开局，如饥荒、边关等极端环境，通过娶妻与经营实现阶级跃迁。\n**变动解读**：榜单整体格局稳定，头部产品护城河稳固；《乱世边军》凭借“娶妻变强”的强驱动力实现排名逆势上扬，显示出系统化爽点在下沉市场的持续号召力。\n**值得关注**：深耕“边关+多女主+系统”赛道的作品，在完结期仍具备极强的长尾热度转化能力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "heat_change": 8000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -4000
+          },
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《玲珑塔》上升1位领涨；《玲珑塔》热度+8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": -7000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "**题材趋势**：呈现出明显的“都市+强人设”特征，侧重于身份反差与爽文套路，短剧化改编成为热度维持的关键推力。\n**读者偏好**：读者倾向于“赘婿/神医/司机”这类具备即时爽感的身份设定，侧重于情感纠葛与战力无敌的双重满足。\n**变动解读**：榜单处于高位横盘状态，缺乏新晋力量冲击，现有头部书籍热度随完结周期出现自然回落，市场进入存量博弈阶段。\n**值得关注**：短剧改编对原著长尾热度的赋能效应显著，具备“短剧+原著”双向引流的作品在完结榜单中更具抗跌性。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "rank_change": -2
+          },
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "heat_change": -6000
+          },
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》下滑2位；《我和软萌女友的恋爱日常》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": 12000
+          },
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》上升3位领涨；《SSS级狂龙归来，全球戒备！》热度+12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重回六十年代，从挖何首乌开始",
+            "book_id": 2064995,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「乡村生活」《重回六十年代，从挖何首乌开始》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「奇门秘术」《民间诡闻实录》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》上升1位领涨；《刚抽中SSS级天赋，你跟我说游戏停服》热度+7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑3位；《全球灾变之末日游戏》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "极品女神赖上我",
+            "book_id": 2012529,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "极品女神赖上我",
+            "book_id": 2012529,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「商战职场」《极品女神赖上我》下滑1位；《极品女神赖上我》热度-3000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

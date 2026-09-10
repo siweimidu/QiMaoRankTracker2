@@ -8,30 +8,27 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 994000,
+    "count": 1,
+    "total_heat": 532000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "春风得意小医仙",
-          "book_id": 12295515
-        },
+      "new_count": 0,
+      "dropped_count": 1,
+      "new_books": [],
+      "dropped_books": [
         {
           "title": "重回70：赶山打猎，我一人养三家！",
-          "book_id": 12180396
+          "book_id": 12180396,
+          "intro": "【狩猎+爽文+轻松+智商在线+不圣母+宠妻撒糖】\n重活一世，回到1977年。\n张向阳发现自己正趴在娇嫩可爱的第三任前妻身上。\n他惊奇的发现。\n老天爷不仅让他重活一回！\n还把他前世初中、高中、大学时期那"
         }
       ],
-      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：乡村生活类题材呈现明显的“怀旧风”与“异能/系统赋能”双轨并行趋势，内容包容度较高。\n**读者偏好**：读者青睐“医武/神技+乡村红颜”的传统爽文模式，以及“重回70年代”的时代怀旧与多线情感线配置。\n**变动解读**：本期出现双新书上榜，打破了原有榜单格局，说明该赛道用户对新鲜感与强代入感的作品需求旺盛。\n**值得关注**：“赶山打猎”叠加“多女主白月光”设定，精准捕捉了男性读者的爽点，具备较强的内容爆款潜质。",
+      "summary": "**题材趋势**：乡村生活类在榜单中呈现小众化趋势，目前仅存一本头部作品支撑，市场竞争格局相对封闭。\n**读者偏好**：读者倾向于“乡村+玄幻/医术+红颜”的复合型爽文，带有“神鼎”、“续命”等强冲突设定的作品更具留存优势。\n**变动解读**：本期榜单稳定性较高，但随着《重回70》等年代赶山题材的掉出，该细分品类缺乏新鲜血液补充，市场活跃度有所下降。\n**值得关注**：建议重点观察当前唯一在榜书《春风得意小医仙》的生命周期，若无新书入局，需警惕该品类在流量端的进一步萎缩。",
       "ai_source": "ai"
     },
     "books": [
@@ -48,47 +45,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.03万字",
-        "word_count": 390300,
+        "word_count_text": "39.59万字",
+        "word_count": 395900,
         "heat": 532000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "为保护相依为命的俏嫂子，半瞎山村青年，意外唤醒家传神鼎。\n好消息：眼疾好了，绝世医术有了，连种地都能开挂！\n坏消息：命由神鼎吊着，必须给神鼎补充阴阳二气，才可持续续命……\n于是，陈山被迫开启硬核求生之路。\n温婉贤淑的俏嫂子、高冷腹黑的村首富娇妻、泼辣的村花、城里来的冰山女总裁……\n且看一个山村小青年，如何揣着一口神鼎，在万花丛中疯狂拉扯。\n一边和红颜知己们探讨生命科学，一边顺手吊打村霸、包揽果园、治病救人。\n一步步走上春风得意的逆袭巅峰！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4099/12295515_360x480.jpg?time=1780554081",
-        "latest_chapter": " 第188章  排场惊人",
-        "updated_at": "2026-09-10 00:45:03",
+        "latest_chapter": " 第190章  回归田园，来年多种点桃树吧！",
+        "updated_at": "2026-09-10 23:48:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "乡村生活"
-      },
-      {
-        "rank": 20,
-        "title": "重回70：赶山打猎，我一人养三家！",
-        "book_id": 12180396,
-        "url": "https://www.qimao.com/shuku/12180396/",
-        "author": "张德子",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%BC%A0%E5%BE%B7%E5%AD%90_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "49.01万字",
-        "word_count": 490100,
-        "heat": 462000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【狩猎+爽文+轻松+智商在线+不圣母+宠妻撒糖】\n重活一世，回到1977年。\n张向阳发现自己正趴在娇嫩可爱的第三任前妻身上。\n他惊奇的发现。\n老天爷不仅让他重活一回！\n还把他前世初中、高中、大学时期那三个爱而不得的白月光，\n一次性打包全都送到了他的面前。\n然而，这具身体的原主却是个吃喝嫖赌、五毒俱全的渣男，\n为了几块赌资，竟把两个不到五岁的亲生女儿卖给了老光棍！\n家徒四壁，断水断粮，老娘举着菜刀要同归于尽，\n三个白月光前妻满眼绝望，\n堪称地狱开局。\n但前世身为身价过亿大总裁的张向阳却笑了。\n这一世，\n手握神奇的寻宝金手指，\n带着前世的胆识与手腕，\n他不仅要力挽狂澜阻止悲剧，\n还要在这遍地黄金的年代疯狂搞钱！\n他要弥补前世所有的遗憾，\n把三个白月光!宠!上!天!\n给全家人一个幸福的未来！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4061/12180396_360x480.jpg?time=1785983540",
-        "latest_chapter": " 第223章  这才是真正的幸福生活",
-        "updated_at": "2026-09-09 00:12:12",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

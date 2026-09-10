@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 303000,
+    "total_heat": 295000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,11 +25,16 @@
         {
           "title": "小司机的美女总裁老婆",
           "book_id": 2052700,
-          "heat_change": -4000
+          "heat_change": -7000
+        },
+        {
+          "title": "镇天神医",
+          "book_id": 1675640,
+          "heat_change": -1000
         }
       ],
-      "summary": "「都市高武」《小司机的美女总裁老婆》热度-4000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：呈现出明显的“都市+强人设”特征，侧重于身份反差与爽文套路，短剧化改编成为热度维持的关键推力。\n**读者偏好**：读者倾向于“赘婿/神医/司机”这类具备即时爽感的身份设定，侧重于情感纠葛与战力无敌的双重满足。\n**变动解读**：榜单处于高位横盘状态，缺乏新晋力量冲击，现有头部书籍热度随完结周期出现自然回落，市场进入存量博弈阶段。\n**值得关注**：短剧改编对原著长尾热度的赋能效应显著，具备“短剧+原著”双向引流的作品在完结榜单中更具抗跌性。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -47,7 +52,7 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 176000,
+        "heat": 169000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
@@ -55,7 +60,7 @@
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -76,7 +81,7 @@
         "status": "已完结",
         "word_count_text": "543.03万字",
         "word_count": 5430300,
-        "heat": 127000,
+        "heat": 126000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
@@ -84,7 +89,7 @@
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
