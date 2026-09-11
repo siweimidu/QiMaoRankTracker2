@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "heat_change": 1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：以“全民求生”为核心的系统流、空间经营类题材仍是该类别的基本盘。\n**读者偏好**：读者偏好带有强生存压力（极寒、海啸）与资源积累（小木屋）双重刺激的快节奏爽文。\n**变动解读**：受限于题材周期性，该榜单目前处于热度回调期，排名出现小幅波动。\n**值得关注**：需关注该类作品如何通过“多重灾难叠加”或“独家生存提示”等差异化设定，在同质化严重的赛道中维持留存。",
-      "ai_source": "ai"
+      "summary": "「末世求生」《破洞小木屋求生指南》下滑3位；《破洞小木屋求生指南》热度+2。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 20,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -51,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "124.7万字",
-        "word_count": 1247000,
-        "heat": 1,
+        "word_count_text": "125.31万字",
+        "word_count": 1253100,
+        "heat": 3,
         "platform_trend": "drop",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第600章  灵魂的重量",
-        "updated_at": "2026-09-10 23:12:06",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第603章  睡美人·奥罗拉",
+        "updated_at": "2026-09-12 00:01:10",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

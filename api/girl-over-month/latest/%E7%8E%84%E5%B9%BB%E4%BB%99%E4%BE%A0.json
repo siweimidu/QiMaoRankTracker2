@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -20,14 +20,30 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "第一瞳术师",
+          "book_id": 215243,
+          "rank_change": -1
+        },
+        {
+          "title": "柔弱医修今天也在背地里暴打魔尊",
+          "book_id": 1981956,
+          "rank_change": -1
+        },
+        {
+          "title": "我团宠小师妹，嚣张点怎么了",
+          "book_id": 1764505,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：大女主修仙与群像文成为趋势，重生、废材流搭配“团宠”设定，构成了女性向玄幻的核心框架。\n**读者偏好**：读者热衷于反叛传统师徒关系及虐渣打脸的爽感，对“扮猪吃虎”与气运掠夺类设定表现出浓厚兴趣。\n**变动解读**：榜单呈现高度稳定的头部效应，缺乏新鲜题材注入，市场对成熟的爽文逻辑依赖度较高。\n**值得关注**：能够利用明星效应或跨平台口碑传播的群像文，在粉丝经济驱动下展现出显著的转化价值。",
+      "summary": "**题材趋势**：仙侠频道呈现明显的“群像化”与“反套路”趋势，强调师徒关系重构及废材流逆袭，注重爽感与情感羁绊的平衡。\n**读者偏好**：读者热衷于“打脸”与“团宠”设定，尤其是带有“卷王”与“咸鱼”反差对照组的作品，在互动中更容易引发共鸣。\n**变动解读**：榜单处于平稳调整期，缺乏新进作品冲击，现有头部作品热度相对集中，后续作品因缺乏强力话题支撑，整体排名被动微调。\n**值得关注**：出版联动与头部综艺背书（如《奔跑吧》等同款推荐）对提升仙侠类书籍的破圈传播力具有明显拉动作用。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "第一瞳术师",
         "book_id": 215243,
         "url": "https://www.qimao.com/shuku/215243/",
@@ -48,7 +64,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -56,7 +72,7 @@
         "category": "玄幻仙侠"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "柔弱医修今天也在背地里暴打魔尊",
         "book_id": 1981956,
         "url": "https://www.qimao.com/shuku/1981956/",
@@ -77,7 +93,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +101,7 @@
         "category": "玄幻仙侠"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "我团宠小师妹，嚣张点怎么了",
         "book_id": 1764505,
         "url": "https://www.qimao.com/shuku/1764505/",
@@ -106,7 +122,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432610_360x480.jpg?time=1704683308",
         "latest_chapter": " 第1329章  番外九：魔与龙（完）全文完",
         "updated_at": "2025-09-01 23:57:12",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -114,7 +130,7 @@
         "category": "玄幻仙侠"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "重回拜师日，偏心师尊靠边站",
         "book_id": 1943722,
         "url": "https://www.qimao.com/shuku/1943722/",
@@ -135,7 +151,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/675/2022677_360x480.jpg?time=1744704209",
         "latest_chapter": " 第924章  幸得友人，幸得彼此（全文完）",
         "updated_at": "2026-07-06 00:01:08",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

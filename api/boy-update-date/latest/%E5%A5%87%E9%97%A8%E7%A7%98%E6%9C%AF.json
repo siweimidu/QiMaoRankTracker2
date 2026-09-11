@@ -8,38 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-09",
+  "date": "2026-09-12",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 3,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "heat_change": -1
-        }
-      ],
-      "summary": "**题材趋势**：民俗恐怖与奇门秘术类题材正展现出较强的韧性，具有浓郁的悬疑氛围感和强烈的代入感。\n**读者偏好**：读者偏好带有诡异色彩、规则怪谈风格的叙事，特别是主角带有“反差感”或“智斗”属性的设定更受欢迎。\n**变动解读**：《天黑请点灯》排名强势攀升，证明此类高沉浸感作品在当前市场环境下具备较强的用户留存和转化能力。\n**值得关注**：该题材正处于上升通道，建议创作者深挖“诡异+生存”的融合叙事，该类型作品较易在短时间内获取高热度。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：奇门秘术类目处于上升期，具备较强的吸睛能力，尤其是融合诡异民俗元素的题材正成为新宠。\n**读者偏好**：读者对带有强烈悬疑感、恐怖氛围以及“以恶制恶”设定的故事表现出极高兴趣，追求极致的代入感。\n**变动解读**：新书《天黑请点灯》强势入榜且占据热度高位，证明了“诡异+反套路”题材在细分市场具备极强的爆发潜能。\n**值得关注**：该类目后续应关注此类“恐怖生存”与“爽文逻辑”结合的作品，其市场转化效率优于传统玄学题材。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,18 +44,18 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "464.08万字",
-        "word_count": 4640800,
-        "heat": 2,
+        "word_count_text": "466.87万字",
+        "word_count": 4668700,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1702章  秦某拭目以待",
-        "updated_at": "2026-09-08 06:57:12",
-        "rank_change": 2,
-        "heat_change": -1,
-        "is_new": false,
+        "latest_chapter": " 第1711章  道庙和道像",
+        "updated_at": "2026-09-11 06:57:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "奇门秘术"

@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-12",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 3,
+    "total_heat": 64,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205
+          },
+          {
+            "title": "弄奴娇",
+            "book_id": 12262317
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "intro": "盛京人人皆知当朝首辅谢晏京身患绝嗣之症，江灵蕴却挺着孕肚上找上门来，还说怀的是谢晏京的孩子，一时间震惊朝野！\n江灵蕴初入谢府时，谢晏京冷着脸说：“不许觊觎正妻之位，不许对我有非分之想，不许惹事生非！”"
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "intro": "【男二上位+人间清醒+追妻火葬场+叔嫂文学+男二绝嗣x女二好孕】\n\n　　燕筝和太子夫君少年情深，从没想过夫君会背弃她。\n\n　　她死了才知，只有好孕侧妃才能生下绝嗣夫君的孩子，说要与她一生一世一双人的夫"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 4
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 3
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -10
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 8
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 3
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《听女儿心声，侯夫人挺孕肚乱杀》、《弄奴娇》；《首辅绝嗣，我连生三子全家宠上天》、《媚君侧》 掉出榜单；《被逼自刎，嫡女重生撕婚书覆皇朝》上升4位领涨；《皇叔借点功德，王妃把符画猛了》下滑10位；《皇叔借点功德，王妃把符画猛了》热度+8。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "说她是捞女？可大佬偏要宠她呀",
+            "book_id": 12937227,
+            "rank_change": -4
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": -1
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "说她是捞女？可大佬偏要宠她呀",
+            "book_id": 12937227,
+            "heat_change": 3
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 2
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《离婚后她惊艳了世界》上升2位领涨；《说她是捞女？可大佬偏要宠她呀》下滑4位；《说她是捞女？可大佬偏要宠她呀》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "heat_change": 5
+          },
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《春闺小寡妇》；《皇妃来自地府，百鬼退散》上升5位领涨；《撩完清冷世子后，小通房她带球跑了》下滑1位；《皇妃来自地府，百鬼退散》热度+5。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「年代重生」《一胎五宝，我成军属院顶流》上升1位领涨；《我才五岁，怎么就成军区团宠了》下滑1位；《一胎五宝，我成军属院顶流》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "破洞小木屋求生指南",
+            "book_id": 9955719,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "破洞小木屋求生指南",
+            "book_id": 9955719,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「末世求生」《破洞小木屋求生指南》下滑3位；《破洞小木屋求生指南》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》上升3位领涨；《家有玄妻，百邪不侵！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "逃荒前，我靠穿现代囤了百亿物资",
+            "book_id": 10469241,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "逃荒前，我靠穿现代囤了百亿物资",
+            "book_id": 10469241,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》上升2位领涨；《逃荒前，我靠穿现代囤了百亿物资》热度+1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

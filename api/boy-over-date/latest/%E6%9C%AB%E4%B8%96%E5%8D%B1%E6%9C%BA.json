@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 63000,
+    "total_heat": 62000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "rank_change": -3
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -3000
+          "heat_change": -1000
         }
       ],
-      "summary": "「末世危机」《全球灾变之末日游戏》下滑3位；《全球灾变之末日游戏》热度-3000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：以“杀伐果断”与“灾变求生”为基调的末世文，依然是男性向完结榜单的硬通货。\n**读者偏好**：读者偏好黑暗残酷的末日氛围，且对主角在极限环境下重塑规则的“冷血杀戮”设定有较高忠诚度。\n**变动解读**：榜单表现进入平稳期，热度波动微弱，显示出该作品已具备极高的读者粘性，处于稳定的完结收割阶段。\n**值得关注**：该作者通过漫画联动实现多平台引流的策略，是末世题材IP化运营的一个有效参考范式。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -53,15 +47,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 63000,
+        "heat": 62000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -3,
-        "heat_change": -3000,
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 53000,
+    "total_heat": 36000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "rank_change": 1
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "本侍卫是娇花",
           "book_id": 12090615,
-          "heat_change": 3000
+          "heat_change": -17000
         }
       ],
-      "summary": "**题材趋势**：权谋题材在当前榜单中呈现小众精品化趋势，融合轻喜剧元素的“女扮男装”设定依然具备极强的生命力。\n**读者偏好**：受众偏好“强反差”人设，即女主的“事业心/杀招”与男主的“情感攻势”形成的错位萌感。\n**变动解读**：《本侍卫是娇花》热度稳步攀升，在单品类竞争中展现出较强的用户留存力与增长潜力。\n**值得关注**：该题材目前上榜书目较少，建议关注此类“轻喜权谋”风格的后续长线表现，其轻松节奏更符合当下读者的碎片化阅读心理。",
+      "summary": "**题材趋势**：权谋文在女性受众中正向“轻量化”转型，古言背景下的“女扮男装+错位互动”是当前的主流卖点。\n**读者偏好**：读者更青睐带有反差萌的轻喜剧元素，而非沉重的政治博弈，喜好“权臣/太子与贴身侍卫”的身份禁忌感。\n**变动解读**：由于缺乏新书入场，该类目热度出现显著回调，头部作品热度下滑1.7万，反映出单一爆款支撑类目的局限性。\n**值得关注**：需警惕剧情同质化导致的读者审美疲劳，后续作品需在“爽点”与“权谋智斗”的平衡上进行创新。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 11,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -51,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.71万字",
-        "word_count": 337100,
-        "heat": 53000,
-        "platform_trend": "rise",
+        "word_count_text": "34.14万字",
+        "word_count": 341400,
+        "heat": 36000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第135章  爱不上任何人",
-        "updated_at": "2026-09-10 23:18:03",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "latest_chapter": " 第137章  一遍又一遍",
+        "updated_at": "2026-09-11 23:13:02",
+        "rank_change": -3,
+        "heat_change": -17000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

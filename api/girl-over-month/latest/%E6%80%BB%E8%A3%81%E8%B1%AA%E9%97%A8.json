@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
@@ -20,9 +20,25 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "婚后上瘾",
+          "book_id": 1994117,
+          "rank_change": -1
+        },
+        {
+          "title": "大佬归来，假千金她不装了",
+          "book_id": 1699328,
+          "rank_change": -1
+        },
+        {
+          "title": "六年后，我携四个幼崽炸翻前夫家",
+          "book_id": 1658048,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：破镜重圆、先婚后爱与萌宝回归仍是核心驱动力，融合玄学、大女主打脸等元素成为提升竞争力的标配。\n**读者偏好**：读者倾向于“强强联合”与“身份反转”的爽点，尤其钟情于禁欲系大佬与清醒女主的情感博弈。\n**变动解读**：本期榜单稳定性极高，头部作品热度壁垒稳固，缺乏新晋黑马冲击，市场进入存量精细化竞争阶段。\n**值得关注**：兼具短剧化改编属性与强情绪冲突的现实向言情，依然是流量转化的关键锚点。",
+      "summary": "**题材趋势**：榜单结构高度固化，以“破镜重圆”、“带球跑”及“先婚后爱”为核心驱动力，短剧改编作品在维持长尾热度上表现优异。\n**读者偏好**：读者倾向于高张力的情感冲突，如“失控”、“蓄谋已久”等带有强情绪价值的设定，以及具备“打脸”、“逆袭”元素的爽文架构。\n**变动解读**：本期榜单缺乏新鲜血液注入，头部书籍热度溢出效应明显，中后部书籍因缺乏新增长点，呈现整体性的排名顺延下滑。\n**值得关注**：高热度书籍多带有“短剧原著”标签，说明IP联动对提升完结月榜的留存热度具有显著加持作用。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,7 +72,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "婚后上瘾",
         "book_id": 1994117,
         "url": "https://www.qimao.com/shuku/1994117/",
@@ -77,7 +93,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -85,7 +101,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "大佬归来，假千金她不装了",
         "book_id": 1699328,
         "url": "https://www.qimao.com/shuku/1699328/",
@@ -106,7 +122,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -114,7 +130,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "六年后，我携四个幼崽炸翻前夫家",
         "book_id": 1658048,
         "url": "https://www.qimao.com/shuku/1658048/",
@@ -135,7 +151,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -143,7 +159,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "皑如山上雪",
         "book_id": 2053898,
         "url": "https://www.qimao.com/shuku/2053898/",
@@ -164,7 +180,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
         "latest_chapter": " 第398章  ——津晚大结局（下）",
         "updated_at": "2026-04-22 18:18:05",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -172,7 +188,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "惯坏她",
         "book_id": 10034568,
         "url": "https://www.qimao.com/shuku/10034568/",
@@ -193,7 +209,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -201,7 +217,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "逃婚三年，江少的花心人设崩了",
         "book_id": 1839513,
         "url": "https://www.qimao.com/shuku/1839513/",
@@ -222,7 +238,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/550/1649331_360x480.jpg?time=1717642444",
         "latest_chapter": " 第267章  全文终",
         "updated_at": "2024-09-30 15:24:03",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -230,7 +246,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "玄学小祖宗：叼奶瓶算命全家宠",
         "book_id": 1764909,
         "url": "https://www.qimao.com/shuku/1764909/",
@@ -251,7 +267,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/475/1424722_360x480.jpg?time=1700531982",
         "latest_chapter": " 第509章  番外——道侣大典（完）",
         "updated_at": "2024-09-02 22:01:10",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：民俗志怪类作品持续占据市场头部，强调“乡野诡闻”与“职业秘术”的沉浸式体验。\n**读者偏好**：读者热衷于具有民俗色彩的猎奇设定，如捞尸、接阴婆等带有浓厚东方志怪元素的职业叙事。\n**变动解读**：本月榜单处于极度稳态，头部作品粉丝粘性极高，缺乏新晋黑马冲击现有的市场格局。\n**值得关注**：在题材同质化背景下，如何通过深挖民间传说与民俗禁忌来维持长尾热度，是该品类的核心壁垒。",
-      "ai_source": "ai"
+      "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -51,7 +51,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "奇门秘术"
       },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:00:20",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T07:03:00",
+  "date": "2026-09-12",
   "authors": [
     {
       "author": "化十",
@@ -11,17 +11,6 @@
       "titles": [
         "荒古武神",
         "吞天神体"
-      ]
-    },
-    {
-      "author": "骑着猫的小鱼干",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E7%8C%AB%E7%9A%84%E5%B0%8F%E9%B1%BC%E5%B9%B2_14/",
-      "books": 2,
-      "boards": 4,
-      "total_heat": 7526000,
-      "titles": [
-        "大佬归来，假千金她不装了",
-        "小姑奶奶下山了，在桥洞底下摆摊算命"
       ]
     },
     {
@@ -51,7 +40,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 3772002,
+      "total_heat": 3772001,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
@@ -88,6 +77,17 @@
       "titles": [
         "被关女子监狱三年，我修炼成仙了",
         "夜火倾唇"
+      ]
+    },
+    {
+      "author": "罗樵森",
+      "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
+      "books": 2,
+      "boards": 4,
+      "total_heat": 2605003,
+      "titles": [
+        "民间诡闻实录",
+        "天黑请点灯"
       ]
     },
     {
@@ -284,7 +284,7 @@
       "author": "柠檬小丸子",
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 5,
       "total_heat": 10667000,
       "titles": [
         "被逼自刎，嫡女重生撕婚书覆皇朝"

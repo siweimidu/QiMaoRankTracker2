@@ -8,29 +8,34 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 4,
-    "total_heat": 192000,
+    "count": 2,
+    "total_heat": 59000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "京婚有悔",
-          "book_id": 12593475
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 2,
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "疯犬玫瑰",
-          "book_id": 1939902,
-          "intro": "梵音落魄那日，去了个破落小镇\n她肤白貌美大长腿，十指不沾阳春水，很快成了这个地方的焦点\n所有男人都对她趋之若鹜，独独一人对她退避三舍\n梵音看那人一眼，随他去，懒得理\n后来，男人醉酒敲开她的房门，掐着她"
+          "title": "冷淡七年，离婚后被顶级大佬追着宠",
+          "book_id": 12214737,
+          "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于"
+        },
+        {
+          "title": "京婚有悔",
+          "book_id": 12593475,
+          "intro": "傅家有一条铁律，没有离异，唯有丧偶。\n人人都羡慕江以宁嫁入豪门，风光无限。\n可只有她自己清楚，七年婚姻，得到的只有老公的自动回复。\n直到这天，破坏她家庭的小三之女闯入她的咨询室。\n江以宁才彻底幡然醒悟"
         }
       ],
       "top_risers": [
+        {
+          "title": "青梅消失五年后，顾医生再度失控",
+          "book_id": 12855951,
+          "rank_change": 3
+        },
         {
           "title": "盲婚",
           "book_id": 12475164,
@@ -38,53 +43,13 @@
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "盲婚",
-          "book_id": 12475164,
-          "heat_change": 4000
-        },
-        {
-          "title": "冷淡七年，离婚后被顶级大佬追着宠",
-          "book_id": 12214737,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "**题材趋势**：虐恋情深与“追妻火葬场”依然是核心驱动力，尤其是“离婚/分手后觉醒”的设定占据统治地位。\n**读者偏好**：读者高度聚焦于女主脱离糟糕关系后的“自我爱护”与“男主追悔莫及”的爽点，强调情绪宣泄。\n**变动解读**：《京婚有悔》的入榜印证了“七年之痒+离婚觉醒”结构的持续吸睛，榜单整体呈现出强烈的“情感博弈”色彩。\n**值得关注**：头部作品《冷淡七年》虽热度微降但地位稳固，需警惕同类题材过饱和导致的审美疲劳，差异化的人设（如《盲婚》的眼盲梗）是突围关键。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：虐恋情深与破镜重圆依然是总裁文的核心驱动力，市场表现出极强的“强推拉”叙事需求。\n**读者偏好**：读者热衷于“追妻火葬场”模式，倾向于带有极致误会、身份悬殊及情感失控张力的虐心剧情。\n**变动解读**：本期榜单经历洗牌，掉出两部同类作品，表明存量竞争激烈，具有强情绪冲突的叙事节奏更易获得留存。\n**值得关注**：两部在榜作品均通过“失踪/消失”与“失控/暴戾”的情节强化矛盾，建议后续创作关注此类极致情感的反差设定。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
-        "title": "冷淡七年，离婚后被顶级大佬追着宠",
-        "book_id": 12214737,
-        "url": "https://www.qimao.com/shuku/12214737/",
-        "author": "星星口袋",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%98%9F%E6%98%9F%E5%8F%A3%E8%A2%8B_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.37万字",
-        "word_count": 503700,
-        "heat": 107000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "结婚七年，江叙珩从不带安宥禾出席公众场合，转身却跟自己的学生举行婚礼。\n婆婆与儿子不仅一同参加，还不留情面地驱赶她。\n丈夫让她道歉，婆婆嫌她丢人，儿子更是不要她做妈妈了。\n再次被家人抛弃的安宥禾，终于想通了，决定好好爱自己。\n江太太她不做了，儿子也不要了。\n江叙珩认定当初为了嫁他不惜爬床的安宥禾，没了江太太的身份，根本无法生活。\n却不知，他瞧不上的妻子，不仅是能卡他全家脖子的学术界天才。而且，身边优秀的追求者无数。\n误会解开，得知真相的江叙珩慌了，但安宥禾身边早已经被那个说一不二的顶级男人牢牢霸占。\n随着安宥禾一层层身份曝光，再次引来那位顶级豪门真千金的忌惮。却不知，安宥禾这个假千金才是这顶级豪门的唯一继承人。\n后来，狗前夫痛彻心扉，“小禾，我后悔了，我们复婚吧。”\n安宥禾：“脏狗，滚远些。”\n儿子：“妈妈，你不要我了吗？”\n安宥禾：“抱歉，你真不是我儿子。”\n商执：“亲爱的，不如我们生一个呢？”\n安宥禾：“呵呵，你还在考察期。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4072/12214737_360x480.jpg?time=1780052801",
-        "latest_chapter": " 第221章  你得补偿",
-        "updated_at": "2026-09-10 20:17:04",
-        "rank_change": 0,
-        "heat_change": -1000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 14,
+        "rank": 12,
         "title": "盲婚",
         "book_id": 12475164,
         "url": "https://www.qimao.com/shuku/12475164/",
@@ -96,53 +61,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.7万字",
-        "word_count": 437000,
+        "word_count_text": "44.31万字",
+        "word_count": 443100,
         "heat": 34000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "司遇行眼盲时，姜荷嫁给他。他复明时，她却被迫离婚。\n得知怀孕，她抱有一丝奢望，被绑架时向他求救，他在为其他女人忙碌，语调不耐：\n“姜荷，被绑架能自如用手机？你装过了。”\n他说：“过来道歉，否则永远别出现在我面前！”\n她选择后者，一夜之间消失得干干净净。\n*\n再回云城。\n她改头换面，却避无可避，数次与他交集。\n那个厌她入骨的男人，频频截住她，“你到底是谁？”\n*\n直到两人被困那个密闭、阴暗的地下室。\n他痛苦的呼吸抵着她的耳廓：\n“是不是我再瞎一次，你才肯承认？”\n她没辙了，“也不是不行。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4159/12475164_360x480.jpg?time=1783594859",
-        "latest_chapter": " 第211章  有事想麻烦姜总",
-        "updated_at": "2026-09-11 00:03:14",
+        "latest_chapter": " 第214章  你几岁来着？",
+        "updated_at": "2026-09-12 00:00:10",
         "rank_change": 2,
-        "heat_change": 4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 19,
-        "title": "京婚有悔",
-        "book_id": 12593475,
-        "url": "https://www.qimao.com/shuku/12593475/",
-        "author": "爆爆牛",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%88%86%E7%88%86%E7%89%9B_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "36.08万字",
-        "word_count": 360800,
-        "heat": 26000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "傅家有一条铁律，没有离异，唯有丧偶。\n人人都羡慕江以宁嫁入豪门，风光无限。\n可只有她自己清楚，七年婚姻，得到的只有老公的自动回复。\n直到这天，破坏她家庭的小三之女闯入她的咨询室。\n江以宁才彻底幡然醒悟。\n傅淮晏从来不是天生冷漠，他只是不爱她而已。\n连儿子都握住对方的手，残忍发问。\n“我可以让沈阿姨当我妈妈吗？”\n爱意耗尽。\n江以宁不再纠缠。\n什么不能离婚！\n都去他的吧！\n一纸离婚协议甩在傅淮晏面前，潇洒抽身。\n老公不要，冷漠儿子亦不要。\n离开傅家后，她一路逆袭封神，登顶国内顶尖心理专家宝座。\n手握盛名，前程万丈。\n万千名流踏破门槛，争相求娶。\n昔日高冷矜贵的男人，却当众红了眼，将她禁锢怀中。\n“她是我傅淮晏的老婆，谁敢觊觎？”\n儿子紧握她的手，哭红了眼。\n“妈妈，别丢下我。”\n看着眼前悔不当初的父子二人，江以宁漠然一笑。\n“不好意思，想追我，请排队。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4198/12593475_360x480.jpg?time=1782454794",
-        "latest_chapter": " 第171章  一顿饭吃掉百万！",
-        "updated_at": "2026-09-10 12:12:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 20,
+        "rank": 17,
         "title": "青梅消失五年后，顾医生再度失控",
         "book_id": 12855951,
         "url": "https://www.qimao.com/shuku/12855951/",
@@ -154,16 +90,16 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.36万字",
-        "word_count": 343600,
+        "word_count_text": "34.99万字",
+        "word_count": 349900,
         "heat": 25000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
-        "latest_chapter": " 第159章  我想跟你走",
-        "updated_at": "2026-09-10 08:12:07",
-        "rank_change": 0,
+        "latest_chapter": " 第162章  当他一辈子的拐棍",
+        "updated_at": "2026-09-11 08:12:05",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
