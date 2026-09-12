@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -26,27 +26,16 @@
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "医仙，将军，少年侯！谁与争锋！",
-          "book_id": 12371697,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "医仙，将军，少年侯！谁与争锋！",
           "book_id": 12371697,
-          "heat_change": 1
-        },
-        {
-          "title": "天命纨绔",
-          "book_id": 9839805,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：历史文向“轻快爽文”转型，强调穿越背景下的个体逆袭，题材维度涵盖医道、太监、纨绔等经典变体。\n**读者偏好**：读者偏好带有强冲突色彩的设定，如“痛觉共享”、“假太监”等能够快速制造戏剧张力与反差萌的内容。\n**变动解读**：榜单整体波动较小，竞争进入存量博弈阶段，目前排名变动主要受读者追更节奏影响。\n**值得关注**：《天命纨绔》通过独特的“痛觉相通”设定与女帝建立强力关联，这种差异化的人设互动值得借鉴。",
-      "ai_source": "ai"
+      "summary": "「架空历史」《天命纨绔》上升1位领涨；《医仙，将军，少年侯！谁与争锋！》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -62,17 +51,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "51.95万字",
-        "word_count": 519500,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "52.39万字",
+        "word_count": 523900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第224章  夺命气",
-        "updated_at": "2026-09-12 00:12:12",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第226章  攻城",
+        "updated_at": "2026-09-13 00:12:14",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -91,15 +80,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "105.45万字",
-        "word_count": 1054500,
+        "word_count_text": "106.07万字",
+        "word_count": 1060700,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第314章  万民信仰，九州气运！",
-        "updated_at": "2026-09-12 00:32:04",
+        "latest_chapter": " 第316章  皇帝见年大将军！",
+        "updated_at": "2026-09-13 00:32:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -108,7 +97,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -120,17 +109,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "173.98万字",
-        "word_count": 1739800,
+        "word_count_text": "174.64万字",
+        "word_count": 1746400,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第791章  决绝",
-        "updated_at": "2026-09-12 00:07:08",
+        "latest_chapter": " 第794章  你可千万别劝我！",
+        "updated_at": "2026-09-13 00:07:07",
         "rank_change": 1,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "逃荒前，我靠穿现代囤了百亿物资",
           "book_id": 10469241,
-          "rank_change": 2
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "逃荒前，我靠穿现代囤了百亿物资",
           "book_id": 10469241,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》上升2位领涨；《逃荒前，我靠穿现代囤了百亿物资》热度+1。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：灾难背景下的“囤货流”与重生复仇组合，强调生存压力与物资积累的爽感。\n**读者偏好**：读者热衷于“先知先觉”带来的掌控感，以及通过现代科技/物资弥补时代差距的补偿心理。\n**变动解读**：目前该小类热度出现回调，处于榜单轮动周期中的低谷期，市场进入沉淀调整阶段。\n**值得关注**：需警惕同质化严重的“逃荒+囤货”模式，后续内容若无创新性冲突，热度恐难回升。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 9,
         "title": "逃荒前，我靠穿现代囤了百亿物资",
         "book_id": 10469241,
         "url": "https://www.qimao.com/shuku/10469241/",
@@ -51,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "94.2万字",
-        "word_count": 942000,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "94.93万字",
+        "word_count": 949300,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第401章  突破广口城海防",
-        "updated_at": "2026-09-11 22:47:07",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第403章  窃听风云",
+        "updated_at": "2026-09-12 22:57:05",
+        "rank_change": -1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

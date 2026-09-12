@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "本侍卫是娇花",
-          "book_id": 12090615,
-          "rank_change": -3
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "本侍卫是娇花",
-          "book_id": 12090615,
-          "heat_change": -17000
-        }
-      ],
-      "summary": "**题材趋势**：权谋文在女性受众中正向“轻量化”转型，古言背景下的“女扮男装+错位互动”是当前的主流卖点。\n**读者偏好**：读者更青睐带有反差萌的轻喜剧元素，而非沉重的政治博弈，喜好“权臣/太子与贴身侍卫”的身份禁忌感。\n**变动解读**：由于缺乏新书入场，该类目热度出现显著回调，头部作品热度下滑1.7万，反映出单一爆款支撑类目的局限性。\n**值得关注**：需警惕剧情同质化导致的读者审美疲劳，后续作品需在“爽点”与“权谋智斗”的平衡上进行创新。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：古言类目中，“女扮男装+宫廷轻喜”模式依然是吸引读者的核心卖点，侧重于身份错位带来的互动张力。\n**读者偏好**：倾向于轻松愉悦、带有强反差感的快节奏爽文，读者更看重男女主之间“杀招与春宵”的互动张力，而非沉重的权谋博弈。\n**变动解读**：该类目目前上榜作品较少，呈现单点支撑状态，《本侍卫是娇花》凭借稳定的题材红利保持高热度，暂时没有竞品对其造成冲击。\n**值得关注**：该类目存在较大的市场空白，建议关注后续是否有同类轻喜剧权谋作品入局，以测试该细分赛道是否存在进一步扩张的流量空间。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.14万字",
-        "word_count": 341400,
+        "word_count_text": "34.81万字",
+        "word_count": 348100,
         "heat": 36000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第137章  一遍又一遍",
-        "updated_at": "2026-09-11 23:13:02",
-        "rank_change": -3,
-        "heat_change": -17000,
+        "latest_chapter": " 第139章  我曾经亦是真心",
+        "updated_at": "2026-09-12 23:28:02",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

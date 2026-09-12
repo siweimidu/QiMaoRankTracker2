@@ -8,53 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
-    "total_heat": 526000,
+    "total_heat": 535000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "乱世边军：从军功换媳妇开始",
           "book_id": 2032551,
-          "rank_change": -3
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": -1
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -1
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "乱世边军：从军功换媳妇开始",
           "book_id": 2032551,
-          "heat_change": -9000
+          "heat_change": 10000
         },
         {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": 2000
+          "title": "边关猎户，我粮肉满仓富甲一方",
+          "book_id": 2093494,
+          "heat_change": -2000
         },
         {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -1000
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：种田经营、边关争霸与“老六”权谋类题材稳居头部，具备较强的长尾效应。\n**读者偏好**：读者热衷于“穿越+基建+多女主”的爽点组合，通过资源开发与势力扩张获取成就感。\n**变动解读**：榜单整体趋于固化，缺乏新书冲击，头部作品热度小幅波动，腰部作品面临较强的竞争压力。\n**值得关注**：《边关猎户，我粮肉满仓富甲一方》凭借种田基建叙事维持热度，体现了市场对“生活化爽文”的偏好。",
+      "summary": "**题材趋势**：种田经营、边关权谋与“多妻/多妾”爽点高度结合，强调“开局天崩+低调发育+资源垄断”的经营流套路。\n**读者偏好**：读者热衷于轻快幽默的“老六”风格与“娶妻变强/纳妾扩充势力”的成家立业型爽文，对边关建设题材接受度极高。\n**变动解读**：榜单整体格局稳定，仅《乱世边军》凭借“娶妻变强”的强驱动力实现排名跃升，显示出读者对高频次爽点反馈的追捧。\n**值得关注**：头部作品多为长线稳健型，建议关注具备“跨界IP联动”（如短剧/有声剧）属性的存量作品，其抗跌性更强。",
       "ai_source": "ai"
     },
     "books": [
@@ -71,17 +61,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "190.97万字",
-        "word_count": 1909700,
-        "heat": 150000,
+        "word_count_text": "191.44万字",
+        "word_count": 1914400,
+        "heat": 148000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-        "latest_chapter": " 第801章  镇北府最神秘的一支精锐",
-        "updated_at": "2026-09-12 00:02:12",
+        "latest_chapter": " 第803章  宰了他们",
+        "updated_at": "2026-09-13 00:02:11",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -110,7 +100,7 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -131,15 +121,15 @@
         "status": "已完结",
         "word_count_text": "350.25万字",
         "word_count": 3502500,
-        "heat": 101000,
-        "platform_trend": "drop",
+        "heat": 102000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -167,15 +157,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -1,
-        "heat_change": 2000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "乱世边军：从军功换媳妇开始",
         "book_id": 2032551,
         "url": "https://www.qimao.com/shuku/2032551/",
@@ -189,15 +179,15 @@
         "status": "已完结",
         "word_count_text": "135.67万字",
         "word_count": 1356700,
-        "heat": 60000,
-        "platform_trend": "drop",
+        "heat": 70000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "打工人杨凡穿越重伤垂死斥候身上，军功抵了三房老婆，本以为有媳妇没命享，却意外发现身体特殊，娶媳妇就变强，豪娶百八十房老婆。\n听说皇帝老儿后宫佳丽三千，这皇帝，我当定了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/829/2485298_360x480.jpg?time=1752470552",
         "latest_chapter": " 第655章  结局",
         "updated_at": "2026-03-10 17:21:13",
-        "rank_change": -3,
-        "heat_change": -9000,
+        "rank_change": 3,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

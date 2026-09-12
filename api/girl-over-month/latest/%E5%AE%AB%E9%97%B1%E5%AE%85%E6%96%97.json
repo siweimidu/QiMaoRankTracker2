@@ -8,48 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 6,
     "total_heat": 52574000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-          "book_id": 2074363
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "一枕春深",
-          "book_id": 11512461,
-          "intro": "沈姝为了活命去做了留种娘子，给一位病重的神秘贵人留下血脉。数年后，她带着软萌萌的小女儿重返京城，入了凛王府做奶娘。只是这凛王看她的眼神越来越不对劲，吻她的腰，进她的房，最后还逼她承认宝儿是他的女儿……"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "rank_change": -1
-        },
-        {
-          "title": "解春衫",
-          "book_id": 2065888,
-          "rank_change": -1
-        },
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：重生复仇与大女主权谋是绝对主导，强调从卑微弃子到翻盘掌权的爽感逻辑，且融合了“玄学”、“养崽”等轻快元素。\n**读者偏好**：读者对“全家火葬场”、“虐渣追妻”等强情绪反转有极高偏好，偏爱节奏明快、爽感密集的复仇爽文。\n**变动解读**：《被逼自刎，嫡女重生撕婚书覆皇朝》强势入榜并占据高位，证明了“双重生+追妻火葬场”题材仍具备极强的市场吸睛能力。\n**值得关注**：榜单末位流动性较强，题材需在传统宅斗基础上叠加差异化设定（如捡破烂的团宠崽）才能保持竞争力。",
+      "summary": "**题材趋势**：重生复仇与大女主权谋是绝对主流，叙事逻辑高度聚焦于“打脸虐渣”与“身份逆袭”，且伴随明显的对照组爽点设计。\n**读者偏好**：读者倾向于情感线与事业线并重的爽文，对“重生回改嫁节点”或“幼崽助力家族兴旺”等带有轻快节奏的宅斗题材接受度极高。\n**变动解读**：榜单呈现高度固化，现有作品在垂直细分领域的统治力稳固，未见新的市场突围者。\n**值得关注**：高热度作品普遍具备影视化基因，原著IP与短剧联动的转化效果显著，是当前提升热度的核心抓手。",
       "ai_source": "ai"
     },
     "books": [
@@ -95,18 +68,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "175.38万字",
-        "word_count": 1753800,
+        "word_count_text": "175.98万字",
+        "word_count": 1759800,
         "heat": 10667000,
         "platform_trend": "drop",
         "badge": "最新上榜",
         "intro": "【虐渣+追妻+1VS1双洁+女主男配双重生+全家火葬场】\n   帝病危，宫中无皇子。\n   她虞知宁嫁靖王世子裴衡三年，琴瑟和鸣，是太后秘密养在在外的女儿。\n   太后心疼女儿，扶裴衡上位。\n   册封前，虞知宁被靖王府以祈福之名诓骗去寺里上香，半路被掳，鞭挞三日，受尽屈辱后，被劫匪扔在城门口，闹得满城皆知。\n   为保颜面，裴衡不查真相，反逼她自刎，连同腹中孩儿一尸两命。\n \n    断气前堂妹巧笑嫣然的告诉她劫匪不是劫匪，而是家族为堂妹上位找人假扮，夺她性命，踩着她尸骨，让堂妹占有了原本属于她的全部。\n    而这一切，还有裴衡的纵容！\n    \n    虞知宁含恨而死，携怨重生回及笄前一天\n    她抛绣球改嫁纨绔璟王世子裴玄。\n    全京城都在等着看笑话\n    可后来裴玄做了太子，她做了太子妃\n    \n    数日后裴衡造反失败，靖王府全族被抄，囚车路过她身边时，裴衡赤红眼跪在她脚下求原谅：“阿宁，你该嫁我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
-        "latest_chapter": " 第770章  挨罚",
-        "updated_at": "2026-09-11 22:41:06",
+        "latest_chapter": " 第773章  离间瓦解",
+        "updated_at": "2026-09-12 23:47:07",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 5,
         "stale_update": false,
         "category": "宫闱宅斗"
@@ -133,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -162,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -191,7 +164,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -220,10 +193,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "宫闱宅斗"
       }

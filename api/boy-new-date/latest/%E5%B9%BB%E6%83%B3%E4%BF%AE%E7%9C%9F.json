@@ -8,30 +8,30 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
-    "count": 2,
-    "total_heat": 117000,
+    "count": 3,
+    "total_heat": 162000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "贱籍仵作，从摸尸开始炼成武神",
-          "book_id": 12791520,
-          "intro": "大雍乱世，妖魔横行，人命如草芥。\n沈砚穿越而来，成了青溪县最底层的贱籍仵作，备受欺凌。\n绝境之下，觉醒【日结面板】！\n只要验尸，就能结算奖励，积攒死气更能触发暴击翻倍！\n【勘验横死武人，获得《破岩拳》"
+          "book_id": 12791520
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "rank_change": -2
-        },
+          "rank_change": 2
+        }
+      ],
+      "top_fallers": [
         {
           "title": "盗梦千年",
           "book_id": 12257385,
@@ -42,20 +42,20 @@
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "heat_change": -5000
+          "heat_change": 10000
         },
         {
           "title": "盗梦千年",
           "book_id": 12257385,
-          "heat_change": -4000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：传统修仙与金手指流并存，强调“凡人流”与“宿命感”的结合。\n**读者偏好**：读者更倾向于具备“资源增殖”或“跨时空羁绊”等强钩子设定的成长型爽文。\n**变动解读**：本期整体热度下滑且无新书入榜，头部作品面临后劲不足的增长压力，市场呈现存量博弈状态。\n**值得关注**：两部作品均通过“外挂工具”（双鱼佩、补天炉）推动剧情，这类具备特定道具驱动的升级模式仍是该类别的核心卖点。",
+      "summary": "**题材趋势**：传统修真体系与“系统/金手指”流派深度融合，强调成长变强与爽点反馈。\n**读者偏好**：读者热衷于“凡人流”与“特殊面板”设定，偏好资源获取、物品补全及身份逆袭类题材。\n**变动解读**：《聚宝仙炉》凭借典型的凡人流成长曲线热度攀升，《贱籍仵作》通过“验尸+暴击”的新颖设定成功入榜。\n**值得关注**：兼具“特殊职业”与“数值反馈”的快节奏升级流作品，正成为该类别的流量增长极。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 9,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -67,24 +67,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.86万字",
-        "word_count": 418600,
-        "heat": 68000,
-        "platform_trend": "drop",
+        "word_count_text": "42.28万字",
+        "word_count": 422800,
+        "heat": 69000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第182章  神兽（感谢盟主君无邪的小姨）",
-        "updated_at": "2026-09-11 09:17:04",
+        "latest_chapter": " 第184章  芸裳",
+        "updated_at": "2026-09-12 09:27:03",
         "rank_change": -1,
-        "heat_change": -4000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -96,19 +96,48 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.29万字",
-        "word_count": 422900,
-        "heat": 49000,
-        "platform_trend": "drop",
+        "word_count_text": "42.72万字",
+        "word_count": 427200,
+        "heat": 59000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第201章  尸丹存魂",
-        "updated_at": "2026-09-11 14:34:03",
-        "rank_change": -2,
-        "heat_change": -5000,
+        "latest_chapter": " 第203章  我是仙人！",
+        "updated_at": "2026-09-12 16:56:03",
+        "rank_change": 2,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 3,
+        "stale_update": false,
+        "category": "幻想修真"
+      },
+      {
+        "rank": 18,
+        "title": "贱籍仵作，从摸尸开始炼成武神",
+        "book_id": 12791520,
+        "url": "https://www.qimao.com/shuku/12791520/",
+        "author": "弄潮",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%BC%84%E6%BD%AE_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.23万字",
+        "word_count": 372300,
+        "heat": 34000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "大雍乱世，妖魔横行，人命如草芥。\n沈砚穿越而来，成了青溪县最底层的贱籍仵作，备受欺凌。\n绝境之下，觉醒【日结面板】！\n只要验尸，就能结算奖励，积攒死气更能触发暴击翻倍！\n【勘验横死武人，获得《破岩拳》，白银二两！】\n【触发三倍赐福，获得《狂风刀法》，武道经验+300！】\n曾经欺我、辱我、压我之人，尽数被我踩于脚下！\n帮派跋扈肆虐，便斩尽凶徒，规矩桎梏，便打破规矩，深山妖兽祸民，便持刀镇邪！\n从烂泥巷卑贱仵作，到纵横乱世的武道强者。\n一步一脚印，万般蝼蚁命。\n尸间藏道径，扶摇上青云。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791520_360x480.jpg?time=1785477906",
+        "latest_chapter": " 第148章  魔胎成长，玄兵图纸",
+        "updated_at": "2026-09-12 12:02:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       }

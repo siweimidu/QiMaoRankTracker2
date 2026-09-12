@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -20,25 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "rank_change": -1
-        },
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "rank_change": -1
-        },
-        {
-          "title": "我团宠小师妹，嚣张点怎么了",
-          "book_id": 1764505,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：仙侠频道呈现明显的“群像化”与“反套路”趋势，强调师徒关系重构及废材流逆袭，注重爽感与情感羁绊的平衡。\n**读者偏好**：读者热衷于“打脸”与“团宠”设定，尤其是带有“卷王”与“咸鱼”反差对照组的作品，在互动中更容易引发共鸣。\n**变动解读**：榜单处于平稳调整期，缺乏新进作品冲击，现有头部作品热度相对集中，后续作品因缺乏强力话题支撑，整体排名被动微调。\n**值得关注**：出版联动与头部综艺背书（如《奔跑吧》等同款推荐）对提升仙侠类书籍的破圈传播力具有明显拉动作用。",
+      "summary": "**题材趋势**：大女主群像文与反套路修仙占据主流，强调废材逆袭、师徒羁绊及打破传统修仙秩序的爽感，题材边界正向“轻玄幻”延展。\n**读者偏好**：读者偏爱节奏紧凑、带有强烈个人英雄主义色彩的成长故事，且对“师徒关系反转”及“暴打反派”等情绪化爽点极为买单。\n**变动解读**：榜单结构稳定，头部四本作品热度分布均衡，暂无新书冲击排名。\n**值得关注**：出版实体书联动与综艺话题植入有效提升了书籍的曝光度与话题性，是该类目下维持长尾热度的重要手段。",
       "ai_source": "ai"
     },
     "books": [
@@ -64,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -93,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -122,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432610_360x480.jpg?time=1704683308",
         "latest_chapter": " 第1329章  番外九：魔与龙（完）全文完",
         "updated_at": "2025-09-01 23:57:12",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -151,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/675/2022677_360x480.jpg?time=1744704209",
         "latest_chapter": " 第924章  幸得友人，幸得彼此（全文完）",
         "updated_at": "2026-07-06 00:01:08",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
