@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 36000,
+    "total_heat": 25000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：古言类目中，“女扮男装+宫廷轻喜”模式依然是吸引读者的核心卖点，侧重于身份错位带来的互动张力。\n**读者偏好**：倾向于轻松愉悦、带有强反差感的快节奏爽文，读者更看重男女主之间“杀招与春宵”的互动张力，而非沉重的权谋博弈。\n**变动解读**：该类目目前上榜作品较少，呈现单点支撑状态，《本侍卫是娇花》凭借稳定的题材红利保持高热度，暂时没有竞品对其造成冲击。\n**值得关注**：该类目存在较大的市场空白，建议关注后续是否有同类轻喜剧权谋作品入局，以测试该细分赛道是否存在进一步扩张的流量空间。",
+      "top_fallers": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615,
+          "rank_change": -3
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "本侍卫是娇花",
+          "book_id": 12090615,
+          "heat_change": -11000
+        }
+      ],
+      "summary": "**题材趋势**：古言类头部作品出现明显的流量回落，权谋题材进入盘整期，单一爆款支撑力有所减弱。\n**读者偏好**：读者更倾向于反套路的轻松向权谋，即“女扮男装+欢喜冤家”的轻喜剧模式，降低了传统权谋的严肃感。\n**变动解读**：《本侍卫是娇花》单日热度大幅跳水，排名下滑3位，反映出该书在内容续航或读者粘性上遭遇瓶颈。\n**值得关注**：建议后续关注该类目是否有具备更强叙事节奏的新作补充，以填补当前头部作品的流量缺口。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 14,
         "title": "本侍卫是娇花",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -39,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.81万字",
-        "word_count": 348100,
-        "heat": 36000,
-        "platform_trend": "rise",
+        "word_count_text": "35.1万字",
+        "word_count": 351000,
+        "heat": 25000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "徐知砚女扮男装混入宫中做侍卫\n从此宫中盛传太子偏爱男色\n“狗东西！该不会爱上我了吧？”\n我满脑子杀招！\n他满脑子春宵？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1781016263",
-        "latest_chapter": " 第139章  我曾经亦是真心",
-        "updated_at": "2026-09-12 23:28:02",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第140章  疯了么",
+        "updated_at": "2026-09-13 22:46:02",
+        "rank_change": -3,
+        "heat_change": -11000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

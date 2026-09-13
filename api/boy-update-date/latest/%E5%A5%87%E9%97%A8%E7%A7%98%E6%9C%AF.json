@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 1
+          "rank_change": 5
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -2
+          "heat_change": 4
         }
       ],
-      "summary": "「奇门秘术」《天黑请点灯》上升1位领涨；《天黑请点灯》热度-2。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：诡异流叙事在奇门秘术小类中占据统治地位，强调环境氛围的压迫感与主角的“狠人”属性。\n**读者偏好**：读者对充满悬疑、邪祟与高强度对抗的“黑暗风”世界观有极高粘性，快节奏的剧情反转是留存关键。\n**变动解读**：《天黑请点灯》热度暴涨5位，展现了该题材在特定受众群体中的强爆发潜力，单书统治力极强。\n**值得关注**：具备强沉浸感与诡异美学的作品，极易通过口碑效应实现排名跳跃。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 13,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "467.92万字",
-        "word_count": 4679200,
-        "heat": 1,
+        "word_count_text": "469.55万字",
+        "word_count": 4695500,
+        "heat": 5,
         "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1715章  德格唐卡寺，仓央喇嘛！",
-        "updated_at": "2026-09-12 06:57:12",
-        "rank_change": 1,
-        "heat_change": -2,
+        "latest_chapter": " 第1720章  青灯和二十八佛",
+        "updated_at": "2026-09-14 06:52:13",
+        "rank_change": 5,
+        "heat_change": 4,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

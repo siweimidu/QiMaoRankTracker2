@@ -8,15 +8,11 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "types": [
     {
       "name": "全部",
       "url": "api/girl-new-date/latest/all.json"
-    },
-    {
-      "name": "宫闱宅斗",
-      "url": "api/girl-new-date/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
     },
     {
       "name": "古代情缘",
@@ -27,12 +23,20 @@
       "url": "api/girl-new-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
     },
     {
+      "name": "宫闱宅斗",
+      "url": "api/girl-new-date/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
+    },
+    {
       "name": "总裁豪门",
       "url": "api/girl-new-date/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
     },
     {
       "name": "权谋天下",
       "url": "api/girl-new-date/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "种田经商",
+      "url": "api/girl-new-date/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:54:43",
+  "generated_at": "2026-09-14T06:57:24",
   "boards": [
     {
       "slug": "boy-hot-date",
@@ -9,7 +9,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -31,7 +31,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -52,7 +52,7 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -72,7 +72,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -94,7 +94,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -116,7 +116,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -139,7 +139,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -160,7 +160,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -181,7 +181,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -198,7 +198,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -213,14 +213,15 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "古代情缘",
         "宫闱宅斗",
         "年代重生",
         "总裁豪门",
-        "权谋天下"
+        "权谋天下",
+        "种田经商"
       ]
     },
     {
@@ -231,7 +232,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -249,9 +250,10 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
+        "古代情缘",
         "宫闱宅斗",
         "年代重生",
         "总裁豪门",
@@ -267,7 +269,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -285,7 +287,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -303,7 +305,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-13",
+      "latest_date": "2026-09-14",
       "book_count": 20,
       "categories": [
         "古代情缘",

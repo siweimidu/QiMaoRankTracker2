@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 91000,
+    "total_heat": 93000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": 19000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：兽化变身类题材在异世大陆品类中具备较强留存力，以“苟道”流构建的成长叙事仍是市场主流。\n**读者偏好**：读者倾向于弱者逆袭、稳健发育的慢节奏爽感，对“非人开局”带来的反差萌与生存博弈有较高粘性。\n**变动解读**：本期仅存的一本在榜书排名微降，但在热度上实现1.9万的显著增长，说明该题材在存量市场的竞争中仍有极强的吸睛效应。\n**值得关注**：建议重点观察该类作品在维持高热度增长的同时，如何通过剧情节奏的把控，避免因单一的进化路径导致的审美疲劳。",
+      "summary": "**题材趋势**：主打“非人开局+苟道发育”，强调在极端生存环境下的智斗与进化，避开了硬碰硬的同质化竞争。\n**读者偏好**：读者偏好低调发育、最终实现跨越式蜕变的情节，对“扮猪吃虎”与“进化升级”有较高粘性。\n**变动解读**：榜单入围选手表现稳健，热度增长虽平缓但持续，反映出该类目读者的阅读粘性较高。\n**值得关注**：动物形态开局的叙事方式具有较强的辨识度，能有效降低读者的阅读门槛并提升代入感。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -51,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.71万字",
-        "word_count": 447100,
-        "heat": 91000,
+        "word_count_text": "45.35万字",
+        "word_count": 453500,
+        "heat": 93000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第191章  上品肉身",
-        "updated_at": "2026-09-12 18:22:04",
-        "rank_change": -1,
-        "heat_change": 19000,
+        "latest_chapter": " 第194章  输光",
+        "updated_at": "2026-09-13 18:57:03",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

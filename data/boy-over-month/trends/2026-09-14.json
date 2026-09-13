@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-14",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 3890150,
+    "total_heat": 77803000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：种田经营与权谋争霸并重，核心爽点聚焦于“低开高走”的阶层逆袭与资源开发。\n**读者偏好**：读者热衷于带有强烈“基建致富”色彩的穿越文，尤其是涉及多女主、领地建设及大乾背景的爽文。\n**变动解读**：榜单结构高度固化，各书热度表现稳定，反映出头部作品已建立深厚的读者粘性，缺乏新进竞争者挑战格局。\n**值得关注**：IP联动效果显著，如《世子无双》通过短剧与有声剧的多平台联动，有效巩固了长尾市场的流量转化。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：传统废柴流、荒古圣体流与快节奏无敌文占据主导，强调“开局即巅峰”或“极端机缘”的爽感反馈。\n**读者偏好**：偏好极具张力的升级体系，如“娘胎悟道”或“神秘小塔”等外挂系统，对女帝、多女主等情感元素接受度高。\n**变动解读**：榜单处于绝对稳定期，头部作品《荒古武神》通过高热度占据绝对统治地位，竞争门槛极高。\n**值得关注**：快节奏叙事与强冲突情节是留住读者的关键，建议关注该品类下“系统+反套路”类内容的潜在爆发力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：都市异能与神医战神文融合，核心套路为“赘婿式开局”叠加“无敌下山”的复仇与修仙元素。\n**读者偏好**：读者青睐“扮猪吃虎”与“多师姐/绝色总裁”的爽点组合，期待主角通过医武双绝实现阶层跃升与势力扩张。\n**变动解读**：榜单表现平稳，书籍热度未见波动，说明该细分市场已进入成熟的存量竞争阶段，短剧转化已成为标配运营手段。\n**值得关注**：短剧化改编对书籍热度的加成作用明显，都市类作品需强化“强冲突、快节奏”的视觉化爽点以获取流量。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

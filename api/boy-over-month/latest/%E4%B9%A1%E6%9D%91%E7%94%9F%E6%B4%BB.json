@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -52,7 +52,7 @@
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
+        "stale_update": true,
         "category": "乡村生活"
       }
     ]

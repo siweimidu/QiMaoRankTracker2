@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "category": {
     "name": "商战职场",
     "major": "都市",
@@ -27,19 +27,13 @@
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「商战职场」《二本没毕业，你怎么登上福布斯了》上升1位领涨；《二本没毕业，你怎么登上福布斯了》热度+1。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：商战职场类题材当前热度处于低位，市场竞争环境相对宽松但缺乏爆款支撑。\n**读者偏好**：读者对“重生+无系统+现实主义创业”的硬核逻辑文有一定偏好，更看重真实感与底层逆袭的共鸣。\n**变动解读**：该书排名微幅上升，反映出在碎片化阅读环境下，具备逻辑深度和现实关怀的题材仍拥有稳定的受众基本盘。\n**值得关注**：观察该书后续能否通过口碑发酵，带动商战职场类题材在榜单上的活跃度回升。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -51,17 +45,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.81万字",
-        "word_count": 508100,
+        "word_count_text": "51.54万字",
+        "word_count": 515400,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第205章  自己开店",
-        "updated_at": "2026-09-13 00:32:06",
+        "latest_chapter": " 第208章  宋思明的人脉",
+        "updated_at": "2026-09-14 00:32:03",
         "rank_change": 1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

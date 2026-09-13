@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "types": [
     {
       "name": "全部",
@@ -31,16 +31,16 @@
       "url": "api/boy-new-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "乡村生活",
-      "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "古典仙侠",
       "url": "api/boy-new-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     },
     {
       "name": "异世大陆",
       "url": "api/boy-new-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
+    },
+    {
+      "name": "乡村生活",
+      "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     }
   ]
 }

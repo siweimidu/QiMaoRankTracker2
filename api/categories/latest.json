@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "categories": [
     {
       "name": "都市高武",
@@ -22,6 +22,11 @@
       "url": "api/categories/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
     {
+      "name": "都市生活",
+      "major": "都市",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
       "name": "商战职场",
       "major": "都市",
       "url": "api/categories/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
@@ -30,11 +35,6 @@
       "name": "王朝争霸",
       "major": "玄幻奇幻",
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
-    },
-    {
-      "name": "都市生活",
-      "major": "都市",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "幻想修真",

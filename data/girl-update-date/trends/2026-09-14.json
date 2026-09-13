@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-14",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 2,
+    "total_heat": 46,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "弄奴娇",
+            "book_id": 12262317,
+            "rank_change": 8
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "弄奴娇",
+            "book_id": 12262317,
+            "heat_change": 7
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": 2
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「宫闱宅斗」《弄奴娇》上升8位领涨；《弄奴娇》热度+7。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "intro": "六年前，唐暖宁意外失身，薄宴沉说她不守妇道，一纸离婚协议书将她扫地出门，净身出户。\n六年后，她带着孩子归来，看到她身边缩小版的自己，某人才知道当年那个野男人就是他本尊。\n他追悔莫及，又惊又喜，从此高冷"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 4
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          },
+          {
+            "title": "说她是捞女？可大佬偏要宠她呀",
+            "book_id": 12937227,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 3
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 1
+          },
+          {
+            "title": "说她是捞女？可大佬偏要宠她呀",
+            "book_id": 12937227,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《薄总，婚后请节制！》；《大佬十代单传，我为他一胎生四宝》 掉出榜单；《离婚后她惊艳了世界》上升4位领涨；《霍二爷，新婚请克制！》下滑1位；《离婚后她惊艳了世界》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 2
+          },
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "rank_change": -11
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "撩完清冷世子后，小通房她带球跑了",
+            "book_id": 12107619,
+            "heat_change": 8
+          },
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "heat_change": 1
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」《春闺小寡妇》上升2位领涨；《撩完清冷世子后，小通房她带球跑了》下滑11位；《撩完清冷世子后，小通房她带球跑了》热度+8。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「年代重生」《我才五岁，怎么就成军区团宠了》上升3位领涨；《我才五岁，怎么就成军区团宠了》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "逃荒前，我靠穿现代囤了百亿物资",
+            "book_id": 10469241,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "她鉴宝，她探案",
+            "book_id": 12951309,
+            "heat_change": -3
+          }
+        ],
+        "summary": "**题材趋势**：该小类目前处于极度低迷的“真空期”，整体市场供给与读者活跃度极其匮乏。\n**读者偏好**：当前榜单仅存一本作品，缺乏足够的竞争样本，难以推断细分受众的明确偏好。\n**变动解读**：榜单陷入停滞，仅存的《她鉴宝，她探案》不仅排名无变动，热度还出现了小幅下滑，显示出存量作品对读者的吸引力已触底。\n**值得关注**：该类目需警惕“流量荒漠”风险，建议运营端通过内容筛选或推荐位倾斜，尝试激活该赛道的用户存量。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}
