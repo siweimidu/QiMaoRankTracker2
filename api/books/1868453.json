@@ -11,8 +11,8 @@
     {
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
-      "rank": 16,
-      "heat": 72000
+      "rank": 19,
+      "heat": 68000
     }
   ],
   "history": [
@@ -141,6 +141,12 @@
       "b": "boy-over-date",
       "r": 16,
       "h": 72000
+    },
+    {
+      "d": "2026-09-15",
+      "b": "boy-over-date",
+      "r": 19,
+      "h": 68000
     }
   ]
 }

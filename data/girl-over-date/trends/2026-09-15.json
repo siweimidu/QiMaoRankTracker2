@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-15",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 185750,
+    "total_heat": 3715000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "不务正夜",
+            "book_id": 1996931,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": -2
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": -1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "不务正夜",
+            "book_id": 1996931,
+            "heat_change": 19000
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "heat_change": -4000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "**题材趋势**：破镜重圆与带球跑仍是核心爆款支撑，融合“玄学”与“假千金”元素的快节奏爽文占比较高。\n**读者偏好**：读者更青睐“强强对抗”与“破冰式重逢”，带有禁欲系、深情混球等强人设标签的作品转化率显著。\n**变动解读**：《不务正夜》排名的大幅跃升印证了“虐恋+拉扯感”在当前市场极具吸睛力，热度反馈直接。\n**值得关注**：建议重点关注融合了短剧IP属性及强人设反差的作品，这类作品在短视频联动下具有更强的长尾热度。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 10000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": 7000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「宫闱宅斗」《凤池生春》热度+10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重回拜师日，偏心师尊靠边站",
+            "book_id": 1943722,
+            "intro": "【卷王徒弟x咸鱼师尊，师徒对照组，HE】\n修为突破后，郁岚清兴高采烈的去找师尊报喜。\n却看到师尊正在陪小师妹练习御剑。\n得知郁岚清突破后，师尊第一反应是转头安慰小师妹。\n“你别管她，她不如你。”\n宗门"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": 1
+          },
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "heat_change": 8000
+          },
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「玄幻仙侠」《重回拜师日，偏心师尊靠边站》 掉出榜单；《第一瞳术师》上升1位领涨；《柔弱医修今天也在背地里暴打魔尊》热度+8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "神算萌妻：傅太太才是玄学真大佬",
+            "book_id": 1803024
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「都市奇幻」新上榜 《神算萌妻：傅太太才是玄学真大佬》；《阴当》下滑1位；《阴当》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》下滑1位；《七零，易孕娇妻被绝嗣京少宠哭了》热度+1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

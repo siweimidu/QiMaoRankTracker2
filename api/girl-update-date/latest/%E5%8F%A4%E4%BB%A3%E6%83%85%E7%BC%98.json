@@ -8,59 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 14,
+    "total_heat": 7,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        {
+          "title": "表妹貌美，冷面世子情难自恃",
+          "book_id": 12443391
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "撩完清冷世子后，小通房她带球跑了",
+          "book_id": 12107619,
+          "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，"
+        }
+      ],
       "top_risers": [
         {
           "title": "春闺小寡妇",
           "book_id": 12644022,
-          "rank_change": 2
-        },
-        {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "rank_change": 1
+          "rank_change": 3
         }
       ],
       "top_fallers": [
         {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "rank_change": -11
+          "title": "皇妃来自地府，百鬼退散",
+          "book_id": 10374897,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
-        {
-          "title": "撩完清冷世子后，小通房她带球跑了",
-          "book_id": 12107619,
-          "heat_change": 8
-        },
-        {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897,
-          "heat_change": 1
-        },
         {
           "title": "春闺小寡妇",
           "book_id": 12644022,
           "heat_change": 1
         }
       ],
-      "summary": "「古代情缘」《春闺小寡妇》上升2位领涨；《撩完清冷世子后，小通房她带球跑了》下滑11位；《撩完清冷世子后，小通房她带球跑了》热度+8。",
+      "summary": "「古代情缘」新上榜 《表妹貌美，冷面世子情难自恃》；《撩完清冷世子后，小通房她带球跑了》 掉出榜单；《春闺小寡妇》上升3位领涨；《皇妃来自地府，百鬼退散》下滑1位；《春闺小寡妇》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 7,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -72,24 +68,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "110.29万字",
-        "word_count": 1102900,
+        "word_count_text": "110.69万字",
+        "word_count": 1106900,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第529章  人面糕",
-        "updated_at": "2026-09-13 08:12:11",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第531章  幽兰根",
+        "updated_at": "2026-09-14 09:17:06",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 15,
+        "rank": 12,
         "title": "春闺小寡妇",
         "book_id": 12644022,
         "url": "https://www.qimao.com/shuku/12644022/",
@@ -101,16 +97,16 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.2万字",
-        "word_count": 302000,
-        "heat": 2,
+        "word_count_text": "30.62万字",
+        "word_count": 306200,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第140章  她真的怀孕了？",
-        "updated_at": "2026-09-13 21:13:04",
-        "rank_change": 2,
+        "latest_chapter": " 第142章  沈家有喜了！",
+        "updated_at": "2026-09-14 22:47:04",
+        "rank_change": 3,
         "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
@@ -118,30 +114,30 @@
         "category": "古代情缘"
       },
       {
-        "rank": 16,
-        "title": "撩完清冷世子后，小通房她带球跑了",
-        "book_id": 12107619,
-        "url": "https://www.qimao.com/shuku/12107619/",
-        "author": "一亩草",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E4%BA%A9%E8%8D%89_14/",
+        "rank": 19,
+        "title": "表妹貌美，冷面世子情难自恃",
+        "book_id": 12443391,
+        "url": "https://www.qimao.com/shuku/12443391/",
+        "author": "汐家锦锂",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B1%90%E5%AE%B6%E9%94%A6%E9%94%82_14/",
         "major": "古代言情",
         "minor": "古代情缘",
         "major_id": 2,
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.58万字",
-        "word_count": 345800,
-        "heat": 11,
-        "platform_trend": "drop",
+        "word_count_text": "44.33万字",
+        "word_count": 443300,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，床上的谢寻有多恶劣。她盼着他能早日成婚，便能依着通房的惯例被遣散。婚事敲定，阿芙求他放她离府，谢寻皱眉道：“爷给你一个孩子傍身，莫要闹了。”他一面停了她的避子药，日日赐下雨露，一面却任由自己的未婚妻对她肆意折辱。阿芙表面隐忍，实则早已做好死遁的准备。后来，得知怀有三个月身孕的阿芙跳下了梓源河后，谢寻直接呕出一口心头血。多年之后再见阿芙，他拿出正妻之位求她回心转意，姿态低的不能再低。可阿芙早非当日阿芙，她坐拥大盛半壁财富，人称姜半城，天下男子争相攀附。那日风雪漫天，谢寻立于绵长的队伍末尾，从晨至昏，只为求见半城夫人一面。阿芙知晓后，只是淡淡一笑：“随他。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1788839445",
-        "latest_chapter": " 第163章  救的竟是二哥的那个小通房",
-        "updated_at": "2026-09-13 09:02:07",
-        "rank_change": -11,
-        "heat_change": 8,
-        "is_new": false,
+        "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京城最冷心冷情的男人。\n他看她的眼神，像在看一件脏东西。\n“侯府容不下祸水。”\n她低着头，不争辩，不解释。\n可她没想到。\n当别的男人觊觎她时，第一个冲出来的是他。\n当她弟弟出事走投无路时，出手相救的是他。\n当她答应给别人做外室时，红着眼踹开门的人，还是他。\n他说这是交易。\n可当她的前夫“死而复生”，站在医馆门口说“我来接你回家”时。\n顾衍站在街对面的茶楼里，手里的茶杯碎了一地。\n鲜血顺着指缝滴下来，他浑然不觉。\n那一刻他才明白。\n他不是戒不掉她。\n他是不想戒。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4148/12443391_360x480.jpg?time=1787454423",
+        "latest_chapter": " 第169章  怎么好玩，怎么玩",
+        "updated_at": "2026-09-14 20:57:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "古代情缘"

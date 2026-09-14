@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "types": [
     {
       "name": "全部",
@@ -29,10 +29,6 @@
     {
       "name": "总裁豪门",
       "url": "api/girl-new-date/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
-    },
-    {
-      "name": "权谋天下",
-      "url": "api/girl-new-date/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
     },
     {
       "name": "种田经商",

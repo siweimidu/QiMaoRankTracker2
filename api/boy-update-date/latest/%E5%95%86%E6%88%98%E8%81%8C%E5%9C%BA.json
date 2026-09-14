@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
           "book_id": 12606405,
-          "rank_change": 1
+          "heat_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：商战职场类题材当前热度处于低位，市场竞争环境相对宽松但缺乏爆款支撑。\n**读者偏好**：读者对“重生+无系统+现实主义创业”的硬核逻辑文有一定偏好，更看重真实感与底层逆袭的共鸣。\n**变动解读**：该书排名微幅上升，反映出在碎片化阅读环境下，具备逻辑深度和现实关怀的题材仍拥有稳定的受众基本盘。\n**值得关注**：观察该书后续能否通过口碑发酵，带动商战职场类题材在榜单上的活跃度回升。",
+      "summary": "**题材趋势**：现实向重生创业文仍是核心，强调逻辑严密与写实感，避开系统流套路。\n**读者偏好**：读者倾向于带有强烈中年危机感、底层逆袭与复仇色彩的扎实创业故事。\n**变动解读**：当前品类热度极度低迷，头部产品面临流量断层，活跃度出现负增长。\n**值得关注**：建议关注此类作品如何平衡“人间清醒”的写实风格与网文必需的爽感节奏。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "51.54万字",
-        "word_count": 515400,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "52.16万字",
+        "word_count": 521600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第208章  宋思明的人脉",
-        "updated_at": "2026-09-14 00:32:03",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第211章  联合会议",
+        "updated_at": "2026-09-15 00:22:07",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

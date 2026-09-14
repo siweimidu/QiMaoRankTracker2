@@ -12,7 +12,7 @@
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
       "rank": 5,
-      "heat": 137000
+      "heat": 139000
     },
     {
       "board": "boy-over-month",
@@ -354,6 +354,18 @@
     },
     {
       "d": "2026-09-14",
+      "b": "boy-over-month",
+      "r": 5,
+      "h": 4392000
+    },
+    {
+      "d": "2026-09-15",
+      "b": "boy-over-date",
+      "r": 5,
+      "h": 139000
+    },
+    {
+      "d": "2026-09-15",
       "b": "boy-over-month",
       "r": 5,
       "h": 4392000

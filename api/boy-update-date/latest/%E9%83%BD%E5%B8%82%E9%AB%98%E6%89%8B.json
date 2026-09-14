@@ -8,55 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-05",
+  "date": "2026-09-15",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 3,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "美女总裁，请上车",
+          "book_id": 2091347
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "heat_change": -6
-        }
-      ],
-      "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》热度-6。",
-      "ai_source": "rule"
+      "heat_leaders": [],
+      "summary": "**题材趋势**：经典“职场+暧昧”套路回归，强调“癫系人设”与极致的爽点输出，具备强烈的网文商业化属性。\n**读者偏好**：读者偏好快节奏、强冲突的爽文模式，对“美女总裁+被迫入局”的经典桥段仍有较高的阅读热情。\n**变动解读**：作为新上榜作品，以3点热度直接切入，显示出该类题材在读者群中仍具备极高的流量号召力。\n**值得关注**：该书通过“癫”字诀打造反差感，是此类题材在传统套路下追求差异化表达的典型范例。",
+      "ai_source": "ai"
     },
     "books": [
       {
         "rank": 20,
-        "title": "SSSSSSSSSSSSS级镇狱狂龙",
-        "book_id": 2038385,
-        "url": "https://www.qimao.com/shuku/2038385/",
-        "author": "封情老衲",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%81%E6%83%85%E8%80%81%E8%A1%B2_14/",
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
         "major": "都市",
         "minor": "都市高手",
         "major_id": 203,
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "322.84万字",
-        "word_count": 3228400,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "314.55万字",
+        "word_count": 3145500,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1397章  我们有重要的事情做",
-        "updated_at": "2026-09-04 07:02:12",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1761615817",
+        "latest_chapter": " 第1154章  749局也来搞事了！",
+        "updated_at": "2026-09-14 01:28:09",
         "rank_change": 0,
-        "heat_change": -6,
-        "is_new": false,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

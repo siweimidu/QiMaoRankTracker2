@@ -8,32 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 108000,
+    "count": 2,
+    "total_heat": 194000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "神算萌妻：傅太太才是玄学真大佬",
+          "book_id": 1803024
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "阴当",
+          "book_id": 1979356,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "heat_change": -5000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：民俗悬疑与奇门遁甲题材在七猫生态中占有一席之地，侧重于“宿命感”与“职业化”叙事。\n**读者偏好**：读者更倾向于具有强代入感、开篇即设置“家族诅咒”或“特殊身份”悬念的快节奏故事。\n**变动解读**：该品类目前处于存量盘整期，头部书籍《阴当》虽然热度小幅下滑，但凭借独特的世界观设定维持了极高的用户粘性。\n**值得关注**：需持续观察此类题材在缺乏新书冲击下的自然衰减率，以及其通过“命理+当铺”构建的核心卖点是否仍具备长尾吸引力。",
-      "ai_source": "ai"
+      "summary": "「都市奇幻」新上榜 《神算萌妻：傅太太才是玄学真大佬》；《阴当》下滑1位；《阴当》热度+4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -47,17 +58,46 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 108000,
-        "platform_trend": "drop",
+        "heat": 112000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 0,
-        "heat_change": -5000,
+        "rank_change": -1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "都市奇幻"
+      },
+      {
+        "rank": 19,
+        "title": "神算萌妻：傅太太才是玄学真大佬",
+        "book_id": 1803024,
+        "url": "https://www.qimao.com/shuku/1803024/",
+        "author": "易小升",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%98%93%E5%B0%8F%E5%8D%87_14/",
+        "major": "现代言情",
+        "minor": "都市奇幻",
+        "major_id": 1,
+        "minor_id": 279,
+        "minor_url": "https://www.qimao.com/shuku/a-1-279-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "135.13万字",
+        "word_count": 1351300,
+        "heat": 82000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "《奔跑吧》同款！又名《坠入月光》\n他是豪门贵子，年纪轻轻手握大权，为人冷漠，待人冷血。\n她是玄门最后的继承人，破破烂烂，缝缝补补。\n一个命里财薄，一个命里有灾。\n他若不娶她，事业尽毁，生死难料。\n她若不嫁他一辈子身无分文，穷困潦倒。\n结婚当天，他冷血无情地说，“锦朝朝，你就算用尽办法嫁给了我，我也不会爱你分毫！”\n锦朝朝：“没关系，我只要嫁给你就好了。”\n婚后她财运亨通，运势逆转，锦鲤附体，在整个帝都她说一，没人敢说二。\n傅霆渊看着第N次舍命救她的女人，陷入了沉思。\n他是不是狠话说的太早了？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/509/1524039_360x480.jpg?time=1709703740",
+        "latest_chapter": " 第673章  相亲相爱一家人10完结",
+        "updated_at": "2025-02-04 16:29:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市奇幻"
       }

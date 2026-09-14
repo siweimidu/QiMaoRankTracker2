@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：以“大女主群像”为主导，核心架构围绕重生、废材逆袭及师徒关系纠葛展开。\n**读者偏好**：读者热衷于“打脸”、“全能型天才”及“反套路师徒”设定，追求快节奏的成长感与极致的情绪价值。\n**变动解读**：榜单表现平稳，缺乏剧烈波动，说明该品类用户群体对现有内容偏好已形成固定审美闭环。\n**值得关注**：联动综艺与明星推荐的“书单效应”对本类目热度拉动明显，头部效应与跨界营销价值突出。",
-      "ai_source": "ai"
+      "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -138,7 +138,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "玄幻仙侠"
       }

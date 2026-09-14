@@ -8,39 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 1,
-    "total_heat": 70000,
+    "count": 2,
+    "total_heat": 100000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "重回83：赶山猎熊发家致富",
-          "book_id": 12519594,
-          "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最"
+          "book_id": 12519594
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "重生八零：赶海捞金，我娇养俏前妻",
-          "book_id": 12746721,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "heat_change": -1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：年代文回潮后的存量竞争阶段，以“重生+弥补遗憾”为核心驱动的乡村生活类目热度趋于平稳。\n**读者偏好**：读者更青睐带有强戏剧冲突的家庭伦理修复题材，如“赶海/狩猎+家庭修补”的组合模式，侧重情感沉浸。\n**变动解读**：本期榜单出现缩量，头部作品《重生八零：赶海捞金》虽有小幅热度下滑与排名波动，但仍具备极强的用户粘性。\n**值得关注**：在缺乏新书填充的背景下，此类题材正面临审美疲劳风险，后续需关注能否出现差异化较强的“种田+职业”新爆款。",
+      "summary": "**题材趋势**：“年代文+重生+致富”成为乡村生活品类的绝对核心，强调弥补遗憾与家庭情感修复的叙事逻辑。\n**读者偏好**：读者更倾向于具有地域特色（赶海、赶山）的写实致富文，注重从底层崛起的过程感与家庭经营的温情。\n**变动解读**：新书《重回83：赶山猎熊发家致富》成功上榜，带动该小类热度上行，显示出“硬核技能+年代背景”组合的强吸引力。\n**值得关注**：赶海、赶山等垂类题材表现稳健，这类具有强代入感的年代生活文具备持续增长的潜力和用户黏性。",
       "ai_source": "ai"
     },
     "books": [
@@ -57,18 +50,47 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.38万字",
-        "word_count": 443800,
-        "heat": 70000,
-        "platform_trend": "drop",
+        "word_count_text": "45.19万字",
+        "word_count": 451900,
+        "heat": 72000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第215章  介绍信到手",
-        "updated_at": "2026-09-14 00:12:10",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "latest_chapter": " 第219章  丢了六吨红加吉",
+        "updated_at": "2026-09-15 00:12:11",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "乡村生活"
+      },
+      {
+        "rank": 20,
+        "title": "重回83：赶山猎熊发家致富",
+        "book_id": 12519594,
+        "url": "https://www.qimao.com/shuku/12519594/",
+        "author": "下水道蚊子",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%8B%E6%B0%B4%E9%81%93%E8%9A%8A%E5%AD%90_14/",
+        "major": "都市",
+        "minor": "乡村生活",
+        "major_id": 203,
+        "minor_id": 48,
+        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "41.65万字",
+        "word_count": 416500,
+        "heat": 28000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最后过劳惨死。重生回到1983年与爷爷进山的那天，这一次陈向阳不想后悔，不想有任何遗憾。他要守护家人，守护那个心爱的人，弥补所有遗憾。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4174/12519594_360x480.jpg?time=1781771131",
+        "latest_chapter": " 第201章  天仓子",
+        "updated_at": "2026-09-14 12:02:07",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

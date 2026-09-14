@@ -12,7 +12,7 @@
       "board": "girl-over-date",
       "board_name": "女生完结日榜",
       "rank": 1,
-      "heat": 460000
+      "heat": 463000
     },
     {
       "board": "girl-over-month",
@@ -23,8 +23,8 @@
     {
       "board": "girl-hot-date",
       "board_name": "女生大热日榜",
-      "rank": 5,
-      "heat": 460000
+      "rank": 4,
+      "heat": 463000
     },
     {
       "board": "girl-hot-month",
@@ -702,6 +702,30 @@
     },
     {
       "d": "2026-09-14",
+      "b": "girl-over-month",
+      "r": 1,
+      "h": 20911000
+    },
+    {
+      "d": "2026-09-15",
+      "b": "girl-hot-date",
+      "r": 4,
+      "h": 463000
+    },
+    {
+      "d": "2026-09-15",
+      "b": "girl-hot-month",
+      "r": 5,
+      "h": 20911000
+    },
+    {
+      "d": "2026-09-15",
+      "b": "girl-over-date",
+      "r": 1,
+      "h": 463000
+    },
+    {
+      "d": "2026-09-15",
       "b": "girl-over-month",
       "r": 1,
       "h": 20911000

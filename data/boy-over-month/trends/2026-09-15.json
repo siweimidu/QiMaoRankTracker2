@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-15",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 3890150,
+    "total_heat": 77803000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：重生年代文持续占据市场高位，通过“挽回遗憾+发家致富”的经典叙事逻辑，精准切入怀旧与奋斗情绪。\n**读者偏好**：读者热衷于底层逆袭与家庭温情结合的爽点，尤其青睐带入感极强的“生活化”致富路径。\n**变动解读**：本期榜单稳定性极高，头部作品热度稳固，显示该题材在七猫用户群体中拥有极强的长尾留存能力。\n**值得关注**：在物资匮乏年代背景下，如何将“挖宝/捕猎”等具体劳作转化为爽感，仍是此类作品的核心竞争力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：都市逆袭题材依然是平台基石，核心矛盾往往聚焦于家庭内部冲突与阶层跨越带来的心理反差。\n**读者偏好**：读者偏好“忍辱负重至逆袭”的经典套路，强调情感报复与财富积累双重爽感的叠加。\n**变动解读**：榜单呈现高度固化态势，缺乏新晋黑马，反映出该赛道存量竞争激烈，头部作品已建立极高的读者忠诚度。\n**值得关注**：在都市情感叙事中，如何平衡“虐心开局”与“爽感收尾”的节奏，是保持读者高留存的关键。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：末世题材正向“杀伐果断”与“游戏化设定”靠拢，强调极端环境下的道德重构与个人力量崛起。\n**读者偏好**：读者倾向于阅读极度紧凑的战斗叙事，对“重生+系统/游戏”类设定表现出持续的高热度响应。\n**变动解读**：榜单表现平稳，反映出末世类读者对“系统化生存”故事的高度依赖，市场处于稳定的存量运营阶段。\n**值得关注**：跨媒介联动（如漫画化引流）已成为末世类头部作品扩圈的重要手段，值得同类作者参考运营策略。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 市场处于存量博弈阶段，商战职场类题材当前热度集中度极高，单品统治力强但品类整体厚度不足。\n**读者偏好** 读者对“强冲突+都市爽文”模式依赖性强，尤其青睐与热门短剧IP强关联的快节奏叙事作品。\n**变动解读** 榜单呈现高度固化状态，头部作品《极品女神赖上我》通过短剧引流维持稳定热度，缺乏新竞品冲击。\n**值得关注** 建议关注“短剧+小说”联动模式的转化率，此类作品在垂直领域的长尾效应及用户粘性是当前市场的核心风向标。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

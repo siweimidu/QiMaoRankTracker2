@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 6,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,16 +24,22 @@
         {
           "title": "逃荒前，我靠穿现代囤了百亿物资",
           "book_id": 10469241,
-          "rank_change": -1
+          "rank_change": -6
         }
       ],
-      "heat_leaders": [],
-      "summary": "「种田经商」《逃荒前，我靠穿现代囤了百亿物资》下滑1位。",
-      "ai_source": "rule"
+      "heat_leaders": [
+        {
+          "title": "逃荒前，我靠穿现代囤了百亿物资",
+          "book_id": 10469241,
+          "heat_change": 5
+        }
+      ],
+      "summary": "**题材趋势**：核心卖点锁定在“末世逃荒+空间囤货”的生存流，通过现代资源储备与古代背景的碰撞构建爽感。\n**读者偏好**：读者倾向于具备“预知灾难、囤积物资”等末日求生元素的种田文，追求从绝望困境到物资充沛的心理满足感。\n**变动解读**：虽然该类目目前在榜产品单一，但热度波动显著，在经历了排名大幅下滑后，热度回升显示出该题材仍具备较强的用户粘性。\n**值得关注**：建议关注囤货流题材的周期性波动，此类题材在特定节奏下具有极强的爆发潜力。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 16,
         "title": "逃荒前，我靠穿现代囤了百亿物资",
         "book_id": 10469241,
         "url": "https://www.qimao.com/shuku/10469241/",
@@ -45,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "95.6万字",
-        "word_count": 956000,
-        "heat": 1,
+        "word_count_text": "96.25万字",
+        "word_count": 962500,
+        "heat": 6,
         "platform_trend": "drop",
         "badge": "",
         "intro": "前世，周杜鹃亲眼看着亲人们死在逃难的路上，自己也被金兵殴打致死　。\n再次睁眼，她竟重生回到了十四岁的春天　。\n想到明年即将遭遇大旱，后年更会有战乱来袭　，她试图警告家人提前准备，却被全家当成是发烧做噩梦　。\n焦急万分之际，她意外滚落山坡，竟跌入了一个神秘的草原空间　。\n推开空间里的红色大门，她竟然穿越到了2018年华国的一个现代菜市场　！\n在这个物资极度丰富的神奇世界里，大虞朝漫山遍野不值钱的野荠菜，竟然能卖出两百多块的高价　！\n周杜鹃狂喜：拯救全家的机会来了！\n她果断利用能自由穿梭两界的金手指　，靠倒卖古代山货疯狂搞钱，大肆采购五花肉、白面粉等海量物资　。\n距离末世天灾还有最后一年，看重生农女如何带着全家疯狂囤货，在这乱世逆天改命　！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
-        "latest_chapter": " 第405章  九殿下当真是神机妙算啊！",
-        "updated_at": "2026-09-13 21:21:04",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第407章  第一次交火",
+        "updated_at": "2026-09-14 23:41:05",
+        "rank_change": -6,
+        "heat_change": 5,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

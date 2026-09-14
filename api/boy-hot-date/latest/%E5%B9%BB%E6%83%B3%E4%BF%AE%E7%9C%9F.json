@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 271000,
+    "total_heat": 291000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "九转仙葫",
-          "book_id": 12212670,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "九转仙葫",
           "book_id": 12212670,
-          "heat_change": -19000
+          "heat_change": 20000
         }
       ],
-      "summary": "**题材趋势**：凡人流与苟道流依然是修真赛道的核心竞争力，强调法宝辅助与系统化成长逻辑。\n**读者偏好**：读者对“废柴逆袭”及“资源积累型”成长模式有极高忠诚度，尤为青睐无系统或弱系统带来的稳健升级感。\n**变动解读**：本期热度下降1.9万，排名下滑2位，显示出该作品进入疲劳期，市场急需具备新颖切入点的修真爽文进行补位。\n**值得关注**：仙葫类“金手指”设定在本作中表现稳健，后续需观察此类题材是否会向更具创意性的“变异修仙”方向迭代。",
+      "summary": "**题材趋势**：凡人流、苟道流等硬核修真元素在当前市场中表现稳健，具备极强的用户长尾效应。\n**读者偏好**：读者愈发青睐具备成长逻辑清晰、去系统化、强调资源转化与生存博弈的修真叙事。\n**变动解读**：《九转仙葫》热度逆势增长2万，体现了该书在修真类目中极佳的口碑沉淀与持续的读者转化能力。\n**值得关注**：在“无系统”标签下，通过法宝进化与功法提升构建的成长爽感，是当前修真文获客的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "92.37万字",
-        "word_count": 923700,
-        "heat": 271000,
-        "platform_trend": "drop",
+        "word_count_text": "93.16万字",
+        "word_count": 931600,
+        "heat": 291000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
-        "latest_chapter": " 第309章  吞神子气运",
-        "updated_at": "2026-09-13 22:22:08",
-        "rank_change": -2,
-        "heat_change": -19000,
+        "latest_chapter": " 第312章  无边沙漠",
+        "updated_at": "2026-09-14 23:11:05",
+        "rank_change": 0,
+        "heat_change": 20000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
