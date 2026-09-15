@@ -8,82 +8,65 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 5,
-    "total_heat": 523000,
+    "count": 4,
+    "total_heat": 455000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "乱世边军：从军功换媳妇开始",
+          "book_id": 2032551,
+          "intro": "打工人杨凡穿越重伤垂死斥候身上，军功抵了三房老婆，本以为有媳妇没命享，却意外发现身体特殊，娶媳妇就变强，豪娶百八十房老婆。\n听说皇帝老儿后宫佳丽三千，这皇帝，我当定了！"
+        }
+      ],
       "top_risers": [
+        {
+          "title": "打到北极圈了，你让我继承皇位？",
+          "book_id": 1864493,
+          "rank_change": 1
+        },
         {
           "title": "世子无双",
           "book_id": 1860026,
           "rank_change": 1
-        },
-        {
-          "title": "乱世边军：从军功换媳妇开始",
-          "book_id": 2032551,
-          "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "边关猎户，我粮肉满仓富甲一方",
+          "book_id": 2093494,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "边关猎户，我粮肉满仓富甲一方",
           "book_id": 2093494,
-          "heat_change": 2000
+          "heat_change": -9000
         },
         {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": 2000
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "heat_change": 4000
         },
         {
-          "title": "乱世边军：从军功换媳妇开始",
-          "book_id": 2032551,
-          "heat_change": 2000
+          "title": "世子无双",
+          "book_id": 1860026,
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势** “种田+权谋+后宫”模式占据绝对主流，穿越者通过技术或先知优势快速积累原始资本。\n**读者偏好** 读者偏爱“乱世求生”到“争霸天下”的升级感，尤其是带有“娶妻变强”或“经营领地”的轻快节奏文。\n**变动解读** 榜单结构趋于稳定，头部作品热度小幅增长，反映出该品类读者粘性高、弃书率低的特征。\n**值得关注** 多本上榜作品明确标注有声剧或短剧改编，说明“网文+短剧”联动已成为该品类提升影响力的标配手段。",
+      "summary": "**题材趋势**：种田基建与权谋爽文双线并进，特别是“边关开发+皇子夺嫡/躺平”的组合，成为了历史类完结作品的流量密码。\n**读者偏好**：读者偏好具备“天崩开局”后通过经营实现逆袭的爽感，同时对于有声剧、短剧等IP化改编的作品有明显的流量加成效应。\n**变动解读**：《打到北极圈了》凭借经营向爽点跃居榜首，而《边关猎户》热度下滑，反映出市场对纯生活向内容的热度承接能力开始减弱。\n**值得关注**：IP联动（有声/短剧）对书籍热度的二次拉动作用显著，此类作品在完结后的长尾价值挖掘空间巨大。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 4,
-        "title": "边关猎户，我粮肉满仓富甲一方",
-        "book_id": 2093494,
-        "url": "https://www.qimao.com/shuku/2093494/",
-        "author": "橙年岁月",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%A9%99%E5%B9%B4%E5%B2%81%E6%9C%88_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "192.31万字",
-        "word_count": 1923100,
-        "heat": 147000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-        "latest_chapter": " 第807章  就差临门一脚了",
-        "updated_at": "2026-09-15 00:31:08",
-        "rank_change": 0,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 5,
         "title": "打到北极圈了，你让我继承皇位？",
         "book_id": 1864493,
         "url": "https://www.qimao.com/shuku/1864493/",
@@ -97,18 +80,47 @@
         "status": "已完结",
         "word_count_text": "304.01万字",
         "word_count": 3040100,
-        "heat": 139000,
+        "heat": 142000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "李彻穿越大庆王朝，成为皇帝最不受宠的皇子。\n太子诬陷他，皇帝冷眼旁观，堂堂皇子被逼的当众撞柱自杀！\n天崩开局，又被封到关外东北，李彻却丝毫不慌。\n他人眼中的苦寒贫瘠之地，其实富含各种矿产资源，拥有全国最优质黑土地和养马地。\n东北寒冷？无法耕种？\n我一季的收获，够大庆全国吃上三年的！\n东北偏僻？难以发展？\n煤炭、炼铁厂、水泥路、火药厂......我奉国的科技领先你们几百年！\n东北危险？难以自保？\n我奉军出关，横扫蛮族，打得北蛮、高丽等国亡国灭种！\n“什么，让我回去继承皇位？不去不去。”\n李彻站在冰川上，撸着脚下乖巧的北极熊，如是说道：\n“我奉军都打穿北极圈了，还当什么皇帝？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
+        "category": "架空历史"
+      },
+      {
+        "rank": 5,
+        "title": "边关猎户，我粮肉满仓富甲一方",
+        "book_id": 2093494,
+        "url": "https://www.qimao.com/shuku/2093494/",
+        "author": "橙年岁月",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%A9%99%E5%B9%B4%E5%B2%81%E6%9C%88_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "192.75万字",
+        "word_count": 1927500,
+        "heat": 138000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
+        "latest_chapter": " 第809章  火上浇油",
+        "updated_at": "2026-09-16 00:02:12",
+        "rank_change": -1,
+        "heat_change": -9000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
         "category": "架空历史"
       },
       {
@@ -126,7 +138,7 @@
         "status": "已完结",
         "word_count_text": "350.25万字",
         "word_count": 3502500,
-        "heat": 97000,
+        "heat": 101000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
@@ -134,14 +146,14 @@
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -155,7 +167,7 @@
         "status": "已完结",
         "word_count_text": "284万字",
         "word_count": 2840000,
-        "heat": 70000,
+        "heat": 74000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
@@ -163,38 +175,9 @@
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
         "rank_change": 1,
-        "heat_change": 1000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "架空历史"
-      },
-      {
-        "rank": 17,
-        "title": "乱世边军：从军功换媳妇开始",
-        "book_id": 2032551,
-        "url": "https://www.qimao.com/shuku/2032551/",
-        "author": "小枳子",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%8F%E6%9E%B3%E5%AD%90_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "135.67万字",
-        "word_count": 1356700,
-        "heat": 70000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "打工人杨凡穿越重伤垂死斥候身上，军功抵了三房老婆，本以为有媳妇没命享，却意外发现身体特殊，娶媳妇就变强，豪娶百八十房老婆。\n听说皇帝老儿后宫佳丽三千，这皇帝，我当定了！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/829/2485298_360x480.jpg?time=1752470552",
-        "latest_chapter": " 第655章  结局",
-        "updated_at": "2026-03-10 17:21:13",
-        "rank_change": 1,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "架空历史"
       }

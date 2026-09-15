@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -21,26 +21,26 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "rank_change": 1
-        },
-        {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "heat_change": -1
+        },
+        {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高武」《神武天下之睚眦》上升1位领涨；《高武严父，永远比儿子高五个境界》热度-1。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：高武题材向“家庭/养成”方向细分，通过“父强子弱”或“系统辅助”的设定，强化亲情羁绊与力量成长的双重爽感。\n**读者偏好**：读者审美偏向于“反套路”养成，对设定新颖、具备成长反馈机制的作品有较高关注度。\n**变动解读**：头部书目排名波动明显，作品间热度分化加剧，说明读者对创新设定的买单意愿高于传统龙傲天模版。\n**值得关注**：高武类作品的“资源博弈”设定是核心看点，后续需观察此类作品在复杂高武世界观下的剧情延伸能力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -56,24 +56,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "426.52万字",
-        "word_count": 4265200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "427.31万字",
+        "word_count": 4273100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1017章  世界之巅 控场",
-        "updated_at": "2026-09-14 09:02:14",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第1018章  世界之巅 第二阶段",
+        "updated_at": "2026-09-15 09:02:14",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "高武严父，永远比儿子高五个境界",
         "book_id": 12565608,
         "url": "https://www.qimao.com/shuku/12565608/",
@@ -85,17 +85,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "52.03万字",
-        "word_count": 520300,
-        "heat": 1,
+        "word_count_text": "52.65万字",
+        "word_count": 526500,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第247章  功法大成！",
-        "updated_at": "2026-09-15 00:07:07",
-        "rank_change": 1,
-        "heat_change": -1,
+        "latest_chapter": " 第250章  叶万！",
+        "updated_at": "2026-09-16 00:07:09",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

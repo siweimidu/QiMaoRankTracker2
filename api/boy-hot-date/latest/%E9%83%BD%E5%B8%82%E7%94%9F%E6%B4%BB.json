@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 341000,
+    "total_heat": 386000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -19000
+          "heat_change": 45000
         }
       ],
-      "summary": "**题材趋势**：都市生活类作品在当前市场环境下表现出一定的热度回调，叙事重点聚焦于现实主义与人性博弈。\n**读者偏好**：读者对接地气的打工逆袭、都市生存类题材保有稳定需求，但对长篇连载的叙事新鲜感要求极高。\n**变动解读**：《步步登阶》热度下滑1.9万，排名微调，反映出该作品在当前周期内面临读者存量消耗。\n**值得关注**：建议关注该作品后续的运营手段，尤其是通过有声剧等跨媒介联动能否有效挽回热度流失。",
+      "summary": "**题材趋势**：都市生活类题材近期展现出强劲的上升势头，现实主义叙事与个人成长线深受市场追捧。\n**读者偏好**：读者倾向于具备真实代入感、职场生存及阶层跃迁类作品，尤其对具备有声剧联动的作品转化率较高。\n**变动解读**：《步步登阶》热度激增4.5万，实现了排名显著攀升，显示出优质内容在口碑传播下的爆发潜力。\n**值得关注**：关注有声剧联动对网文流量的导流效应，此类跨媒介整合营销可能成为该类目的增长新动能。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 7,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -51,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "282.15万字",
-        "word_count": 2821500,
-        "heat": 341000,
-        "platform_trend": "drop",
+        "word_count_text": "282.6万字",
+        "word_count": 2826000,
+        "heat": 386000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1343章  起朱楼",
-        "updated_at": "2026-09-14 23:57:10",
-        "rank_change": -1,
-        "heat_change": -19000,
+        "latest_chapter": " 第1345章  鱼死网破",
+        "updated_at": "2026-09-15 23:26:10",
+        "rank_change": 2,
+        "heat_change": 45000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -16,47 +16,35 @@
     "total_heat": 3,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "修仙从神秘小鼎开始",
-          "book_id": 1800823,
-          "intro": "梧桐村少年，用一本小人书换来一个神秘小鼎，虽灵根不堪，幸得小鼎相助，崛起微末，凭着坚毅的意志一步一步在弱肉强食尔虞我诈的修仙界愈来愈强。\n筑天道之基，掌雷霆清微，脚踏圣地，剑斩古族，登顶天地之巅，渡劫"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "众仙俯首",
           "book_id": 1971590,
           "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "九转仙葫",
-          "book_id": 12212670,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "九转仙葫",
-          "book_id": 12212670,
-          "heat_change": -2
-        },
-        {
-          "title": "众仙俯首",
-          "book_id": 1971590,
-          "heat_change": 2
         },
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "heat_change": -1
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：凡人流与“修仙恋爱”元素博弈，整体表现偏向慢热与情感纠葛。\n**读者偏好**：读者既认可传统的“苟道”与“金手指”成长逻辑，也对“斩情绝爱”下的多女主修罗场设定保持高粘性关注。\n**变动解读**：《众仙俯首》排名上升，反映出含有明确情感羁绊、角色互动张力强的修真文比单纯的凡人种田文更具热度转化潜力。\n**值得关注**：如何将传统修仙的“升级感”与商业化的“情感线”平衡，是该类目当前提升热度的核心课题。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "九转仙葫",
+          "book_id": 12212670,
+          "heat_change": -1
+        },
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：凡人流与“斩情修仙”并行，强调金手指的物资转化功能，淡化传统修仙的枯燥感。\n**读者偏好**：读者看重主角从底层起步的成长逻辑，对“补天”、“聚宝”、“仙葫”等资源型外挂表现出高度兴趣。\n**变动解读**：榜单内部排名小幅优化，《众仙俯首》与《聚宝仙炉》的热度回升，显示出读者对系统化修真成长路线的持续认可。\n**值得关注**：凡人流与情感纠葛的结合（如《众仙俯首》）在修真文中的热度攀升，或预示着修真题材正向“情感冲突+爽感升级”的双轨模式发展。",
       "ai_source": "ai"
     },
     "books": [
@@ -73,24 +61,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "93.16万字",
-        "word_count": 931600,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "93.95万字",
+        "word_count": 939500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
-        "latest_chapter": " 第312章  无边沙漠",
-        "updated_at": "2026-09-14 23:11:05",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第315章  空间对决",
+        "updated_at": "2026-09-15 23:31:04",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -102,24 +90,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.56万字",
-        "word_count": 435600,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "43.98万字",
+        "word_count": 439800,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第207章  你想修仙吗",
-        "updated_at": "2026-09-14 10:49:03",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第209章  结丹中期！",
+        "updated_at": "2026-09-15 18:34:04",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "title": "众仙俯首",
         "book_id": 1971590,
         "url": "https://www.qimao.com/shuku/1971590/",
@@ -131,17 +119,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "387.28万字",
-        "word_count": 3872800,
+        "word_count_text": "387.95万字",
+        "word_count": 3879500,
         "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死；\n今生，他斩情绝爱，一心向道，不料造化弄人。\n魔女指尖燃起业火：“本宫朱砂痣的位置...你倒是记得清楚。”\n玉女宗圣女剑锋凝霜：“你破了我的太上忘情，就想一走了之？”\n祸国妖妃巧笑嫣然：“与奴家知根知底者，唯夫君耳。”\n林落尘叹息一声：“我只想成仙做祖，让众仙俯首，不想谈什么情情爱爱！”\n妖妃闻言舔了舔红唇：“原来夫君你好这口啊，早说嘛！”\n林落尘望着追来的红颜，突然觉得，自己这一世，怕是死得比上一世更早......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
-        "latest_chapter": " 第1108章  你们几个，准备好受死了吗？",
-        "updated_at": "2026-09-14 07:01:12",
+        "latest_chapter": " 第1110章  道友，请入我妖皇幡中一叙",
+        "updated_at": "2026-09-15 07:01:12",
         "rank_change": 2,
-        "heat_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

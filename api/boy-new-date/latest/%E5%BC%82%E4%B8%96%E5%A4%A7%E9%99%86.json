@@ -8,18 +8,24 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 95000,
+    "total_heat": 97000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "从野狗开始一路修仙",
+          "book_id": 12451830,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -28,12 +34,12 @@
           "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：异世大陆品类目前呈现“单点支撑”格局，头部效应极强，单本作品即可撑起榜单热度。\n**读者偏好**：读者对“非人流”开局及“苟道发育”题材表现出持续的阅读兴趣，此类反套路设定具备较强的用户留存力。\n**变动解读**：榜单整体处于高度稳定期，在无新书冲击的情况下，头部作品《从野狗开始一路修仙》凭借稳健的更新与运营，实现了热度的小幅自然增长。\n**值得关注**：需警惕该品类在榜单流动性上的不足，后续若无强力新书入局，热度上限将完全依赖于现有头部作品的叙事节奏。",
+      "summary": "**题材趋势**：非人类开局（如野狗）的“苟道流”修仙成为该细分市场的核心增长点。\n**读者偏好**：读者更青睐低调发育、稳扎稳打的成长节奏，对“由弱变强”的物种进化爽点有明确需求。\n**变动解读**：本类目仅存单本上榜，但热度持续上行，说明该作品在垂直赛道内已形成较强的统治力。\n**值得关注**：《从野狗开始一路修仙》的成功证明了“反套路开局”在异世大陆题材中依然具备极高的市场容错率与吸引力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -45,16 +51,16 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.96万字",
-        "word_count": 459600,
-        "heat": 95000,
+        "word_count_text": "46.59万字",
+        "word_count": 465900,
+        "heat": 97000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第196章  黑水域",
-        "updated_at": "2026-09-14 18:12:05",
-        "rank_change": 0,
+        "latest_chapter": " 第199章  百万灵材",
+        "updated_at": "2026-09-15 20:31:06",
+        "rank_change": 1,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
