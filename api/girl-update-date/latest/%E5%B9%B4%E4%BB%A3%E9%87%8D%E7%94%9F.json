@@ -8,43 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "我才五岁，怎么就成军区团宠了",
+          "book_id": 12134931,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
-          "rank_change": -1
-        },
-        {
-          "title": "我才五岁，怎么就成军区团宠了",
-          "book_id": 12134931,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
-          "heat_change": 1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：该品类处于低位盘整期，市场热度稀薄，缺乏强有力的头部内容驱动。\n**读者偏好**：读者仍高度青睐“穿书+系统+极致反差”的爽文套路，军婚与团宠元素是维持基本盘的核心钩子。\n**变动解读**：榜单呈现萎缩态势，两本头部书籍排名同步下滑，反映出该垂类在当前时段的流量吸引力有所衰减。\n**值得关注**：需观察后续是否有融合新颖设定（如：萌宝、特殊系统升级）的作品入局，以打破当前的沉闷局面。",
+      "summary": "**题材趋势**：聚焦于“军婚”与“萌宝”元素，强调反差感与极端的家庭关系对抗。\n**读者偏好**：读者青睐“多胞胎/团宠”设定带来的强爽感，以及重生后精准改变命运、虐杀极品亲戚的复仇叙事。\n**变动解读**：榜单竞争格局紧凑，书籍排名波动反映了读者对“大女主事业线”与“萌娃成长线”审美偏好的动态平衡。\n**值得关注**：《一胎五宝，我成军属院顶流》虽排名下行，但热度依然占比较大，显示出此类强设定题材的读者粘性。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 5,
         "title": "一胎五宝，我成军属院顶流",
         "book_id": 12655653,
         "url": "https://www.qimao.com/shuku/12655653/",
@@ -56,24 +57,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.9万字",
-        "word_count": 369000,
-        "heat": 1,
+        "word_count_text": "37.53万字",
+        "word_count": 375300,
+        "heat": 3,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第162章  恭喜陆瑶同志，取得现场比赛第一个满分",
-        "updated_at": "2026-09-15 11:07:03",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第164章  摇曳生姿！",
+        "updated_at": "2026-09-16 11:27:03",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "我才五岁，怎么就成军区团宠了",
         "book_id": 12134931,
         "url": "https://www.qimao.com/shuku/12134931/",
@@ -85,16 +86,16 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "64.32万字",
-        "word_count": 643200,
+        "word_count_text": "64.93万字",
+        "word_count": 649300,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "上辈子，亲妈为了给继姐筹嫁妆把阮晓春嫁给了一个家暴屠夫，最后她被活生生折磨死了，而最终得来亲妈一句叹息。\n“和她那个早死的傻爹一样命不好。”\n这一世，阮晓春重生了，看着护着自己的傻爹红了眼睛。\n亲妈踩着傻爹的功勋获得好工作，做梦！\n她带着傻爹闹上了军区，是谁让英雄流血又流泪？\n夺回工作，补贴和房子，撕开出轨亲妈的虚伪面具。\n那么喜欢给别人当后妈，滚远点吧！\n后来，给别人当后妈的女人家里鸡飞狗跳，而带着傻爹生活的小春宝却过得风生水起。\n“听说了吗？小春帮忙破了几十个人的盗窃团队！”\n“什么？不是说小春帮忙公安抓到了杀了五人的江洋大盗？”\n“你们这些消息都过时了，我听说公安部的亲自来聘请小春当专家，工资一年有一千块！！！”\n“不对！你们不知道阮家的傻子爹不傻了，还成了刑警呢！”\n一旁买菜路过的阮老太昂首挺胸：“是我家乖乖孙女哟~”\n众人酸溜溜：“......”\n这阮家真是走了狗屎运了，祖坟是装了原子弹吗，还带这么冒烟的？？\n原女主的亲妈：为什么？明明上辈子不是这样的，到底哪里出错了？\n休眠回来的系统：说好的犯罪大师培养系统，你跟我说你现在当条子老大了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
-        "latest_chapter": " 第234章  小春干回“本职”罪犯",
-        "updated_at": "2026-09-16 00:20:03",
-        "rank_change": -1,
+        "latest_chapter": " 第236章  当天真相是什么",
+        "updated_at": "2026-09-17 00:02:14",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：种田经营、基建争霸与“老六”权谋流派占据主流，侧重通过低开高走实现财富与权力的快速积累。\n**读者偏好**：读者热衷于“穿越+系统/先知+乱世基建”的爽感，偏好主角在资源匮乏背景下通过技术或信息差实现逆袭。\n**变动解读**：本期榜单呈现极高的稳定性，头部作品排名固化，显示出该类目在七猫生态中具备长尾效应强、读者粘性高的特点。\n**值得关注**：多部作品已完成短剧或有声剧转化，IP联动能力成为提升书籍长线热度的关键变量，建议关注此类“文娱一体化”运作。",
-      "ai_source": "ai"
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "192.75万字",
-        "word_count": 1927500,
+        "word_count_text": "193.2万字",
+        "word_count": 1932000,
         "heat": 5764000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-        "latest_chapter": " 第809章  火上浇油",
-        "updated_at": "2026-09-16 00:02:12",
+        "latest_chapter": " 第811章  阻击",
+        "updated_at": "2026-09-17 00:02:13",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

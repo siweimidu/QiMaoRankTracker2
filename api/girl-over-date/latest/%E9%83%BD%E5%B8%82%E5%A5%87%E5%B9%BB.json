@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 106000,
+    "total_heat": 103000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "神算萌妻：傅太太才是玄学真大佬",
-          "book_id": 1803024,
-          "intro": "《奔跑吧》同款！又名《坠入月光》\n他是豪门贵子，年纪轻轻手握大权，为人冷漠，待人冷血。\n她是玄门最后的继承人，破破烂烂，缝缝补补。\n一个命里财薄，一个命里有灾。\n他若不娶她，事业尽毁，生死难料。\n她若"
-        }
-      ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "heat_change": -6000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：灵异民俗类题材在都市背景下表现出极强的生命力，以“宿命论”与“神秘当铺”为核心的设定是主要增长点。\n**读者偏好**：读者对带有强悬疑色彩、涉及传统民俗禁忌的奇幻故事有极高粘性，偏好开篇即具备强烈命运冲突的剧情。\n**变动解读**：《阴当》排名上升，尽管热度小幅回落，但已成功挤走玄学大佬类作品，占据品类头部，显示出差异化题材对同质化玄学文的挤压。\n**值得关注**：在玄学题材趋于饱和的背景下，带有民俗惊悚色彩的都市文更易突围，建议关注此类风格的后续市场表现。",
-      "ai_source": "ai"
+      "summary": "「都市奇幻」《阴当》下滑1位；《阴当》热度-3000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -59,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 106000,
+        "heat": 103000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 1,
-        "heat_change": -6000,
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

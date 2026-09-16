@@ -8,26 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 1,
-    "total_heat": 1302000,
+    "count": 2,
+    "total_heat": 1739000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "葬仙塔，葬天，葬地，葬众仙",
+          "book_id": 12679578
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "九帝塔",
+          "book_id": 11901855,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：回归传统玄幻的“复仇+天才陨落”叙事框架，强调“至宝”、“女帝”等高能设定，侧重于少年成长与家族矛盾的集中爆发。\n**读者偏好**：读者对于“大神小号”带来的节奏把控力有较高期待，偏好那种从绝境中逆袭、反杀背叛者的强烈情绪价值。\n**变动解读**：该类目本期仅有一本作品在榜，热度表现平稳，反映出当前东方玄幻类目在七猫平台的上榜门槛较高，且竞争格局相对集中。\n**值得关注**：《九帝塔》通过“微群像”与“传统玄幻”的标签结合，在单品突围中表现稳定，是该类目通过强设定吸引读者的典型代表。",
+      "summary": "**题材趋势**：传统玄幻结合“女帝流”与“重生复仇”元素成为当前市场主力，强调快节奏的打脸反转。\n**读者偏好**：读者热衷于压抑后的强力反弹，特别是带有“系统+体质”设定、具备爽感爆发力的开局。\n**变动解读**：《九帝塔》稳步上升，新书《葬仙塔》迅速入榜，显示出带有强烈对抗色彩的玄幻作品拥有高留存。\n**值得关注**：高强度冲突与“开局即巅峰”的设定是目前拉动热度的核心驱动力，建议关注此类题材的升级体系设计。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -39,18 +50,47 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.93万字",
-        "word_count": 469300,
+        "word_count_text": "47.34万字",
+        "word_count": 473400,
         "heat": 1302000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第227章  斩断因果，圣人黑玄",
-        "updated_at": "2026-09-15 17:54:03",
-        "rank_change": 0,
+        "latest_chapter": " 第229章  三丹之期，阴阳功法",
+        "updated_at": "2026-09-17 00:06:06",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 13,
+        "title": "葬仙塔，葬天，葬地，葬众仙",
+        "book_id": 12679578,
+        "url": "https://www.qimao.com/shuku/12679578/",
+        "author": "无用一书生",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E7%94%A8%E4%B8%80%E4%B9%A6%E7%94%9F_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "43.22万字",
+        "word_count": 432200,
+        "heat": 437000,
+        "platform_trend": "rise",
+        "badge": "飙升52名",
+        "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔。\n葬仙塔，每开启一层可获得一种仙级体质，每一层还有不同颜色的葬仙土，葬人可生出仙傀，埋药可结出仙丹……\n从此，秦长夜在埋葬的路上越走越远。\n葬人！葬药！葬诸天仙佛！葬万古大道！\n“生死看淡，不服就葬。”\n“本座是个讲究人，管杀又管葬。”\n“阁下虽然很强，但还没有资格让本座葬在第四层。”\n—史上最强葬帝，秦长夜。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12679578_360x480.jpg?time=1783065316",
+        "latest_chapter": " 第200章  恐怖幻境，六眼飞鱼",
+        "updated_at": "2026-09-16 20:02:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"

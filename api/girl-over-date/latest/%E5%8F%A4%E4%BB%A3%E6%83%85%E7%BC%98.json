@@ -8,35 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 163000,
+    "total_heat": 172000,
     "trend": {
-      "new_count": 2,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "将军她是引渡人",
-          "book_id": 1777995
+          "book_id": 1777995,
+          "rank_change": 1
         },
         {
           "title": "千金闺途",
-          "book_id": 1763045
+          "book_id": 1763045,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：悬疑灵异元素与传统宅斗群像齐头并进，古风题材在“强设定”与“群像叙事”两个维度上保持高活跃度。\n**读者偏好**：读者倾向于“大女主+特殊职业”的爽文模式，以及多线并行的家族成长史，对具备强戏剧张力的叙事结构买单。\n**变动解读**：本期两部新书上榜，虽未产生排名波动，但总热度达16.3万，显示出该品类在完结榜单中具有较强的留存与引流能力。\n**值得关注**：两部作品均通过“引渡人”和“五朵金花”等清晰的差异化设定切入，后续可关注此类高辨识度人设在完结期的长尾效应。",
-      "ai_source": "ai"
+      "heat_leaders": [
+        {
+          "title": "将军她是引渡人",
+          "book_id": 1777995,
+          "heat_change": 6000
+        },
+        {
+          "title": "千金闺途",
+          "book_id": 1763045,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "「古代情缘」《将军她是引渡人》上升1位领涨；《将军她是引渡人》热度+6000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 17,
         "title": "将军她是引渡人",
         "book_id": 1777995,
         "url": "https://www.qimao.com/shuku/1777995/",
@@ -50,22 +63,22 @@
         "status": "已完结",
         "word_count_text": "121.03万字",
         "word_count": 1210300,
-        "heat": 83000,
+        "heat": 89000,
         "platform_trend": "rise",
-        "badge": "飙升11名",
+        "badge": "",
         "intro": "【姊妹篇《王妃她是引渡人》火热连载中，欢迎大家阅读~】\n卫清晏自小女扮男装，守江山，扩疆土，却死在凯旋路上。\n起死回生，她成了替死人化怨的引渡人。\n侯门主母被害，死后生怨，她替主母沉冤，揭侯门腌臜。\n酷爱女装的大理寺卿，因临终遗愿被妻子纂改生怨，祸及子孙，她抽丝剥茧，还原真相。\n为报恩冒名顶替的异乡人，执着落叶归根而抬不动的棺材，被夺舍后性情大变的亲王，赤身被葬的妙龄少女……\n化怨过程中，她一步步揭开当年惨死真相。\n始终相伴左右的皇叔，突然将她摁在角落，“我亦有执念，便是娶你为妻。”\n卫清晏：“王爷不是喜欢男子么？”\n皇叔：“你是男子，我便好男风，你是女子，我便喜欢女子。”\n“这辈子，我只要你。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/491/1472940_360x480.jpg?time=1717392864",
         "latest_chapter": " 第516章  大结局",
         "updated_at": "2024-08-30 11:01:14",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 1,
+        "heat_change": 6000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "古代情缘"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "千金闺途",
         "book_id": 1763045,
         "url": "https://www.qimao.com/shuku/1763045/",
@@ -79,16 +92,16 @@
         "status": "已完结",
         "word_count_text": "101.84万字",
         "word_count": 1018400,
-        "heat": 80000,
+        "heat": 83000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【群像+宅斗+宫斗+多cp】\n丞相府有五朵金花，五个女儿性格各异，各有所长。\n一朝变故，相府抄家败落，养尊处优的菟丝花失去依仗，嫁出去的女儿被夫家苛待，有婚约的被退婚，昔日金尊玉贵的千金小姐们被打下神坛。\n谋生、成长，经历......\n她们可以是十指不沾阳春水的千金娇女，亦是盛开在泥泞中的风雨兰。\n【清雅佛系长姐VS欢脱奶狗商人之子】\n【咸鱼吃货二姐VS八百个心眼高冷权臣】\n【娇气作精三姐VS惧内忠犬糙汉　】\n【温婉坚韧四妹VS端方谪仙公子】\n【古灵精怪五妹VS外冷内热护短帝王　】\n姐弟恋，契约婚姻，先婚后爱，一见钟情，青梅竹马。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/480/1437277_360x480.jpg?time=1725934048",
         "latest_chapter": " 第484章  大结局",
         "updated_at": "2024-06-28 00:11:09",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 1,
+        "heat_change": 3000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "古代情缘"

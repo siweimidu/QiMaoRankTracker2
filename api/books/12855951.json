@@ -6,19 +6,19 @@
   "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
   "minor": "总裁豪门",
   "status": "连载中",
-  "word_count_text": "37.56万字",
+  "word_count_text": "38.22万字",
   "latest": [
+    {
+      "board": "girl-update-date",
+      "board_name": "女生更新日榜",
+      "rank": 15,
+      "heat": 2
+    },
     {
       "board": "girl-new-date",
       "board_name": "女生新书日榜",
       "rank": 16,
       "heat": 25000
-    },
-    {
-      "board": "girl-update-date",
-      "board_name": "女生更新日榜",
-      "rank": 17,
-      "heat": 3
     }
   ],
   "history": [
@@ -87,6 +87,18 @@
       "b": "girl-update-date",
       "r": 17,
       "h": 3
+    },
+    {
+      "d": "2026-09-17",
+      "b": "girl-new-date",
+      "r": 16,
+      "h": 25000
+    },
+    {
+      "d": "2026-09-17",
+      "b": "girl-update-date",
+      "r": 15,
+      "h": 2
     }
   ]
 }

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 97000,
+    "total_heat": 84000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -31,15 +31,15 @@
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": 2000
+          "heat_change": -13000
         }
       ],
-      "summary": "**题材趋势**：非人类开局（如野狗）的“苟道流”修仙成为该细分市场的核心增长点。\n**读者偏好**：读者更青睐低调发育、稳扎稳打的成长节奏，对“由弱变强”的物种进化爽点有明确需求。\n**变动解读**：本类目仅存单本上榜，但热度持续上行，说明该作品在垂直赛道内已形成较强的统治力。\n**值得关注**：《从野狗开始一路修仙》的成功证明了“反套路开局”在异世大陆题材中依然具备极高的市场容错率与吸引力。",
+      "summary": "**题材趋势**：异兽流、苟道流异军突起，通过非人开局的生存压力制造独特的阅读爽感。\n**读者偏好**：读者更偏好“从弱到强”的进化路线，对“扮猪吃虎”和稳健发育的剧情架构有较高认可度。\n**变动解读**：该类目目前呈现出头部效应极强的特点，单品类热度虽高但缺乏后续梯队支撑，市场饱和度相对较低。\n**值得关注**：《从野狗开始一路修仙》作为独苗上榜，其“反套路”开局在当前快节奏阅读环境下具有极强的差异化优势。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -51,19 +51,19 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.59万字",
-        "word_count": 465900,
-        "heat": 97000,
-        "platform_trend": "rise",
+        "word_count_text": "47.22万字",
+        "word_count": 472200,
+        "heat": 84000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第199章  百万灵材",
-        "updated_at": "2026-09-15 20:31:06",
+        "latest_chapter": " 第202章  碧莲瓶",
+        "updated_at": "2026-09-16 17:23:03",
         "rank_change": 1,
-        "heat_change": 2000,
+        "heat_change": -13000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "异世大陆"
       }

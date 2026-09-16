@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "types": [
     {
       "name": "全部",
@@ -23,12 +23,12 @@
       "url": "api/girl-new-month/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
     },
     {
-      "name": "总裁豪门",
-      "url": "api/girl-new-month/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
-    },
-    {
       "name": "古代情缘",
       "url": "api/girl-new-month/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "总裁豪门",
+      "url": "api/girl-new-month/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
     },
     {
       "name": "种田经商",

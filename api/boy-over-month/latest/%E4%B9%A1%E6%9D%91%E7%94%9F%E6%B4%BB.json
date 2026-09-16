@@ -8,21 +8,26 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 1,
-    "total_heat": 3415000,
+    "count": 2,
+    "total_heat": 5831000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "重回77：我靠赶猎抓鱼，一人养三家",
+          "book_id": 9992436
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：重生年代文持续占据乡村生活赛道头部，通过“弥补遗憾+发家致富”的经典闭环驱动叙事。\n**读者偏好**：受众倾向于具有强烈家庭责任感、通过原始积累实现阶层跨越的爽文叙事，尤其偏爱极具时代特色的生存技能描写。\n**变动解读**：本期榜单稳定性极高，头部作品热度稳固，显示出该题材在七猫平台具有极强的粘性与长尾效应。\n**值得关注**：该类目已形成单品垄断态势，后续新书需在“年代感氛围营造”与“爽点节奏”上寻找差异化切入点。",
+      "summary": "**题材趋势**：年代文与乡村生活类题材深度融合，以“重生+物资匮乏时代+技能致富”为核心的叙事模式已成为标配。\n**读者偏好**：读者偏爱强代入感的家庭经营逻辑，尤其是融合情感纠葛（如多女主设定）与生存挑战的复合型爽文。\n**变动解读**：新书《重回77》成功上榜，反映出市场对于“重生年代+多线情感”题材的持续渴求，榜单流动性优于其他类目。\n**值得关注**：此类题材的生命力在于对生活细节的还原与主角从贫穷到富足的阶层跨越，应继续深耕年代背景下的生存爽点。",
       "ai_source": "ai"
     },
     "books": [
@@ -52,6 +57,35 @@
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "乡村生活"
+      },
+      {
+        "rank": 18,
+        "title": "重回77：我靠赶猎抓鱼，一人养三家",
+        "book_id": 9992436,
+        "url": "https://www.qimao.com/shuku/9992436/",
+        "author": "菌菇汤拌饭",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%8F%8C%E8%8F%87%E6%B1%A4%E6%8B%8C%E9%A5%AD_14/",
+        "major": "都市",
+        "minor": "乡村生活",
+        "major_id": 203,
+        "minor_id": 48,
+        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "186.03万字",
+        "word_count": 1860300,
+        "heat": 2416000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "杨枫重生77年，却意外多了三个前妻！\n温婉气质的语文老师，清纯可人的活泼小姨子，直爽白皙的川妹子……\n这样的前妻，他有三个！\n还是赶不走，打不跑，能和睦相处的那种！\n看着漏水的土房和空空如也的米缸，杨枫咧嘴一笑。\n这一世，就让我上山赶猎，下水捞鱼，喂饱全家！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
+        "latest_chapter": " 第899章  大结局",
+        "updated_at": "2026-09-13 22:29:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": true,
         "category": "乡村生活"
       }

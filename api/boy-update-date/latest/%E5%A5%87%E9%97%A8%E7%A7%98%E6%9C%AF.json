@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 3
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 3
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：民俗恐怖与诡异流题材在垂直领域仍具备长尾效应，强调氛围感与生存压力的剧情设定是核心卖点。\n**读者偏好**：读者倾向于带有强烈悬疑色彩、生存危机感极强的“克苏鲁”式或“民俗诡事”类作品。\n**变动解读**：本期《天黑请点灯》在低热度环境下逆势上升，显示出该类目用户对高沉浸感叙事的高粘性。\n**值得关注**：在市场整体冷清时，此类题材的排位波动受单书口碑影响较大，需关注后续内容支撑度。",
+      "summary": "**题材趋势**：奇门秘术类目呈现典型的“诡异流”风格，强调压抑氛围与生存博弈，具有较强的悬疑沉浸感。\n**读者偏好**：读者热衷于带有“规则怪谈”色彩或“黑暗现实主义”背景的探险故事，追求心理刺激与反常规剧情。\n**变动解读**：榜单仅剩单本支撑，且排名与热度双双下滑，显示该垂类在当前时段流量支撑力较弱，市场流动性低。\n**值得关注**：该题材依赖于独特的设定支撑，后续若有强逻辑、强悬疑的新作跟进，有望重新激活该类目的热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 12,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "470.95万字",
-        "word_count": 4709500,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "472.36万字",
+        "word_count": 4723600,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1725章  日贝玉姆神明的提示",
-        "updated_at": "2026-09-15 06:57:12",
-        "rank_change": 3,
-        "heat_change": 3,
+        "latest_chapter": " 第1730章  阳神用计，茅斩之威！",
+        "updated_at": "2026-09-17 06:52:13",
+        "rank_change": -2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

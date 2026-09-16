@@ -8,43 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 2,
-    "total_heat": 2,
+    "count": 1,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "rank_change": 2
+          "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n"
         }
       ],
-      "top_fallers": [],
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
-          "heat_change": -1
-        },
-        {
-          "title": "高武严父，永远比儿子高五个境界",
-          "book_id": 12565608,
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：高武题材向“家庭/养成”方向细分，通过“父强子弱”或“系统辅助”的设定，强化亲情羁绊与力量成长的双重爽感。\n**读者偏好**：读者审美偏向于“反套路”养成，对设定新颖、具备成长反馈机制的作品有较高关注度。\n**变动解读**：头部书目排名波动明显，作品间热度分化加剧，说明读者对创新设定的买单意愿高于传统龙傲天模版。\n**值得关注**：高武类作品的“资源博弈”设定是核心看点，后续需观察此类作品在复杂高武世界观下的剧情延伸能力。",
+      "summary": "**题材趋势**：都市高武类题材近期在榜单表现低迷，缺乏新晋爆款支撑，整体处于存量竞争的萎缩期。\n**读者偏好**：读者依然青睐“系统+复仇/重生”的经典爽文套路，但对传统套路的审美疲劳感加剧，导致用户粘性下降。\n**变动解读**：本期出现“掉一进零”的负增长，头部作品《神武天下之睚眦》热度极低且排名下滑，显示该品类流量进入瓶颈。\n**值得关注**：需警惕题材同质化带来的用户流失，建议关注后续是否有具备创新驱动力的新书打破当前的低热度僵局。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -56,48 +57,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "427.31万字",
-        "word_count": 4273100,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "428.19万字",
+        "word_count": 4281900,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1018章  世界之巅 第二阶段",
-        "updated_at": "2026-09-15 09:02:14",
-        "rank_change": 0,
-        "heat_change": -1,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 17,
-        "title": "高武严父，永远比儿子高五个境界",
-        "book_id": 12565608,
-        "url": "https://www.qimao.com/shuku/12565608/",
-        "author": "邯郸财阀",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%82%AF%E9%83%B8%E8%B4%A2%E9%98%80_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "52.65万字",
-        "word_count": 526500,
-        "heat": 2,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第250章  叶万！",
-        "updated_at": "2026-09-16 00:07:09",
-        "rank_change": 2,
+        "latest_chapter": " 第1019章  世界之巅 惬意",
+        "updated_at": "2026-09-16 09:02:15",
+        "rank_change": -1,
         "heat_change": 1,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

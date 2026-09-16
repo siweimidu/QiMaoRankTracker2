@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-09-17",
+  "category": {
+    "name": "衍生同人",
+    "major": "N次元",
+    "count": 1,
+    "total_heat": 346000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "斗罗V：从签到开始，忽悠小舞当老婆",
+          "book_id": 12705174
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：同人题材依然高度依赖成熟IP（如斗罗系列），且创作导向愈发趋向“截胡流”与“改写原著遗憾”。\n**读者偏好**：读者对打破原著既定格局、夺取主角机缘的“爽文式”改写具有极高的忠诚度与付费意愿。\n**变动解读**：《斗罗V：从签到开始，忽悠小舞当老婆》上榜，体现了“强系统+强情感爽点”在同人市场的统治地位。\n**值得关注**：在严管原著逻辑的前提下，如何通过差异化的签到奖励与角色互动，实现对经典IP的有效重构。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "斗罗V：从签到开始，忽悠小舞当老婆",
+        "book_id": 12705174,
+        "url": "https://www.qimao.com/shuku/12705174/",
+        "author": "米尼魂淡君",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%B1%B3%E5%B0%BC%E9%AD%82%E6%B7%A1%E5%90%9B_14/",
+        "major": "N次元",
+        "minor": "衍生同人",
+        "major_id": 207,
+        "minor_id": 239,
+        "minor_url": "https://www.qimao.com/shuku/a-207-239-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "39.38万字",
+        "word_count": 393800,
+        "heat": 346000,
+        "platform_trend": "rise",
+        "badge": "飙升56名",
+        "intro": "【后宫全收】、【虐三】\n敖尹穿越绝世唐门，刚觉醒签到系统，却撞见唐三正在盗取【玄天宝录】被其无情抹杀。重生斗罗大陆，从趁小舞青涩忽悠她当老婆开始，他誓要夺走唐三的一切。\n叮！在圣魂村签到，获得奖励【盘龙棍】、【黑暗圣龙】双生武魂，截胡诺丁学院工读生名额。\n叮！在学院七舍签到，获得一级奖励【满级魅力】，截胡女神小舞。\n叮！在落日森林签到，获得三级奖励【万年魂环】，截胡唐三第一魂环，逼他选择【十年孤竹】。\n叮！在冰火两仪眼签到，获得五级奖励，异火【乾蓝冰焰】，截胡仙品灵药。\n叮！在杀戮之都签到，获得七级奖励，神器【黑天使圣龙枪】，截胡修罗神传承机缘。\n叮！在海神岛签到，获得九级奖励【诸神九考】，截胡成神资格。\n叮！在神界签到，获得十级奖励，觉醒【烛龙血脉】，截胡神王之位。\n...\n多年后，看着曾经无比桀骜的唐三哭着跪求在自己面前，敖尹露出一丝无所谓的笑意。\n冷笑道“唐三啊唐三，你不是知道错了，而是知道你要死了！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4236/12705174_360x480.jpg?time=1783350393",
+        "latest_chapter": " 第164章  黄金铁三角让毒斗罗放人？",
+        "updated_at": "2026-09-17 00:02:24",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "衍生同人"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:28:21",
-  "date": "2026-09-16",
+  "generated_at": "2026-09-17T07:36:41",
+  "date": "2026-09-17",
   "authors": [
     {
       "author": "化十",
@@ -40,7 +40,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 3772004,
+      "total_heat": 3772002,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
@@ -62,21 +62,10 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 2990002,
+      "total_heat": 2990006,
       "titles": [
         "众仙俯首",
         "盗梦千年"
-      ]
-    },
-    {
-      "author": "一只狸猫",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
-      "books": 2,
-      "boards": 3,
-      "total_heat": 2656000,
-      "titles": [
-        "被关女子监狱三年，我修炼成仙了",
-        "夜火倾唇"
       ]
     },
     {
@@ -84,7 +73,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2605003,
+      "total_heat": 2605002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -94,8 +83,8 @@
       "author": "指尖上的行走",
       "author_url": "https://www.qimao.com/zuozhe/%E6%8C%87%E5%B0%96%E4%B8%8A%E7%9A%84%E8%A1%8C%E8%B5%B0_14/",
       "books": 2,
-      "boards": 2,
-      "total_heat": 109000,
+      "boards": 3,
+      "total_heat": 539000,
       "titles": [
         "将军她是引渡人",
         "王妃她是引渡人"
@@ -195,7 +184,7 @@
       "author": "浮生一诺",
       "author_url": "https://www.qimao.com/zuozhe/%E6%B5%AE%E7%94%9F%E4%B8%80%E8%AF%BA_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 4,
       "total_heat": 15505000,
       "titles": [
         "葬神棺"
@@ -309,6 +298,16 @@
       "total_heat": 10520000,
       "titles": [
         "凰宫梦"
+      ]
+    },
+    {
+      "author": "三十嘉",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E5%8D%81%E5%98%89_14/",
+      "books": 1,
+      "boards": 4,
+      "total_heat": 10015000,
+      "titles": [
+        "随母改嫁旺新家，重生嫡女嘎嘎乱杀"
       ]
     }
   ]

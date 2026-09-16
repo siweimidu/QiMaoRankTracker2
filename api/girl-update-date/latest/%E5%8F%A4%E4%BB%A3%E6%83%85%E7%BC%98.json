@@ -8,29 +8,23 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 5,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "表妹貌美，冷面世子情难自恃",
-          "book_id": 12443391,
-          "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "rank_change": -4
+          "rank_change": -1
         },
         {
           "title": "春闺小寡妇",
@@ -42,20 +36,15 @@
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "heat_change": 3
-        },
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "heat_change": -2
+          "heat_change": -3
         }
       ],
-      "summary": "**题材趋势**：题材呈现明显的“悬疑+言情”融合趋势，通过鬼怪、权谋与禁忌关系的叠加，提升古言阅读的感官刺激。\n**读者偏好**：读者更倾向于反差感强的人设，如“地府冤魂vs冷面煞神”、“寡妇vs高岭之花”，这种身份错位带来的戏剧性极具吸引力。\n**变动解读**：榜单体量较小且波动剧烈，说明该类目处于内容洗牌期，对高创意、快节奏的剧情流作品需求迫切。\n**值得关注**：虽然当前在榜作品不多，但灵异与权谋的结合点仍有待进一步挖掘，建议关注此类具有强视觉画面感的内容。",
+      "summary": "**题材趋势**：悬疑灵异与宅斗伦理题材占据核心位置，强冲突、重人设的快节奏叙事仍是该品类的主流方向。\n**读者偏好**：读者倾向于“人鬼殊途”的诡谲探案及“守寡借种”等带有强禁忌感、反传统道德的虐恋剧情。\n**变动解读**：本期榜单缺乏新鲜血液注入，现有书籍排名持续下滑且热度萎缩，显示出该细分赛道近期内容迭代乏力，用户留存面临挑战。\n**值得关注**：建议创作者在“古言+”的融合创新上寻求突破，避免剧情同质化，尝试引入更具差异化的元素以拉升疲软的热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -67,24 +56,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "111.3万字",
-        "word_count": 1113000,
-        "heat": 4,
+        "word_count_text": "111.9万字",
+        "word_count": 1119000,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第534章  一个人的狼狈",
-        "updated_at": "2026-09-15 13:31:06",
-        "rank_change": -4,
-        "heat_change": 3,
+        "latest_chapter": " 第537章  金佛",
+        "updated_at": "2026-09-16 14:47:06",
+        "rank_change": -1,
+        "heat_change": -3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "春闺小寡妇",
         "book_id": 12644022,
         "url": "https://www.qimao.com/shuku/12644022/",
@@ -96,17 +85,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.03万字",
-        "word_count": 310300,
+        "word_count_text": "31.48万字",
+        "word_count": 314800,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第144章  她腹中怀的是他的种",
-        "updated_at": "2026-09-15 20:47:03",
+        "latest_chapter": " 第146章  什么时候攀上了裴二爷？",
+        "updated_at": "2026-09-16 22:10:05",
         "rank_change": -1,
-        "heat_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
