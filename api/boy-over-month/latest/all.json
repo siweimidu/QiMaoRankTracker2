@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-17",
-  "prev_date": "2026-09-16",
+  "date": "2026-09-18",
+  "prev_date": "2026-09-17",
   "books": [
     {
       "rank": 1,
@@ -82,15 +82,15 @@
       "minor_id": 58,
       "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
       "status": "连载中",
-      "word_count_text": "193.2万字",
-      "word_count": 1932000,
+      "word_count_text": "193.62万字",
+      "word_count": 1936200,
       "heat": 5764000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-      "latest_chapter": " 第811章  阻击",
-      "updated_at": "2026-09-17 00:02:13",
+      "latest_chapter": " 第813章  使臣",
+      "updated_at": "2026-09-18 00:01:10",
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
@@ -268,7 +268,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "乡村生活"
     },
@@ -477,6 +477,35 @@
     },
     {
       "rank": 17,
+      "title": "让你带问题女兵，你全养成特种兵王了？",
+      "book_id": 2091811,
+      "url": "https://www.qimao.com/shuku/2091811/",
+      "author": "大知咸咸",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A7%E7%9F%A5%E5%92%B8%E5%92%B8_14/",
+      "major": "军事",
+      "minor": "现代军事",
+      "major_id": 60,
+      "minor_id": 61,
+      "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+      "status": "连载中",
+      "word_count_text": "181.06万字",
+      "word_count": 1810600,
+      "heat": 2602000,
+      "platform_trend": "rise",
+      "badge": "最新上榜",
+      "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
+      "latest_chapter": " 第835章  壮媳妇儿也要见公婆",
+      "updated_at": "2026-09-17 09:07:08",
+      "rank_change": 0,
+      "heat_change": 0,
+      "is_new": true,
+      "boards_count": 2,
+      "stale_update": false,
+      "category": "现代军事"
+    },
+    {
+      "rank": 18,
       "title": "全球灾变之末日游戏",
       "book_id": 219542,
       "url": "https://www.qimao.com/shuku/219542/",
@@ -497,7 +526,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -505,7 +534,7 @@
       "category": "末世危机"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "重回77：我靠赶猎抓鱼，一人养三家",
       "book_id": 9992436,
       "url": "https://www.qimao.com/shuku/9992436/",
@@ -526,15 +555,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
       "latest_chapter": " 第899章  大结局",
       "updated_at": "2026-09-13 22:29:08",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "乡村生活"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "下山后，漂亮姐姐蠢蠢欲动",
       "book_id": 2053900,
       "url": "https://www.qimao.com/shuku/2053900/",
@@ -561,35 +590,6 @@
       "boards_count": 1,
       "stale_update": true,
       "category": "都市高手"
-    },
-    {
-      "rank": 20,
-      "title": "极品女神赖上我",
-      "book_id": 2012529,
-      "url": "https://www.qimao.com/shuku/2012529/",
-      "author": "陈行者",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%99%88%E8%A1%8C%E8%80%85_14/",
-      "major": "都市",
-      "minor": "商战职场",
-      "major_id": 203,
-      "minor_id": 221,
-      "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "297.07万字",
-      "word_count": 2970700,
-      "heat": 2220000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
-      "latest_chapter": " 第829章  千帆尽处，般若归远",
-      "updated_at": "2026-08-15 14:22:08",
-      "rank_change": -1,
-      "heat_change": 0,
-      "is_new": false,
-      "boards_count": 1,
-      "stale_update": true,
-      "category": "商战职场"
     }
   ],
   "categories": [
@@ -606,8 +606,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「架空历史」榜单结构稳定，无明显变动。",
-        "ai_source": "rule"
+        "summary": "**题材趋势**：种田经营、争霸与权谋流派占据主流，展现了架空历史题材在七猫平台极高的稳定性与长尾效应。\n**读者偏好**：读者热衷于“从零开始”的开局，偏好主角通过囤积资源、军事扩张或利用现代思维破局的爽感，且对“多女主/家庭经营”元素接受度极高。\n**变动解读**：本期榜单呈现高度固化状态，无新书入驻或排名更迭，说明头部作品口碑与粉丝粘性极强，形成了稳固的流量壁垒。\n**值得关注**：榜单中多部作品已完成IP多元化开发（有声书、短剧），显示出该类书籍在版权衍生市场的核心竞争力。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -623,15 +623,15 @@
           "minor_id": 58,
           "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
           "status": "连载中",
-          "word_count_text": "193.2万字",
-          "word_count": 1932000,
+          "word_count_text": "193.62万字",
+          "word_count": 1936200,
           "heat": 5764000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
-          "latest_chapter": " 第811章  阻击",
-          "updated_at": "2026-09-17 00:02:13",
+          "latest_chapter": " 第813章  使臣",
+          "updated_at": "2026-09-18 00:01:10",
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
@@ -741,8 +741,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
-        "ai_source": "rule"
+        "summary": "**题材趋势**：以“废柴逆袭”与“天赋觉醒”为核心驱动力，强调快节奏的升级体验与极致的战力碾压。\n**读者偏好**：读者倾向于带有外挂系统（如秘境、神秘小塔）的爽文，同时对“娘胎悟道”、“女帝/多女主”等具有冲突性与反差感的设定表现出强烈兴趣。\n**变动解读**：榜单结构维持原状，头部流量高度集中在《荒古武神》等老牌精品上，市场竞争进入存量博弈阶段。\n**值得关注**：快节奏叙事与情感冲突（如红颜背刺、炉鼎设定）的结合，是当前该品类吸引读者的关键切入点。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -847,8 +847,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「都市高武」榜单结构稳定，无明显变动。",
-        "ai_source": "rule"
+        "summary": "**题材趋势**：融合了都市生活、医疗异能与无敌流元素，强烈的复仇与情感纠葛构成了故事的核心张力。\n**读者偏好**：读者偏好“下山退婚”、“医武双绝”等经典套路，追求身份反差带来的社会地位提升感及爽快的打脸情节。\n**变动解读**：本期榜单保持零变动，反映出都市高武类作品在七猫平台拥有极强的读者基本盘和高度统一的阅读预期。\n**值得关注**：短剧化改编已成为该品类作品的标配，通过短剧引流反哺网文阅读的闭环效应在榜单中表现明显。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -953,8 +953,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "**题材趋势**：民俗悬疑类题材表现稳健，以第一人称叙述的“职业化”诡事流（如捞尸人、接阴婆）依然是市场核心驱动力。\n**读者偏好**：读者热衷于带有浓厚乡土气息的诡异设定，通过单元剧式的故事结构满足对猎奇心理的探索需求。\n**变动解读**：本月榜单格局高度固化，头部作品热度极高且排名无波动，显示该赛道存量市场竞争壁垒深厚。\n**值得关注**：在题材同质化背景下，如何通过差异化的“职业背景”或更具沉浸感的叙事手法实现破局是关键。",
-        "ai_source": "ai"
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1030,8 +1030,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "**题材趋势**：校园题材已全面向“重生+恋爱养成”转型，核心卖点集中在弥补青春遗憾与商业逆袭的叠加红利。\n**读者偏好**：读者倾向于甜宠向的恋爱日常，带有“商业帝国”属性的爽点设定能有效提升读者的阅读获得感。\n**变动解读**：榜单呈现高度稳定的“恋爱+重生”双核驱动，市场对纯热血竞技类内容的需求被情感向内容大幅挤压。\n**值得关注**：建议关注如何将“校园情感”与“时代红利”更紧密地结合，以满足读者对于人生逆袭的深层幻想。",
-        "ai_source": "ai"
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1100,20 +1100,21 @@
       "count": 2,
       "total_heat": 5831000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "重回77：我靠赶猎抓鱼，一人养三家",
-            "book_id": 9992436
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "重回77：我靠赶猎抓鱼，一人养三家",
+            "book_id": 9992436,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "**题材趋势**：年代文与乡村生活类题材深度融合，以“重生+物资匮乏时代+技能致富”为核心的叙事模式已成为标配。\n**读者偏好**：读者偏爱强代入感的家庭经营逻辑，尤其是融合情感纠葛（如多女主设定）与生存挑战的复合型爽文。\n**变动解读**：新书《重回77》成功上榜，反映出市场对于“重生年代+多线情感”题材的持续渴求，榜单流动性优于其他类目。\n**值得关注**：此类题材的生命力在于对生活细节的还原与主角从贫穷到富足的阶层跨越，应继续深耕年代背景下的生存爽点。",
-        "ai_source": "ai"
+        "summary": "「乡村生活」《重回77：我靠赶猎抓鱼，一人养三家》下滑1位。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1141,12 +1142,12 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "乡村生活"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "title": "重回77：我靠赶猎抓鱼，一人养三家",
           "book_id": 9992436,
           "url": "https://www.qimao.com/shuku/9992436/",
@@ -1167,9 +1168,9 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
           "latest_chapter": " 第899章  大结局",
           "updated_at": "2026-09-13 22:29:08",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": true,
           "category": "乡村生活"
@@ -1189,8 +1190,8 @@
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "**题材趋势**：传统逆袭文仍占据市场基石地位，强调从底层屈辱到巅峰权势的强反差叙事。\n**读者偏好**：读者热衷于“受辱-抗争-逆袭”的爽感闭环，尤其偏爱带有家庭伦理冲突与情感纠葛的草根崛起题材。\n**变动解读**：本期榜单稳定性极高，头部作品热度稳固，显示该题材在完结库中拥有长线的留存价值与用户粘性。\n**值得关注**：在缺乏新作冲击的情况下，此类题材需警惕同质化，建议挖掘更具时代感的逆袭触发点。",
-        "ai_source": "ai"
+        "summary": "「都市生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
       },
       "books": [
         {
@@ -1225,6 +1226,59 @@
       ]
     },
     {
+      "name": "现代军事",
+      "major": "军事",
+      "count": 1,
+      "total_heat": 2602000,
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」新上榜 《让你带问题女兵，你全养成特种兵王了？》。",
+        "ai_source": "rule"
+      },
+      "books": [
+        {
+          "rank": 17,
+          "title": "让你带问题女兵，你全养成特种兵王了？",
+          "book_id": 2091811,
+          "url": "https://www.qimao.com/shuku/2091811/",
+          "author": "大知咸咸",
+          "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A7%E7%9F%A5%E5%92%B8%E5%92%B8_14/",
+          "major": "军事",
+          "minor": "现代军事",
+          "major_id": 60,
+          "minor_id": 61,
+          "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+          "status": "连载中",
+          "word_count_text": "181.06万字",
+          "word_count": 1810600,
+          "heat": 2602000,
+          "platform_trend": "rise",
+          "badge": "最新上榜",
+          "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
+          "latest_chapter": " 第835章  壮媳妇儿也要见公婆",
+          "updated_at": "2026-09-17 09:07:08",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": true,
+          "boards_count": 2,
+          "stale_update": false,
+          "category": "现代军事"
+        }
+      ]
+    },
+    {
       "name": "末世危机",
       "major": "科幻",
       "count": 1,
@@ -1235,14 +1289,20 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "**题材趋势**：末世元素叠加游戏化设定，强调“杀伐果断”的极端生存美学，是目前网文市场的主流高压爽文类型。\n**变动解读**：榜单呈现固化状态，头部作品热度稳定，反映出成熟读者对末世生存逻辑的深度认同。\n**读者偏好**：读者倾向于在末日背景下追求极致的生存掌控感，对“杀戮”与“重生”的设定有天然的爽点映射。\n**值得关注**：IP联动（如漫画改编）是延长作品生命周期的重要手段，该作的跨媒介推广模式值得行业借鉴。",
-        "ai_source": "ai"
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 17,
+          "rank": 18,
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
           "url": "https://www.qimao.com/shuku/219542/",
@@ -1263,7 +1323,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -1279,15 +1339,9 @@
       "total_heat": 2299000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 1,
+        "dropped_count": 0,
         "new_books": [],
-        "dropped_books": [
-          {
-            "title": "被关女子监狱三年，我修炼成仙了",
-            "book_id": 1697715,
-            "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
-          }
-        ],
+        "dropped_books": [],
         "top_risers": [],
         "top_fallers": [
           {
@@ -1297,12 +1351,12 @@
           }
         ],
         "heat_leaders": [],
-        "summary": "**题材趋势**：以“下山入世”为核心框架的都市修仙/异能文，依然是都市赛道的主力军，注重强社交与后宫向的互动。\n**读者偏好**：用户追求快节奏的“反差萌”与“被动受宠”式的爽感，对师徒情结及女性角色的高频互动有强烈偏好。\n**变动解读**：榜单出现小幅洗牌，经典战神/修仙题材流出，说明读者审美开始向更轻松、更具生活气息的“都市爽文”倾斜。\n**值得关注**：此类题材的生命周期管理需注意后劲，避免因单一的套路重复导致完结榜排名的持续下行。",
-        "ai_source": "ai"
+        "summary": "「都市高手」《下山后，漂亮姐姐蠢蠢欲动》下滑1位。",
+        "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 19,
+          "rank": 20,
           "title": "下山后，漂亮姐姐蠢蠢欲动",
           "book_id": 2053900,
           "url": "https://www.qimao.com/shuku/2053900/",
@@ -1331,74 +1385,20 @@
           "category": "都市高手"
         }
       ]
-    },
-    {
-      "name": "商战职场",
-      "major": "都市",
-      "count": 1,
-      "total_heat": 2220000,
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "极品女神赖上我",
-            "book_id": 2012529,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [],
-        "summary": "**题材趋势** 题材高度集中于“短剧+网文”联动模式，强反差、快节奏的都市爽文仍是该细分领域的主流形态。\n**读者偏好** 读者偏好具有强冲突性、高爽感的都市情感类职场故事，尤其青睐带有“逆袭”和“豪门”元素的叙事逻辑。\n**变动解读** 榜单缺乏新鲜血液，仅存的头部作品排名微调，反映出该类目在七猫平台处于存量竞争阶段，缺乏强有力的增量新书支撑。\n**值得关注** 关注短剧IP转化对榜单的影响力，此类作品依赖影视宣发热度，需警惕单一作品过度依赖短剧流量带来的市场波动。",
-        "ai_source": "ai"
-      },
-      "books": [
-        {
-          "rank": 20,
-          "title": "极品女神赖上我",
-          "book_id": 2012529,
-          "url": "https://www.qimao.com/shuku/2012529/",
-          "author": "陈行者",
-          "author_url": "https://www.qimao.com/zuozhe/%E9%99%88%E8%A1%8C%E8%80%85_14/",
-          "major": "都市",
-          "minor": "商战职场",
-          "major_id": 203,
-          "minor_id": 221,
-          "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "297.07万字",
-          "word_count": 2970700,
-          "heat": 2220000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
-          "latest_chapter": " 第829章  千帆尽处，般若归远",
-          "updated_at": "2026-08-15 14:22:08",
-          "rank_change": -1,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 1,
-          "stale_update": true,
-          "category": "商战职场"
-        }
-      ]
     }
   ],
   "stats": {
     "total_books": 20,
     "new_count": 1,
     "dropped_count": 1,
-    "avg_heat": 3906200,
-    "total_heat": 78124000,
+    "avg_heat": 3925300,
+    "total_heat": 78506000,
     "first_day": false
   },
   "keywords": [
     {
       "word": "穿越",
-      "count": 6
+      "count": 7
     },
     {
       "word": "重生",
@@ -1423,6 +1423,10 @@
     {
       "word": "都市高武",
       "count": 3
+    },
+    {
+      "word": "兵王",
+      "count": 2
     },
     {
       "word": "万界",

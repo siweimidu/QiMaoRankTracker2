@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -16,25 +16,13 @@
     "total_heat": 4345000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "六扇门第一悍捕",
-          "book_id": 11988894,
-          "intro": "意外穿越大夏王朝，秦动成为了大夏六扇门最底层的一个小小协捕。\n眼看深陷负债，相依为命的童养媳都差点受辱抵债下，他突然觉醒了满级悟性，只要看过功法便能领悟学会。\n至此他在六扇门都踏上了一条登天之路，从正"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：题材两极分化，既有深耕“凡人流”的扎实发育，也有侧重“时空纠葛”的网文新奇设定，整体向高概念和深沉叙事转型。\n**读者偏好**：读者审美呈现多元化，既青睐传统“补天炉”带来的成长爽感，也愿意为“盗梦千年”这种带有历史宿命感和悬疑色彩的差异化叙事买单。\n**变动解读**：榜单流动性较低，头部效应明显，《盗梦千年》以高热度占据绝对领先地位，显示出精品化内容对读者的强留存作用。\n**值得关注**：凡人流作品《聚宝仙炉》通过“补全万物”的简单粗暴爽点实现排名上涨，验证了即便在修真领域，直观的资源获取快感依然是核心驱动力。",
+      "summary": "**题材趋势**：呈现“双强宿命流”与“凡人种田流”两极分化的特点，侧重于金手指带来的成长快感与宏大叙事。\n**读者偏好**：读者更倾向于具备深层设定（如时间跨越、历史重构）或扎实成长线（如补天炉带来的资源积累）的作品，追求阅读的沉浸感。\n**变动解读**：榜单极度精简，两部作品热度差异显著，头部《盗梦千年》以独特的“古今联动”设定稳居榜首，市场缺乏新鲜血液。\n**值得关注**：《盗梦千年》的叙事结构较传统修真更具文学性，其“改写历史”的设定是目前提升竞争力的重要差异化方向。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,15 +39,15 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.36万字",
-        "word_count": 443600,
+        "word_count_text": "44.78万字",
+        "word_count": 447800,
         "heat": 2990000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第194章  破阵",
-        "updated_at": "2026-09-17 07:01:09",
+        "latest_chapter": " 第196章  等待",
+        "updated_at": "2026-09-18 07:01:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -80,16 +68,16 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.39万字",
-        "word_count": 443900,
+        "word_count_text": "44.81万字",
+        "word_count": 448100,
         "heat": 1355000,
         "platform_trend": "rise",
         "badge": "飙升16名",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第211章  灭宗之危",
-        "updated_at": "2026-09-16 23:45:03",
-        "rank_change": 1,
+        "latest_chapter": " 第213章  大战起！",
+        "updated_at": "2026-09-17 22:41:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,

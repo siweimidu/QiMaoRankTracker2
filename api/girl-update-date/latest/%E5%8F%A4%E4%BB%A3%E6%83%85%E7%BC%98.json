@@ -8,72 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "春闺小寡妇",
+          "book_id": 12644022,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "rank_change": -1
-        },
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "heat_change": -3
+          "heat_change": 2
+        },
+        {
+          "title": "春闺小寡妇",
+          "book_id": 12644022,
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：悬疑灵异与宅斗伦理题材占据核心位置，强冲突、重人设的快节奏叙事仍是该品类的主流方向。\n**读者偏好**：读者倾向于“人鬼殊途”的诡谲探案及“守寡借种”等带有强禁忌感、反传统道德的虐恋剧情。\n**变动解读**：本期榜单缺乏新鲜血液注入，现有书籍排名持续下滑且热度萎缩，显示出该细分赛道近期内容迭代乏力，用户留存面临挑战。\n**值得关注**：建议创作者在“古言+”的融合创新上寻求突破，避免剧情同质化，尝试引入更具差异化的元素以拉升疲软的热度。",
+      "summary": "**题材趋势**：传统宅斗与灵异悬疑元素跨界融合，强调强冲突与极致人设。\n**读者偏好**：偏好“高岭之花”被拉下神坛的禁忌感，以及男女主强强联手、身份互补的剧情流互动。\n**变动解读**：头部书目波动显著，冷门奇幻背景作品虽有热度优势但排名下滑，现实向宅斗文回暖趋势明显。\n**值得关注**：《春闺小寡妇》凭借经典的“借种/禁忌”钩子，在互动性上展现出更强的用户黏性与上升势头。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 12,
-        "title": "皇妃来自地府，百鬼退散",
-        "book_id": 10374897,
-        "url": "https://www.qimao.com/shuku/10374897/",
-        "author": "月漠",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E6%BC%A0_14/",
-        "major": "古代言情",
-        "minor": "古代情缘",
-        "major_id": 2,
-        "minor_id": 216,
-        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "111.9万字",
-        "word_count": 1119000,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第537章  金佛",
-        "updated_at": "2026-09-16 14:47:06",
-        "rank_change": -1,
-        "heat_change": -3,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "古代情缘"
-      },
-      {
-        "rank": 14,
         "title": "春闺小寡妇",
         "book_id": 12644022,
         "url": "https://www.qimao.com/shuku/12644022/",
@@ -85,19 +62,48 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.48万字",
-        "word_count": 314800,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "31.9万字",
+        "word_count": 319000,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第146章  什么时候攀上了裴二爷？",
-        "updated_at": "2026-09-16 22:10:05",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第148章  孩子生得像他",
+        "updated_at": "2026-09-17 22:04:04",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 15,
+        "title": "皇妃来自地府，百鬼退散",
+        "book_id": 10374897,
+        "url": "https://www.qimao.com/shuku/10374897/",
+        "author": "月漠",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E6%BC%A0_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "113.11万字",
+        "word_count": 1131100,
+        "heat": 3,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
+        "latest_chapter": " 第543章  鬼哭狼嚎",
+        "updated_at": "2026-09-18 01:47:06",
+        "rank_change": -3,
+        "heat_change": 2,
+        "is_new": false,
+        "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:36:41",
-  "date": "2026-09-17",
+  "generated_at": "2026-09-18T07:25:57",
+  "date": "2026-09-18",
   "authors": [
     {
       "author": "化十",
@@ -40,7 +40,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 3772002,
+      "total_heat": 3772001,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
@@ -58,22 +58,11 @@
       ]
     },
     {
-      "author": "咸鱼老白",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
-      "books": 2,
-      "boards": 3,
-      "total_heat": 2990006,
-      "titles": [
-        "众仙俯首",
-        "盗梦千年"
-      ]
-    },
-    {
       "author": "罗樵森",
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2605002,
+      "total_heat": 2605000,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -84,7 +73,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%8C%87%E5%B0%96%E4%B8%8A%E7%9A%84%E8%A1%8C%E8%B5%B0_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 539000,
+      "total_heat": 542000,
       "titles": [
         "将军她是引渡人",
         "王妃她是引渡人"
@@ -308,6 +297,16 @@
       "total_heat": 10015000,
       "titles": [
         "随母改嫁旺新家，重生嫡女嘎嘎乱杀"
+      ]
+    },
+    {
+      "author": "随山月",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
+      "books": 1,
+      "boards": 4,
+      "total_heat": 9871000,
+      "titles": [
+        "解春衫"
       ]
     }
   ]

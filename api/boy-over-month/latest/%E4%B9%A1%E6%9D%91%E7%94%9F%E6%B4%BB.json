@@ -8,27 +8,28 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
     "total_heat": 5831000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "重回77：我靠赶猎抓鱼，一人养三家",
-          "book_id": 9992436
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重回77：我靠赶猎抓鱼，一人养三家",
+          "book_id": 9992436,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：年代文与乡村生活类题材深度融合，以“重生+物资匮乏时代+技能致富”为核心的叙事模式已成为标配。\n**读者偏好**：读者偏爱强代入感的家庭经营逻辑，尤其是融合情感纠葛（如多女主设定）与生存挑战的复合型爽文。\n**变动解读**：新书《重回77》成功上榜，反映出市场对于“重生年代+多线情感”题材的持续渴求，榜单流动性优于其他类目。\n**值得关注**：此类题材的生命力在于对生活细节的还原与主角从贫穷到富足的阶层跨越，应继续深耕年代背景下的生存爽点。",
-      "ai_source": "ai"
+      "summary": "「乡村生活」《重回77：我靠赶猎抓鱼，一人养三家》下滑1位。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -56,12 +57,12 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "乡村生活"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "重回77：我靠赶猎抓鱼，一人养三家",
         "book_id": 9992436,
         "url": "https://www.qimao.com/shuku/9992436/",
@@ -82,9 +83,9 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
         "latest_chapter": " 第899章  大结局",
         "updated_at": "2026-09-13 22:29:08",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "乡村生活"

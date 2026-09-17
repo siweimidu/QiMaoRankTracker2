@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-18",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 3925300,
+    "total_heat": 78506000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：种田经营、争霸与权谋流派占据主流，展现了架空历史题材在七猫平台极高的稳定性与长尾效应。\n**读者偏好**：读者热衷于“从零开始”的开局，偏好主角通过囤积资源、军事扩张或利用现代思维破局的爽感，且对“多女主/家庭经营”元素接受度极高。\n**变动解读**：本期榜单呈现高度固化状态，无新书入驻或排名更迭，说明头部作品口碑与粉丝粘性极强，形成了稳固的流量壁垒。\n**值得关注**：榜单中多部作品已完成IP多元化开发（有声书、短剧），显示出该类书籍在版权衍生市场的核心竞争力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：以“废柴逆袭”与“天赋觉醒”为核心驱动力，强调快节奏的升级体验与极致的战力碾压。\n**读者偏好**：读者倾向于带有外挂系统（如秘境、神秘小塔）的爽文，同时对“娘胎悟道”、“女帝/多女主”等具有冲突性与反差感的设定表现出强烈兴趣。\n**变动解读**：榜单结构维持原状，头部流量高度集中在《荒古武神》等老牌精品上，市场竞争进入存量博弈阶段。\n**值得关注**：快节奏叙事与情感冲突（如红颜背刺、炉鼎设定）的结合，是当前该品类吸引读者的关键切入点。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：融合了都市生活、医疗异能与无敌流元素，强烈的复仇与情感纠葛构成了故事的核心张力。\n**读者偏好**：读者偏好“下山退婚”、“医武双绝”等经典套路，追求身份反差带来的社会地位提升感及爽快的打脸情节。\n**变动解读**：本期榜单保持零变动，反映出都市高武类作品在七猫平台拥有极强的读者基本盘和高度统一的阅读预期。\n**值得关注**：短剧化改编已成为该品类作品的标配，通过短剧引流反哺网文阅读的闭环效应在榜单中表现明显。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重回77：我靠赶猎抓鱼，一人养三家",
+            "book_id": 9992436,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「乡村生活」《重回77：我靠赶猎抓鱼，一人养三家》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」新上榜 《让你带问题女兵，你全养成特种兵王了？》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "下山后，漂亮姐姐蠢蠢欲动",
+            "book_id": 2053900,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高手」《下山后，漂亮姐姐蠢蠢欲动》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

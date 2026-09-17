@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "现代军事",
     "major": "军事",
@@ -19,66 +19,27 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
           "rank_change": -1
-        },
-        {
-          "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542,
-          "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "四次入伍，我被军区拉进黑名单！",
-          "book_id": 12179937,
-          "heat_change": -1
-        },
-        {
-          "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542,
-          "heat_change": -1
-        }
-      ],
-      "summary": "**题材趋势**：军事题材目前处于存量盘整期，内容侧重于“兵王/特种兵”与“爽文套路”的深度结合。\n**读者偏好**：读者倾向于带有反差萌的“刺头兵”设定或基于身份置换（如状元参军）带来的强打脸快感。\n**变动解读**：榜单整体热度回落，缺乏新晋爆款支撑，现有作品排名同步下滑，反映出该品类近期受众活跃度有所降温。\n**值得关注**：需观察后续是否会有主打“强军强国”或“高科技战争”的新作入局以打破当前的题材固化。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：题材趋向“强冲突、快节奏”的爽文模式，融合了高考逆袭与军营兵王叙事。\n**读者偏好**：读者更青睐带有强烈身份反差、情绪宣泄以及“系统加持”的成长型爽文。\n**变动解读**：两本作品在极小区间内互换排名，反映出该细分赛道近期缺乏新爆款冲击，存量竞争激烈。\n**值得关注**：兼具“复仇打脸”与“军旅荣誉”双重快感的作品，仍是目前该类目的核心驱动力。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 15,
-        "title": "四次入伍，我被军区拉进黑名单！",
-        "book_id": 12179937,
-        "url": "https://www.qimao.com/shuku/12179937/",
-        "author": "因果逆转",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%A0%E6%9E%9C%E9%80%86%E8%BD%AC_14/",
-        "major": "军事",
-        "minor": "现代军事",
-        "major_id": 60,
-        "minor_id": 61,
-        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "94.73万字",
-        "word_count": 947300,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
-        "latest_chapter": " 第424章  像林毅一样牛逼！支棱起来！",
-        "updated_at": "2026-09-16 08:51:08",
-        "rank_change": -1,
-        "heat_change": -1,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "现代军事"
-      },
-      {
-        "rank": 16,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -90,19 +51,48 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.2万字",
-        "word_count": 392000,
+        "word_count_text": "39.81万字",
+        "word_count": 398100,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第152章  捐款！复员？给我一个小时！",
-        "updated_at": "2026-09-17 00:12:17",
-        "rank_change": -1,
-        "heat_change": -1,
+        "latest_chapter": " 第155章  系统，你不对劲啊！",
+        "updated_at": "2026-09-18 00:12:14",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "现代军事"
+      },
+      {
+        "rank": 16,
+        "title": "四次入伍，我被军区拉进黑名单！",
+        "book_id": 12179937,
+        "url": "https://www.qimao.com/shuku/12179937/",
+        "author": "因果逆转",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%A0%E6%9E%9C%E9%80%86%E8%BD%AC_14/",
+        "major": "军事",
+        "minor": "现代军事",
+        "major_id": 60,
+        "minor_id": 61,
+        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "95.57万字",
+        "word_count": 955700,
+        "heat": 1,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
+        "latest_chapter": " 第428章  临死才算当了个人！",
+        "updated_at": "2026-09-17 08:51:05",
+        "rank_change": -1,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "现代军事"
       }

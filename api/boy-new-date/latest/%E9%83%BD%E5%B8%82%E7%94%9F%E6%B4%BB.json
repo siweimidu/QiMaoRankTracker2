@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 24000,
+    "total_heat": 28000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代重生文热度持续，尤其是结合东北背景与生存困境的“复仇+极品打脸”题材，依然是都市生活类的核心增长点。\n**读者偏好**：读者倾向于强冲突叙事，特别是针对“白莲花/吸血亲戚”进行反击的爽文模式，具有极高的阅读黏性。\n**变动解读**：新书《暴雪1962，绝美邻居上门求肉》以24000热度入局，显示出此类题材在七猫平台拥有稳固的受众基本盘。\n**值得关注**：关注此类“年代+反击”叙事在后续剧情中如何通过物资积累与邻里博弈来维持爽点节奏。",
+      "heat_leaders": [
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "**题材趋势**：年代文赛道热度持续攀升，尤其是结合“重生+复仇+物资经营”的强冲突叙事，仍具有极高用户粘性。\n**读者偏好**：读者倾向于阅读具备强烈情绪宣泄、反转逆袭以及怀旧氛围的作品，尤其是针对“白莲花”打脸的剧情反馈极佳。\n**变动解读**：本期榜单格局稳固，头部作品《暴雪1962》热度稳步增长4000，显示出该题材在腰部区间的长尾效应显著。\n**值得关注**：在同质化竞争中，精准捕捉“邻里矛盾+生存困境”的题材依然是七猫都市板块的流量压舱石。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.02万字",
-        "word_count": 280200,
-        "heat": 24000,
+        "word_count_text": "28.66万字",
+        "word_count": 286600,
+        "heat": 28000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第126章  权宜之计！",
-        "updated_at": "2026-09-16 15:45:02",
+        "latest_chapter": " 第129章  张主任震惊，还买三轮了？",
+        "updated_at": "2026-09-17 21:59:03",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

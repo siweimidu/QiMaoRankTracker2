@@ -8,19 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 324000,
+    "total_heat": 322000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
@@ -28,12 +34,12 @@
           "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台维持稳定占位，具备较强的读者黏性。\n**读者偏好**：受众偏好“开局破局”类爽点，尤其是具备底层逆袭与重塑世道格局的强人设作品。\n**变动解读**：本期榜单处于存量博弈状态，头部作品热度微降，反映出该品类近期缺乏强力新作冲击。\n**值得关注**：需警惕榜单活跃度下滑风险，后续应观察是否有具备更强视觉冲击力或快节奏爽点的争霸题材新书入场。",
+      "summary": "**题材趋势**：穿越背景下的草根逆袭题材，融合了武道元素与乱世争霸，具有较强的网文爽文属性。\n**读者偏好**：读者偏好“开局破局”的强冲突剧情，对主角从底层杂役通过武力改变世道的权力进阶感较为买单。\n**变动解读**：当前排名微降且热度小幅回调，反映出在单一作品支撑的类目下，市场热度存在一定的波动性。\n**值得关注**：该作品的后续剧情能否持续输出“变天”的爽点，是维持榜单地位的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -45,16 +51,16 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "209.89万字",
-        "word_count": 2098900,
-        "heat": 324000,
+        "word_count_text": "210.59万字",
+        "word_count": 2105900,
+        "heat": 322000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第971章  请巡天镜",
-        "updated_at": "2026-09-16 19:31:09",
-        "rank_change": 0,
+        "latest_chapter": " 第974章  诡异邪修",
+        "updated_at": "2026-09-17 22:57:08",
+        "rank_change": -1,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,

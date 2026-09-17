@@ -8,28 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 4,
+    "total_heat": 14,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "我才五岁，怎么就成军区团宠了",
-          "book_id": 12134931,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
+          "rank_change": -11
+        },
+        {
+          "title": "我才五岁，怎么就成军区团宠了",
+          "book_id": 12134931,
           "rank_change": -3
         }
       ],
@@ -37,44 +36,20 @@
         {
           "title": "一胎五宝，我成军属院顶流",
           "book_id": 12655653,
+          "heat_change": 8
+        },
+        {
+          "title": "我才五岁，怎么就成军区团宠了",
+          "book_id": 12134931,
           "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：聚焦于“军婚”与“萌宝”元素，强调反差感与极端的家庭关系对抗。\n**读者偏好**：读者青睐“多胞胎/团宠”设定带来的强爽感，以及重生后精准改变命运、虐杀极品亲戚的复仇叙事。\n**变动解读**：榜单竞争格局紧凑，书籍排名波动反映了读者对“大女主事业线”与“萌娃成长线”审美偏好的动态平衡。\n**值得关注**：《一胎五宝，我成军属院顶流》虽排名下行，但热度依然占比较大，显示出此类强设定题材的读者粘性。",
+      "summary": "**题材趋势**：年代文赛道高度聚焦于“军婚+萌宝”设定，通过“穿书”或“重生”改变命运线是当前绝对的主流逻辑。\n**读者偏好**：读者极度偏好极致反差，如“顶流穿成炮灰”或“五岁幼童成团宠”，此类设定能快速激发读者的保护欲与爽感。\n**变动解读**：尽管两本书排名均有下滑，但《一胎五宝，我成军属院顶流》热度增长显著，属于高热度梯队，显示该类作品具有极强的粉丝留存能力。\n**值得关注**：该小类竞争极度饱和，高热度作品呈现“头部垄断”趋势，题材差异化将是后续突围的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
-        "title": "一胎五宝，我成军属院顶流",
-        "book_id": 12655653,
-        "url": "https://www.qimao.com/shuku/12655653/",
-        "author": "喵晓柒",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%96%B5%E6%99%93%E6%9F%92_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "37.53万字",
-        "word_count": 375300,
-        "heat": 3,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第164章  摇曳生姿！",
-        "updated_at": "2026-09-16 11:27:03",
-        "rank_change": -3,
-        "heat_change": 2,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "title": "我才五岁，怎么就成军区团宠了",
         "book_id": 12134931,
         "url": "https://www.qimao.com/shuku/12134931/",
@@ -86,19 +61,48 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "64.93万字",
-        "word_count": 649300,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "65.55万字",
+        "word_count": 655500,
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "上辈子，亲妈为了给继姐筹嫁妆把阮晓春嫁给了一个家暴屠夫，最后她被活生生折磨死了，而最终得来亲妈一句叹息。\n“和她那个早死的傻爹一样命不好。”\n这一世，阮晓春重生了，看着护着自己的傻爹红了眼睛。\n亲妈踩着傻爹的功勋获得好工作，做梦！\n她带着傻爹闹上了军区，是谁让英雄流血又流泪？\n夺回工作，补贴和房子，撕开出轨亲妈的虚伪面具。\n那么喜欢给别人当后妈，滚远点吧！\n后来，给别人当后妈的女人家里鸡飞狗跳，而带着傻爹生活的小春宝却过得风生水起。\n“听说了吗？小春帮忙破了几十个人的盗窃团队！”\n“什么？不是说小春帮忙公安抓到了杀了五人的江洋大盗？”\n“你们这些消息都过时了，我听说公安部的亲自来聘请小春当专家，工资一年有一千块！！！”\n“不对！你们不知道阮家的傻子爹不傻了，还成了刑警呢！”\n一旁买菜路过的阮老太昂首挺胸：“是我家乖乖孙女哟~”\n众人酸溜溜：“......”\n这阮家真是走了狗屎运了，祖坟是装了原子弹吗，还带这么冒烟的？？\n原女主的亲妈：为什么？明明上辈子不是这样的，到底哪里出错了？\n休眠回来的系统：说好的犯罪大师培养系统，你跟我说你现在当条子老大了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4045/12134931_360x480.jpg?time=1780556689",
-        "latest_chapter": " 第236章  当天真相是什么",
-        "updated_at": "2026-09-17 00:02:14",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第238章  吃人闺蜜",
+        "updated_at": "2026-09-18 00:02:15",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 16,
+        "title": "一胎五宝，我成军属院顶流",
+        "book_id": 12655653,
+        "url": "https://www.qimao.com/shuku/12655653/",
+        "author": "喵晓柒",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%96%B5%E6%99%93%E6%9F%92_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.15万字",
+        "word_count": 381500,
+        "heat": 11,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
+        "latest_chapter": " 第166章  哦，你应该不知道，第一名是陆瑶同志！",
+        "updated_at": "2026-09-17 10:57:03",
+        "rank_change": -11,
+        "heat_change": 8,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "年代重生"
       }

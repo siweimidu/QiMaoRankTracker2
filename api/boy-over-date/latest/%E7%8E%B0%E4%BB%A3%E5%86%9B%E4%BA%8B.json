@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-over-date",
+    "name": "男生完结日榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-18",
+  "category": {
+    "name": "现代军事",
+    "major": "军事",
+    "count": 1,
+    "total_heat": 65000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "让你带问题女兵，你全养成特种兵王了？",
+          "book_id": 2091811
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：军事题材正向“反差养成”方向演变，通过特定群体（如“问题女兵”）的训练成长构建爽点。\n**读者偏好**：读者对军事题材的期待已从单纯的战场杀戮转向“军旅+养成+反差感”的多元复合体验，尤其是带有教官视角的调教养成更受欢迎。\n**变动解读**：作为新上榜作品，展现了极强的切入潜力，在完结日榜中占据一席之地，说明该类垂直细分题材在完结期依然有广泛受众。\n**值得关注**：以“带兵/训练”为核心的养成向军事文，在当前市场环境下具备较强的差异化竞争优势。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 17,
+        "title": "让你带问题女兵，你全养成特种兵王了？",
+        "book_id": 2091811,
+        "url": "https://www.qimao.com/shuku/2091811/",
+        "author": "大知咸咸",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A7%E7%9F%A5%E5%92%B8%E5%92%B8_14/",
+        "major": "军事",
+        "minor": "现代军事",
+        "major_id": 60,
+        "minor_id": 61,
+        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "181.06万字",
+        "word_count": 1810600,
+        "heat": 65000,
+        "platform_trend": "drop",
+        "badge": "最新上榜",
+        "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
+        "latest_chapter": " 第835章  壮媳妇儿也要见公婆",
+        "updated_at": "2026-09-17 09:07:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "现代军事"
+      }
+    ]
+  }
+}

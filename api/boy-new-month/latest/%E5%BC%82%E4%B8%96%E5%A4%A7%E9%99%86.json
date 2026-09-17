@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
     "total_heat": 364000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "从野狗开始一路修仙",
-          "book_id": 12451830
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：异世修仙类题材持续向“非人开局”与“生存进化”方向分化，弱化传统升级模式，强调生存博弈。\n**读者偏好**：读者偏好“怂萌”主角的成长史，对于“苟道发育”与“血脉进化”类设定有极高的参与热情。\n**变动解读**：新书《从野狗开始一路修仙》上榜，反映了读者对“从底层妖兽到巅峰强者”这一反差路径的追捧。\n**值得关注**：非人主角的代入感构建，以及在极度弱势开局下如何平滑过渡至“纵横天下”的节奏把控。",
+      "summary": "**题材趋势**：异世大陆类作品正向“非人类主角”与“稳健发育流”演变，强调弱肉强食环境下的生存智慧。\n**读者偏好**：受众偏好“从底层进化”的成长反馈，对主角通过谨慎发育、闷头变强并最终实现阶级跨越的剧情有较高代入感。\n**变动解读**：榜单本期无变动，说明此类题材目前的竞争门槛较高，单一爆款作品具备较强的长尾效应。\n**值得关注**：关注“进化路线”是否会从传统的修仙体系向更多元化的异兽或规则系进化演变，以增加读者新鲜感。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.22万字",
-        "word_count": 472200,
+        "word_count_text": "47.84万字",
+        "word_count": 478400,
         "heat": 364000,
         "platform_trend": "rise",
         "badge": "飙升51名",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第202章  碧莲瓶",
-        "updated_at": "2026-09-16 17:23:03",
+        "latest_chapter": " 第205章  挡了一灾",
+        "updated_at": "2026-09-17 16:07:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "异世大陆"

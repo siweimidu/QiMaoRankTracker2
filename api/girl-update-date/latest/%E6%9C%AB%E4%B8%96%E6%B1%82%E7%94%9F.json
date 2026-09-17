@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 6,
+    "total_heat": 0,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "破洞小木屋求生指南",
-          "book_id": 9955719
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：全民生存类游戏文热度不减，通过极端天气叠加求生挑战，构建高压且具有极强代入感的阅读环境。\n**读者偏好**：读者青睐“隐藏提示”与“资源升级”类设定，追求在有限空间内（如木屋）完成从弱到强的经营与进化。\n**变动解读**：该品类处于内容爆发期，新书上榜即获高热度，印证了“求生+经营”模式在当前平台用户群体中的高转化率。\n**值得关注**：作品的漫改背景为IP价值提供了背书，建议关注此类具备跨媒介潜力、核心卖点明确的轻量级生存爽文。",
+      "heat_leaders": [
+        {
+          "title": "破洞小木屋求生指南",
+          "book_id": 9955719,
+          "heat_change": -6
+        }
+      ],
+      "summary": "**题材趋势**：以“全民求生”为核心架构，强调极端环境下的生存挑战与资源积累快感。\n**读者偏好**：读者对硬核生存规则与系统提示类的爽点需求明确，但对单调的重复性情节耐受度降低。\n**变动解读**：榜单活力不足，核心作品热度出现大幅缩水，说明存量内容在缺乏强更新刺激下，留存压力激增。\n**值得关注**：该题材正进入成熟期后的疲软阶段，需关注具备“漫剧联动”背景的作品如何通过跨媒介营销实现用户唤回。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "128.37万字",
-        "word_count": 1283700,
-        "heat": 6,
-        "platform_trend": "rise",
+        "word_count_text": "128.98万字",
+        "word_count": 1289800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第618章  高情商",
-        "updated_at": "2026-09-16 23:07:07",
+        "latest_chapter": " 第621章  北塔",
+        "updated_at": "2026-09-17 23:21:07",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -6,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世求生"
