@@ -8,29 +8,29 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 4,
-    "total_heat": 89000,
+    "count": 2,
+    "total_heat": 54000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 0,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 2,
+      "new_books": [],
+      "dropped_books": [
+        {
+          "title": "盲婚",
+          "book_id": 12475164,
+          "intro": "司遇行眼盲时，姜荷嫁给他。他复明时，她却被迫离婚。\n得知怀孕，她抱有一丝奢望，被绑架时向他求救，他在为其他女人忙碌，语调不耐：\n“姜荷，被绑架能自如用手机？你装过了。”\n他说：“过来道歉，否则永远别出"
+        },
         {
           "title": "暗恋姜医生的第十年，她离婚了",
-          "book_id": 12860100
+          "book_id": 12860100,
+          "intro": "【女非男c，前夫追妻火葬场+男主暗恋又争又抢】\n姜知一直觉得，和季予彻的这段婚姻，开始得有多热烈真挚，结束得就有多惨烈可笑。\n而过程，便如钝刀割肉。\n从抽皮剥骨的疼，到最后，她终于变得麻木不仁。\n于是"
         }
       ],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "抛妻弃子后，薄总低声诱哄求复合",
-          "book_id": 12497535,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [
         {
           "title": "青梅消失五年后，顾医生再度失控",
@@ -43,19 +43,9 @@
           "title": "抛妻弃子后，薄总低声诱哄求复合",
           "book_id": 12497535,
           "heat_change": 2000
-        },
-        {
-          "title": "青梅消失五年后，顾医生再度失控",
-          "book_id": 12855951,
-          "heat_change": 1000
-        },
-        {
-          "title": "盲婚",
-          "book_id": 12475164,
-          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：虐恋情深与“追妻火葬场”仍是赛道核心，破镜重圆、隐婚及带球跑等经典桥段持续占据头部流量。\n**读者偏好**：读者对高压力的情感拉扯与男主后期卑微挽回的“爽感”有极高黏性，尤其偏好具有强烈冲突感（如失明、失踪、误会）的开篇。\n**变动解读**：榜单整体格局稳定，新书《暗恋姜医生的第十年，她离婚了》凭借鲜明的“女非男C”标签切入市场，说明细分人设差异化正成为获客关键。\n**值得关注**：《抛妻弃子后，薄总低声诱哄求复合》热度增长最快，显示“虐妻一时爽，追妻火葬场”的情感反差节奏依然是拉升榜单排名的最有效手段。",
+      "summary": "**题材趋势**：破镜重圆与追妻火葬场仍是流量核心，强调虐心后的极致拉扯与男主的失控感。\n**读者偏好**：读者热衷于“隐婚/协议+白月光误会+怀孕流产”的强戏剧冲突，偏爱男主从冷漠到疯批求复合的心理反差。\n**变动解读**：榜单呈现固化趋势，新书准入难度加大，掉榜书籍多涉及暗恋与盲婚题材，显示读者对“虐恋深度”要求持续走高。\n**值得关注**：头部作品《抛妻弃子后，薄总低声诱哄求复合》热度稳步增长，证明“极致虐心+强制爱”的复合套路在当前市场仍具统治力。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,16 +62,16 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.68万字",
-        "word_count": 376800,
-        "heat": 26000,
+        "word_count_text": "38.08万字",
+        "word_count": 380800,
+        "heat": 28000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【破镜重圆+协议假夫妻+双向疯批抢婚】\n三年隐婚，宋今也以为他们双向奔赴。\n直到她怀孕，薄斯年冷脸让她打掉，转头却呵护备至地陪白月光宋昭昀去做产检。\n最终她痛失腹中孩子，心如死灰签下离婚协议，远赴国外。\n三年后，薄斯年跟宋昭昀婚期在即，她被逼回国相亲，却被他搅黄了。\n只因薄家老爷子病重失忆，只认她这个孙媳妇。他花重金与她签订协议，让她配合在爷爷面前演好假夫妻。并警告：演戏只做给爷爷看，别有非分之想。\n老爷子施压，二人被迫同居。同居照曝光于众，她被扣上“小三”、“勾引姐夫”的帽子，遭受无数非议。\n隐婚往事也被曝光，所有人都说薄斯年的真爱是白月光。骂她又争又抢，吃相难看。\n她只沉迷工作，单月两篇　SCI　顺利见刊，成为备受瞩目的科研大佬。\n半年协议到期，宋今也火速抽身走人。\n他却深夜堵在她门口，“明天我结婚，你来抢婚好吗？”\n宋今也一脸不感兴趣。\n他拿出一纸亲子鉴定，“女儿你也不要了？”\n宋今也僵住，女儿是她的？\n“姓薄的，把我女儿还我！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4166/12497535_360x480.jpg?time=1783928972",
-        "latest_chapter": " 第182章  所以，这才是结婚的意义",
-        "updated_at": "2026-09-17 20:39:04",
-        "rank_change": 2,
+        "latest_chapter": " 第184章  薄斯年是她的意难平",
+        "updated_at": "2026-09-18 22:27:03",
+        "rank_change": 0,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
@@ -89,7 +79,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "青梅消失五年后，顾医生再度失控",
         "book_id": 12855951,
         "url": "https://www.qimao.com/shuku/12855951/",
@@ -101,77 +91,19 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.89万字",
-        "word_count": 388900,
+        "word_count_text": "39.61万字",
+        "word_count": 396100,
         "heat": 26000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
-        "latest_chapter": " 第180章  全场消费顾主任买单",
-        "updated_at": "2026-09-17 08:12:07",
+        "latest_chapter": " 第183章  秦岳终于亲到了小棠",
+        "updated_at": "2026-09-18 08:12:07",
         "rank_change": -1,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 19,
-        "title": "盲婚",
-        "book_id": 12475164,
-        "url": "https://www.qimao.com/shuku/12475164/",
-        "author": "九九先生",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E4%B9%9D%E5%85%88%E7%94%9F_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "47.6万字",
-        "word_count": 476000,
-        "heat": 19000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "司遇行眼盲时，姜荷嫁给他。他复明时，她却被迫离婚。\n得知怀孕，她抱有一丝奢望，被绑架时向他求救，他在为其他女人忙碌，语调不耐：\n“姜荷，被绑架能自如用手机？你装过了。”\n他说：“过来道歉，否则永远别出现在我面前！”\n她选择后者，一夜之间消失得干干净净。\n*\n再回云城。\n她改头换面，却避无可避，数次与他交集。\n那个厌她入骨的男人，频频截住她，“你到底是谁？”\n*\n直到两人被困那个密闭、阴暗的地下室。\n他痛苦的呼吸抵着她的耳廓：\n“是不是我再瞎一次，你才肯承认？”\n她没辙了，“也不是不行。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4159/12475164_360x480.jpg?time=1783594859",
-        "latest_chapter": " 第230章  等她见我为止",
-        "updated_at": "2026-09-17 20:27:04",
-        "rank_change": 0,
-        "heat_change": -1000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 20,
-        "title": "暗恋姜医生的第十年，她离婚了",
-        "book_id": 12860100,
-        "url": "https://www.qimao.com/shuku/12860100/",
-        "author": "毛兮",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%AF%9B%E5%85%AE_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "24.5万字",
-        "word_count": 245000,
-        "heat": 18000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【女非男c，前夫追妻火葬场+男主暗恋又争又抢】\n姜知一直觉得，和季予彻的这段婚姻，开始得有多热烈真挚，结束得就有多惨烈可笑。\n而过程，便如钝刀割肉。\n从抽皮剥骨的疼，到最后，她终于变得麻木不仁。\n于是放过自己，跟他说：“我们离婚吧。”\n-\n后来。\n姜知再嫁。\n高朋满座之中，季予彻在最角落的位置。\n看她穿着全世界最贵的钻石婚纱，弯着他曾最熟悉的幸福笑容。\n和他最好的朋友。\n虔诚拥吻。\n宣誓相爱。\n永结连理。\n-\n沈清述最不甘心的，是错过年少时，曾热烈喜欢过他的女孩。\n明明是他，认识她更早。\n却也是他，见证她的恋爱，祝福她的婚姻。\n他以为自己会像一个变态，一辈子只能窥探她的幸福。\n可是后来。\n他终于，成为了给她幸福的人。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4287/12860100_360x480.jpg?time=1785660673",
-        "latest_chapter": " 第120章  没真碰她",
-        "updated_at": "2026-09-17 07:02:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       }

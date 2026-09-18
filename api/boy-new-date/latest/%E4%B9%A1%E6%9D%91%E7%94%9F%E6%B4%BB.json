@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 77000,
+    "total_heat": 78000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "重回83：赶山猎熊发家致富",
-          "book_id": 12519594,
-          "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最"
+          "title": "重生八零：赶海捞金，我娇养俏前妻",
+          "book_id": 12746721,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重生八零：赶海捞金，我娇养俏前妻",
           "book_id": 12746721,
-          "heat_change": 2000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：年代重生结合“赶海/赶山”的致富种田文热度稳固，强调弥补前世遗憾与家庭温情回归。\n**读者偏好**：读者青睐具有强烈时代烙印的创业致富经，尤其偏好主角从底层奋斗、改善家庭关系的励志向叙事。\n**变动解读**：榜单进入洗牌期，《重生八零：赶海捞金》热度逆势上涨，成功挤走同类竞品，展现出较强的单一市场统治力。\n**值得关注**：该题材依赖扎实的年代感铺陈，后续需重点观察是否有更多垂直细分（如赶海、狩猎、养殖）的新作竞争上榜。",
+      "summary": "**题材趋势**：重生年代赶海/致富流派是当下乡村题材的绝对主力，核心在于“弥补遗憾”与“家庭重塑”。\n**读者偏好**：读者对“浪子回头”、“家庭救赎”及“搞钱致富”的成长型叙事有极高的共情度和阅读粘性。\n**变动解读**：该领域单书统治力强，榜首作品热度稳中有升，印证了“重生+弥补亲情”模式在当前市场极具长尾效应。\n**值得关注**：乡村生活题材需持续深挖“赶海”、“种田”等特色生产要素，以此作为主角致富的基础，增强故事的真实沉浸感。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "重生八零：赶海捞金，我娇养俏前妻",
         "book_id": 12746721,
         "url": "https://www.qimao.com/shuku/12746721/",
@@ -51,17 +51,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.02万字",
-        "word_count": 470200,
-        "heat": 77000,
+        "word_count_text": "47.64万字",
+        "word_count": 476400,
+        "heat": 78000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "回到1982年的渔村，回到那个让父母寒心、妻女离散的荒唐岁月。\n前世他挥霍了所有，害得双亲出海遇难，女儿重病夭折，前妻疯癫半生。\n这辈子他只想当个好人，把家撑起来。\n可父母视他如仇，前妻避他如瘟，四岁女儿连一声“阿爸”都不肯叫。\n直到一幅神秘海图凭空出现，海底鱼群、荒岛宝藏，在他眼中一览无余。\n这一次，他要弥补前世所有遗憾！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4249/12746721_360x480.jpg?time=1786438060",
-        "latest_chapter": " 第228章  碰碰运气！",
-        "updated_at": "2026-09-18 00:12:11",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "latest_chapter": " 第231章  出资修学校！",
+        "updated_at": "2026-09-19 00:12:13",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

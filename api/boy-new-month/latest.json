@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "types": [
     {
       "name": "全部",
@@ -37,10 +37,6 @@
     {
       "name": "都市高武",
       "url": "api/boy-new-month/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
-    },
-    {
-      "name": "乡村生活",
-      "url": "api/boy-new-month/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "异世大陆",

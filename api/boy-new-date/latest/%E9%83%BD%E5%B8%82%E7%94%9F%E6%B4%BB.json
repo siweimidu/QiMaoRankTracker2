@@ -8,16 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 1,
-    "total_heat": 28000,
+    "count": 2,
+    "total_heat": 60000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "离婚后，前妻闺蜜找上我",
+          "book_id": 12671994
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
@@ -25,13 +30,42 @@
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 4000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：年代文赛道热度持续攀升，尤其是结合“重生+复仇+物资经营”的强冲突叙事，仍具有极高用户粘性。\n**读者偏好**：读者倾向于阅读具备强烈情绪宣泄、反转逆袭以及怀旧氛围的作品，尤其是针对“白莲花”打脸的剧情反馈极佳。\n**变动解读**：本期榜单格局稳固，头部作品《暴雪1962》热度稳步增长4000，显示出该题材在腰部区间的长尾效应显著。\n**值得关注**：在同质化竞争中，精准捕捉“邻里矛盾+生存困境”的题材依然是七猫都市板块的流量压舱石。",
+      "summary": "**题材趋势**：呈现“复仇爽感”与“年代怀旧”并行的特征，婚恋矛盾与重生致富是当前流量转化的核心驱动力。\n**读者偏好**：读者偏好带有强烈情感宣泄色彩的剧情，如“前妻/闺蜜”的背叛与反击，以及年代文中的物资匮乏与生存博弈。\n**变动解读**：新书《离婚后，前妻闺蜜找上我》强势登榜，证明“开局复仇+强强联手”的都市情感博弈仍是流量高地。\n**值得关注**：年代文题材在都市榜中展现出极强的韧性，尤其是带有“求肉”等强冲突、强生活气息的剧情更具吸粉力。",
       "ai_source": "ai"
     },
     "books": [
+      {
+        "rank": 15,
+        "title": "离婚后，前妻闺蜜找上我",
+        "book_id": 12671994,
+        "url": "https://www.qimao.com/shuku/12671994/",
+        "author": "无色",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E8%89%B2_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.28万字",
+        "word_count": 472800,
+        "heat": 34000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
+        "latest_chapter": " 第73章  后悔的前妻",
+        "updated_at": "2026-09-18 08:57:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市生活"
+      },
       {
         "rank": 18,
         "title": "暴雪1962，绝美邻居上门求肉",
@@ -45,17 +79,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.66万字",
-        "word_count": 286600,
-        "heat": 28000,
-        "platform_trend": "rise",
+        "word_count_text": "29.3万字",
+        "word_count": 293000,
+        "heat": 26000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第129章  张主任震惊，还买三轮了？",
-        "updated_at": "2026-09-17 21:59:03",
+        "latest_chapter": " 第132章  证明到手！",
+        "updated_at": "2026-09-18 22:12:03",
         "rank_change": 0,
-        "heat_change": 4000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

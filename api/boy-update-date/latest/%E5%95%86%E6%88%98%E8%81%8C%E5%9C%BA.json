@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：重生类都市商业文仍占据核心地位，主打“真实创业”与“人间清醒”的写实风格，强调逻辑严密性。\n**读者偏好**：读者倾向于具备强代入感的草根逆袭题材，尤其是将个人命运与时代机遇（如2009年）深度绑定的叙事。\n**变动解读**：当前榜单处于存量维护期，无新作品冲击，头部作品热度波动微弱，显示该细分品类目前缺乏强劲的流量爆发点。\n**值得关注**：在零热度增长背景下，此类题材需通过强烈的“命运改变”冲突或深度的行业洞察，来重新激活读者的点击欲望。",
+      "top_fallers": [
+        {
+          "title": "二本没毕业，你怎么登上福布斯了",
+          "book_id": 12606405,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "二本没毕业，你怎么登上福布斯了",
+          "book_id": 12606405,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：高度聚焦“重生+现实主义创业”，强调逻辑在线与去系统化的职业沉浸感。\n**读者偏好**：读者偏向于具有时代共鸣的重生逆袭，特别是针对底层奋斗者通过信息差改变命运的“人间清醒”式叙事。\n**变动解读**：该品类上榜书籍极少，热度处于低位徘徊，排名下行反映了单纯商战题材在当前快节奏市场中的竞争压力。\n**值得关注**：此类题材是否能通过更具张力的情节冲突，从“写实”向“爽点升级”转型，以扩大受众群体。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "二本没毕业，你怎么登上福布斯了",
         "book_id": 12606405,
         "url": "https://www.qimao.com/shuku/12606405/",
@@ -39,17 +51,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "54.29万字",
-        "word_count": 542900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "54.95万字",
+        "word_count": 549500,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第220章  不是，我刚来啊！",
-        "updated_at": "2026-09-18 00:22:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第223章  犹豫与现实",
+        "updated_at": "2026-09-19 01:42:04",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

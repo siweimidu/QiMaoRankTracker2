@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 75000,
+    "total_heat": 71000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "从野狗开始一路修仙",
-          "book_id": 12451830,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": -9000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：异兽流（苟道流）题材在异世大陆中占据一席之地，通过“非人化”开局营造反差与趣味性。\n**读者偏好**：读者更倾向于观看主角从卑微生物起步，通过积累与进化实现“扮猪吃虎”的成长路径。\n**变动解读**：唯一在榜作品热度大幅回落，排名下挫明显，反映出该类题材在缺乏更新动力或剧情进入平淡期时，读者流失速度较快。\n**值得关注**：需关注该作品后续剧情是否能通过新的进化阶段或地图转换重振热度，验证“非人化”题材在长线阅读中的耐受性。",
+      "summary": "**题材趋势**：异兽流、苟道流题材在存量竞争中表现出较强的韧性，依然是该类别的核心驱动力。\n**读者偏好**：读者倾向于具备“弱小开局、稳健发育、阶梯式进化”爽点的长线成长型作品。\n**变动解读**：该品类近期处于平稳期，头部作品《从野狗开始一路修仙》虽热度小幅回落，但仍稳居榜单，市场进入存量博弈阶段。\n**值得关注**：需警惕榜单缺乏新书注入导致的活力不足，后续需观察此类作品在长周期内的留存转化能力。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.84万字",
-        "word_count": 478400,
-        "heat": 75000,
+        "word_count_text": "48.46万字",
+        "word_count": 484600,
+        "heat": 71000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第205章  挡了一灾",
-        "updated_at": "2026-09-17 16:07:04",
-        "rank_change": -2,
-        "heat_change": -9000,
+        "latest_chapter": " 第207章  带回据点，慢慢审问",
+        "updated_at": "2026-09-18 23:22:05",
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

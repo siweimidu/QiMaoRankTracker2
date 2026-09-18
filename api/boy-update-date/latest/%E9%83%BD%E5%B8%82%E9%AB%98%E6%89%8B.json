@@ -8,24 +8,23 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
+    "count": 2,
     "total_heat": 1,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_books": [
         {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "rank_change": 1
+          "title": "美女总裁，请上车",
+          "book_id": 2091347
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -34,7 +33,7 @@
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：短剧IP改编作品成为核心驱动，强调“极致爽点”与“快节奏反转”，叙事模式极度标准化。\n**读者偏好**：读者偏好高强度、强情绪煽动的“监狱出狱+复仇”模板，对逻辑严密性的要求较低，更追求阅读的爽快感。\n**变动解读**：该类目目前处于头部作品垄断状态，单本上榜且热度平稳，显示出短剧原著类作品在网文生态中具备极高的流量转化效率。\n**值得关注**：短剧IP与网文的联动效应，是当前都市高手类目实现突围和维持热度的主要手段。",
+      "summary": "**题材趋势**：呈现出“短剧联动型”爆爽文与“都市职场喜剧”双轨并行的态势。\n**读者偏好**：读者既青睐极致的复仇爽文（镇狱狂龙），也乐于接受带有癫狂、反差萌元素的轻喜剧设定。\n**变动解读**：新书《美女总裁，请上车》的入榜填补了榜单缺口，显示出都市类题材在强人设驱动下仍具备较强的读者吸纳能力。\n**值得关注**：短剧IP转化作品的生命周期表现，以及“癫感”叙事在都市品类中的流行趋势。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,18 +50,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "331.86万字",
-        "word_count": 3318600,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "332.56万字",
+        "word_count": 3325600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1436章  荒野生存",
-        "updated_at": "2026-09-17 07:02:14",
-        "rank_change": 1,
+        "latest_chapter": " 第1439章  互不干扰",
+        "updated_at": "2026-09-18 07:02:15",
+        "rank_change": 0,
         "heat_change": -1,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 20,
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "320万字",
+        "word_count": 3200000,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1761615817",
+        "latest_chapter": " 第1174章  比画！",
+        "updated_at": "2026-09-19 00:58:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

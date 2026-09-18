@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -20,16 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "下山后，漂亮姐姐蠢蠢欲动",
-          "book_id": 2053900,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」《下山后，漂亮姐姐蠢蠢欲动》下滑1位。",
-      "ai_source": "rule"
+      "summary": "**题材趋势** 题材进入存量博弈阶段，目前市场处于平稳期，头部作品具有极强的统治力。\n**读者偏好** 读者对“下山入世+高颜值女性围绕”的强爽文套路粘性高，偏爱轻松、带有一定暧昧色彩的都市避世流。\n**变动解读** 本期榜单零波动，说明该细分市场竞争格局极度固化，现有头部作品已建立起稳固的读者基本盘。\n**值得关注** 后续需观察是否有新书能通过更具差异化的“反差”设定打破目前固化的榜单生态。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -54,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/863/2586173_360x480.jpg?time=1755230413",
         "latest_chapter": " 第995章  沧海桑田（大结局）",
         "updated_at": "2026-08-19 01:08:08",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

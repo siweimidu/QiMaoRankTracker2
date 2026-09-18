@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "types": [
     {
       "name": "全部",
@@ -21,10 +21,6 @@
     {
       "name": "架空历史",
       "url": "api/boy-update-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
-    },
-    {
-      "name": "都市高武",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
       "name": "现代军事",
@@ -45,6 +41,10 @@
     {
       "name": "奇门秘术",
       "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+    },
+    {
+      "name": "都市高武",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     }
   ]
 }

@@ -8,27 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
     "total_heat": 2602000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "让你带问题女兵，你全养成特种兵王了？",
-          "book_id": 2091811
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「现代军事」新上榜 《让你带问题女兵，你全养成特种兵王了？》。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：军旅题材正向“养成流”与“反差萌”融合演变，弱化传统严肃作战，强化“教官+问题兵”的师生互动。\n**读者偏好**：读者更青睐带有养成要素的群像剧，尤其是“调教”各类具备反差性格角色的互动过程。\n**变动解读**：榜单表现平稳，说明“特种兵王+问题女兵”的复合设定在七猫平台已形成稳定的受众基础。\n**值得关注**：此类题材的后续增长点在于如何通过高强度的训练竞技与情感羁绊，持续刺激读者的爽点。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -44,18 +39,18 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "181.06万字",
-        "word_count": 1810600,
+        "word_count_text": "181.9万字",
+        "word_count": 1819000,
         "heat": 2602000,
         "platform_trend": "rise",
-        "badge": "最新上榜",
+        "badge": "",
         "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
-        "latest_chapter": " 第835章  壮媳妇儿也要见公婆",
-        "updated_at": "2026-09-17 09:07:08",
+        "latest_chapter": " 第839章  都给老娘起开！",
+        "updated_at": "2026-09-18 09:07:08",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "现代军事"

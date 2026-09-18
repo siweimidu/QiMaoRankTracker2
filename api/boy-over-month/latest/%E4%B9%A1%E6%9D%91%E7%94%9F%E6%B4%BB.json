@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -20,16 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "重回77：我靠赶猎抓鱼，一人养三家",
-          "book_id": 9992436,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「乡村生活」《重回77：我靠赶猎抓鱼，一人养三家》下滑1位。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：“年代+乡村+致富”是该分类的黄金公式，侧重于通过重回过去改变家庭命运，展现朴实的奋斗与温情。\n**读者偏好**：读者不仅关注山野求生、赶猎抓鱼的爽感，更偏好带有“多女主”或“家庭温情修补”色彩的经营类故事。\n**变动解读**：榜单呈现高度稳定性，上榜作品均围绕“重回过去”这一核心驱动力，市场反馈较为集中。\n**值得关注**：后续可挖掘更具时代特色的乡村物产与经营细节，增强读者对“从零开始致富”过程的代入感。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -83,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
         "latest_chapter": " 第899章  大结局",
         "updated_at": "2026-09-13 22:29:08",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

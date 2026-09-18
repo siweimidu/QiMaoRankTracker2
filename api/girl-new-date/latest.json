@@ -8,19 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "types": [
     {
       "name": "全部",
       "url": "api/girl-new-date/latest/all.json"
     },
     {
-      "name": "古代情缘",
-      "url": "api/girl-new-date/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
-    },
-    {
       "name": "年代重生",
       "url": "api/girl-new-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+    },
+    {
+      "name": "古代情缘",
+      "url": "api/girl-new-date/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
       "name": "宫闱宅斗",
