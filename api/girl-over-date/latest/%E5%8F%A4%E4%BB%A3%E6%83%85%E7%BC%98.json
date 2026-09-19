@@ -8,72 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
-    "count": 2,
-    "total_heat": 178000,
+    "count": 1,
+    "total_heat": 82000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "将军她是引渡人",
           "book_id": 1777995,
-          "rank_change": -2
+          "intro": "【姊妹篇《王妃她是引渡人》火热连载中，欢迎大家阅读~】\n卫清晏自小女扮男装，守江山，扩疆土，却死在凯旋路上。\n起死回生，她成了替死人化怨的引渡人。\n侯门主母被害，死后生怨，她替主母沉冤，揭侯门腌臜。\n"
         }
       ],
-      "heat_leaders": [
+      "top_risers": [
         {
-          "title": "将军她是引渡人",
-          "book_id": 1777995,
-          "heat_change": 3000
-        },
+          "title": "千金闺途",
+          "book_id": 1763045,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "千金闺途",
           "book_id": 1763045,
           "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：传统宅宫斗与“玄学+悬疑”融合题材并存，市场进入存量博弈阶段，题材创新对留存影响显著。\n**读者偏好**：读者倾向于大女主成长与多线叙事结构，具备“引渡人”等超自然元素的古代题材更具长尾效应。\n**变动解读**：本周期内无新书注入，头部书籍排名小幅震荡，整体热度呈现微弱的负增长，显示该类目处于完结后的自然衰退期。\n**值得关注**：通过姊妹篇引流的联动模式是稳定热度的有效手段，建议关注具有系列化潜力的IP开发。",
+      "summary": "**题材趋势**：古代情缘赛道以“群像+宅斗/宫斗”为核心驱动，注重女性成长与多线叙事。\n**读者偏好**：读者青睐从“娇贵千金”到“独立女性”的转变逻辑，群像剧的复杂人际关系是留存读者的关键。\n**变动解读**：伴随原有作品离场，《千金闺途》通过稳健的口碑积累顺位上升，市场表现较为平稳。\n**值得关注**：该类目迭代较慢，建议关注具备强戏剧冲突、多CP支线的优质长篇作品对读者的持续吸引力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
-        "title": "将军她是引渡人",
-        "book_id": 1777995,
-        "url": "https://www.qimao.com/shuku/1777995/",
-        "author": "指尖上的行走",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%8C%87%E5%B0%96%E4%B8%8A%E7%9A%84%E8%A1%8C%E8%B5%B0_14/",
-        "major": "古代言情",
-        "minor": "古代情缘",
-        "major_id": 2,
-        "minor_id": 216,
-        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "121.03万字",
-        "word_count": 1210300,
-        "heat": 95000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【姊妹篇《王妃她是引渡人》火热连载中，欢迎大家阅读~】\n卫清晏自小女扮男装，守江山，扩疆土，却死在凯旋路上。\n起死回生，她成了替死人化怨的引渡人。\n侯门主母被害，死后生怨，她替主母沉冤，揭侯门腌臜。\n酷爱女装的大理寺卿，因临终遗愿被妻子纂改生怨，祸及子孙，她抽丝剥茧，还原真相。\n为报恩冒名顶替的异乡人，执着落叶归根而抬不动的棺材，被夺舍后性情大变的亲王，赤身被葬的妙龄少女……\n化怨过程中，她一步步揭开当年惨死真相。\n始终相伴左右的皇叔，突然将她摁在角落，“我亦有执念，便是娶你为妻。”\n卫清晏：“王爷不是喜欢男子么？”\n皇叔：“你是男子，我便好男风，你是女子，我便喜欢女子。”\n“这辈子，我只要你。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/491/1472940_360x480.jpg?time=1717392864",
-        "latest_chapter": " 第516章  大结局",
-        "updated_at": "2024-08-30 11:01:14",
-        "rank_change": -2,
-        "heat_change": 3000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "古代情缘"
-      },
-      {
-        "rank": 20,
+        "rank": 19,
         "title": "千金闺途",
         "book_id": 1763045,
         "url": "https://www.qimao.com/shuku/1763045/",
@@ -87,14 +59,14 @@
         "status": "已完结",
         "word_count_text": "101.84万字",
         "word_count": 1018400,
-        "heat": 83000,
+        "heat": 82000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【群像+宅斗+宫斗+多cp】\n丞相府有五朵金花，五个女儿性格各异，各有所长。\n一朝变故，相府抄家败落，养尊处优的菟丝花失去依仗，嫁出去的女儿被夫家苛待，有婚约的被退婚，昔日金尊玉贵的千金小姐们被打下神坛。\n谋生、成长，经历......\n她们可以是十指不沾阳春水的千金娇女，亦是盛开在泥泞中的风雨兰。\n【清雅佛系长姐VS欢脱奶狗商人之子】\n【咸鱼吃货二姐VS八百个心眼高冷权臣】\n【娇气作精三姐VS惧内忠犬糙汉　】\n【温婉坚韧四妹VS端方谪仙公子】\n【古灵精怪五妹VS外冷内热护短帝王　】\n姐弟恋，契约婚姻，先婚后爱，一见钟情，青梅竹马。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/480/1437277_360x480.jpg?time=1725934048",
         "latest_chapter": " 第484章  大结局",
         "updated_at": "2024-06-28 00:11:09",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,

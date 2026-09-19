@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-20",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 10,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": 1
+          },
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "heat_change": -1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》上升2位领涨；《吞噬九重天》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」新上榜 《医武双绝：下山捡个总裁当老婆》；《美女总裁，请上车》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805,
+            "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "我爹让我弑君，陛下却把公主赐给我",
+            "book_id": 11895729,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我爹让我弑君，陛下却把公主赐给我",
+            "book_id": 11895729,
+            "heat_change": -8
+          },
+          {
+            "title": "医仙，将军，少年侯！谁与争锋！",
+            "book_id": 12371697,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「架空历史」《天命纨绔》 掉出榜单；《我爹让我弑君，陛下却把公主赐给我》下滑1位；《我爹让我弑君，陛下却把公主赐给我》热度-8。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "顶替我高考状元？我勇冠海陆空三军！",
+            "book_id": 12931542,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「现代军事」《顶替我高考状元？我勇冠海陆空三军！》上升1位领涨；《四次入伍，我被军区拉进黑名单！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「幻想修真」《聚宝仙炉》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高武」《神武天下之睚眦》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "二本没毕业，你怎么登上福布斯了",
+            "book_id": 12606405,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「商战职场」《二本没毕业，你怎么登上福布斯了》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

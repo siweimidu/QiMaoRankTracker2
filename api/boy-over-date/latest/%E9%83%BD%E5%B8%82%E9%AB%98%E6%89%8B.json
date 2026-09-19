@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 143000,
+    "total_heat": 144000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": 6000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势** 战神归来与“多女主修罗场”模式依然是都市爽文的基本盘，核心逻辑在于身份反差与强力社交关系的构建。\n**读者偏好** 读者偏好高位权力背景下的“众星捧月”感，尤其是具备极高社会地位的女角色作为主角后盾的爽点设定。\n**变动解读** 榜单波动较小，头部作品《SSS级狂龙归来，全球戒备！》通过持续的日常更新维持了稳健的热度增长（+6000）。\n**值得关注** 尽管有同类题材（如监狱修仙类）掉榜，但该赛道依然是流量重地，建议关注此类“强人设+多女主”结构的持久吸金能力。",
+      "summary": "**题材趋势**：都市战神流依然是七猫男生完结榜的基石，强调身份反差与强力背景。\n**读者偏好**：读者热衷于“强龙回归+红颜簇拥”的爽文结构，偏爱主角拥有绝对权势与多重社会关系带来的爽感。\n**变动解读**：榜单呈现固化趋势，头部效应显著，该书凭借稳健的读者留存实现排名微升，抗压能力强。\n**值得关注**：需监控此类作品在完结后的长尾效应，其极高的热度基数说明读者对“护妻/护势力”题材的忠诚度极高。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 143000,
+        "heat": 144000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
-        "heat_change": 6000,
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

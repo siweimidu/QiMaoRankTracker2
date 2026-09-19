@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "破洞小木屋求生指南",
-          "book_id": 9955719,
-          "heat_change": 1
-        }
-      ],
-      "summary": "**题材趋势**：末世求生类在该榜单表现趋于平淡，目前多为带有“游戏/系统”元素的轻量化求生题材。\n**读者偏好**：读者更倾向于“小木屋”、“全民生存”等具有极强代入感和目标导向的开局，追求物资积累与生存挑战带来的成就感。\n**变动解读**：榜单仅存一书且排名微降，显示该题材在当前女生日榜中处于边缘化地位，缺乏持续的话题热度。\n**值得关注**：建议关注已实现跨媒体联动（如漫剧）的IP，其品牌影响力是目前支撑该题材在榜单存在感的关键。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：以“全民求生”为核心的生存挑战类题材热度持续，强调极端环境下的数值积累与资源收集。\n**读者偏好**：读者偏爱带有“游戏化”设定、隐藏提示等金手指功能的求生文，追求从零开始的建设与升级快感。\n**变动解读**：该类目仅存一本在榜书籍，且排名微升，显示该题材在当前榜单中处于小众但稳健的生存状态。\n**值得关注**：该类题材的生命力依赖于世界观的延展性，建议后续关注多灾难叠加下的情节创新与节奏铺陈。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -51,17 +45,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "129.59万字",
-        "word_count": 1295900,
+        "word_count_text": "130.2万字",
+        "word_count": 1302000,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第624章  解封进度：20%",
-        "updated_at": "2026-09-18 22:51:08",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第627章  第一位述职者",
+        "updated_at": "2026-09-19 22:41:08",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

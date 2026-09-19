@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 320000,
+    "total_heat": 317000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -2000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台具有极强的韧性，长线生命周期特征明显。\n**读者偏好**：读者倾向于“低开高走”的爽文模式，从底层杂役起家通过武力改写乱世局势的叙事结构极具吸引力。\n**变动解读**：该品类处于存量博弈阶段，上榜书籍虽有小幅热度回调，但排名逆势上升，显示出该作品在榜单内部的相对竞争力较强。\n**值得关注**：在缺乏新书冲击的情况下，该品类表现为典型的“一书独大”格局，后续需观察此类长线作品的留存稳定性。",
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场表现平稳但缺乏新增爆款。\n**读者偏好**：读者依然青睐“底层逆袭+权谋争霸”的典型爽文架构，对经典穿越背景接受度高。\n**变动解读**：本周期内该品类热度出现小幅震荡（-3000），头部作品面临一定的用户留存压力。\n**值得关注**：需警惕品类整体活跃度下行，建议关注后续是否有具备强剧情驱动力的新作入局。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "211.24万字",
-        "word_count": 2112400,
-        "heat": 320000,
+        "word_count_text": "211.9万字",
+        "word_count": 2119000,
+        "heat": 317000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第977章  神秘的大当家和二当家",
-        "updated_at": "2026-09-18 20:47:09",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "latest_chapter": " 第980章  李若雨的叮嘱",
+        "updated_at": "2026-09-19 20:17:08",
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

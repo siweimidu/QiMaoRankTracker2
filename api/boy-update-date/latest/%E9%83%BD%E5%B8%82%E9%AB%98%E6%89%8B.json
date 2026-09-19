@@ -8,19 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 1,
+    "count": 3,
+    "total_heat": 4,
     "trend": {
       "new_count": 1,
       "dropped_count": 0,
       "new_books": [
         {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600
         }
       ],
       "dropped_books": [],
@@ -28,13 +28,13 @@
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
+          "title": "美女总裁，请上车",
+          "book_id": 2091347,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：呈现出“短剧联动型”爆爽文与“都市职场喜剧”双轨并行的态势。\n**读者偏好**：读者既青睐极致的复仇爽文（镇狱狂龙），也乐于接受带有癫狂、反差萌元素的轻喜剧设定。\n**变动解读**：新书《美女总裁，请上车》的入榜填补了榜单缺口，显示出都市类题材在强人设驱动下仍具备较强的读者吸纳能力。\n**值得关注**：短剧IP转化作品的生命周期表现，以及“癫感”叙事在都市品类中的流行趋势。",
-      "ai_source": "ai"
+      "summary": "「都市高手」新上榜 《医武双绝：下山捡个总裁当老婆》；《美女总裁，请上车》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -50,18 +50,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "332.56万字",
-        "word_count": 3325600,
+        "word_count_text": "333.26万字",
+        "word_count": 3332600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1439章  互不干扰",
-        "updated_at": "2026-09-18 07:02:15",
+        "latest_chapter": " 第1442章  宁死不回头",
+        "updated_at": "2026-09-19 07:02:16",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 19,
+        "title": "医武双绝：下山捡个总裁当老婆",
+        "book_id": 11745600,
+        "url": "https://www.qimao.com/shuku/11745600/",
+        "author": "情义相许",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%83%85%E4%B9%89%E7%9B%B8%E8%AE%B8_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "113.82万字",
+        "word_count": 1138200,
+        "heat": 4,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
+        "latest_chapter": " 第483章  这才是剑道高手",
+        "updated_at": "2026-09-20 00:12:17",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
@@ -79,18 +108,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "320万字",
-        "word_count": 3200000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "321.1万字",
+        "word_count": 3211000,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1761615817",
-        "latest_chapter": " 第1174章  比画！",
-        "updated_at": "2026-09-19 00:58:10",
+        "latest_chapter": " 第1178章  你还挺忙！",
+        "updated_at": "2026-09-20 00:48:09",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -1,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

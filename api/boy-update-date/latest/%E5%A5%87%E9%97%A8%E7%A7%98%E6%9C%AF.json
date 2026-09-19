@@ -8,34 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：该小类目前呈现高度萎缩状态，市场活跃度极低，仅存单品支撑榜单。\n**读者偏好**：读者对民俗诡异、生存惊悚类题材仍保持一定关注，偏好带有强悬疑氛围的设定。\n**变动解读**：由于缺乏新书入场，榜单处于停滞下滑期，现有作品热度微弱，市场竞争真空。\n**值得关注**：当前仅存的《天黑请点灯》能否通过内容更新维持热度，是该小类能否避免从日榜消失的关键。",
-      "ai_source": "ai"
+      "summary": "「奇门秘术」《天黑请点灯》热度-1。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -51,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "473.77万字",
-        "word_count": 4737700,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "474.61万字",
+        "word_count": 4746100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1734章  好冷啊，冷过大雪封山",
-        "updated_at": "2026-09-18 06:57:12",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第1737章  牧野辛波，你令我好生寂寞",
+        "updated_at": "2026-09-19 06:57:13",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

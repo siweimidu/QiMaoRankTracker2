@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 71000,
+    "total_heat": 51000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "从野狗开始一路修仙",
+          "book_id": 12451830,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": -4000
+          "heat_change": -20000
         }
       ],
-      "summary": "**题材趋势**：异兽流、苟道流题材在存量竞争中表现出较强的韧性，依然是该类别的核心驱动力。\n**读者偏好**：读者倾向于具备“弱小开局、稳健发育、阶梯式进化”爽点的长线成长型作品。\n**变动解读**：该品类近期处于平稳期，头部作品《从野狗开始一路修仙》虽热度小幅回落，但仍稳居榜单，市场进入存量博弈阶段。\n**值得关注**：需警惕榜单缺乏新书注入导致的活力不足，后续需观察此类作品在长周期内的留存转化能力。",
+      "summary": "**题材趋势** 异世大陆类目前进入头部内容真空期，题材热度出现显著回落。\n**读者偏好** 读者对“异兽流”及“苟道发育”题材的审美疲劳加剧，存量作品难以维持高热度。\n**变动解读** 榜单仅存一本作品且热度大幅缩水2万，排名下滑，反映出该品类在新书期缺乏强力竞争者支撑。\n**值得关注** 关注后续是否有具备新颖设定或快节奏爽点的新书入局，以填补当前的市场缺位。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 9,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -45,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.46万字",
-        "word_count": 484600,
-        "heat": 71000,
+        "word_count_text": "49.08万字",
+        "word_count": 490800,
+        "heat": 51000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第207章  带回据点，慢慢审问",
-        "updated_at": "2026-09-18 23:22:05",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "latest_chapter": " 第210章  九转金还丹",
+        "updated_at": "2026-09-19 18:13:05",
+        "rank_change": -3,
+        "heat_change": -20000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
