@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,17 +23,23 @@
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：以“全民求生”为核心的生存挑战类题材热度持续，强调极端环境下的数值积累与资源收集。\n**读者偏好**：读者偏爱带有“游戏化”设定、隐藏提示等金手指功能的求生文，追求从零开始的建设与升级快感。\n**变动解读**：该类目仅存一本在榜书籍，且排名微升，显示该题材在当前榜单中处于小众但稳健的生存状态。\n**值得关注**：该类题材的生命力依赖于世界观的延展性，建议后续关注多灾难叠加下的情节创新与节奏铺陈。",
-      "ai_source": "ai"
+      "heat_leaders": [
+        {
+          "title": "破洞小木屋求生指南",
+          "book_id": 9955719,
+          "heat_change": 1
+        }
+      ],
+      "summary": "「末世求生」《破洞小木屋求生指南》上升2位领涨；《破洞小木屋求生指南》热度+1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 16,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -45,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "130.2万字",
-        "word_count": 1302000,
-        "heat": 1,
+        "word_count_text": "130.81万字",
+        "word_count": 1308100,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第627章  第一位述职者",
-        "updated_at": "2026-09-19 22:41:08",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第630章  您要去哪儿啊",
+        "updated_at": "2026-09-20 22:57:07",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

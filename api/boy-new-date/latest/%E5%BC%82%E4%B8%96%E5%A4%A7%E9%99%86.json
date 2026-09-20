@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 51000,
+    "total_heat": 44000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "rank_change": -3
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "从野狗开始一路修仙",
           "book_id": 12451830,
-          "heat_change": -20000
+          "heat_change": -7000
         }
       ],
-      "summary": "**题材趋势** 异世大陆类目前进入头部内容真空期，题材热度出现显著回落。\n**读者偏好** 读者对“异兽流”及“苟道发育”题材的审美疲劳加剧，存量作品难以维持高热度。\n**变动解读** 榜单仅存一本作品且热度大幅缩水2万，排名下滑，反映出该品类在新书期缺乏强力竞争者支撑。\n**值得关注** 关注后续是否有具备新颖设定或快节奏爽点的新书入局，以填补当前的市场缺位。",
-      "ai_source": "ai"
+      "summary": "「异世大陆」《从野狗开始一路修仙》下滑1位；《从野狗开始一路修仙》热度-7000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "从野狗开始一路修仙",
         "book_id": 12451830,
         "url": "https://www.qimao.com/shuku/12451830/",
@@ -51,17 +51,17 @@
         "minor_id": 39,
         "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.08万字",
-        "word_count": 490800,
-        "heat": 51000,
+        "word_count_text": "49.71万字",
+        "word_count": 497100,
+        "heat": 44000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "别人穿越闯天下，苟安穿越直接变土狗。\n身处危机四伏的妖兽山脉，打打杀杀？没必要。正面硬刚？不敢想。\n秉承“保命第一，发育第二”的原则，他缩在角落苟发育，扮弱小、藏实力，闷头积攒妖力稳步进化。\n待到血脉蜕变，化为人形，昔日怂萌黄毛犬，已然是纵横三界的化形大妖。\n渡雷劫，证仙位，一代靠“苟”起家的狗真人，就此扬名天地间！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12451830_360x480.jpg?time=1781594509",
-        "latest_chapter": " 第210章  九转金还丹",
-        "updated_at": "2026-09-19 18:13:05",
-        "rank_change": -3,
-        "heat_change": -20000,
+        "latest_chapter": " 第213章  女妖云杳",
+        "updated_at": "2026-09-20 16:21:03",
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-21",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 28,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 1
+          },
+          {
+            "title": "弄奴娇",
+            "book_id": 12262317,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": -2
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205,
+            "heat_change": -4
+          },
+          {
+            "title": "弄奴娇",
+            "book_id": 12262317,
+            "heat_change": -2
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《劝爹入赘公主府，玄学嫡女被团宠》；《皇叔借点功德，王妃把符画猛了》上升1位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》下滑2位；《听女儿心声，侯夫人挺孕肚乱杀》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "玄学千金勾勾手，少爷们宠疯了",
+            "book_id": 12907167,
+            "rank_change": 4
+          },
+          {
+            "title": "青梅消失五年后，顾医生再度失控",
+            "book_id": 12855951,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "婚情告急！太太揣崽跑路了",
+            "book_id": 12285861,
+            "heat_change": -4
+          },
+          {
+            "title": "玄学千金勾勾手，少爷们宠疯了",
+            "book_id": 12907167,
+            "heat_change": 4
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《玄学千金勾勾手，少爷们宠疯了》上升4位领涨；《离婚后她惊艳了世界》下滑2位；《婚情告急！太太揣崽跑路了》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": -4
+          },
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 2
+          },
+          {
+            "title": "皇妃来自地府，百鬼退散",
+            "book_id": 10374897,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「古代情缘」《春闺小寡妇》下滑4位；《春闺小寡妇》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「年代重生」《一胎五宝，我成军属院顶流》 掉出榜单；《我才五岁，怎么就成军区团宠了》上升4位领涨；《我才五岁，怎么就成军区团宠了》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "破洞小木屋求生指南",
+            "book_id": 9955719,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "破洞小木屋求生指南",
+            "book_id": 9955719,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「末世求生」《破洞小木屋求生指南》上升2位领涨；《破洞小木屋求生指南》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》热度-3。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

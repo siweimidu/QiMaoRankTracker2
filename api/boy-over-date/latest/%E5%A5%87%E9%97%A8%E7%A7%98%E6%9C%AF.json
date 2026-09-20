@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 149000,
+    "total_heat": 148000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -30,14 +30,14 @@
         {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "heat_change": -4000
+          "heat_change": -3000
         },
         {
           "title": "山野诡闻笔记",
@@ -45,41 +45,12 @@
           "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：民俗灵异类题材依然保持稳健的存量价值，虽然缺乏新晋爆款冲击，但头部作品热度极高，构成了稳定的长尾阅读生态。\n**读者偏好**：读者热衷于具有强代入感的“职业化”叙事，如接阴婆、捞尸人等带有浓厚地域民俗色彩的猎奇设定极具吸引力。\n**变动解读**：头部两本书籍热度此消彼长，目前处于小范围的震荡平衡期，反映出该细分领域读者对同类题材的审美粘性极强。\n**值得关注**：罗樵森与吴大胆两部作品的热度差距已缩小至1000点，后续排名竞争将愈发激烈，建议观察是否有同类黑马入局。",
+      "summary": "**题材趋势**：民俗恐怖与乡野奇谈类作品进入存量竞争期，题材风格趋于稳固。\n**读者偏好**：读者更倾向于具有地域色彩的“职业化”奇闻，如捞尸、接阴婆等带有浓厚民俗沉浸感的叙事手法。\n**变动解读**：《山野诡闻笔记》实现反超，反映出读者在同类题材中更偏好“多事件串联”的笔记体叙事，而非单一线性的职业记录。\n**值得关注**：该类目热度波动较大，建议创作者深耕“民俗文化+悬疑探险”的深度融合，以提升作品的长尾效应。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 12,
-        "title": "民间诡闻实录",
-        "book_id": 197091,
-        "url": "https://www.qimao.com/shuku/197091/",
-        "author": "罗樵森",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
-        "major": "奇闻异事",
-        "minor": "奇门秘术",
-        "major_id": 204,
-        "minor_id": 231,
-        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "243.5万字",
-        "word_count": 2435000,
-        "heat": 75000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
-        "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
-        "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -1,
-        "heat_change": -4000,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": true,
-        "category": "奇门秘术"
-      },
-      {
-        "rank": 13,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -93,7 +64,7 @@
         "status": "已完结",
         "word_count_text": "256.27万字",
         "word_count": 2562700,
-        "heat": 74000,
+        "heat": 76000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
@@ -104,6 +75,35 @@
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "奇门秘术"
+      },
+      {
+        "rank": 14,
+        "title": "民间诡闻实录",
+        "book_id": 197091,
+        "url": "https://www.qimao.com/shuku/197091/",
+        "author": "罗樵森",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
+        "major": "奇闻异事",
+        "minor": "奇门秘术",
+        "major_id": 204,
+        "minor_id": 231,
+        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "243.5万字",
+        "word_count": 2435000,
+        "heat": 72000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
+        "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
+        "updated_at": "2021-10-12 11:14:06",
+        "rank_change": -2,
+        "heat_change": -3000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": true,
         "category": "奇门秘术"
       }

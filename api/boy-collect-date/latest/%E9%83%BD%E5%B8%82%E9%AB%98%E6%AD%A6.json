@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：题材处于存量盘整期，上榜作品均为长线运营的经典爽文，缺乏新锐作品冲击。\n**读者偏好**：读者倾向于“神医”与“异能外挂”类强代入感爽文，偏好主角无敌、身份反差的设定。\n**变动解读**：榜单结构高度固化，热度反馈平稳，短期内未见题材迭代或流量重分配。\n**值得关注**：需密切观察是否有具备现代元素或系统流变体的新书切入，打破当前的僵局。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -39,15 +39,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "911.29万字",
-        "word_count": 9112900,
+        "word_count_text": "911.91万字",
+        "word_count": 9119100,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4445章  抓凶（上）",
-        "updated_at": "2026-09-19 23:47:29",
+        "latest_chapter": " 第4448章  善解人意凌梦寒",
+        "updated_at": "2026-09-20 23:00:43",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

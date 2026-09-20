@@ -8,43 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 2,
-    "total_heat": 268000,
+    "total_heat": 264000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "rank_change": 1
-        },
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "柔弱医修今天也在背地里暴打魔尊",
           "book_id": 1981956,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "heat_change": 5000
-        },
-        {
           "title": "柔弱医修今天也在背地里暴打魔尊",
           "book_id": 1981956,
-          "heat_change": -1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：女性向玄幻呈现“小而精”态势，融合群像、瞳术、医修等特色技能设定，弱化传统修仙门槛。\n**读者偏好**：读者偏好女主“扮猪吃虎”与“反差萌”设定，如“柔弱医修实则暴力”、“废材觉醒瞳术”等，强调主角独立人格。\n**变动解读**：由于在榜基数较小，排名变动多为自然轮动，热度增长处于温和区间，市场处于存量竞争阶段。\n**值得关注**：《第一瞳术师》作为榜首，其多平台联动效应显著，是该小类中最具商业潜力的标杆作品。",
+      "summary": "**题材趋势**：该小类在女生榜单中呈现明显的“小而精”特征，且高度依赖影视综艺的推荐效应，题材多结合“群像”、“瞳术”等差异化元素。\n**读者偏好**：受众倾向于“大女主+爽文”模式，偏好主角拥有超强战斗力或特殊外挂的设定，对传统仙侠的苦情叙事兴趣减弱。\n**变动解读**：榜单格局极度紧凑，头部作品热度略有流失，且新书进入门槛极高，当前在榜作品主要依靠知名度与长线粉丝积累维系排名。\n**值得关注**：“医修+暴打魔尊”等反套路设定在女性受众中具有一定吸引力，未来可关注此类弱化修仙逻辑、强化人设反差的作品表现。",
       "ai_source": "ai"
     },
     "books": [
@@ -70,15 +60,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "玄幻仙侠"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "柔弱医修今天也在背地里暴打魔尊",
         "book_id": 1981956,
         "url": "https://www.qimao.com/shuku/1981956/",
@@ -92,15 +82,15 @@
         "status": "已完结",
         "word_count_text": "190.14万字",
         "word_count": 1901400,
-        "heat": 96000,
+        "heat": 92000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "沐风华刚转世投胎，就遇到同在母体中的弟弟要抢夺她的生命力。于是，沐风华还在母体中就开始了打弟弟的日子。而渣爹要杀妻儿入无情道。她当然是让渣爹入土为安了。后来，沐风华过上了每天吃饭，修炼，打弟弟的平凡日子。但谁能告诉她，母亲的娘家居然是修真界泰山北斗一样存在的医修世家——沐家。再后来，沐风华成为了修真界医术最高却收费最黑的医修。\n世人皆知，医修在修真界地位特殊，受人尊崇却战斗力为渣渣，是需要人保护的存在。谁都以为修真界的第一医修沐风华也是个柔弱的，可当她一剑便惊天动地震惊四座后，世人都傻了眼。\n沐风华感慨，弟弟虽然有时候熊了点，但大多时候还是很乖巧的。只是她没想到的是，弟弟是魔尊转世，所谓的乖巧，只在她面前而已。人人都惧怕的那个残忍阴鸷的魔尊，谁也不知道，他今天又被表面柔弱的医修姐姐暴打了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

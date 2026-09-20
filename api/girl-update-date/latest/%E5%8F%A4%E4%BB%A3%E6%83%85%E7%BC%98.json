@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 6,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,6 +24,11 @@
         {
           "title": "春闺小寡妇",
           "book_id": 12644022,
+          "rank_change": -4
+        },
+        {
+          "title": "皇妃来自地府，百鬼退散",
+          "book_id": 10374897,
           "rank_change": -2
         }
       ],
@@ -31,20 +36,20 @@
         {
           "title": "春闺小寡妇",
           "book_id": 12644022,
-          "heat_change": -1
+          "heat_change": 2
         },
         {
           "title": "皇妃来自地府，百鬼退散",
           "book_id": 10374897,
-          "heat_change": -1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：整体市场容量较小，题材风格偏向“悬疑+灵异+古风言情”的跨界融合。\n**读者偏好**：读者更倾向于猎奇设定，如“鬼魂女主与冷面官员”的强反差组合，此类题材在古代情缘中具备较强的差异化吸引力。\n**变动解读**：榜单波动较小，头部作品热度略有下滑，整体表现趋于平稳，缺乏强有力的新作冲击市场。\n**值得关注**：需警惕题材单一化风险，建议关注此类书籍如何通过“漫剧”等IP化运营持续保持用户留存。",
-      "ai_source": "ai"
+      "summary": "「古代情缘」《春闺小寡妇》下滑4位；《春闺小寡妇》热度+2。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 15,
         "title": "春闺小寡妇",
         "book_id": 12644022,
         "url": "https://www.qimao.com/shuku/12644022/",
@@ -56,24 +61,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.74万字",
-        "word_count": 327400,
-        "heat": 2,
+        "word_count_text": "33.16万字",
+        "word_count": 331600,
+        "heat": 4,
         "platform_trend": "drop",
         "badge": "",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第152章  过来给二爷暖床",
-        "updated_at": "2026-09-19 22:41:02",
-        "rank_change": -2,
-        "heat_change": -1,
+        "latest_chapter": " 第154章  谢氏跟了我一段时日",
+        "updated_at": "2026-09-20 21:00:04",
+        "rank_change": -4,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 16,
+        "rank": 18,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -85,17 +90,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "113.72万字",
-        "word_count": 1137200,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "114.34万字",
+        "word_count": 1143400,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【漫剧已上线】她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第546章  临时鬼",
-        "updated_at": "2026-09-19 18:21:05",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第549章  仙风道骨，小脸娇嫩",
+        "updated_at": "2026-09-20 19:02:09",
+        "rank_change": -2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

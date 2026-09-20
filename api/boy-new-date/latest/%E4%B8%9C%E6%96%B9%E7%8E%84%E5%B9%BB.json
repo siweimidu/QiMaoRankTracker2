@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 3,
-    "total_heat": 156000,
+    "total_heat": 138000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,41 +21,46 @@
       "dropped_books": [],
       "top_risers": [
         {
+          "title": "长生猎户，从形意拳到人间武圣！",
+          "book_id": 12789207,
+          "rank_change": 2
+        },
+        {
           "title": "九帝塔",
           "book_id": 11901855,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207,
-          "rank_change": -3
+          "title": "葬仙塔，葬天，葬地，葬众仙",
+          "book_id": 12679578,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207,
-          "heat_change": -20000
-        },
-        {
           "title": "葬仙塔，葬天，葬地，葬众仙",
           "book_id": 12679578,
-          "heat_change": -2000
+          "heat_change": -12000
+        },
+        {
+          "title": "长生猎户，从形意拳到人间武圣！",
+          "book_id": 12789207,
+          "heat_change": -4000
         },
         {
           "title": "九帝塔",
           "book_id": 11901855,
-          "heat_change": -1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻叙事回归，侧重于“废柴流+复仇+金手指”的经典套路，强调快节奏的压抑与爆发。\n**读者偏好**：读者热衷于“退婚、被逐、挖骨”等极具冲突的开篇，偏好主角通过强力外挂（如塔、面板）完成对家族及强敌的降维打击。\n**变动解读**：《九帝塔》强势冲顶，显示出“大神小号”或传统爽文结构在当前环境下依然具备极强的吸睛能力。\n**值得关注**：《长生猎户》热度下滑显著，说明单纯的面板养成若缺乏剧情张力，在激烈的榜单竞争中难以维持长效热度。",
+      "summary": "**题材趋势** 传统玄幻元素与“系统面板”深度结合，强调“杀伐果断”与“极速变强”，拒绝拖沓的修炼过程。\n**读者偏好** 读者偏爱“废柴复仇”、“女帝挖宝”等强冲突、快节奏的开篇，对“反抗压迫”与“暴力升级”的叙事逻辑有明确需求。\n**变动解读** 榜单处于小幅洗牌期，《葬仙塔》热度下滑导致排名被反超，显示出读者对“重生复仇”题材的审美疲劳与对新鲜设定的渴望。\n**值得关注** 《长生猎户》凭借武道面板与妖魔乱世的背景设定，在热度普遍下滑的情况下依然保持了强劲的上升势头，值得持续追踪。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "九帝塔",
         "book_id": 11901855,
         "url": "https://www.qimao.com/shuku/11901855/",
@@ -67,24 +72,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.56万字",
-        "word_count": 485600,
-        "heat": 63000,
+        "word_count_text": "48.97万字",
+        "word_count": 489700,
+        "heat": 61000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势，即刻罢免世子之位，斩其父母，妹妹，逐出家族。\n未婚妻无情，觉醒霸道血脉，眼中已无叶玄，一纸休书送于叶府，断然不念当年青梅竹马。\n…\n叶玄：“剥骨之仇，背信弃义，退婚之辱，我叶玄铭记在心，日月轮转，今日我败了，来日未不可称尊。”\n少年一怒，入九帝塔。\n塔共九层，一层一大帝。\n得魔道根基，虚无丹田，剑道传承，丹诀秘术，阵道至尊。\n待少年从塔中走出，那一日，风云色变，九圣朝拜。\n“金鳞岂是池中物，一遇风云变化龙，我叶玄便是那条真龙。”叶玄试问诸天，何人敢与之一战。\n自那日，他拳打天才，脚踢圣子，夺宝女皇一并还之，家族覆灭，未婚妻跪求原谅。\n叶玄：“早知今日，何必当初，我叶玄绝不吃回头草。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
-        "latest_chapter": " 第235章  我可惨了，动我的人",
-        "updated_at": "2026-09-19 21:53:03",
-        "rank_change": 3,
-        "heat_change": -1000,
+        "latest_chapter": " 第237章  黑衣男子，白衣青年",
+        "updated_at": "2026-09-20 22:15:05",
+        "rank_change": 1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "title": "长生猎户，从形意拳到人间武圣！",
         "book_id": 12789207,
         "url": "https://www.qimao.com/shuku/12789207/",
@@ -96,24 +101,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.71万字",
-        "word_count": 407100,
-        "heat": 50000,
+        "word_count_text": "41.32万字",
+        "word_count": 413200,
+        "heat": 46000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第198章  丛林激战，绝地搏命！",
-        "updated_at": "2026-09-19 23:35:04",
-        "rank_change": -3,
-        "heat_change": -20000,
+        "latest_chapter": " 第201章  皇城的大人物！风起云涌！",
+        "updated_at": "2026-09-20 23:32:03",
+        "rank_change": 2,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "葬仙塔，葬天，葬地，葬众仙",
         "book_id": 12679578,
         "url": "https://www.qimao.com/shuku/12679578/",
@@ -125,17 +130,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.95万字",
-        "word_count": 449500,
-        "heat": 43000,
+        "word_count_text": "45.51万字",
+        "word_count": 455100,
+        "heat": 31000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔。\n葬仙塔，每开启一层可获得一种仙级体质，每一层还有不同颜色的葬仙土，葬人可生出仙傀，埋药可结出仙丹……\n从此，秦长夜在埋葬的路上越走越远。\n葬人！葬药！葬诸天仙佛！葬万古大道！\n“生死看淡，不服就葬。”\n“本座是个讲究人，管杀又管葬。”\n“阁下虽然很强，但还没有资格让本座葬在第四层。”\n—史上最强葬帝，秦长夜。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12679578_360x480.jpg?time=1783065316",
-        "latest_chapter": " 第209章  好诡异的邪术…",
-        "updated_at": "2026-09-19 20:02:05",
-        "rank_change": 0,
-        "heat_change": -2000,
+        "latest_chapter": " 第212章  谁是猎人？谁又是猎物？",
+        "updated_at": "2026-09-20 20:02:04",
+        "rank_change": -1,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

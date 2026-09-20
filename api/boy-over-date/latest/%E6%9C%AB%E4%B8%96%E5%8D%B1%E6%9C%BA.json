@@ -8,22 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "末世危机",
     "major": "科幻",
-    "count": 2,
-    "total_heat": 136000,
+    "count": 1,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "末世，从吞尸体开始进化",
+          "book_id": 2051697,
+          "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万"
+        }
+      ],
       "top_risers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -31,20 +37,15 @@
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": 3000
-        },
-        {
-          "title": "末世，从吞尸体开始进化",
-          "book_id": 2051697,
-          "heat_change": -2000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：末世题材呈现出向“系统流”、“进化流”深耕的趋势，残酷的废土生存与极端的杀伐设定是留住读者的核心钩子。\n**读者偏好**：读者偏好强节奏的升级反馈，尤其是将“吞噬”、“进化”等爽点与末世危机结合的内容，具备极高的阅读爆发力。\n**变动解读**：尽管总热度略有波动，但《全球灾变之末日游戏》的逆势上扬验证了“末日+游戏”设定在当前市场依然具备强劲的统治力。\n**值得关注**：两部作品热度分化明显，头部效应加剧，反映出读者在末世题材中对极致爽感和差异化进化设定的高要求。",
+      "summary": "**题材趋势**：末世危机类题材表现出明显的“优胜劣汰”特征，热度向强剧情驱动型作品高度集中。\n**读者偏好**：读者偏好从“生存博弈”向“杀伐果断的进化流”转型，具备强烈反差感和多媒介联动（如漫画化）的作品更具粘性。\n**变动解读**：榜单出现小幅洗牌，热度正向回流，说明优质完结作品通过口碑沉淀，在长尾期仍具备较强的吸睛能力。\n**值得关注**：关注具备IP衍生潜力（漫画、剧本化）的作品，此类作品在完结后往往拥有更长的生命周期。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 13,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -58,47 +59,18 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 71000,
+        "heat": 73000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "rank_change": 2,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
-        "category": "末世危机"
-      },
-      {
-        "rank": 17,
-        "title": "末世，从吞尸体开始进化",
-        "book_id": 2051697,
-        "url": "https://www.qimao.com/shuku/2051697/",
-        "author": "只是小脑虎",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%AA%E6%98%AF%E5%B0%8F%E8%84%91%E8%99%8E_14/",
-        "major": "科幻",
-        "minor": "末世危机",
-        "major_id": 64,
-        "minor_id": 66,
-        "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "211.18万字",
-        "word_count": 2111800,
-        "heat": 65000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万般凶煞，以牙为刃，撕开人族生路！\n【吞噬能量+9】\n【请选择加点方式：气血/精神力】",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/859/2575713_360x480.jpg?time=1778641204",
-        "latest_chapter": " 第742章  坐镇南域",
-        "updated_at": "2026-09-20 01:51:07",
-        "rank_change": 0,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
         "category": "末世危机"
       }
     ]

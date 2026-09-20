@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 6,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,23 +23,33 @@
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+          "rank_change": 3
+        },
         {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
-          "rank_change": -1
+          "rank_change": 3
         }
       ],
-      "heat_leaders": [],
-      "summary": "「现代军事」《顶替我高考状元？我勇冠海陆空三军！》上升1位领涨；《四次入伍，我被军区拉进黑名单！》下滑1位。",
-      "ai_source": "rule"
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542,
+          "heat_change": 2
+        },
+        {
+          "title": "四次入伍，我被军区拉进黑名单！",
+          "book_id": 12179937,
+          "heat_change": 2
+        }
+      ],
+      "summary": "**题材趋势**：军事题材呈现明显的“爽文化”与“职业化”倾向，强调强烈的冲突设定与快节奏的奖励反馈机制。\n**读者偏好**：读者偏好带有“复仇逆袭”及“军旅搞怪/全能兵王”标签的作品，对强情绪驱动的开局极其买账。\n**变动解读**：本类目稳定性较高，两部上榜书籍通过稳健的排名攀升，显示出军事爽文在读者群中的强劲留存能力。\n**值得关注**：高强度的开局反差（如被顶替、多次入伍）是吸引点击的核心驱动力，后续剧情的爽感延续是留存关键。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 12,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -51,24 +61,24 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.07万字",
-        "word_count": 410700,
-        "heat": 1,
+        "word_count_text": "41.68万字",
+        "word_count": 416800,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第161章  要不要玩得那么大？金政委，经费怎么办啊？",
-        "updated_at": "2026-09-20 00:12:17",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第164章  你要包养我？",
+        "updated_at": "2026-09-21 00:12:15",
+        "rank_change": 3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "现代军事"
       },
       {
-        "rank": 16,
+        "rank": 13,
         "title": "四次入伍，我被军区拉进黑名单！",
         "book_id": 12179937,
         "url": "https://www.qimao.com/shuku/12179937/",
@@ -80,17 +90,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "97.24万字",
-        "word_count": 972400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "98.11万字",
+        "word_count": 981100,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
-        "latest_chapter": " 第436章  同台竞技，林毅被碾压！",
-        "updated_at": "2026-09-19 08:51:05",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第440章  敲定去天狼！陆元培的提醒！",
+        "updated_at": "2026-09-20 08:51:05",
+        "rank_change": 3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

@@ -8,43 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 60000,
+    "total_heat": 64000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "离婚后，前妻闺蜜找上我",
           "book_id": 12671994,
-          "heat_change": 3000
+          "rank_change": 3
         },
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": -3000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势** 聚焦“离婚复仇”与“时代背景下的生存”，叙事风格趋向情感博弈与生活质感。\n**读者偏好** 读者热衷于反套路的复仇爽文（如前妻闺蜜线）以及具备强烈年代氛围的生存经营类故事。\n**变动解读** 榜单出现小幅洗牌，头部书目热度此消彼长，反映出存量读者对剧情新鲜感的持续追求。\n**值得关注** 《离婚后，前妻闺蜜找上我》的复仇爽感模型具备极强粘性，是当前都市生活类别的热度增长点。",
-      "ai_source": "ai"
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "离婚后，前妻闺蜜找上我",
+          "book_id": 12671994,
+          "heat_change": 5000
+        },
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "「都市生活」《离婚后，前妻闺蜜找上我》上升3位领涨；《离婚后，前妻闺蜜找上我》热度+5000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 12,
         "title": "离婚后，前妻闺蜜找上我",
         "book_id": 12671994,
         "url": "https://www.qimao.com/shuku/12671994/",
@@ -56,24 +61,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.89万字",
-        "word_count": 478900,
-        "heat": 37000,
+        "word_count_text": "48.5万字",
+        "word_count": 485000,
+        "heat": 42000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
-        "latest_chapter": " 第74章  够狠，不过，我喜欢！",
-        "updated_at": "2026-09-19 10:57:03",
-        "rank_change": 0,
-        "heat_change": 3000,
+        "latest_chapter": " 第75章  看来，这混蛋是铁了心要把我们一网打尽了！",
+        "updated_at": "2026-09-20 09:00:07",
+        "rank_change": 3,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -85,17 +90,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.01万字",
-        "word_count": 300100,
-        "heat": 23000,
+        "word_count_text": "30.47万字",
+        "word_count": 304700,
+        "heat": 22000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第135章  生活这不就好起来了！",
-        "updated_at": "2026-09-19 19:10:03",
-        "rank_change": -1,
-        "heat_change": -3000,
+        "latest_chapter": " 第137章  啥？也做我女朋友？",
+        "updated_at": "2026-09-20 21:01:05",
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

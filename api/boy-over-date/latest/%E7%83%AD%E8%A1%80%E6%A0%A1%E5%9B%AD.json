@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 2,
-    "total_heat": 143000,
+    "total_heat": 145000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,30 +21,20 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": 1
-        },
-        {
           "title": "我和软萌女友的恋爱日常",
           "book_id": 214789,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": 1000
-        },
-        {
           "title": "我和软萌女友的恋爱日常",
           "book_id": 214789,
-          "heat_change": 1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：重生叠加恋爱养成已成为该小类的绝对主流，读者对“遗憾弥补”与“商业帝国”双线并行的叙事模式表现出极高热忱。\n**读者偏好**：读者更倾向于轻松、治愈且具备强情感共鸣的校园恋爱文，对“青梅校花”及“狗粮”元素的依赖度显著。\n**变动解读**：本类目两部作品排名同步上升且热度稳步增长，说明校园题材在完结榜单中具有极强的长线留存与口碑扩散效应。\n**值得关注**：商业化与情感线融合的《重生2000》展现出更强的头部压制力，是目前该赛道最符合主流审美的标杆模型。",
+      "summary": "**题材趋势**：重回青春的“重生+恋爱日常”模式已成为该类目的核心驱动力，纯校园冲突逐渐让位于“商业帝国+恋爱”的复合模式。\n**读者偏好**：读者更偏爱“治愈系”与“弥补遗憾”的叙事逻辑，对带有怀旧标签（如2000年）的创业恋爱文接受度极高。\n**变动解读**：《我和软萌女友的恋爱日常》排名上扬，验证了轻量化、高糖度的恋爱日常在长线阅读中的竞争优势。\n**值得关注**：在“重生”热潮下，如何平衡“商业搞钱”与“恋爱互动”的比例，是该类目作品实现热度突围的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -70,15 +60,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "热血校园"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -92,15 +82,15 @@
         "status": "已完结",
         "word_count_text": "299.99万字",
         "word_count": 2999900,
-        "heat": 65000,
+        "heat": 67000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": 2,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

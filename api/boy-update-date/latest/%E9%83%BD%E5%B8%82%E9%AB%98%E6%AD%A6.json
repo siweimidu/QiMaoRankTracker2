@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,21 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」《神武天下之睚眦》下滑1位。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：都市高武类目前处于入榜门槛极低的“存量挤压”状态，市场供需表现相对平淡。\n**读者偏好**：读者依然偏爱“绝境重生+系统金手指”的经典成长模型，即从社会底层身份开启反差式力量觉醒。\n**变动解读**：由于榜单竞争密度较小，该书凭借微小热度变动即可实现排位上升，说明该细分赛道目前缺乏头部爆款挤占空间。\n**值得关注**：建议关注后续剧情中“保安身份”与“神种力量”的冲突如何升级，以支撑其在更激烈的榜单竞争中站稳脚跟。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -45,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "430.81万字",
-        "word_count": 4308100,
+        "word_count_text": "431.8万字",
+        "word_count": 4318000,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1023章  世界之巅 加冕礼",
-        "updated_at": "2026-09-19 09:02:13",
-        "rank_change": -1,
+        "latest_chapter": " 第1024章  世界之巅 反猎",
+        "updated_at": "2026-09-20 09:02:15",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 317000,
+    "total_heat": 307000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -3000
+          "heat_change": -10000
         }
       ],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场表现平稳但缺乏新增爆款。\n**读者偏好**：读者依然青睐“底层逆袭+权谋争霸”的典型爽文架构，对经典穿越背景接受度高。\n**变动解读**：本周期内该品类热度出现小幅震荡（-3000），头部作品面临一定的用户留存压力。\n**值得关注**：需警惕品类整体活跃度下行，建议关注后续是否有具备强剧情驱动力的新作入局。",
+      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台维持稳定，呈现出头部效应显著的特征。\n**读者偏好**：读者更倾向于“底层逆袭+家国天下”的爽点组合，即从微末身份通过强力手段干预乱世，实现权力跃迁。\n**变动解读**：虽然排名微升，但热度出现小幅回落，反映出该题材在缺乏强劲新书补充时，存量市场竞争压力增大。\n**值得关注**：需重点观察长篇权谋文在后续剧情中对“爽点节奏”的把控，防止因剧情铺陈过长导致的热度流失。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -45,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "211.9万字",
-        "word_count": 2119000,
-        "heat": 317000,
+        "word_count_text": "212.56万字",
+        "word_count": 2125600,
+        "heat": 307000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第980章  李若雨的叮嘱",
-        "updated_at": "2026-09-19 20:17:08",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "latest_chapter": " 第983章  吕孟阳的过去",
+        "updated_at": "2026-09-20 21:27:08",
+        "rank_change": 1,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

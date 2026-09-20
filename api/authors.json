@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T06:44:30",
-  "date": "2026-09-20",
+  "generated_at": "2026-09-21T07:03:31",
+  "date": "2026-09-21",
   "authors": [
     {
       "author": "化十",
@@ -25,17 +25,6 @@
       ]
     },
     {
-      "author": "橡皮泥",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%A9%A1%E7%9A%AE%E6%B3%A5_14/",
-      "books": 2,
-      "boards": 3,
-      "total_heat": 5138000,
-      "titles": [
-        "打到北极圈了，你让我继承皇位？",
-        "你管八十万人马叫匪患？"
-      ]
-    },
-    {
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
@@ -47,11 +36,22 @@
       ]
     },
     {
+      "author": "咸鱼老白",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 2990004,
+      "titles": [
+        "众仙俯首",
+        "盗梦千年"
+      ]
+    },
+    {
       "author": "罗樵森",
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2605000,
+      "total_heat": 2605003,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "types": [
     {
       "name": "全部",
@@ -27,24 +27,24 @@
       "url": "api/boy-update-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "现代军事",
-      "url": "api/boy-update-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
       "name": "幻想修真",
       "url": "api/boy-update-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "都市高武",
-      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+      "name": "现代军事",
+      "url": "api/boy-update-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
+    },
+    {
+      "name": "奇门秘术",
+      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "商战职场",
       "url": "api/boy-update-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
-      "name": "奇门秘术",
-      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+      "name": "都市高武",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     }
   ]
 }
