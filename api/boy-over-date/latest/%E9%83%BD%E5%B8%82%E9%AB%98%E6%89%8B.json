@@ -8,38 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 209000,
+    "total_heat": 203000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": 6000
+          "heat_change": -7000
         },
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
-          "heat_change": -1000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：都市战神流与修仙异能流占据绝对统治地位，强设定与爽文节奏是核心竞争力。\n**读者偏好**：受众偏好“高武背景+后宫修罗场”的强冲突剧情，对“无敌流”归来复仇及特殊背景（如监狱）的题材接受度高。\n**变动解读**：头部效应显著，《SSS级狂龙归来》热度稳步增长，显示出长尾完结书在垂直领域的强劲吸量能力。\n**值得关注**：警惕同质化竞争，后续作品需在“身份反差”与“红颜互动”的爽点设计上寻求差异化创新。",
+      "summary": "**题材趋势** 战神流与都市异能流依然是完结榜的基石，强调“身份反差”与“红颜拥簇”的爽点结构。\n**读者偏好** 偏好强设定带来的爽感，如“北境之主”的权势压制或“修仙出狱”的身份转折。\n**变动解读** 榜单稳定性极高，头部作品热度小幅波动，显示出此类完结书已进入长尾阅读的存量竞争期。\n**值得关注** 《SSS级狂龙归来》虽有轻微热度回调，但其统治力依然稳固，反映了读者对经典战神回归题材的黏性。",
       "ai_source": "ai"
     },
     "books": [
@@ -58,15 +52,15 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 151000,
-        "platform_trend": "rise",
+        "heat": 144000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
         "rank_change": 0,
-        "heat_change": 6000,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -87,15 +81,15 @@
         "status": "已完结",
         "word_count_text": "760.62万字",
         "word_count": 7606200,
-        "heat": 58000,
-        "platform_trend": "drop",
+        "heat": 59000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

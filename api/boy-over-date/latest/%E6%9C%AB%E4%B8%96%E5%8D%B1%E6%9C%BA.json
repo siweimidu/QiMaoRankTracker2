@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 2,
-    "total_heat": 135000,
+    "total_heat": 137000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "末世，从吞尸体开始进化",
-          "book_id": 2051697
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：末世题材维持存量博弈，核心卖点集中在“重生复仇”与“异能进化”两大经典爽点。\n**读者偏好**：读者更青睐带有强冲突、高压环境下的暴力美学，以及通过吞噬、变异实现的数值成长快感。\n**变动解读**：头部作品热度微跌，新书《末世，从吞尸体开始进化》凭借更具视觉冲击力的题材切入点成功上榜，显示出该品类对“极限生存”题材的持续渴求。\n**值得关注**：关注跨媒介联动（漫画化）对网文长尾流量的赋能作用，这是延长末世类完结作品生命周期的有效手段。",
+      "summary": "**题材趋势**：末世题材在七猫完结榜中展现出极强的长尾效应，稳居存量市场头部。\n**读者偏好**：读者更倾向于“重生+杀伐果断”与“变异+吞噬进化”的强爽文逻辑，强调生存压迫感与力量成长的即时反馈。\n**变动解读**：榜单结构高度稳定，头部作品通过稳健的运营持续吸纳热度，未出现新书冲击，显示出该赛道完结作品的粉丝粘性极高。\n**值得关注**：头部作品《全球灾变之末日游戏》通过跨平台联动（漫画化）维持热度，这种“网文+漫画”的IP联动模式是延长完结书生命周期的有效手段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -58,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 72000,
-        "platform_trend": "drop",
+        "heat": 74000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -85,18 +80,18 @@
         "minor_id": 66,
         "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "211.59万字",
-        "word_count": 2115900,
+        "word_count_text": "212.11万字",
+        "word_count": 2121100,
         "heat": 63000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万般凶煞，以牙为刃，撕开人族生路！\n【吞噬能量+9】\n【请选择加点方式：气血/精神力】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/859/2575713_360x480.jpg?time=1778641204",
-        "latest_chapter": " 第743章  清剿计划",
-        "updated_at": "2026-09-21 01:27:06",
+        "latest_chapter": " 第744章  五路大军",
+        "updated_at": "2026-09-22 23:31:08",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世危机"

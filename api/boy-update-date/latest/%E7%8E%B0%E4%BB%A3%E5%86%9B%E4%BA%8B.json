@@ -8,24 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 2,
-    "total_heat": 3,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
-          "rank_change": -2
-        },
+          "rank_change": 3
+        }
+      ],
+      "top_fallers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
@@ -34,51 +35,17 @@
       ],
       "heat_leaders": [
         {
-          "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542,
-          "heat_change": -2
-        },
-        {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：军事题材高度聚焦“个人成长+爽点输出”，侧重于反差感极强的“学霸参军”及“刺头兵”人设。\n**读者偏好**：读者偏好快节奏的系统流叙事，热衷于通过主角身份反转（如高考状元、退伍钉子户）产生的打脸效应获取爽感。\n**变动解读**：榜单整体处于震荡下行期，热度出现明显回落，反映出该品类在当前阶段缺乏强有力的内容驱动。\n**值得关注**：《四次入伍，我被军区拉进黑名单！》通过反常规人设建立阅读期待，是该品类中较具差异化的选题方向。",
+      "summary": "**题材趋势** 军事文呈现“轻松幽默”与“爽文复仇”双轨并行态势，军旅生活元素依然是吸引读者的核心。\n**读者偏好** 读者更青睐带有反差感的人设，如“军营钉子户”式轻喜剧，或“受辱参军、巅峰归来”的打脸爽文。\n**变动解读** 《四次入伍》排名大幅上升，说明相比传统压抑的军旅叙事，读者更倾向于互动性强、带有网感和趣味性的角色驱动型故事。\n**值得关注** 军事题材的“网文化”程度加深，具备强人设与高频冲突的轻快叙事更易获得流量青睐。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
-        "title": "顶替我高考状元？我勇冠海陆空三军！",
-        "book_id": 12931542,
-        "url": "https://www.qimao.com/shuku/12931542/",
-        "author": "言龙",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%A8%80%E9%BE%99_14/",
-        "major": "军事",
-        "minor": "现代军事",
-        "major_id": 60,
-        "minor_id": 61,
-        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "42.3万字",
-        "word_count": 423000,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第167章  出来混，当然是谁能打，谁上位啊！",
-        "updated_at": "2026-09-22 00:12:17",
-        "rank_change": -1,
-        "heat_change": -2,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "现代军事"
-      },
-      {
-        "rank": 15,
+        "rank": 12,
         "title": "四次入伍，我被军区拉进黑名单！",
         "book_id": 12179937,
         "url": "https://www.qimao.com/shuku/12179937/",
@@ -90,19 +57,48 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "99.15万字",
-        "word_count": 991500,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "100.08万字",
+        "word_count": 1000800,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
-        "latest_chapter": " 第444章  违规渗透？这可是三等功！",
-        "updated_at": "2026-09-21 09:31:05",
-        "rank_change": -2,
-        "heat_change": -1,
+        "latest_chapter": " 第448章  天狼五虎战林毅！",
+        "updated_at": "2026-09-22 16:32:05",
+        "rank_change": 3,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 3,
+        "stale_update": false,
+        "category": "现代军事"
+      },
+      {
+        "rank": 14,
+        "title": "顶替我高考状元？我勇冠海陆空三军！",
+        "book_id": 12931542,
+        "url": "https://www.qimao.com/shuku/12931542/",
+        "author": "言龙",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%A8%80%E9%BE%99_14/",
+        "major": "军事",
+        "minor": "现代军事",
+        "major_id": 60,
+        "minor_id": 61,
+        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "42.91万字",
+        "word_count": 429100,
+        "heat": 1,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
+        "latest_chapter": " 第170章  合着，何杰身边，都是卧底？",
+        "updated_at": "2026-09-23 00:12:16",
+        "rank_change": -1,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
         "stale_update": false,
         "category": "现代军事"
       }

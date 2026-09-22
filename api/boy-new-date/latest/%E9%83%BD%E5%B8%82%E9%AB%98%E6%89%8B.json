@@ -8,43 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 135000,
+    "total_heat": 128000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我想躺平当保安，女神非要来纠缠",
-          "book_id": 9999144,
-          "rank_change": -1
-        },
+      "top_risers": [
         {
           "title": "哥你别乱看了，这块帝王绿出水了！",
           "book_id": 12873285,
-          "rank_change": -1
+          "rank_change": 6
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "徒儿你都元婴了，下山找你未婚妻吧",
+          "book_id": 12556227,
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "徒儿你都元婴了，下山找你未婚妻吧",
           "book_id": 12556227,
-          "heat_change": -1000
+          "heat_change": -12000
+        },
+        {
+          "title": "哥你别乱看了，这块帝王绿出水了！",
+          "book_id": 12873285,
+          "heat_change": 5000
         }
       ],
-      "summary": "**题材趋势** 传统都市隐龙文延续“下山/避祸+美女纠缠+异能辅助”的经典套路，题材创新趋于平稳，强调都市生活中的“扮猪吃虎”。\n**读者偏好** 读者对“鉴宝、医术、战力”等功能性金手指情有独钟，期待在平庸的都市生活中看到主角通过特殊能力迅速获取社会地位和女性青睐。\n**变动解读** 榜单活跃度较低，整体热度呈现小幅下行趋势，由于缺乏新书入榜，现有头部作品的统治力在短期内难以撼动。\n**值得关注** 都市类目正面临题材同质化困境，如何将“高手”标签与更具时代特征的职业或场景结合，是提升竞争力的关键。",
+      "summary": "**题材趋势**：传统“下山无敌流”与“都市鉴宝流”并存，强调主角在都市背景下的隐藏身份与反差感。\n**变动解读**：《哥你别乱看了，这块帝王绿出水了！》热度逆势大增，显示出“都市+鉴宝/职业技能”的升级流在快节奏爽文市场中具有更强的爆发力。\n**读者偏好**：读者对单纯的无敌流爽感产生了一定审美疲劳，更倾向于带有特定职业技能（如鉴宝）带来的“捡漏/逆袭”快感。\n**值得关注**：鉴宝类题材在都市赛道表现出极强的反超动能，后续可关注此类融合题材在榜单的持续表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 6,
         "title": "徒儿你都元婴了，下山找你未婚妻吧",
         "book_id": 12556227,
         "url": "https://www.qimao.com/shuku/12556227/",
@@ -56,17 +62,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.69万字",
-        "word_count": 496900,
-        "heat": 63000,
+        "word_count_text": "50.39万字",
+        "word_count": 503900,
+        "heat": 51000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "五岁上山，十六岁元婴，一百零八位师父倾囊相授。\n\n十八岁这年，师父们联手把我踹下山——\n“带上这九封婚书，看上眼的娶，看不上的退。”\n\n第一家，大昌市叶家。\n刚进门就撞上老爷子病危，神医素手无策。\n我随手渡了口灵气，活了。\n\n全场震动，叶家大小姐红着眼跪求：“什么条件我都答应！”\n我把婚书往桌上一拍：“我来退婚的。”\n\n她傻了。\n我从兜里又掏出八封：“别急，后面还排着队呢。”\n\n你们武功练的确实不错，可惜我是修仙的。\n【都市修仙+九封婚书+师姐战神+一路打脸】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4186/12556227_360x480.jpg?time=1783490729",
-        "latest_chapter": " 第194章  最后邀请",
-        "updated_at": "2026-09-22 00:02:24",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第197章  一定要杀掉林剑行！",
+        "updated_at": "2026-09-23 00:02:26",
+        "rank_change": -2,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -85,16 +91,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.29万字",
-        "word_count": 472900,
+        "word_count_text": "47.71万字",
+        "word_count": 477100,
         "heat": 51000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
-        "latest_chapter": " 第230章  帮我查点东西。",
-        "updated_at": "2026-09-22 00:02:26",
-        "rank_change": -1,
+        "latest_chapter": " 第232章  50元的0.01",
+        "updated_at": "2026-09-23 00:02:28",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -102,7 +108,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 14,
         "title": "哥你别乱看了，这块帝王绿出水了！",
         "book_id": 12873285,
         "url": "https://www.qimao.com/shuku/12873285/",
@@ -114,17 +120,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.64万字",
-        "word_count": 486400,
-        "heat": 21000,
+        "word_count_text": "49.47万字",
+        "word_count": 494700,
+        "heat": 26000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "许泽身为古玩行打工的牛马，每月只能挣扎在温饱线上，不曾想一次意外，竟让他撞见美女房东被人刁难！\n这房租还欠着呢，他能坐视不管？\n许泽英雄救美，本想吓退油腻老板，结果却惨遭偷袭，命悬一线！\n岂料福祸相依，阴差阳错之下他竟拥有了鉴宝之力！\n从此咸鱼翻身，什么稀珍古玩、顶级帝王绿……咱主打个全方位捡漏！\n一场属于许泽的辉煌人生，也就此拉开帷幕！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4292/12873285_360x480.jpg?time=1784636124",
-        "latest_chapter": " 第233章  七星闭目彻底崩盘",
-        "updated_at": "2026-09-21 21:25:03",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第237章  神秘的洛阳铲",
+        "updated_at": "2026-09-22 22:35:03",
+        "rank_change": 6,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：该小类目前呈现极度缩减态势，内容核心围绕“民俗惊悚”与“生存危机”构建，具备强烈的末世求生氛围。\n**读者偏好**：读者对压抑、诡异的末世环境设定有较高接受度，倾向于主角在绝境中保持冷静与杀伐心态的叙事风格。\n**变动解读**：品类内仅存单本支撑，市场活跃度极低，热度下滑意味着该题材目前在榜单竞争中处于边缘位置。\n**值得关注**：《天黑请点灯》作为唯一在榜作品，其独特的“人吃人”暗黑基调是该题材维持读者留存的关键。",
+      "summary": "**题材趋势** 民俗悬疑与诡异流题材热度平稳，强调末世生存与诡异规则的设定是该类别的核心卖点。\n**读者偏好** 读者倾向于具有压抑氛围感、世界观设定独特的作品，尤其是带有“人吃人”等极端生存要素的暗黑风格。\n**变动解读** 榜单排名下滑反映了该品类在当前快节奏阅读环境下的挑战，用户对长线悬疑叙事的忠诚度可能受到爽文节奏的挤压。\n**值得关注** 需观察此类作品如何通过更紧凑的节奏或更惊悚的开篇，在“爽文当道”的榜单竞争中维持用户留存。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 13,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "477.48万字",
-        "word_count": 4774800,
-        "heat": 1,
+        "word_count_text": "478.04万字",
+        "word_count": 4780400,
+        "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1746章  云锦山，张守一大天师！",
-        "updated_at": "2026-09-22 06:57:11",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第1748章  三开坛天雷齐轰！",
+        "updated_at": "2026-09-23 06:52:14",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

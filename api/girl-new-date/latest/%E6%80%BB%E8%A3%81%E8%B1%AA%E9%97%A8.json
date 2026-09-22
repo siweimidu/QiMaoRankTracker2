@@ -8,48 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 2,
-    "total_heat": 58000,
+    "count": 3,
+    "total_heat": 74000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_books": [
         {
-          "title": "抛妻弃子后，薄总低声诱哄求复合",
-          "book_id": 12497535,
-          "rank_change": 3
-        },
+          "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+          "book_id": 12802161
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "青梅消失五年后，顾医生再度失控",
           "book_id": 12855951,
-          "rank_change": 2
+          "rank_change": -2
+        },
+        {
+          "title": "抛妻弃子后，薄总低声诱哄求复合",
+          "book_id": 12497535,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "抛妻弃子后，薄总低声诱哄求复合",
           "book_id": 12497535,
-          "heat_change": 1000
+          "heat_change": -4000
         },
         {
           "title": "青梅消失五年后，顾医生再度失控",
           "book_id": 12855951,
-          "heat_change": 1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：破镜重圆与强取豪夺类题材持续领跑，虐恋情深与极致拉扯仍是市场刚需。\n**读者偏好**：读者热衷于“追妻火葬场”及“双向疯批”的人设张力，对带有强烈情感冲突的复仇与失而复得桥段粘性极高。\n**变动解读**：榜单头部效应显著，两部作品排名协同上扬，显示出此类题材在存量竞争中通过高频情绪输出稳固了用户留存。\n**值得关注**：两部作品均通过“三年”时间跨度与情感反差制造钩子，建议后续创作重点深挖男女主之间“爱恨交织”的心理博弈细节。",
-      "ai_source": "ai"
+      "summary": "「总裁豪门」新上榜 《鱼宝三岁半，哥哥们都是窝捡来哒》；《青梅消失五年后，顾医生再度失控》下滑2位；《抛妻弃子后，薄总低声诱哄求复合》热度-4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "抛妻弃子后，薄总低声诱哄求复合",
         "book_id": 12497535,
         "url": "https://www.qimao.com/shuku/12497535/",
@@ -61,24 +66,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.32万字",
-        "word_count": 393200,
-        "heat": 30000,
-        "platform_trend": "rise",
+        "word_count_text": "39.73万字",
+        "word_count": 397300,
+        "heat": 26000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【破镜重圆+协议假夫妻+双向疯批抢婚】\n三年隐婚，宋今也以为他们双向奔赴。\n直到她怀孕，薄斯年冷脸让她打掉，转头却呵护备至地陪白月光宋昭昀去做产检。\n最终她痛失腹中孩子，心如死灰签下离婚协议，远赴国外。\n三年后，薄斯年跟宋昭昀婚期在即，她被逼回国相亲，却被他搅黄了。\n只因薄家老爷子病重失忆，只认她这个孙媳妇。他花重金与她签订协议，让她配合在爷爷面前演好假夫妻。并警告：演戏只做给爷爷看，别有非分之想。\n老爷子施压，二人被迫同居。同居照曝光于众，她被扣上“小三”、“勾引姐夫”的帽子，遭受无数非议。\n隐婚往事也被曝光，所有人都说薄斯年的真爱是白月光。骂她又争又抢，吃相难看。\n她只沉迷工作，单月两篇　SCI　顺利见刊，成为备受瞩目的科研大佬。\n半年协议到期，宋今也火速抽身走人。\n他却深夜堵在她门口，“明天我结婚，你来抢婚好吗？”\n宋今也一脸不感兴趣。\n他拿出一纸亲子鉴定，“女儿你也不要了？”\n宋今也僵住，女儿是她的？\n“姓薄的，把我女儿还我！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4166/12497535_360x480.jpg?time=1783928972",
-        "latest_chapter": " 第190章  热搜女主在身边？",
-        "updated_at": "2026-09-21 20:24:03",
-        "rank_change": 3,
-        "heat_change": 1000,
+        "latest_chapter": " 第192章  难怪他浑身透着一股资本家的高贵气质",
+        "updated_at": "2026-09-22 21:03:04",
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "title": "青梅消失五年后，顾医生再度失控",
         "book_id": 12855951,
         "url": "https://www.qimao.com/shuku/12855951/",
@@ -90,19 +95,48 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.7万字",
-        "word_count": 417000,
-        "heat": 28000,
-        "platform_trend": "rise",
+        "word_count_text": "42.4万字",
+        "word_count": 424000,
+        "heat": 24000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
-        "latest_chapter": " 第192章  热搜撤，贱人慌",
-        "updated_at": "2026-09-21 08:12:05",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "latest_chapter": " 第195章  两人挤在老房子的沙发上",
+        "updated_at": "2026-09-22 08:12:06",
+        "rank_change": -2,
+        "heat_change": -4000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
+        "stale_update": false,
+        "category": "总裁豪门"
+      },
+      {
+        "rank": 17,
+        "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+        "book_id": 12802161,
+        "url": "https://www.qimao.com/shuku/12802161/",
+        "author": "乔木鸭",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%94%E6%9C%A8%E9%B8%AD_14/",
+        "major": "现代言情",
+        "minor": "总裁豪门",
+        "major_id": 1,
+        "minor_id": 8,
+        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "33.52万字",
+        "word_count": 335200,
+        "heat": 24000,
+        "platform_trend": "rise",
+        "badge": "飙升53名",
+        "intro": "【金手指+团宠+拼好家+对照组】\n出生就被抱错的鱼鱼，在垃圾堆里捡到了断腿毁容的男人。\n“哇，好大一个爸爸，活的。”\n好多坏人欺负爸爸，鱼鱼决定多捡几个家人，一起保护爸爸。\n咦，帅帅哒，眼神凶凶哒大哥哥，你当我大哥呀！\n嘿，那个要跳海哒漂亮小哥哥，你当我二哥吧！\n哟，跟她一起被人贩子拐走哒小哥哥，想换爸爸？那好吧，让你当三哥。\n嘻嘻……家人都是她捡来哒，鱼鱼真棒！\n后来，华国多了个横着走的小姑娘。\n她爸爸是华国第一家族的家主，大哥是疯批大佬，二哥是娱乐圈顶流，三哥是未来兵王。\n人人谈之变色的特殊部门，是鱼鱼的后花园。\n新闻里的超级大佬，把鱼鱼扛在肩上举高高。\n鱼鱼我呀，不小心成团宠啦！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802161_360x480.jpg?time=1784460596",
+        "latest_chapter": " 第158章  钓鱼，相互演戏！",
+        "updated_at": "2026-09-22 23:47:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       }

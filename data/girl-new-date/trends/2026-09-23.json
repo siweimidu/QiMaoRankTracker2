@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-23",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 46150,
+    "total_heat": 923000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "七零换嫁绝嗣大佬，一胎三宝惊艳家属院",
+            "book_id": 12602724,
+            "rank_change": -1
+          },
+          {
+            "title": "精通婴语，我在七零大院当团宠",
+            "book_id": 12554541,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 43000
+          },
+          {
+            "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
+            "book_id": 12454263,
+            "heat_change": 2000
+          },
+          {
+            "title": "精通婴语，我在七零大院当团宠",
+            "book_id": 12554541,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「年代重生」《七零换嫁绝嗣大佬，一胎三宝惊艳家属院》下滑1位；《错嫁随军：新婚夜冷面军少沦陷了》热度+43000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "替嫁高门后，贤德夫人捅破天",
+            "book_id": 12321330,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "夺她入帐，惹上疯批权臣逃不掉",
+            "book_id": 10423605,
+            "rank_change": -1
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夺她入帐，惹上疯批权臣逃不掉",
+            "book_id": 10423605,
+            "heat_change": -11000
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": -3000
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「宫闱宅斗」《替嫁高门后，贤德夫人捅破天》上升3位领涨；《夺她入帐，惹上疯批权臣逃不掉》下滑1位；《夺她入帐，惹上疯批权臣逃不掉》热度-11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "表妹貌美，冷面世子情难自恃",
+            "book_id": 12443391,
+            "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 2
+          },
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "rank_change": 2
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "穿进强制爱古言，四个大佬全部失控",
+            "book_id": 12581412,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 31000
+          },
+          {
+            "title": "攀君",
+            "book_id": 12335439,
+            "heat_change": -1000
+          },
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」《表妹貌美，冷面世子情难自恃》 掉出榜单；《春闺小寡妇》上升2位领涨；《穿进强制爱古言，四个大佬全部失控》下滑1位；《春闺小寡妇》热度+31000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+            "book_id": 12802161
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "青梅消失五年后，顾医生再度失控",
+            "book_id": 12855951,
+            "rank_change": -2
+          },
+          {
+            "title": "抛妻弃子后，薄总低声诱哄求复合",
+            "book_id": 12497535,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "抛妻弃子后，薄总低声诱哄求复合",
+            "book_id": 12497535,
+            "heat_change": -4000
+          },
+          {
+            "title": "青梅消失五年后，顾医生再度失控",
+            "book_id": 12855951,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《鱼宝三岁半，哥哥们都是窝捡来哒》；《青梅消失五年后，顾医生再度失控》下滑2位；《抛妻弃子后，薄总低声诱哄求复合》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「种田经商」《穿了之后：我用一头猪换了个男人》下滑4位；《穿了之后：我用一头猪换了个男人》热度-6000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

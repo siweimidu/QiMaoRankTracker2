@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：以“战神回归”、“身世背景无敌”与“反套路爽文”为核心框架，强调身份反差带来的情绪价值。\n**读者偏好**：受众偏爱强力主角设定及快节奏的打脸爽点，对带有反派视角的创新设定展现出一定包容性。\n**变动解读**：榜单结构高度稳定，未见新书迭代，反映出该细分领域头部作品的粉丝基本盘已极度稳固。\n**值得关注**：《舔狗反派只想苟》作为反套路代表，其在传统爽文榜单中的存在，反映了读者对“反派逆袭”题材的持续兴趣。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -126,15 +126,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "633.24万字",
-        "word_count": 6332400,
+        "word_count_text": "633.67万字",
+        "word_count": 6336700,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2667章  不二孙的背叛",
-        "updated_at": "2026-09-21 20:22:20",
+        "latest_chapter": " 第2669章   陆总巧记脱身",
+        "updated_at": "2026-09-22 20:12:19",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

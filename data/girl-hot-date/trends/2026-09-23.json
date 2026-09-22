@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-23",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 472100,
+    "total_heat": 9442000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": 6
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": -1
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "heat_change": 174000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 38000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -27000
+          }
+        ],
+        "summary": "「宫闱宅斗」《玉帐春》上升6位领涨；《凤池生春》下滑1位；《玉帐春》热度+174000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": -4
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": -15000
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -13000
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「总裁豪门」《八年冷淡你提离婚，我签字你疯什么》上升1位领涨；《大佬十代单传，我为他一胎生四宝》下滑4位；《八年冷淡你提离婚，我签字你疯什么》热度-15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -45000
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑4位；《家有玄妻，百邪不侵！》热度-45000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

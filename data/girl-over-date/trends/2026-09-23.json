@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-23",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 183900,
+    "total_heat": 3678000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": -3
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": -1
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "heat_change": 20000
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "heat_change": 8000
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《八年冷淡你提离婚，我签字你疯什么》；《他的瘾》上升4位领涨；《皑如山上雪》下滑3位；《他的瘾》热度+20000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": -2
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": -1
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 38000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": 9000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升1位领涨；《第一凤女》下滑2位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+38000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "rank_change": -3
+          },
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》下滑3位；《第一瞳术师》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "rank_change": -2
+          },
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": 4000
+          },
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》下滑2位；《穿成六零小炮灰，大小姐带物资养兵王》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市奇幻」《阴当》热度+2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

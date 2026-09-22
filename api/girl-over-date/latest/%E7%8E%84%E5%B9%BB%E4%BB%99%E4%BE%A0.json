@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 2,
-    "total_heat": 255000,
+    "total_heat": 254000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "柔弱医修今天也在背地里暴打魔尊",
           "book_id": 1981956,
-          "rank_change": 2
+          "rank_change": -3
+        },
+        {
+          "title": "第一瞳术师",
+          "book_id": 215243,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "第一瞳术师",
           "book_id": 215243,
-          "heat_change": -7000
-        },
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "heat_change": -2000
+          "heat_change": -1000
         }
       ],
-      "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》上升2位领涨；《第一瞳术师》热度-7000。",
+      "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》下滑3位；《第一瞳术师》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "第一瞳术师",
         "book_id": 215243,
         "url": "https://www.qimao.com/shuku/215243/",
@@ -58,22 +58,22 @@
         "status": "已完结",
         "word_count_text": "397.31万字",
         "word_count": 3973100,
-        "heat": 165000,
+        "heat": 164000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【已签出版】9月20日晚8:00全网预售\n《奔跑吧》《王牌对王牌》《你好种地少年》推荐，孟子义、高瀚宇、蒋敦豪在看的玄幻群像文。\n云筝，是华国隐世族地的天才瞳术师以及玄术师！\n一朝穿越，成了世人唾弃的废材！\n废材？翻手覆云间算尽天下事，一双妖异赤红色异瞳驭万兽！\n可偏偏算不了，看不穿那个尊贵雅致，风光月霁般的帝尊。\n云筝不解地问：“你图什么？”\n傲娇帝尊别扭地转过头，喃喃自语道：“不过是只图你一个罢了……”\n-\n推荐我的新书《第一召唤师》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": 0,
-        "heat_change": -7000,
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "玄幻仙侠"
       },
       {
-        "rank": 15,
+        "rank": 18,
         "title": "柔弱医修今天也在背地里暴打魔尊",
         "book_id": 1981956,
         "url": "https://www.qimao.com/shuku/1981956/",
@@ -94,8 +94,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": 2,
-        "heat_change": -2000,
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

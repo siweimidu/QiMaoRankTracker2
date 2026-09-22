@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-23",
+  "category": {
+    "name": "热血校园",
+    "major": "都市",
+    "count": 1,
+    "total_heat": 23000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：重生年代文与校园情感文结合依然是主流，通过重回过去改变女主角命运的叙事模式，精准切中读者的怀旧情绪与养成快感。\n**读者偏好**：读者热衷于“多女主+养成+商业/成名”的复合型爽文结构，尤其是将性格迥异的未来女神在校园时期进行“逐一攻略”的设定，具有很强的点击驱动力。\n**变动解读**：新书《趁校花一贫如洗，忽悠她以身相许》直接上榜，说明校园题材在七猫生态中依然拥有极高的流量吸纳能力，即便在竞争激烈的环境下，高质量的“校花攻略”题材仍能破局。\n**值得关注**：需持续观察该书能否通过后续的剧情展开维持高热度，其“反差感+养成”的设定是否能引发出更多同类竞品跟进。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "趁校花一贫如洗，忽悠她以身相许",
+        "book_id": 12896292,
+        "url": "https://www.qimao.com/shuku/12896292/",
+        "author": "不吃鱼肉",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%8D%E5%90%83%E9%B1%BC%E8%82%89_14/",
+        "major": "都市",
+        "minor": "热血校园",
+        "major_id": 203,
+        "minor_id": 222,
+        "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "24.68万字",
+        "word_count": 246800,
+        "heat": 23000,
+        "platform_trend": "rise",
+        "badge": "飙升12名",
+        "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
+        "latest_chapter": " 第110章  陈妍的变化。",
+        "updated_at": "2026-09-22 08:12:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "热血校园"
+      }
+    ]
+  }
+}

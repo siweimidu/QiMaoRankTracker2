@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-23",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 667900,
+    "total_heat": 13358000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "京少不育，小保姆却怀了他的崽",
+            "book_id": 11851533,
+            "intro": "【你保家卫国，我保护你】\n【年代军婚＋带崽＋日久生情＋治愈＋男主真正经＋女主真色批】\n京北空军总部少校周偃沉，出任务受伤双腿落下残疾。\n为了照顾他，家里人给他请了小保姆。\n小保姆长得妖，生得俏，力气大"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
+            "book_id": 12454263,
+            "rank_change": 2
+          },
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "rank_change": 1
+          },
+          {
+            "title": "八零女配睡了就跑，高冷军少追疯了",
+            "book_id": 12193602,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《京少不育，小保姆却怀了他的崽》 掉出榜单；《重生换亲？我携空间嫁短命糙汉赢麻了》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "鸾凤引",
+            "book_id": 12103716
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "不是清冷权臣吗？怎么婚后破戒了",
+            "book_id": 12223362,
+            "intro": "【1V1双洁/年龄差/甜宠】\n世人皆知将军府养女仰慕镇北将军晏昭，她唤他一声兄长，敬他沉稳果断、赤诚忠胆，殊不知他那颗赤诚心下，爱的是她腰肢娇软、贪的是与她夜夜笙欢。"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205,
+            "rank_change": 2
+          },
+          {
+            "title": "夺她入帐，惹上疯批权臣逃不掉",
+            "book_id": 10423605,
+            "rank_change": 1
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」新上榜 《鸾凤引》；《不是清冷权臣吗？怎么婚后破戒了》 掉出榜单；《听女儿心声，侯夫人挺孕肚乱杀》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "青梅消失五年后，顾医生再度失控",
+            "book_id": 12855951
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "她去父留子后，裴总失控跪下了",
+            "book_id": 12101058,
+            "rank_change": 3
+          },
+          {
+            "title": "难戒，上上婚！",
+            "book_id": 12573738,
+            "rank_change": 2
+          },
+          {
+            "title": "沈小姐，傅先生等你三年了",
+            "book_id": 12206070,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《青梅消失五年后，顾医生再度失控》；《她去父留子后，裴总失控跪下了》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "王妃她是引渡人",
+            "book_id": 12507633,
+            "intro": "【《将军她是引渡人》姊妹篇，悬疑+爽文+甜宠】\n归杳无过往，无五感，亦无七情六欲，却有五千张不同面孔。\n她替女子化灾解难，引渡新生。\n正妻想惩治私通的丈夫和养妹？\n当众抓奸并送渣男贱女上刑场。\n失散兄"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "表妹貌美，冷面世子情难自恃",
+            "book_id": 12443391,
+            "rank_change": 1
+          },
+          {
+            "title": "攀君",
+            "book_id": 12335439,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《春闺小寡妇》；《王妃她是引渡人》 掉出榜单；《表妹貌美，冷面世子情难自恃》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天眼萌娃通两界，靠山货救活整个边关",
+            "book_id": 12283731,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《天眼萌娃通两界，靠山货救活整个边关》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

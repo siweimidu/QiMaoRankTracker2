@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-update-date",
+    "name": "男生更新日榜",
+    "channel": "male",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-23",
+  "category": {
+    "name": "穿越历史",
+    "major": "历史",
+    "count": 1,
+    "total_heat": 4,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势** “大秦帝国”题材热度不减，通过改变历史走向（如扶苏逆袭）来构建爽点的叙事逻辑依然稳固。\n**读者偏好** 读者偏好高起点、强权谋、重军事征伐的爽文模式，尤其青睐“身份觉醒+掌握兵权+横扫天下”的快节奏升级路径。\n**变动解读** 该题材在本榜单展现出极强的吸睛能力，新入榜即占据总热度高位，证明历史争霸类作品在七猫平台拥有稳固的受众基数。\n**值得关注** 扶苏、祖龙等经典历史IP的二次开发仍具有极高市场潜力，需关注后续此类作品在战争场面描写上的创新。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "我率秦军三百万，为秦续命万万年",
+        "book_id": 9464730,
+        "url": "https://www.qimao.com/shuku/9464730/",
+        "author": "人生短短急个球",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%BA%E7%94%9F%E7%9F%AD%E7%9F%AD%E6%80%A5%E4%B8%AA%E7%90%83_14/",
+        "major": "历史",
+        "minor": "穿越历史",
+        "major_id": 56,
+        "minor_id": 57,
+        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "197.61万字",
+        "word_count": 1976100,
+        "heat": 4,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
+        "latest_chapter": " 第912章  扶苏：本太子再给你上一课",
+        "updated_at": "2026-09-23 00:05:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "穿越历史"
+      }
+    ]
+  }
+}
