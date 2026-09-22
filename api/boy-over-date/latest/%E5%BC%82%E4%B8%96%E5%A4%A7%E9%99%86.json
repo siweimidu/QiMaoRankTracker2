@@ -8,16 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
-    "count": 1,
-    "total_heat": 103000,
+    "count": 2,
+    "total_heat": 108000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "废丹修仙，开局师姐上门求丹！",
+          "book_id": 2073577
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
@@ -25,10 +30,10 @@
         {
           "title": "刚抽中SSS级天赋，你跟我说游戏停服",
           "book_id": 2027749,
-          "heat_change": -1000
+          "heat_change": 5000
         }
       ],
-      "summary": "**题材趋势**：异世大陆类题材目前呈现存量竞争态势，头部效应显著，长尾作品缺乏爆发力。\n**读者偏好**：读者更倾向于“赘婿+系统+快节奏升级”的爽文结构，对高阶天赋开局的代入感要求较高。\n**变动解读**：本期榜单无变动，仅存作品热度微降，说明该类目处于完结后的自然回落期，市场供给进入静默状态。\n**值得关注**：需重点监测该品类后续是否有具备强爽点的新书入场，以打破当前单书支撑的僵局。",
+      "summary": "**题材趋势**：异世大陆类作品正向“系统流+多女角互动”的快节奏爽文深度转型，传统赘婿流与丹药流元素依然具备强大号召力。\n**读者偏好**：读者热衷于“开局低谷、系统逆袭、征服各路高冷角色”的套路化叙事，期待极速成长带来的爽感反馈。\n**变动解读**：头部书籍《刚抽中SSS级天赋》热度持续增长，表明游戏异界化题材仍是市场主流；新书入榜补充了丹药流细分市场。\n**值得关注**：关注“造化神炉”类金手指对读者爽点触发的频率，此类高频反馈、快节奏的升级流模式在当前榜单中表现出较强韧性。",
       "ai_source": "ai"
     },
     "books": [
@@ -47,16 +52,45 @@
         "status": "已完结",
         "word_count_text": "236.82万字",
         "word_count": 2368200,
-        "heat": 103000,
-        "platform_trend": "drop",
+        "heat": 108000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "云澈穿越到了游戏世界，还成了秦王府的赘婿。\n可他的命运似乎仅限于成为秦大小姐修炼双修之法的牺牲品。\n濒临死亡之际，天赋神来之手显威，云澈幸运获得了对方的双修之法。\n一夜之间，云澈修为突飞猛进，成为大元帝国所有男人羡慕嫉妒恨的焦点。\n对着秦王爷施展神来之手，抓取成功，恭喜获得上品身法，飞絮飘步。\n对着小姨子施展神来之手，抓取成功，恭喜获得中品防具，冰丝锦绣衣。\n对着秦女魔施展神来之手，抓取成功，恭喜获得100点经验。\n对着毒灵花施展神来之手，抓取成功，恭喜获得5点毒抗。\n对着巨灵龟施展神来之手，抓取成功，恭喜获得500点耐力。\n对着NPC老爷爷施展神来之手，抓取成功，恭喜获得转职卷轴（唯一）。\n云澈满脸狂喜，不用做任务就能成功转职，这比躺平还爽啊！\n某日，云澈偶然遇到了同班同学，他这才得知，原来是地球疯了，带着全人类融入到了妖魔与邪修肆虐的神武世界，艰难苟活。\n他只不过是比其他人早来那么一年时间而已......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
         "latest_chapter": " 第1074章  仙人也折腰(终)",
         "updated_at": "2026-09-06 08:21:09",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 5000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "异世大陆"
+      },
+      {
+        "rank": 19,
+        "title": "废丹修仙，开局师姐上门求丹！",
+        "book_id": 2073577,
+        "url": "https://www.qimao.com/shuku/2073577/",
+        "author": "伽蓝之梦",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BC%BD%E8%93%9D%E4%B9%8B%E6%A2%A6_14/",
+        "major": "玄幻奇幻",
+        "minor": "异世大陆",
+        "major_id": 202,
+        "minor_id": 39,
+        "minor_url": "https://www.qimao.com/shuku/a-202-39-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "306.59万字",
+        "word_count": 3065900,
+        "heat": 0,
+        "platform_trend": "",
+        "badge": "",
+        "intro": "天资低劣的叶云，负责看管古道圣地废丹房，却意外觉醒造化神炉！\n只要投入废丹，即可变为极品丹药！\n高冷师姐？用丹药征服！\n剑道仙子？用丹药征服！\n魔道女帝？还是特么用丹药征服！\n天资低劣又如何？\n没有背景又如何？\n且看我，嗑药成仙！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686534_360x480.jpg?time=1768990224",
+        "latest_chapter": " 第800章  双帝飞升（大结局）",
+        "updated_at": "2026-09-18 22:32:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": true,
         "category": "异世大陆"

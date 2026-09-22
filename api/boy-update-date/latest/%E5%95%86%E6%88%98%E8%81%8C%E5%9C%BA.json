@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "二本没毕业，你怎么登上福布斯了",
           "book_id": 12606405,
-          "heat_change": 2
+          "heat_change": -2
         }
       ],
-      "summary": "**题材趋势**：商战职场类在榜单中呈现极度窄众化特征，目前仅存一枝独秀，缺乏题材多元性与竞争活力。\n**读者偏好**：读者倾向于具备“重生+人间清醒”属性的现实向奋斗文，对“无系统、强逻辑”的差异化设定有一定需求。\n**变动解读**：该类目热度下滑且排名回落，反映出纯职场商战内容在当前快节奏阅读环境下，面临用户留存压力。\n**值得关注**：需观察该作品能否通过后续真实创业逻辑的铺陈，在缺乏强刺激爽点的情况下实现热度反弹。",
+      "summary": "**题材趋势**：商战题材目前处于极度低迷期，榜单仅存一本独苗，缺乏市场活跃度与流量支撑。\n**读者偏好**：读者更倾向于“重生+现实主义”的硬核创业文，对“无系统、逻辑在线”等强调沉浸感与真实反馈的标签有一定偏好。\n**变动解读**：该书热度出现负增长，显示出该细分领域在当前渠道缺乏读者粘性，正处于严重的流量真空期。\n**值得关注**：在缺乏新作冲击的情况下，观察此类题材是否会通过题材融合（如职场+反系统）来寻找破局点。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "57.25万字",
-        "word_count": 572500,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "58.31万字",
+        "word_count": 583100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第233章  高管交锋3",
-        "updated_at": "2026-09-21 00:42:03",
-        "rank_change": -2,
-        "heat_change": 2,
+        "latest_chapter": " 第238章  是个聪明的女孩！",
+        "updated_at": "2026-09-22 00:32:05",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

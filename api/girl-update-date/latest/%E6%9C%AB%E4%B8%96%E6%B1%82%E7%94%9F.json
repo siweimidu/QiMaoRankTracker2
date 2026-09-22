@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "rank_change": 2
+          "rank_change": -4
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "破洞小木屋求生指南",
           "book_id": 9955719,
-          "heat_change": 1
+          "heat_change": 2
         }
       ],
-      "summary": "「末世求生」《破洞小木屋求生指南》上升2位领涨；《破洞小木屋求生指南》热度+1。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：末世生存类在女生频道呈现存量竞争态势，头部效应显著，单一作品支撑榜单。\n**读者偏好**：读者对高互动性、强游戏感的“全民求生”设定具有持续兴趣，且对多媒介改编（漫剧）作品有较高认可度。\n**变动解读**：虽然热度微增，但排名出现下滑，反映出该书处于长线更新周期的平稳期，缺乏新进竞品冲击。\n**值得关注**：该类目需警惕题材季节性疲软，建议通过增加强冲突剧情或优化爽点节奏来稳固核心用户。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 20,
         "title": "破洞小木屋求生指南",
         "book_id": 9955719,
         "url": "https://www.qimao.com/shuku/9955719/",
@@ -51,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "130.81万字",
-        "word_count": 1308100,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "131.44万字",
+        "word_count": 1314400,
+        "heat": 4,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "原书名《神明游戏：求生从破洞小木屋开始》\n漫剧已上线，剧名：《全民求生：只有我能看见隐藏提示》、《灾厄游戏：凛冬木屋》\n姜莱万万没想到，世界末日这种事也是让她赶上了。\n一句游戏登入，蓝星正式进入全民求生的时代。\n极寒、高温、海啸接踵而至。\n别人摸爬滚打灰头土脸，姜莱默默放上热水，洗了个香喷喷的玫瑰浴。\n外面怪物游荡风暴席卷，姜莱摆上一桌小火锅，一边吃一边欣赏风景。\n她垂泪：“我只是个防御值为1点的小可怜啊。”\n其他玩家怒而掀桌：“生命值999+的防御值为1吗？”\n“榜一大佬不准凡尔赛！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3319/9955719_360x480.jpg?time=1775807421",
-        "latest_chapter": " 第630章  您要去哪儿啊",
-        "updated_at": "2026-09-20 22:57:07",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第633章  吃一堑再吃一堑",
+        "updated_at": "2026-09-21 22:51:08",
+        "rank_change": -4,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

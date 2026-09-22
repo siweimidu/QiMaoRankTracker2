@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 3
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 3
+          "heat_change": -2
         }
       ],
-      "summary": "**题材趋势**：诡异悬疑与生存冒险类题材持续受关注，暗黑风与末世生存逻辑是当前市场的主流表达。\n**读者偏好**：读者对“诡异复苏”、“人吃人”等极具压迫感的设定有较高接受度，追求极致的氛围营造与反套路主角。\n**变动解读**：本类目竞争激烈且波动大，《天黑请点灯》凭借强烈的叙事风格实现排名快速跃升。\n**值得关注**：该类题材强调“生存”与“恐惧”的叠加，具备独特世界观设定的小说更能快速在榜单中脱颖而出。",
+      "summary": "**题材趋势**：该小类目前呈现极度缩减态势，内容核心围绕“民俗惊悚”与“生存危机”构建，具备强烈的末世求生氛围。\n**读者偏好**：读者对压抑、诡异的末世环境设定有较高接受度，倾向于主角在绝境中保持冷静与杀伐心态的叙事风格。\n**变动解读**：品类内仅存单本支撑，市场活跃度极低，热度下滑意味着该题材目前在榜单竞争中处于边缘位置。\n**值得关注**：《天黑请点灯》作为唯一在榜作品，其独特的“人吃人”暗黑基调是该题材维持读者留存的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "475.45万字",
-        "word_count": 4754500,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "477.48万字",
+        "word_count": 4774800,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1740章  他已放过所有人！莫放召集令！",
-        "updated_at": "2026-09-20 06:57:12",
-        "rank_change": 3,
-        "heat_change": 3,
+        "latest_chapter": " 第1746章  云锦山，张守一大天师！",
+        "updated_at": "2026-09-22 06:57:11",
+        "rank_change": -1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

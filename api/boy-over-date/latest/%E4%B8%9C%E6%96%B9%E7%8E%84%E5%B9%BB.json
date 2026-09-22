@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
-    "total_heat": 682000,
+    "total_heat": 681000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "九转星辰诀",
           "book_id": 202636,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -8000
+          "heat_change": 2000
         },
         {
           "title": "玲珑塔",
           "book_id": 1754203,
-          "heat_change": -4000
+          "heat_change": -2000
         },
         {
           "title": "荒古圣体：在娘胎开始悟道",
           "book_id": 1849458,
-          "heat_change": -4000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统废柴崛起流依然稳固，融合“系统/外挂+多女主+快节奏”的爽文模式是市场主流。\n**读者偏好**：读者更青睐“重生”、“娘胎修炼”等高起点设定，追求极致的装逼打脸与力量碾压体验。\n**变动解读**：榜单头部极其稳固，仅有《九转星辰诀》微调上升，整体热度流失速度较慢，属于高粘性存量市场。\n**值得关注**：带有“女帝/多女主”标签的作品在榜单中占据重要地位，情感线与升级线的深度捆绑是留存关键。",
+      "summary": "**题材趋势**：传统废柴流与重生流仍占据主导，强调“武魂剥夺”、“九世记忆”等经典爽点，内容迭代趋于平稳。\n**读者偏好**：读者对快节奏、强反转以及“女帝+无敌”或“娘胎悟道”等创新设定表现出高粘性，期待通过金手指快速拉开战力差距。\n**变动解读**：榜单整体处于固化期，头部书籍热度微幅波动，排名变动极小，说明该品类存量竞争激烈，缺乏爆款新作冲击。\n**值得关注**：需重点观察《玲珑塔》这类融合多女主与快节奏设定的作品，其在存量市场中仍能保持较强竞争力。",
       "ai_source": "ai"
     },
     "books": [
@@ -63,15 +63,15 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 363000,
-        "platform_trend": "drop",
+        "heat": 365000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -8000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -92,7 +92,7 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 171000,
+        "heat": 169000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
@@ -100,7 +100,7 @@
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -121,7 +121,7 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 80000,
+        "heat": 78000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
@@ -129,14 +129,14 @@
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "九转星辰诀",
         "book_id": 202636,
         "url": "https://www.qimao.com/shuku/202636/",
@@ -150,15 +150,15 @@
         "status": "已完结",
         "word_count_text": "842.8万字",
         "word_count": 8428000,
-        "heat": 68000,
-        "platform_trend": "drop",
+        "heat": 69000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界，只为一心向前！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
         "latest_chapter": " 第3793章  碎天道，去束缚，得自由！（大结局）",
         "updated_at": "2024-03-11 19:37:28",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

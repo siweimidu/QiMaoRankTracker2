@@ -8,54 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 404000,
+    "total_heat": 380000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "边军第一悍卒",
-          "book_id": 12086658,
-          "intro": "权谋+边军+热血+爽文\n现代青年唐舜魂穿战乱年代，成为边疆小兵。七国争霸，民不聊生，他刚睁眼就在尸堆里爬行。  \n杀敌立功升什长，赏了个美人，却要率九人断后送死。  \n从什长起步，步步升官，扮猪吃虎，"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "斩佞，镇北，王天下！",
-          "book_id": 12722883,
-          "rank_change": 1
-        },
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "抱歉，我真的才高八斗",
           "book_id": 12985194,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "让你当个替身，你咋君临天下",
           "book_id": 12647139,
-          "heat_change": -21000
-        },
-        {
-          "title": "斩佞，镇北，王天下！",
-          "book_id": 12722883,
-          "heat_change": -6000
+          "heat_change": -23000
         },
         {
           "title": "诗仙，诗圣，镇国公！",
           "book_id": 11834034,
-          "heat_change": -3000
+          "heat_change": -1000
+        },
+        {
+          "title": "斩佞，镇北，王天下！",
+          "book_id": 12722883,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势** 历史爽文向“高位替代”与“强权反击”倾斜，主角多以替身、赘婿或落魄贵族身份入局，快速实现权势逆转。\n**读者偏好** 读者热衷于“打脸爽文”与“权谋智斗”的结合，对朝堂争斗、改写皇权以及通过现代认知碾压古人的桥段极度买账。\n**变动解读** 头部效应显著，榜首《让你当个替身，你咋君临天下》展现统治力，尽管整体热度微降，但腰部作品竞争依然激烈。\n**值得关注** 《斩佞，镇北，王天下！》与《抱歉，我真的才高八斗》通过差异化的“军武”与“文才”切入点实现排名爬升，展现了品类多元细分的潜力。",
+      "summary": "**题材趋势** 爽文逻辑占据绝对主流，穿越、替身文学与权谋争霸高度融合，强调“开局即巅峰”或“强力打脸”的快感。\n**读者偏好** 读者热衷于融合权谋与世俗爽点的作品，如“君临天下”的替身逆袭或“才高八斗”的文化输出，对家国情怀与个人威望的塑造需求极高。\n**变动解读** 头部效应显著，榜首《让你当个替身，你咋君临天下》断层领先，尽管整体热度略有波动，但各书排名相对稳固，显示出强粘性。\n**值得关注** 头部作品已形成明显的“爽点叠加”模式，后续作品需在“历史背景+极致人设”的差异化上寻求突破。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,17 +61,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.13万字",
-        "word_count": 461300,
-        "heat": 218000,
+        "word_count_text": "46.76万字",
+        "word_count": 467600,
+        "heat": 195000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\n\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\n\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\n\n　　一开始皇帝是想用林玄削弱外戚，结果事情越来越不对。\n\n　　乾帝：“太子，你六个摩托化兵团，真的是来京城给朕贺寿的？”\n\n　　太子妃：“林玄，我闺蜜是你的人，就连她嫂嫂……”\n\n　　林玄双手插兜，北狄公主肚子都大了，想让我给她个名分呢！\n\n怎么办？挺急的！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
-        "latest_chapter": " 第218章  刑讯逼供",
-        "updated_at": "2026-09-20 09:30:06",
+        "latest_chapter": " 第221章  围攻三皇子府",
+        "updated_at": "2026-09-21 08:47:04",
         "rank_change": 0,
-        "heat_change": -21000,
+        "heat_change": -23000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -101,17 +90,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.88万字",
-        "word_count": 428800,
-        "heat": 126000,
+        "word_count_text": "43.3万字",
+        "word_count": 433000,
+        "heat": 125000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\n继母陷害，亲爹驱逐。\n本来只想做点小生意，潇洒的过完这一生，没想到……\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
-        "latest_chapter": " 第197章  拓跋珂上门",
-        "updated_at": "2026-09-20 15:27:04",
+        "latest_chapter": " 第199章  入职翰林院",
+        "updated_at": "2026-09-21 11:31:03",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -130,24 +119,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.64万字",
-        "word_count": 436400,
-        "heat": 35000,
-        "platform_trend": "drop",
+        "word_count_text": "44.24万字",
+        "word_count": 442400,
+        "heat": 36000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "北境一战，赵家一门十三将，尽殉北陲。\n赵慎行穿越而来，成为赵家仅剩血脉，六位嫂嫂为求自保，一同改嫁。\n然，大虞皇朝内部早已腐朽。内忧外患下，赵慎行持刀挽天倾。\n加冠后，他立字尚武，斩奸佞，护北疆。\n战火四起，诸子百家相继出山，各显神通。\n这是乱世，亦是盛世。\n群雄逐鹿中原，试问天下英雄，谁可终乱世，王天下？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4241/12722883_360x480.jpg?time=1785867384",
-        "latest_chapter": " 第152章  北鞑名将，不过尔尔",
-        "updated_at": "2026-09-20 07:59:03",
-        "rank_change": 1,
-        "heat_change": -6000,
+        "latest_chapter": " 第154章  再俘扎木苏",
+        "updated_at": "2026-09-21 23:16:03",
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "抱歉，我真的才高八斗",
         "book_id": 12985194,
         "url": "https://www.qimao.com/shuku/12985194/",
@@ -159,16 +148,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.65万字",
-        "word_count": 316500,
-        "heat": 25000,
+        "word_count_text": "32.3万字",
+        "word_count": 323000,
+        "heat": 24000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗词？张口就是千古名篇。\n李安生发现！\n这个世界有钱又有才，真的可以为所欲为。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1785924700",
-        "latest_chapter": " 第148章  李安生：我说，闭嘴",
-        "updated_at": "2026-09-20 12:02:07",
-        "rank_change": 1,
+        "latest_chapter": " 第151章  坏了，他好像真把我当心腹了",
+        "updated_at": "2026-09-21 12:02:07",
+        "rank_change": -1,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,

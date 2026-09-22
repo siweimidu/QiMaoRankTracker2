@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-22",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 169650,
+    "total_heat": 3393000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "不务正夜",
+            "book_id": 1996931,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "rank_change": -5
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": -1
+          },
+          {
+            "title": "玄学小祖宗：叼奶瓶算命全家宠",
+            "book_id": 1764909,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -18000
+          },
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "heat_change": -12000
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「总裁豪门」《不务正夜》上升1位领涨；《他的瘾》下滑5位；《第五年重逢，驰先生再度失控》热度-18000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 57000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 10000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升1位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+57000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -7000
+          },
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》上升2位领涨；《第一瞳术师》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": 7000
+          },
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "**题材趋势**：年代文赛道头部效应显著，核心卖点高度聚焦于“强强联手”的爽感构建。\n**读者偏好**：读者热衷于“真千金/娇妻+高位残疾兵王”的强反差设定，偏爱物资储备、换嫁打脸等高浓度情绪价值。\n**变动解读**：榜单结构趋于稳定，头部两书热度同步增长，显示出该题材在完结榜单中具备较强的长尾留存与读者粘性。\n**值得关注**：需重点挖掘“特殊身份兵王”与“大女主成长”的融合点，这是目前拉动热度增长的关键钩子。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "**题材趋势**：灵异民俗与悬疑元素结合紧密，以“宿命感”与“职业养成”作为叙事锚点。\n**读者偏好**：读者倾向于带有神秘色彩的职业设定（如当铺掌事），对“身世诅咒”与“诡异开局”的沉浸式体验接受度极高。\n**变动解读**：该书排名稳步上浮，反映出在都市奇幻细分领域，具有强叙事张力的完结作品依然能通过口碑实现排名跃升。\n**值得关注**：民俗奇幻类作品在完结榜中的稀缺性，使其具备稳健的增长空间，建议关注此类题材的叙事节奏优化。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "千金闺途",
+            "book_id": 1763045,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "**题材趋势**：群像化叙事成为差异化竞争手段，从“单女主视角”向“家族兴衰史”转型。\n**读者偏好**：读者偏好包含宅斗、宫斗及多CP线索的复杂情节，对女性角色在逆境中的成长与谋生逻辑有较高要求。\n**变动解读**：榜单排名维持不变但热度略有回落，说明该类作品在完结后的长尾流量转化进入瓶颈期。\n**值得关注**：多线叙事虽能拉高完结后的讨论度，但需注意节奏紧凑度，避免因情节过长导致后期热度流失。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}
