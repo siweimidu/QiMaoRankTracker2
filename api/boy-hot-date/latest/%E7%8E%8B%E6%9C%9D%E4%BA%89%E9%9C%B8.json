@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 310000,
+    "total_heat": 307000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 4000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：传统权谋与个人伟力结合的“武道争霸”模式依旧稳健，保持着较高的读者粘性。\n**读者偏好**：读者倾向于从微末处崛起，通过“武夫”身份打破阶级壁垒，实现对乱世格局的掌控。\n**变动解读**：本周小类热度微涨，头部作品《大周第一武夫》凭借稳定的更新与爽点输出，在榜单中稳步攀升。\n**值得关注**：该题材目前呈现“一书独大”局面，后续需观察是否有题材迭代或新书挑战其统治地位。",
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场表现趋于平稳。\n**读者偏好**：读者对带有强烈草根逆袭色彩及权谋博弈的开篇设定依然保持较高粘性。\n**变动解读**：本期该细分品类仅存单书在榜，且排名微调、热度小幅下滑，显示出该赛道缺乏新鲜血液冲击，处于稳守态势。\n**值得关注**：需警惕榜单覆盖度过窄带来的市场萎缩风险，观察后续是否有具备强爽感的新作介入。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "213.9万字",
-        "word_count": 2139000,
-        "heat": 310000,
-        "platform_trend": "rise",
+        "word_count_text": "214.57万字",
+        "word_count": 2145700,
+        "heat": 307000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第989章  拒绝",
-        "updated_at": "2026-09-22 19:57:07",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "latest_chapter": " 第992章  噬灵妖火",
+        "updated_at": "2026-09-23 21:01:16",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

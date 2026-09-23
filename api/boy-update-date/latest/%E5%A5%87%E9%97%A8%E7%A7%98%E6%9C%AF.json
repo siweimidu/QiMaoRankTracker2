@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": 1
+          "heat_change": -2
         }
       ],
-      "summary": "**题材趋势** 民俗悬疑与诡异流题材热度平稳，强调末世生存与诡异规则的设定是该类别的核心卖点。\n**读者偏好** 读者倾向于具有压抑氛围感、世界观设定独特的作品，尤其是带有“人吃人”等极端生存要素的暗黑风格。\n**变动解读** 榜单排名下滑反映了该品类在当前快节奏阅读环境下的挑战，用户对长线悬疑叙事的忠诚度可能受到爽文节奏的挤压。\n**值得关注** 需观察此类作品如何通过更紧凑的节奏或更惊悚的开篇，在“爽文当道”的榜单竞争中维持用户留存。",
+      "summary": "**题材趋势**：民俗恐怖与暗黑诡异风占据主流，侧重于压抑氛围营造与生存危机感。\n**读者偏好**：受众偏好带有“诡异复苏”或“民俗志怪”色彩的悬疑探险类内容，对“人吃人”等极端环境设定有较高接受度。\n**变动解读**：本类目热度处于低位盘整期，市场活跃度不足，缺乏新书更迭带动流量。\n**值得关注**：在恐怖悬疑领域，如何通过剧情钩子提升读者留存与热度转化是当前运营的突破口。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "478.04万字",
-        "word_count": 4780400,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "478.28万字",
+        "word_count": 4782800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1748章  三开坛天雷齐轰！",
-        "updated_at": "2026-09-23 06:52:14",
-        "rank_change": -2,
-        "heat_change": 1,
+        "latest_chapter": " 第1749章  无手无脚，屹立不倒，辛波齐至！",
+        "updated_at": "2026-09-23 06:57:13",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

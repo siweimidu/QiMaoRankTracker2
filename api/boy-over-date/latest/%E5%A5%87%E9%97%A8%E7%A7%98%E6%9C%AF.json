@@ -8,48 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 158000,
+    "total_heat": 155000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "rank_change": 3
-        },
-        {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "heat_change": 7000
+          "heat_change": -2000
         },
         {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "heat_change": 4000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势** 民俗诡异类题材持续走热，聚焦捞尸、接阴婆等民间传说，具有极强的沉浸式阅读体验。\n**读者偏好** 读者热衷于探索猎奇、禁忌的民俗文化，对“第一人称叙事”带来的真实感和代入感需求强烈。\n**变动解读** 榜单活跃度显著提升，两部作品排名集体上扬，说明该题材在完结榜中正处于热度上升周期。\n**值得关注** 《山野诡闻笔记》热度增势最猛，其单元剧式的叙事结构极易留住读者并产生持续的阅读动力。",
+      "summary": "**题材趋势**：民间民俗诡事类题材热度相对平稳，侧重于单元剧式的灵异奇闻，具有极强的沉浸感与猎奇属性。\n**读者偏好**：读者热衷于“捞尸”、“接阴”等具有浓郁民俗色彩的职业设定，偏好以第一人称视角展开的叙事风格。\n**变动解读**：榜单整体热度小幅微调，未见剧烈波动，说明该细分题材的受众群体结构稳定，属于典型的慢热型长尾品类。\n**值得关注**：此类题材虽流量稳定，但易受内容审核与平台风向影响，建议关注其故事氛围营造的差异化竞争点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -63,15 +58,15 @@
         "status": "已完结",
         "word_count_text": "256.27万字",
         "word_count": 2562700,
-        "heat": 81000,
-        "platform_trend": "rise",
+        "heat": 79000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 3,
-        "heat_change": 7000,
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -92,15 +87,15 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 77000,
-        "platform_trend": "rise",
+        "heat": 76000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

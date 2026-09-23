@@ -8,37 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 203000,
+    "total_heat": 188000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
+      "top_risers": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": -7000
-        },
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "heat_change": 1000
+          "heat_change": -15000
         }
       ],
-      "summary": "**题材趋势** 战神流与都市异能流依然是完结榜的基石，强调“身份反差”与“红颜拥簇”的爽点结构。\n**读者偏好** 偏好强设定带来的爽感，如“北境之主”的权势压制或“修仙出狱”的身份转折。\n**变动解读** 榜单稳定性极高，头部作品热度小幅波动，显示出此类完结书已进入长尾阅读的存量竞争期。\n**值得关注** 《SSS级狂龙归来》虽有轻微热度回调，但其统治力依然稳固，反映了读者对经典战神回归题材的黏性。",
+      "summary": "**题材趋势**：战神归来与修仙异能题材依然是都市高手类别的核心驱动力，强调身份反差带来的爽感。\n**读者偏好**：受众倾向于“强力主角+多女主互动”的配置，对“退婚”、“复仇”及“监狱背景”等高冲突开篇具有极高粘性。\n**变动解读**：榜首热度出现明显回落，显示该品类头部作品在完结后的长尾效应面临自然衰减，存量竞争特征显著。\n**值得关注**：需监控此类作品在完结后的粉丝留存与转化能力，以及“出狱即无敌”这一经典梗的迭代创新潜力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -52,22 +59,22 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 144000,
+        "heat": 129000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
-        "heat_change": -7000,
+        "rank_change": -1,
+        "heat_change": -15000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "被关女子监狱三年，我修炼成仙了",
         "book_id": 1697715,
         "url": "https://www.qimao.com/shuku/1697715/",
@@ -88,8 +95,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
         "latest_chapter": " 第1891章  番外",
         "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

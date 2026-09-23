@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 23000,
+    "total_heat": 25000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
-          "book_id": 12896292
+          "book_id": 12896292,
+          "rank_change": 3
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：重生年代文与校园情感文结合依然是主流，通过重回过去改变女主角命运的叙事模式，精准切中读者的怀旧情绪与养成快感。\n**读者偏好**：读者热衷于“多女主+养成+商业/成名”的复合型爽文结构，尤其是将性格迥异的未来女神在校园时期进行“逐一攻略”的设定，具有很强的点击驱动力。\n**变动解读**：新书《趁校花一贫如洗，忽悠她以身相许》直接上榜，说明校园题材在七猫生态中依然拥有极高的流量吸纳能力，即便在竞争激烈的环境下，高质量的“校花攻略”题材仍能破局。\n**值得关注**：需持续观察该书能否通过后续的剧情展开维持高热度，其“反差感+养成”的设定是否能引发出更多同类竞品跟进。",
+      "heat_leaders": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "**题材趋势**：以“重生+多女主+养成”为模板的都市校园文正处于上升期，怀旧元素与商业逆袭结合效果显著。\n**读者偏好**：读者热衷于在特定时间点（如2010年）对未来女神进行“养成与攻略”，这种掌控感与成就感是核心爽点。\n**变动解读**：《趁校花一贫如洗，忽悠她以身相许》凭借强劲的口碑效应，排名大幅跃升并带动热度激增，显示出该题材极强的爆发潜质。\n**值得关注**：此类书籍通过赋予女主角鲜明的人设标签（如“机车女神”、“恋爱脑”），极大地提升了读者的阅读期待，是当前校园类目的流量密码。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 15,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -44,18 +51,18 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "24.68万字",
-        "word_count": 246800,
-        "heat": 23000,
+        "word_count_text": "25.35万字",
+        "word_count": 253500,
+        "heat": 25000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第110章  陈妍的变化。",
-        "updated_at": "2026-09-22 08:12:11",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第113章  他要是再敢占你便宜，我就要他好看！",
+        "updated_at": "2026-09-23 08:12:11",
+        "rank_change": 3,
+        "heat_change": 2000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "热血校园"

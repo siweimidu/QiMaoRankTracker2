@@ -8,64 +8,60 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
-    "count": 5,
-    "total_heat": 209000,
+    "count": 4,
+    "total_heat": 182000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "诡异民国，从缝尸开始长生",
+          "book_id": 12706761,
+          "intro": "大顺民国初年，新学与旧俗碰撞，枪炮与妖魔共舞。\n高高在上的“求法者”们窃取天机，却不知自己早已被不可名状的恐怖污染，化作一具具行走在人间的灾厄诡尸。\n穿越而来的李长生，成了菜市口最下贱的缝尸匠，开局只"
+        }
+      ],
       "top_risers": [
         {
           "title": "乾坤造化诀",
           "book_id": 12897039,
-          "rank_change": 2
-        },
-        {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
           "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "贱籍仵作，从摸尸开始炼成武神",
-          "book_id": 12791520,
-          "rank_change": -3
+          "title": "盗梦千年",
+          "book_id": 12257385,
+          "rank_change": -1
         },
         {
-          "title": "诡异民国，从缝尸开始长生",
-          "book_id": 12706761,
-          "rank_change": -3
+          "title": "贱籍仵作，从摸尸开始炼成武神",
+          "book_id": 12791520,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "贱籍仵作，从摸尸开始炼成武神",
           "book_id": 12791520,
-          "heat_change": -10000
+          "heat_change": -3000
         },
         {
           "title": "盗梦千年",
           "book_id": 12257385,
-          "heat_change": 1000
-        },
-        {
-          "title": "乾坤造化诀",
-          "book_id": 12897039,
-          "heat_change": 1000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：系统/面板流依然是核心驱动力，且细分题材向“修真+职业技能”（如仵作、缝尸、补天）融合。\n**读者偏好**：读者更倾向于带有强烈“爽感反馈”的设定，如日结奖励、万物补全等即时满足机制。\n**变动解读**：榜单整体趋于固化，缺乏新书冲击；《乾坤造化诀》凭借“宗主怀孕”的强冲突性开头实现排名回升，显示出读者对反套路情节的青睐。\n**值得关注**：职业技能与修仙体系的结合（如《贱籍仵作》）虽近期波动，但仍是该领域提升代入感的重要方向。",
+      "summary": "**题材趋势**：系统流与“凡人流”变体占据主流，特别青睐“金手指+低开高走”的成长模式。\n**读者偏好**：读者偏爱带有“日结结算”、“物品增殖”或“意外情缘”等强反馈机制的修真文，追求快速变强的阅读快感。\n**变动解读**：榜单波动较明显，头部作品热度小幅下滑，说明该类读者更倾向于不断寻找新鲜的“开挂”设定。\n**值得关注**：《乾坤造化诀》凭借独特的“误会流”开局逆势上升，证明了轻快、幽默且带有反转色彩的修真题材更具竞争力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "盗梦千年",
         "book_id": 12257385,
         "url": "https://www.qimao.com/shuku/12257385/",
@@ -77,17 +73,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.88万字",
-        "word_count": 468800,
-        "heat": 81000,
-        "platform_trend": "rise",
+        "word_count_text": "47.32万字",
+        "word_count": 473200,
+        "heat": 80000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "他是妖女圈养的炉鼎，朝不保夕。\n她是已故千年的剑仙，没有未来。\n一块双鱼佩，将相隔千年的两个将死之人相连。\n于是，她成了他最大的倚仗，他是她唯一的变数！\n他们以为自己在改写历史，却发现——\n他们，就是历史本身！\n【原来我这一生，从出生起就在等你。】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1780453390",
-        "latest_chapter": " 第206章  无邪",
-        "updated_at": "2026-09-23 07:02:06",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "latest_chapter": " 第208章  妥协",
+        "updated_at": "2026-09-24 07:01:05",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -106,16 +102,16 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.89万字",
-        "word_count": 468900,
+        "word_count_text": "47.31万字",
+        "word_count": 473100,
         "heat": 44000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第223章  命悬一线",
-        "updated_at": "2026-09-22 13:42:04",
-        "rank_change": 1,
+        "latest_chapter": " 第225章  横竖都是死？",
+        "updated_at": "2026-09-23 23:06:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -123,7 +119,7 @@
         "category": "幻想修真"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "title": "贱籍仵作，从摸尸开始炼成武神",
         "book_id": 12791520,
         "url": "https://www.qimao.com/shuku/12791520/",
@@ -135,24 +131,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.22万字",
-        "word_count": 432200,
-        "heat": 36000,
+        "word_count_text": "43.96万字",
+        "word_count": 439600,
+        "heat": 33000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "大雍乱世，妖魔横行，人命如草芥。\n沈砚穿越而来，成了青溪县最底层的贱籍仵作，备受欺凌。\n绝境之下，觉醒【日结面板】！\n只要验尸，就能结算奖励，积攒死气更能触发暴击翻倍！\n【勘验横死武人，获得《破岩拳》，白银二两！】\n【触发三倍赐福，获得《狂风刀法》，武道经验+300！】\n曾经欺我、辱我、压我之人，尽数被我踩于脚下！\n帮派跋扈肆虐，便斩尽凶徒，规矩桎梏，便打破规矩，深山妖兽祸民，便持刀镇邪！\n从烂泥巷卑贱仵作，到纵横乱世的武道强者。\n一步一脚印，万般蝼蚁命。\n尸间藏道径，扶摇上青云。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791520_360x480.jpg?time=1785477906",
-        "latest_chapter": " 第173章  水匪劫镖，沈砚出手",
-        "updated_at": "2026-09-22 12:02:13",
-        "rank_change": -3,
-        "heat_change": -10000,
+        "latest_chapter": " 第176章  流星蝴蝶，进入商队",
+        "updated_at": "2026-09-23 12:02:11",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "乾坤造化诀",
         "book_id": 12897039,
         "url": "https://www.qimao.com/shuku/12897039/",
@@ -164,46 +160,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.28万字",
-        "word_count": 442800,
+        "word_count_text": "44.82万字",
+        "word_count": 448200,
         "heat": 25000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "我叫陈凡，一个外门杂役。\n宗主中了情毒，我只是好心救个人。\n谁知道，她竟然怀孕了。\n一夜之间，整个修仙界都在寻找那个让宗主珠胎暗结的男人。\n圣子拔剑，长老封山，仙门震怒。\n而我默默扫着地，听着所有人分析。\n“那个男人，至少也是大乘老祖！”\n我差点笑出声。\n有没有一种可能……\n那个野男人，就是我啊？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
-        "latest_chapter": " 第186章  这个女人不简单！",
-        "updated_at": "2026-09-23 00:52:03",
-        "rank_change": 2,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "幻想修真"
-      },
-      {
-        "rank": 19,
-        "title": "诡异民国，从缝尸开始长生",
-        "book_id": 12706761,
-        "url": "https://www.qimao.com/shuku/12706761/",
-        "author": "长生道人",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%95%BF%E7%94%9F%E9%81%93%E4%BA%BA_14/",
-        "major": "武侠仙侠",
-        "minor": "幻想修真",
-        "major_id": 205,
-        "minor_id": 225,
-        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "33.59万字",
-        "word_count": 335900,
-        "heat": 23000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "大顺民国初年，新学与旧俗碰撞，枪炮与妖魔共舞。\n高高在上的“求法者”们窃取天机，却不知自己早已被不可名状的恐怖污染，化作一具具行走在人间的灾厄诡尸。\n穿越而来的李长生，成了菜市口最下贱的缝尸匠，开局只剩四十天寿命。\n所幸，他有一卷【万寿书】。\n煎寿命！\n熬神通！\n从最底层的街头横死者，到高高在上的修仙大能，再到那端坐云端不可直视的旧日仙佛……\n既然这满天神佛都病了，那便由我这凡人，来为诸位敛骨送终！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4236/12706761_360x480.jpg?time=1789289847",
-        "latest_chapter": " 第131章  香火炼宝，欲母经停",
-        "updated_at": "2026-09-23 00:07:07",
-        "rank_change": -3,
-        "heat_change": -1000,
+        "latest_chapter": " 第188章  万劫长生经",
+        "updated_at": "2026-09-24 00:52:03",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

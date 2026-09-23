@@ -8,38 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
     "total_heat": 51000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "重生70：一枪一个，狩猎人生",
-          "book_id": 13113909
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "rank_change": 1
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909,
+          "rank_change": 3
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：年代文持续霸榜，以“七零年代”、“资本家/拉帮套”、“空间/狩猎”为核心要素，强调生存压力下的资源掠夺与逆袭。\n**读者偏好**：读者倾向于硬核的“生存挑战”与“男权爽感”结合，对包含“寡妇”、“囤粮”、“狩猎”等强荷尔蒙元素的年代叙事接受度高。\n**变动解读**：新书《重生70：一枪一个，狩猎人生》入榜显示了读者对“强节奏、强猎艳”风格年代文的需求，老书热度虽有波动但榜位稳固。\n**值得关注**：年代文已从单纯的“致富经”转变为“生存+猎艳”的复合型爽文，需警惕同质化竞争对热度的稀释。",
+      "heat_leaders": [],
+      "summary": "**题材趋势** 年代文持续走热，核心卖点聚焦“重生+搞钱+狩猎/空间”的复合型爽点。\n**读者偏好** 读者热衷于“底层逆袭”与“时代红利”结合，对具有强烈荷尔蒙色彩和生存挑战（如狩猎、囤粮）的内容反馈积极。\n**变动解读** 《重生70：一枪一个，狩猎人生》排名大幅跃升，说明具备强感官刺激与“打脸”情节的快节奏叙事更具市场号召力。\n**值得关注** 乡村年代文正从单一致富向“动作/狩猎/猎艳”多元素融合转型，紧扣时代背景下的生存博弈是增长关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,24 +45,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.45万字",
-        "word_count": 434500,
+        "word_count_text": "44.09万字",
+        "word_count": 440900,
         "heat": 28000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第203章  装大款，所长亲自迎接陈处长",
-        "updated_at": "2026-09-22 22:46:03",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "latest_chapter": " 第206章   又跌四分之一！给何悦悦气怀孕！",
+        "updated_at": "2026-09-23 22:55:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "重生70：一枪一个，狩猎人生",
         "book_id": 13113909,
         "url": "https://www.qimao.com/shuku/13113909/",
@@ -85,18 +74,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.93万字",
-        "word_count": 269300,
+        "word_count_text": "27.6万字",
+        "word_count": 276000,
         "heat": 23000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1971的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
-        "latest_chapter": " 第108章  赵梦丫丢了！",
-        "updated_at": "2026-09-22 19:09:02",
-        "rank_change": 0,
+        "latest_chapter": " 第111章  王麻子劫持赵梦丫",
+        "updated_at": "2026-09-23 20:36:03",
+        "rank_change": 3,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

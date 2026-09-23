@@ -12,7 +12,7 @@
       "board": "girl-hot-date",
       "board_name": "女生大热日榜",
       "rank": 1,
-      "heat": 2024000
+      "heat": 2006000
     },
     {
       "board": "girl-hot-month",
@@ -456,6 +456,18 @@
     },
     {
       "d": "2026-09-23",
+      "b": "girl-hot-month",
+      "r": 1,
+      "h": 76150000
+    },
+    {
+      "d": "2026-09-24",
+      "b": "girl-hot-date",
+      "r": 1,
+      "h": 2006000
+    },
+    {
+      "d": "2026-09-24",
       "b": "girl-hot-month",
       "r": 1,
       "h": 76150000

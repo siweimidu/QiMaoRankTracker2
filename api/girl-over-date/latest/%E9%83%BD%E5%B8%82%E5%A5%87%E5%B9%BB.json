@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 91000,
+    "total_heat": 89000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "阴当",
+          "book_id": 1979356,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "阴当",
           "book_id": 1979356,
-          "heat_change": 2000
+          "heat_change": -2000
         }
       ],
-      "summary": "「都市奇幻」《阴当》热度+2000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：都市奇幻类目市场表现疲软，在榜作品数量稀少且面临热度下滑压力。\n**读者偏好**：读者偏好带有悬疑、民俗色彩的都市异能题材，主角“身世特殊”与“职业养成”的设定是核心看点。\n**变动解读**：唯一在榜作品《阴当》排名与热度双双下行，反映出该题材在完结阶段的粉丝留存与长尾转化能力有所减弱。\n**值得关注**：需重点监测该类目后续是否有新作补充，目前市场热度缺乏支撑，处于波动调整期。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 91000,
-        "platform_trend": "rise",
+        "heat": 89000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

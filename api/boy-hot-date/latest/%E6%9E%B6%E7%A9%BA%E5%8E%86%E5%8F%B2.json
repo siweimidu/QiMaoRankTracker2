@@ -8,55 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 1615000,
+    "total_heat": 1596000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "让你当个替身，你咋君临天下",
-          "book_id": 12647139,
-          "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\n\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\n\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\n\n　　一开始皇帝是想用林"
+          "title": "边关兵王",
+          "book_id": 1995023,
+          "rank_change": 1
+        },
+        {
+          "title": "边军悍卒",
+          "book_id": 1882754,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
+      "top_fallers": [],
+      "heat_leaders": [
         {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "rank_change": -1
+          "title": "逍遥四公子",
+          "book_id": 1809361,
+          "heat_change": -21000
         },
         {
           "title": "边关兵王",
           "book_id": 1995023,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
+          "heat_change": 4000
+        },
         {
           "title": "边军悍卒",
           "book_id": 1882754,
-          "heat_change": 6000
-        },
-        {
-          "title": "逍遥四公子",
-          "book_id": 1809361,
-          "heat_change": 5000
-        },
-        {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "heat_change": -5000
+          "heat_change": -2000
         }
       ],
-      "summary": "「架空历史」《让你当个替身，你咋君临天下》 掉出榜单；《从骑奴到大乾武圣》下滑1位；《边军悍卒》热度+6000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：短剧IP改编与“穿越+系统/奇遇”模式并举，叙事节奏趋向轻快化，侧重于个人成长与家国情怀的结合。\n**读者偏好**：读者更偏好“从底层崛起”的草根逆袭叙事，同时对“朝堂纵横”与“沙场热血”等硬核元素保持稳定需求。\n**变动解读**：榜单结构稳定，无新书冲击，反映出此类目读者忠诚度较高，头部作品具备较强的抗跌性与长尾效应。\n**值得关注**：排名持续上升的《边关兵王》与《边军悍卒》，体现了军事历史题材在“边关崛起”这一垂直细分赛道上具备较强的热度支撑。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -72,17 +66,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "616.14万字",
-        "word_count": 6161400,
-        "heat": 701000,
-        "platform_trend": "rise",
+        "word_count_text": "616.76万字",
+        "word_count": 6167600,
+        "heat": 680000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
-        "latest_chapter": " 第2904章  人皇的职责就是守护",
-        "updated_at": "2026-09-22 07:02:20",
+        "latest_chapter": " 第2907章  老子以后见一个杀一个",
+        "updated_at": "2026-09-23 07:02:22",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": -21000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -101,24 +95,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "63.55万字",
-        "word_count": 635500,
+        "word_count_text": "64.18万字",
+        "word_count": 641800,
         "heat": 338000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
-        "latest_chapter": " 第298章  飞龙林",
-        "updated_at": "2026-09-22 08:25:05",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "latest_chapter": " 第301章  算术，阵图到手！",
+        "updated_at": "2026-09-23 07:32:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "边关兵王",
         "book_id": 1995023,
         "url": "https://www.qimao.com/shuku/1995023/",
@@ -130,24 +124,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "284.53万字",
-        "word_count": 2845300,
-        "heat": 310000,
-        "platform_trend": "drop",
+        "word_count_text": "285.14万字",
+        "word_count": 2851400,
+        "heat": 314000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
-        "latest_chapter": " 第1376章  镇天枢",
-        "updated_at": "2026-09-23 06:02:12",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "latest_chapter": " 第1379章  后宫乱",
+        "updated_at": "2026-09-24 06:02:13",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "边军悍卒",
         "book_id": 1882754,
         "url": "https://www.qimao.com/shuku/1882754/",
@@ -159,17 +153,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "409.38万字",
-        "word_count": 4093800,
-        "heat": 266000,
-        "platform_trend": "rise",
+        "word_count_text": "409.81万字",
+        "word_count": 4098100,
+        "heat": 264000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "大宗三年，冬。铁真族犯边，大宗王朝镇西军边城被困，战事吃紧。内有符王赵争，勾结黑巾盗起兵谋反，连下数城。\n大宗王朝顿时处在内忧外困，风雨飘摇之中。\n同年冬，林丰意外穿越至距边城八十里的胡西铺乡，岭兜子村烽火台，成为一名镇西军戍守烽火台的步弓手...\n同名有声小说全平台上线，头部主播领衔演播，欢迎收听！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
-        "latest_chapter": " 第1924章  宫廷盛宴",
-        "updated_at": "2026-09-22 08:11:14",
-        "rank_change": 0,
-        "heat_change": 6000,
+        "latest_chapter": " 第1926章  暂息雷霆之怒",
+        "updated_at": "2026-09-23 08:11:15",
+        "rank_change": 1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

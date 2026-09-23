@@ -8,49 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 4,
     "total_heat": 2035000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "鸾凤引",
-          "book_id": 12103716
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "不是清冷权臣吗？怎么婚后破戒了",
-          "book_id": 12223362,
-          "intro": "【1V1双洁/年龄差/甜宠】\n世人皆知将军府养女仰慕镇北将军晏昭，她唤他一声兄长，敬他沉稳果断、赤诚忠胆，殊不知他那颗赤诚心下，爱的是她腰肢娇软、贪的是与她夜夜笙欢。"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "听女儿心声，侯夫人挺孕肚乱杀",
-          "book_id": 12800205,
-          "rank_change": 2
-        },
-        {
-          "title": "夺她入帐，惹上疯批权臣逃不掉",
-          "book_id": 10423605,
-          "rank_change": 1
-        },
-        {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "rank_change": 1
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」新上榜 《鸾凤引》；《不是清冷权臣吗？怎么婚后破戒了》 掉出榜单；《听女儿心声，侯夫人挺孕肚乱杀》上升2位领涨。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：传统宅斗逐渐向“萌崽+玄学”及“大女主重生复仇”转型，强取豪夺的极限拉扯感仍具备较强吸引力。\n**读者偏好**：读者偏爱带有爽文性质的“心声流”或“萌娃辅助”设定，对于从被动受辱到主动乱杀的复仇式爽感反馈热烈。\n**变动解读**：榜单排名处于“静止期”，现有作品在题材覆盖上已形成错位竞争，市场需求处于平稳消化阶段。\n**值得关注**：加入了萌娃、玄学元素的作品在互动性上更具优势，未来可关注“宅斗+非人类/超自然”复合题材的潜在爆发力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -66,16 +39,16 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.56万字",
-        "word_count": 395600,
+        "word_count_text": "40.01万字",
+        "word_count": 400100,
         "heat": 669000,
         "platform_trend": "rise",
         "badge": "飙升36名",
         "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
-        "latest_chapter": " 第183章  一步错，步步错",
-        "updated_at": "2026-09-23 00:17:02",
-        "rank_change": 1,
+        "latest_chapter": " 第185章  风筝",
+        "updated_at": "2026-09-24 00:17:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -95,16 +68,16 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.69万字",
-        "word_count": 416900,
+        "word_count_text": "42.11万字",
+        "word_count": 421100,
         "heat": 589000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第201章  治水之道，黑叔叔好奇怪哦，",
-        "updated_at": "2026-09-23 06:02:07",
-        "rank_change": 1,
+        "latest_chapter": " 第203章  仁宝接下治水重任",
+        "updated_at": "2026-09-24 06:02:07",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -124,16 +97,16 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.69万字",
-        "word_count": 416900,
+        "word_count_text": "42.3万字",
+        "word_count": 423000,
         "heat": 400000,
         "platform_trend": "rise",
         "badge": "飙升74名",
         "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边半生，每每看到母亲被欺更是气得要疯，在母亲死时以十世功德换来二人重生。\n       心声女儿来助力，季月如斗恶婆，惩小姑，养废一双继子女。\n       利用她的亲姐跟安顺侯更是没落得一个好下场。\n       母女二人一路上披荆斩棘，遇神杀神遇佛杀佛，自此走上人生巅峰。\n       顺王萧策一生偏执阴暗，可独独他的目光会被母女二人所吸引，一路上护着宠着，极尽偏爱。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12800205_360x480.jpg?time=1788544688",
-        "latest_chapter": " 第201章  游街",
-        "updated_at": "2026-09-22 08:17:04",
-        "rank_change": 2,
+        "latest_chapter": " 第204章  龙凤胎拦路",
+        "updated_at": "2026-09-23 08:22:05",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -153,18 +126,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.24万字",
-        "word_count": 462400,
+        "word_count_text": "46.47万字",
+        "word_count": 464700,
         "heat": 377000,
         "platform_trend": "rise",
         "badge": "飙升13名",
         "intro": "（一对一双洁，清醒又倾城大女主VS傲娇又闷骚大直男）\n十七岁那年，妩梨被太傅夫妇认回谢家，做了太傅府嫡女，并在父母安排下嫁给了淮安王世子。\n成婚十载，世子流连花丛，荒淫无度。\n外室携私生子登堂入室，极尽挑衅。\n公婆悭吝刻薄，还让私生子过继到她名下做嫡子。\n为了失而复得的至亲及家族颜面，她忍辱负重，可最终还是被蹉跎致死。\n直到濒死前一刻，她才得知——\n她并非谢家骨肉！\n她不过是谢家寻来的替死鬼，一张倾城的脸，替他们亲生女儿挡了十年的火坑。\n再次睁眼，妩梨回到了世子登门议亲的那日——\n她一不做二不休，绑了那对摧毁她人生的罪魁祸首！\n一个阉割！\n一个扒光丢街上！\n前世欠她的，这一世连本带利通通讨回来！\n大仇得报后，她携包裹踏上寻亲之路，却被某个男人堵在巷口——\n“不是说兄弟如手足、女人如衣服么，王爷这是？”\n“出来找衣服，毕竟本王身份尊贵，能忍断手断足，不能忍衣不蔽体。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4035/12103716_360x480.jpg?time=1780556367",
-        "latest_chapter": " 第211章  姐，你有那方面的书没有？",
-        "updated_at": "2026-09-23 00:46:03",
+        "latest_chapter": " 第212章  拿陪葬品当贺礼",
+        "updated_at": "2026-09-23 23:59:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
