@@ -8,26 +8,38 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 1264000,
+    "count": 1,
+    "total_heat": 814000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
+      "dropped_books": [
+        {
+          "title": "离婚后，前妻闺蜜找上我",
+          "book_id": 12671994,
+          "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市职场与情感纠葛成为核心，主打“高反差身份”与“情感博弈”，强调男主在多方女性角色间的复杂关系。\n**读者偏好**：读者偏爱职场潜规则、前任反击及“伪装身份”带来的阶级跨越爽感，对“总裁”、“校花”等标签有极高的阅读兴趣。\n**变动解读**：榜单结构趋于固化，两本上榜书籍均为强情感驱动型，热度数值稳定，反映出都市类读者对于爽点密集、情感冲突强烈的作品需求旺盛。\n**值得关注**：“复仇者联盟”式的互利关系与“强制恋爱”的人设调教，是目前都市生活类获取高点击的关键叙事策略。",
+      "summary": "**题材趋势** 都市生活类热度向“重生成长”与“情感羁绊”深度整合，高概念开篇成为留存关键。\n**读者偏好** 读者更青睐带有强冲突、强人设的快节奏爽文，如“女总裁+校花”的组合极易引发代入感。\n**变动解读** 本期市场表现稳健，头部作品通过强互动剧情实现排名回升，替换掉传统离婚打脸题材，侧面印证了轻喜剧风格的都市文更具竞争优势。\n**值得关注** 后续需观察“职场+养成”类题材在七猫生态中的转化表现，该类作品在情绪价值提供上具有显著优势。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 6,
         "title": "女总裁重生后，非逼我娶校花",
         "book_id": 12625923,
         "url": "https://www.qimao.com/shuku/12625923/",
@@ -39,48 +51,19 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.58万字",
-        "word_count": 475800,
+        "word_count_text": "47.81万字",
+        "word_count": 478100,
         "heat": 814000,
         "platform_trend": "rise",
-        "badge": "飙升28名",
+        "badge": "飙升30名",
         "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第199章   让我知廉耻，转头就吃独食？",
-        "updated_at": "2026-09-23 17:37:04",
-        "rank_change": 0,
+        "latest_chapter": " 第200章  秦子楣的无奈！",
+        "updated_at": "2026-09-24 14:12:03",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
-        "category": "都市生活"
-      },
-      {
-        "rank": 9,
-        "title": "离婚后，前妻闺蜜找上我",
-        "book_id": 12671994,
-        "url": "https://www.qimao.com/shuku/12671994/",
-        "author": "无色",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E8%89%B2_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.43万字",
-        "word_count": 504300,
-        "heat": 450000,
-        "platform_trend": "rise",
-        "badge": "飙升63名",
-        "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
-        "latest_chapter": " 第78章  江心雨动心了",
-        "updated_at": "2026-09-23 09:16:02",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       }

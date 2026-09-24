@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -20,9 +20,25 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+          "book_id": 2074363,
+          "rank_change": -1
+        },
+        {
+          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+          "book_id": 2019227,
+          "rank_change": -1
+        },
+        {
+          "title": "解春衫",
+          "book_id": 2065888,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：重生复仇与权谋博弈占据核心地位，叙事重点聚焦于“嫡女重生”与“家族对照组”的爽感输出，女性自我意识觉醒是主要命题。\n**读者偏好**：读者偏爱节奏紧凑、虐渣彻底、兼具爽点与情感冲突的作品，尤其是“全家火葬场”及“逆袭打脸”类设定。\n**变动解读**：榜单格局稳固，未见排名更迭，说明当前头部作品的内容调性高度契合平台用户对极致爽文的审美需求。\n**值得关注**：如《凤池生春》等具备影视改编背景的作品，通过高强度的剧情冲突与身份错位，有效维持了长期的热度领先。",
+      "summary": "**题材趋势**：重生复仇与大女主权谋是本分类的绝对主流，融合“换府对照组”与“虐渣”元素的设定，极大提升了故事的阅读爽感。\n**读者偏好**：读者倾向于“低开高走”的复仇叙事，偏好女主从弃子或弱者逆袭，最终掌控全局的成长线，同时也青睐带有萌娃助攻的轻松元素。\n**变动解读**：榜单结构相对稳固，头部作品热度壁垒较高，虽然整体排名有细微下浮，但整体热度体量依然坚挺。\n**值得关注**：影视化联动（如网剧原著）对热度有显著加持，具备“飒爽女主”与“全家火葬场”标签的作品具备长线留存潜力。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,7 +72,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
         "book_id": 2074363,
         "url": "https://www.qimao.com/shuku/2074363/",
@@ -77,7 +93,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 5,
@@ -85,7 +101,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
         "book_id": 2019227,
         "url": "https://www.qimao.com/shuku/2019227/",
@@ -106,7 +122,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -114,7 +130,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "解春衫",
         "book_id": 2065888,
         "url": "https://www.qimao.com/shuku/2065888/",
@@ -135,7 +151,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -143,7 +159,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -164,7 +180,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -172,7 +188,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "王府里来了个捡破烂的崽崽",
         "book_id": 2061856,
         "url": "https://www.qimao.com/shuku/2061856/",
@@ -193,7 +209,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
         "latest_chapter": " 第946章  回家喽",
         "updated_at": "2026-07-16 23:27:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

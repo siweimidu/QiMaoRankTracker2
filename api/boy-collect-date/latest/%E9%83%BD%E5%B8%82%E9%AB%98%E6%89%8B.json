@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：该品类被“龙王殿/战神回归”及“反派逆袭”等经典爽文范式统治，同质化现象极其严重。\n**读者偏好**：读者深度依赖高压反转、身份显赫的爽文节奏，对“七个师父”等强设定集合体仍有一定审美偏好。\n**变动解读**：榜单排名完全静止，市场热度进入冰封期，现有书籍结构稳固但缺乏新增长点，反映出都市高手类在当前渠道已达到饱和状态。\n**值得关注**：反派视角下的“被迫苟住”题材在传统高手文中具备差异化潜力，值得持续监测其用户反馈。",
-      "ai_source": "ai"
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -126,15 +126,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "634.08万字",
-        "word_count": 6340800,
+        "word_count_text": "634.51万字",
+        "word_count": 6345100,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2671章  这根本没法练功",
-        "updated_at": "2026-09-23 22:27:20",
+        "latest_chapter": " 第2673章  临江仙的为人",
+        "updated_at": "2026-09-24 20:01:19",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

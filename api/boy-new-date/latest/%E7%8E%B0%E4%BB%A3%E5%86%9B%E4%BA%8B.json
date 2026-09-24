@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-25",
+  "category": {
+    "name": "现代军事",
+    "major": "军事",
+    "count": 1,
+    "total_heat": 19000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：军事题材与“高考/身份置换”等社会热点结合，通过系统流强化主角的逆袭爽感，属于典型的强矛盾冲突文。\n**读者偏好**：读者偏好“被背叛后入伍崛起”的成长型叙事，对主角身份曝光后的打脸反转有极高的期待值。\n**变动解读**：该类目新书入榜，通过“高考状元”与“海陆空三军”的身份反差吸引流量，迅速在榜单中占据一席之地。\n**值得关注**：此类“强开局+系统奖励”模式是否能通过后续的职业进阶维持热度，将决定该书能否长期驻榜。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "顶替我高考状元？我勇冠海陆空三军！",
+        "book_id": 12931542,
+        "url": "https://www.qimao.com/shuku/12931542/",
+        "author": "言龙",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%A8%80%E9%BE%99_14/",
+        "major": "军事",
+        "minor": "现代军事",
+        "major_id": 60,
+        "minor_id": 61,
+        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "44.14万字",
+        "word_count": 441400,
+        "heat": 19000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
+        "latest_chapter": " 第176章  赵东亮的礼物！",
+        "updated_at": "2026-09-25 00:12:15",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "现代军事"
+      }
+    ]
+  }
+}

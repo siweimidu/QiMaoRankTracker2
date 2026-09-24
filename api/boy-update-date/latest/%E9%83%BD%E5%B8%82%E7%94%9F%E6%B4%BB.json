@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "情债难逃",
-          "book_id": 12024948
+          "book_id": 12024948,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：都市生活类题材竞争趋于平缓，近期榜单呈现低活跃度特征，市场进入存量博弈阶段。\n**读者偏好**：读者依然青睐带有强冲突色彩的“都市赘婿/暧昧”类设定，侧重于快节奏的爽点铺陈。\n**变动解读**：新书《情债难逃》通过极具张力的开篇设定切入，依靠强情绪化的简介成功挤入榜单。\n**值得关注**：该类作品的核心在于能否通过前三章的强冲突情节实现用户留存，建议持续观察该书后续热度转化。",
+      "heat_leaders": [
+        {
+          "title": "情债难逃",
+          "book_id": 12024948,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：侧重于都市情感与职场伦理的博弈，通过极具冲突感的开篇引入“上位者/被动者”的关系反转。\n**读者偏好**：读者更青睐带有强戏剧性、甚至略带狗血张力的开局，期待主角在复杂人际关系中实现阶层或心理层面的逆袭。\n**变动解读**：该类目维持低热度运行，单本作品排名微升，说明存量读者对特定风格的“爽点”仍有较强的黏性。\n**值得关注**：后续应关注此类题材如何通过剧情反转维持热度，避免单一叙事导致的用户审美疲劳。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "情债难逃",
         "book_id": 12024948,
         "url": "https://www.qimao.com/shuku/12024948/",
@@ -46,16 +53,16 @@
         "status": "连载中",
         "word_count_text": "100万字",
         "word_count": 1000000,
-        "heat": 0,
-        "platform_trend": "",
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "谢安没想到，自己一个小保安会被大老板的冷艳妻子拉进房间。\n从此——\n“赵总，你安心上路吧。我会照顾好嫂子！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4009/12024948_360x480.jpg?time=1778565750",
         "latest_chapter": " 第234章  人生若只如初见",
         "updated_at": "2026-09-22 19:19:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 1,
+        "heat_change": 1,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

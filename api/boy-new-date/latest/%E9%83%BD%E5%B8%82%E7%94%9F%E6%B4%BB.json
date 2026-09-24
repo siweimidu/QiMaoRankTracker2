@@ -8,62 +8,61 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 50000,
+    "total_heat": 24000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_books": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600,
-          "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花"
+          "book_id": 12972600
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "离婚后，前妻闺蜜找上我",
+          "book_id": 12671994,
+          "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的"
         }
       ],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "离婚后，前妻闺蜜找上我",
-          "book_id": 12671994,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "**题材趋势**：婚姻纠葛与阶级反转题材持续霸榜，反击爽感是核心驱动力。\n**读者偏好**：读者更青睐“复仇者联盟”式的强强联手设定，以及带有真假少爷身份反转的强冲突剧情。\n**变动解读**：榜单流动性趋缓，头部作品《离婚后，前妻闺蜜找上我》热度稳步增长，显示出该类目对传统复仇流作品的极高粘性。\n**值得关注**：需警惕重生年代文（如掉榜的《暴雪1962》）在都市类目的周期性波动，建议关注该题材是否在向更细分的垂直领域迁移。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「都市生活」新上榜 《暴雪1962，绝美邻居上门求肉》；《离婚后，前妻闺蜜找上我》 掉出榜单。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
-        "title": "离婚后，前妻闺蜜找上我",
-        "book_id": 12671994,
-        "url": "https://www.qimao.com/shuku/12671994/",
-        "author": "无色",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E8%89%B2_14/",
+        "rank": 15,
+        "title": "暴雪1962，绝美邻居上门求肉",
+        "book_id": 12972600,
+        "url": "https://www.qimao.com/shuku/12972600/",
+        "author": "七日一夜",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E6%97%A5%E4%B8%80%E5%A4%9C_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.43万字",
-        "word_count": 504300,
-        "heat": 50000,
+        "word_count_text": "33.43万字",
+        "word_count": 334300,
+        "heat": 24000,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
-        "latest_chapter": " 第78章  江心雨动心了",
-        "updated_at": "2026-09-23 09:16:02",
+        "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
+        "latest_chapter": " 第150章  张主任的后怕！",
+        "updated_at": "2026-09-24 21:52:06",
         "rank_change": 0,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 2,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       }

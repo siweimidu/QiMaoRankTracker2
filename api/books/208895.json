@@ -12,7 +12,7 @@
       "board": "boy-collect-date",
       "board_name": "男生收藏日榜",
       "rank": 17,
-      "heat": 1
+      "heat": 0
     }
   ],
   "history": [
@@ -243,6 +243,12 @@
       "b": "boy-collect-date",
       "r": 17,
       "h": 1
+    },
+    {
+      "d": "2026-09-25",
+      "b": "boy-collect-date",
+      "r": 17,
+      "h": 0
     }
   ]
 }

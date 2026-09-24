@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "types": [
     {
       "name": "全部",
@@ -45,10 +45,6 @@
     {
       "name": "现代军事",
       "url": "api/boy-hot-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
-      "name": "幻想修真",
-      "url": "api/boy-hot-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     }
   ]
 }

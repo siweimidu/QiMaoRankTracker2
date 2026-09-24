@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -2
+          "heat_change": 3
         }
       ],
-      "summary": "**题材趋势**：民俗恐怖与暗黑诡异风占据主流，侧重于压抑氛围营造与生存危机感。\n**读者偏好**：受众偏好带有“诡异复苏”或“民俗志怪”色彩的悬疑探险类内容，对“人吃人”等极端环境设定有较高接受度。\n**变动解读**：本类目热度处于低位盘整期，市场活跃度不足，缺乏新书更迭带动流量。\n**值得关注**：在恐怖悬疑领域，如何通过剧情钩子提升读者留存与热度转化是当前运营的突破口。",
+      "summary": "**题材趋势**：悬疑诡异风格抬头，作品不仅局限于奇门秘术，更倾向于构建压抑、克苏鲁式的“恐惧氛围感”。\n**读者偏好**：读者追求沉浸式的黑暗叙事，对于“诡异规则”和“生存博弈”类情节有较高的阅读兴趣。\n**变动解读**：该类目上榜作品呈现出强劲的上升势头，单品热度跃升显著，可见市场对“民俗惊悚”题材的需求正在回暖。\n**值得关注**：具备强设定、深氛围的作品在小众赛道极易获得爆发式增长，应持续观察此类风格的扩容空间。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 10,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -45,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "478.28万字",
-        "word_count": 4782800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "479.28万字",
+        "word_count": 4792800,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1749章  无手无脚，屹立不倒，辛波齐至！",
-        "updated_at": "2026-09-23 06:57:13",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第1752章  放下屠刀，立地成佛？德夺喂鹰，杖毙空安！",
+        "updated_at": "2026-09-24 06:57:12",
+        "rank_change": 3,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

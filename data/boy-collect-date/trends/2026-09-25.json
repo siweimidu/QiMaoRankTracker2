@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-25",
+  "board": "boy-collect-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 0,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神级进化动物杀手团",
+            "book_id": 208895,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势**：传统玄幻与系统流平分秋色，注重“废柴逆袭”与“幕后大佬”两大核心爽点。\n**读者偏好**：读者热衷于带有动漫化预期的IP作品，以及脑洞清奇的进化/养成类设定。\n**变动解读**：榜单整体陷入极度沉寂，热度全面停滞，反映出该垂类在当前周期内缺乏爆款引领。\n**值得关注**：依托动漫联动效应的《九阳武神》，其长尾效应与转化潜力值得持续跟踪。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势**：末世题材在榜单呈现明显的存量竞争态势，缺乏头部增量驱动。\n**读者偏好**：读者倾向于“系统+采集”的高爽感升级流，以及带入感强的“重生复仇”类设定。\n**变动解读**：本期榜单全线持平，缺乏新鲜血液，热度略有回落，市场活跃度处于低位。\n**值得关注**：需重点观察具备“IP联动”（如漫画改编）属性的书籍，其长尾效应较强。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：架空历史类表现稳定，以“权谋+爽文”为核心逻辑，书目具有较强的长线留存能力。\n**读者偏好**：读者偏好“种田+科技”或“轻松权谋”类叙事，快节奏的爽文开局更具吸引力。\n**变动解读**：榜单结构高度固化，未见新书冲击，反映该品类在当前阶段竞争格局相对稳定。\n**值得关注**：建议关注具备综艺或媒体背书的爆款作品，此类作品在获取用户信任度上更具优势。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：校园题材表现出明显的“学霸爽文+轻甜恋爱”双驱动特征，受众群体趋于年轻化。\n**读者偏好**：读者热衷于“学霸系统”带来的智商碾压快感，以及轻松治愈的恋爱日常调剂。\n**变动解读**：榜单呈现高度集中趋势，头部作者（如佛系和尚）通过多品类布局占据了主要流量窗口。\n**值得关注**：该小类流量粘性较强，应关注此类轻阅读作品在碎片化阅读时代的持续竞争力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：该品类呈现极度固化态势，长尾效应明显，近期缺乏新鲜血液注入。\n**读者偏好**：受众偏好“扮猪吃虎”与“异能降维打击”类爽文，核心卖点集中在都市背景下的个人武力/医术巅峰。\n**变动解读**：榜单处于静止期，头部作品热度归零，反映出该细分赛道在当前时段流量增长乏力。\n**值得关注**：两部作品均为经典老书，显示该小类目前处于存量盘活阶段，需警惕题材同质化带来的用户审美疲劳。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：悬疑灵异类题材表现稳健，通过“职业特殊化”构建的神秘感是吸引读者的核心动力。\n**读者偏好**：读者热衷于民俗传说与猎奇向叙事，对带有职业传承属性、第一人称视角的诡闻录类作品粘性较高。\n**变动解读**：榜单仅存一席，且热度波动为零，说明该赛道用户群体垂直且稳定，处于平稳运行期。\n**值得关注**：此类题材极度依赖内容悬疑度与民俗储备，后续需观察是否有新兴作者通过差异化民俗切入打破当前的沉寂局面。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

@@ -8,25 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 307000,
+    "total_heat": 304000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
@@ -34,7 +28,7 @@
           "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场表现趋于平稳。\n**读者偏好**：读者对带有强烈草根逆袭色彩及权谋博弈的开篇设定依然保持较高粘性。\n**变动解读**：本期该细分品类仅存单书在榜，且排名微调、热度小幅下滑，显示出该赛道缺乏新鲜血液冲击，处于稳守态势。\n**值得关注**：需警惕榜单覆盖度过窄带来的市场萎缩风险，观察后续是否有具备强爽感的新作介入。",
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，市场头部效应显著，缺乏新鲜血液注入。\n**读者偏好**：读者对带有强烈“武夫”元素、权谋与武力并重的穿越开局类作品仍有固定粘性。\n**变动解读**：本周期内该品类表现极度平稳，头部作品《大周第一武夫》热度微降，显示出该细分赛道近期缺乏强力竞品冲击。\n**值得关注**：需警惕品类活跃度下降，建议观察是否有具备新颖切入点的同类作品进入榜单以激活市场。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,16 +45,16 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "214.57万字",
-        "word_count": 2145700,
-        "heat": 307000,
+        "word_count_text": "215.23万字",
+        "word_count": 2152300,
+        "heat": 304000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第992章  噬灵妖火",
-        "updated_at": "2026-09-23 21:01:16",
-        "rank_change": -1,
+        "latest_chapter": " 第995章  全面战争",
+        "updated_at": "2026-09-24 20:07:08",
+        "rank_change": 0,
         "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
