@@ -8,37 +8,78 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 7,
+    "total_heat": 9,
     "trend": {
       "new_count": 1,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [
         {
-          "title": "皇妃来自地府，百鬼退散",
-          "book_id": 10374897
+          "title": "穿进强制爱古言，四个大佬全部失控",
+          "book_id": 12581412
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "春闺小寡妇",
           "book_id": 12644022,
-          "rank_change": -1
+          "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼"
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：该小类目前呈现小众精品化趋势，灵异玄学与传统古言的跨界融合成为吸引流量的关键切口。\n**读者偏好**：读者对“人鬼殊途”、“冷面权臣vs特殊身份女主”这类高反差、强设定的人物关系表现出浓厚兴趣。\n**变动解读**：新书《皇妃来自地府》以高热度直接切入，体现了“灵异+权谋”题材在当前市场中的强劲破圈潜力。\n**值得关注**：该品类在榜书籍较少，市场空间尚有挖掘潜力，高概念（High Concept）的设定更容易在小类中建立差异化壁垒。",
-      "ai_source": "ai"
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "皇妃来自地府，百鬼退散",
+          "book_id": 10374897,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "皇妃来自地府，百鬼退散",
+          "book_id": 10374897,
+          "heat_change": -4
+        }
+      ],
+      "summary": "「古代情缘」新上榜 《穿进强制爱古言，四个大佬全部失控》；《春闺小寡妇》 掉出榜单；《皇妃来自地府，百鬼退散》下滑2位；《皇妃来自地府，百鬼退散》热度-4。",
+      "ai_source": "rule"
     },
     "books": [
       {
         "rank": 16,
+        "title": "穿进强制爱古言，四个大佬全部失控",
+        "book_id": 12581412,
+        "url": "https://www.qimao.com/shuku/12581412/",
+        "author": "年年有鱼",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B9%B4%E5%B9%B4%E6%9C%89%E9%B1%BC_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "41.54万字",
+        "word_count": 415400,
+        "heat": 7,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "黎清晏一朝穿书，成了强制爱女配。\n强制四个男人的那种！\n天知道她穿越前连男人小手都没摸过。\n现在却要刷满四个夫君的亲密度才能活。\n满眼嫌恶她的腹黑贵公子，自卑绝情的残疾将军。\n动不动就下蛊的苗疆少年，还有个玩不过的禁欲大佬……\n四个！\n黎清宴麻了。\n天要亡她！！\n但慢慢的，事情渐渐有些不对劲。\n腹黑公子露出腹肌：殿下，可用我解闷。\n残疾大佬变小狗：臣腿残，但那里能用…\n通感少年失了控：我给你玩，好不好？\n禁欲大佬吻上她：别看他们。\n他们拼尽全力，只为抢夺她的爱。\n被包围的黎清晏揉着巨痛的腰：老娘最初只是想活下去……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4194/12581412_360x480.jpg?time=1790059686",
+        "latest_chapter": " 第195章  检测到符合男主标准候选人……",
+        "updated_at": "2026-09-25 22:44:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 18,
         "title": "皇妃来自地府，百鬼退散",
         "book_id": 10374897,
         "url": "https://www.qimao.com/shuku/10374897/",
@@ -50,48 +91,19 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "116.79万字",
-        "word_count": 1167900,
-        "heat": 6,
-        "platform_trend": "rise",
+        "word_count_text": "117.4万字",
+        "word_count": 1174000,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【漫剧已上线】她是乱葬岗里三百年的冤魂，埋骨老槐树下，怨气凝煞。\n他贵为皇子，却是从尸山血海里杀回来的煞神，冷面狠戾，专司京城最诡谲的灵异重案。\n她是槐下冤魂，他是人间凶神。\n一纸婚约，将一人一鬼强行绑作夫妻。\n他查案，她查仇。\n他不信鬼神，却总被她身上那缕清冷阴气勾得心尖发颤。\n她满腹怨毒，却偏偏贪恋他怀中那点滚烫人间温度。\n白天同床异梦，针锋相对；\n夜里暗潮涌动，暧昧丛生。\n一桩桩人间血案，一层层尘封旧怨。\n当真相破土而出，\n穿越三百年的魂，\n竟成了这位冷血煞神唯一的软肋与疯魔。\n一人一鬼，天生一对。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
-        "latest_chapter": " 第561章  刘家村",
-        "updated_at": "2026-09-24 18:17:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "古代情缘"
-      },
-      {
-        "rank": 20,
-        "title": "春闺小寡妇",
-        "book_id": 12644022,
-        "url": "https://www.qimao.com/shuku/12644022/",
-        "author": "空酒瓶",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%A9%BA%E9%85%92%E7%93%B6_14/",
-        "major": "古代言情",
-        "minor": "古代情缘",
-        "major_id": 2,
-        "minor_id": 216,
-        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "34.89万字",
-        "word_count": 348900,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第162章  裴知珩吃醋惩罚她",
-        "updated_at": "2026-09-24 20:41:03",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第564章  送神难",
+        "updated_at": "2026-09-25 14:51:05",
+        "rank_change": -2,
+        "heat_change": -4,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       }

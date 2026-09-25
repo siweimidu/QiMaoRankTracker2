@@ -8,54 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 96000,
+    "total_heat": 95000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "哥你别乱看了，这块帝王绿出水了！",
-          "book_id": 12873285,
-          "intro": "许泽身为古玩行打工的牛马，每月只能挣扎在温饱线上，不曾想一次意外，竟让他撞见美女房东被人刁难！\n这房租还欠着呢，他能坐视不管？\n许泽英雄救美，本想吓退油腻老板，结果却惨遭偷袭，命悬一线！\n岂料福祸相依"
-        }
-      ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "rank_change": 6
-        },
-        {
-          "title": "我想躺平当保安，女神非要来纠缠",
-          "book_id": 9999144,
-          "rank_change": 1
-        },
-        {
-          "title": "从拒绝美女总裁开始权势滔天",
-          "book_id": 12713682,
-          "rank_change": 1
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": 2000
-        },
-        {
-          "title": "从拒绝美女总裁开始权势滔天",
-          "book_id": 12713682,
           "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：回归经典“都市异能/战神”模式，核心卖点集中在“下山”、“保安”、“拒绝舔狗”等高冲突开局，叙事节奏极快，强调爽感阈值。\n**读者偏好**：受众对“美女总裁+强力身份”的固定模版具有极高忠诚度，偏好通过极端的冲突与反差实现情绪宣泄。\n**变动解读**：该类目竞争惨烈，榜单洗牌速度极快，书籍热度波动较大；《下山第一天，逮个美女总裁暴力宠》以极速上升证明了“强冲突开局”的有效性。\n**值得关注**：都市类题材极度依赖“开局爆点”，需在同质化严重的总裁文竞争中，通过更极致的爽点设定（如反转舔狗关系）来博取关注。",
+      "summary": "**题材趋势**：回归经典的“隐世高手+退婚/赘婿+美女总裁”老派套路，叙事高度依赖强冲突的开篇。\n**读者偏好**：读者对都市爽文的期待集中在身份反差与多女主互动，追求快节奏的打脸与情感爽点。\n**变动解读**：整体热度溢出效应减弱，《下山第一天》排名下滑明显，反映出读者对同质化严重的“下山流”审美疲劳。\n**值得关注**：如何在老套的“总裁+高手”公式中加入独特的反转（如从拒绝女主角开始），是该题材维持热度的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,16 +51,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.54万字",
-        "word_count": 485400,
+        "word_count_text": "48.96万字",
+        "word_count": 489600,
         "heat": 50000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
-        "latest_chapter": " 第236章  最好的道歉",
-        "updated_at": "2026-09-25 00:02:25",
-        "rank_change": 1,
+        "latest_chapter": " 第238章  身份暴露",
+        "updated_at": "2026-09-26 01:00:05",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -89,7 +68,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 16,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -101,17 +80,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.85万字",
-        "word_count": 238500,
-        "heat": 25000,
-        "platform_trend": "rise",
+        "word_count_text": "24.28万字",
+        "word_count": 242800,
+        "heat": 24000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第108章  让你知道什么叫做魔",
-        "updated_at": "2026-09-25 05:02:02",
-        "rank_change": 6,
-        "heat_change": 2000,
+        "latest_chapter": " 第110章  人算不如天算",
+        "updated_at": "2026-09-26 05:02:03",
+        "rank_change": -3,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -130,17 +109,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.85万字",
-        "word_count": 478500,
+        "word_count_text": "48.49万字",
+        "word_count": 484900,
         "heat": 21000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4238/12713682_360x480.jpg?time=1783391037",
-        "latest_chapter": " 第229章  你是来谈合作，还是来选陪客",
-        "updated_at": "2026-09-25 00:12:05",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "latest_chapter": " 第232章  莱昂找错了买命的人",
+        "updated_at": "2026-09-25 20:32:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

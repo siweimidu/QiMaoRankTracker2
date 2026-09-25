@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -16,30 +16,13 @@
     "total_heat": 3011000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "徒儿你都元婴了，下山找你未婚妻吧",
-          "book_id": 12556227,
-          "intro": "五岁上山，十六岁元婴，一百零八位师父倾囊相授。\n\n十八岁这年，师父们联手把我踹下山——\n“带上这九封婚书，看上眼的娶，看不上的退。”\n\n第一家，大昌市叶家。\n刚进门就撞上老爷子病危，神医素手无策。\n我"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "book_id": 12594795,
-          "rank_change": 3
-        },
-        {
-          "title": "医武双绝，拐个美女总裁一起修仙",
-          "book_id": 12309921,
-          "rank_change": 3
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：高度集中于“高手下山+美女总裁+多位婚书”的经典爽文范式，后宫与无敌流是流量保障。\n**读者偏好**：追求极致的快节奏爽感，偏爱“被动被强推”的被动式主角设定，以及都市权势与情感纠葛的双重满足。\n**变动解读**：头部效应明显，虽然榜单书籍数量缩减，但剩余作品通过强节奏的剧情推进稳住了热度，上升势头一致，市场审美依然高度统一。\n**值得关注**：如何在高度同质化的“高手下山”题材中，通过独特的职业差异化（如医武、保安）进行微创新，是留存用户的关键。",
+      "summary": "**题材趋势**：典型的“都市无敌流”模式，核心卖点高度集中在“下山/退婚+强势打脸+多位女主纠缠”。\n**读者偏好**：读者追求极致的爽感与快节奏的社交互动，对于“被动卷入都市纷争”及“美女总裁/后宫”设定具有极高的消费惯性。\n**变动解读**：榜单完全固化，显示出该题材读者群体的审美高度同质化，即对经典模板类作品有持续且稳定的阅读需求。\n**值得关注**：头部作品《我想躺平当保安，女神非要来纠缠》占据显著优势，证明在都市品类中，“反套路”的轻松开局依然是吸引流量的最佳诱饵。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,15 +39,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.54万字",
-        "word_count": 485400,
+        "word_count_text": "48.96万字",
+        "word_count": 489600,
         "heat": 2339000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
-        "latest_chapter": " 第236章  最好的道歉",
-        "updated_at": "2026-09-25 00:02:25",
+        "latest_chapter": " 第238章  身份暴露",
+        "updated_at": "2026-09-26 01:00:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -85,16 +68,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.83万字",
-        "word_count": 398300,
+        "word_count_text": "40.2万字",
+        "word_count": 402000,
         "heat": 339000,
         "platform_trend": "rise",
         "badge": "飙升48名",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第137章  青木长生诀，天地异象",
-        "updated_at": "2026-09-25 00:01:12",
-        "rank_change": 3,
+        "latest_chapter": " 第139章  暴殄天物",
+        "updated_at": "2026-09-25 22:09:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -123,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4104/12309921_360x480.jpg?time=1780645179",
         "latest_chapter": " 第207章  另一处锚点",
         "updated_at": "2026-09-24 23:52:05",
-        "rank_change": 3,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 98000,
+    "total_heat": 94000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "刚抽中SSS级天赋，你跟我说游戏停服",
           "book_id": 2027749,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "刚抽中SSS级天赋，你跟我说游戏停服",
           "book_id": 2027749,
-          "heat_change": -11000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：游戏异界与赘婿流的有机结合，通过“神级天赋”与“双修”机制快速堆叠爽点。\n**读者偏好**：读者热衷于底层逆袭与被原本看轻的对象“反向攻略”的快节奏叙事模式。\n**变动解读**：本类目当前市场表现承压，头部作品热度流失明显，说明该类目完结书目的长尾效应正在减弱。\n**值得关注**：该题材是否能通过强化系统升级的数值反馈来维持完结后的长效阅读价值。",
-      "ai_source": "ai"
+      "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》上升1位领涨；《刚抽中SSS级天赋，你跟我说游戏停服》热度-4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 9,
         "title": "刚抽中SSS级天赋，你跟我说游戏停服",
         "book_id": 2027749,
         "url": "https://www.qimao.com/shuku/2027749/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "236.82万字",
         "word_count": 2368200,
-        "heat": 98000,
+        "heat": 94000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "云澈穿越到了游戏世界，还成了秦王府的赘婿。\n可他的命运似乎仅限于成为秦大小姐修炼双修之法的牺牲品。\n濒临死亡之际，天赋神来之手显威，云澈幸运获得了对方的双修之法。\n一夜之间，云澈修为突飞猛进，成为大元帝国所有男人羡慕嫉妒恨的焦点。\n对着秦王爷施展神来之手，抓取成功，恭喜获得上品身法，飞絮飘步。\n对着小姨子施展神来之手，抓取成功，恭喜获得中品防具，冰丝锦绣衣。\n对着秦女魔施展神来之手，抓取成功，恭喜获得100点经验。\n对着毒灵花施展神来之手，抓取成功，恭喜获得5点毒抗。\n对着巨灵龟施展神来之手，抓取成功，恭喜获得500点耐力。\n对着NPC老爷爷施展神来之手，抓取成功，恭喜获得转职卷轴（唯一）。\n云澈满脸狂喜，不用做任务就能成功转职，这比躺平还爽啊！\n某日，云澈偶然遇到了同班同学，他这才得知，原来是地球疯了，带着全人类融入到了妖魔与邪修肆虐的神武世界，艰难苟活。\n他只不过是比其他人早来那么一年时间而已......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
         "latest_chapter": " 第1074章  仙人也折腰(终)",
         "updated_at": "2026-09-06 08:21:09",
-        "rank_change": -1,
-        "heat_change": -11000,
+        "rank_change": 1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

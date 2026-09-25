@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -20,16 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "七零，易孕娇妻被绝嗣京少宠哭了",
-          "book_id": 1866390,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：婚恋与“易孕”标签深度绑定，叠加“换嫁”与“军官宠妻”元素，是当前年代文的核心吸睛点。\n**读者偏好**：读者偏好强冲突、快节奏的强强/反差人设，如“绝嗣军官”与“好孕娇妻”的极致人设对比。\n**变动解读**：本月该类别仅存单本在榜，显示出该题材在完结榜单中竞争激烈且流动性较弱。\n**值得关注**：关注此类“极致人设+强冲突开局”的套路化叙事，是否仍能持续通过情绪价值留住用户。",
-      "ai_source": "ai"
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -54,10 +48,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/595/1784376_360x480.jpg?time=1726332415",
         "latest_chapter": " 第707章  大结局（完）",
         "updated_at": "2026-04-03 14:06:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "年代重生"
       }

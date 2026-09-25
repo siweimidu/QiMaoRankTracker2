@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 119000,
+    "total_heat": 115000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "rank_change": -3
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": -10000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：战神回归流依旧是都市赛道的主流核心，强调身份反差与强权碾压。\n**读者偏好**：读者对“多位女性角色环绕”的后宫向修罗场配置具有高粘性，倾向于龙傲天式爽感。\n**变动解读**：头部作品热度小幅下滑且排名下挫，显示出该类目在完结榜单上进入存量博弈阶段，缺乏新锐作品冲击。\n**值得关注**：需警惕同质化严重导致的读者审美疲劳，建议关注后续是否有具备新颖切入点的作品补位。",
-      "ai_source": "ai"
+      "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》上升1位领涨；《SSS级狂龙归来，全球戒备！》热度-4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -59,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 119000,
+        "heat": 115000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": -3,
-        "heat_change": -10000,
+        "rank_change": 1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

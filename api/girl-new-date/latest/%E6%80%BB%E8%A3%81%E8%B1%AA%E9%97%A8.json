@@ -8,64 +8,60 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 5,
-    "total_heat": 144000,
+    "count": 4,
+    "total_heat": 136000,
     "trend": {
-      "new_count": 2,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "离婚当天，和京圈太子爷闪婚了",
-          "book_id": 12718566
-        },
-        {
-          "title": "乖，不离婚",
-          "book_id": 13231389
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "抛妻弃子后，薄总低声诱哄求复合",
-          "book_id": 12497535,
-          "intro": "【破镜重圆+协议假夫妻+双向疯批抢婚】\n三年隐婚，宋今也以为他们双向奔赴。\n直到她怀孕，薄斯年冷脸让她打掉，转头却呵护备至地陪白月光宋昭昀去做产检。\n最终她痛失腹中孩子，心如死灰签下离婚协议，远赴国外"
+          "title": "乖，不离婚",
+          "book_id": 13231389,
+          "intro": "又甜又撩明艳动人女主VS腹黑禁欲男主\n听闻登堂入室的小三女儿即将要跟顾家联姻，江清落火速从国外飞回来。\n顾家什么来头？豪门顶流，权势滔天。\n而联姻的顾九江，是顾家现任掌权人。\n三十岁，冷心冷情不近女色"
         }
       ],
       "top_risers": [
         {
-          "title": "暗渡春潮",
-          "book_id": 12784170,
-          "rank_change": 14
+          "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+          "book_id": 12802161,
+          "rank_change": 1
+        },
+        {
+          "title": "离婚当天，和京圈太子爷闪婚了",
+          "book_id": 12718566,
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
-          "book_id": 12802161,
-          "rank_change": -2
-        },
-        {
           "title": "青梅消失五年后，顾医生再度失控",
           "book_id": 12855951,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "暗渡春潮",
           "book_id": 12784170,
-          "heat_change": 33000
+          "heat_change": 11000
         },
         {
           "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
           "book_id": 12802161,
-          "heat_change": 4000
+          "heat_change": -1000
+        },
+        {
+          "title": "离婚当天，和京圈太子爷闪婚了",
+          "book_id": 12718566,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：回归“真假千金”、“带球跑/闪婚”等经典母题，强情绪煽动（如暴雨、失控、背叛）是拉动热度的关键。\n**读者偏好**：读者更青睐带有强烈宿命感与冲突感的开篇，特别是“离婚后闪婚”等快节奏反转情节极具吸引力。\n**变动解读**：榜单换血剧烈，《暗渡春潮》以高爆发力跃升至首位，两本新书入榜，显示出该品类极强的流量流动性和新鲜感需求。\n**值得关注**：虐心与甜宠并行的“疯批”人设在当前市场反馈极佳，后续创作应强化男女主之间的情感爆发力。",
+      "summary": "**题材趋势**：传统豪门爽文与“萌宝+团宠”元素平分秋色，虐恋与闪婚题材依然是流量压舱石。\n**读者偏好**：读者热衷于极致的情感拉扯与身份反差，具备强烈冲突感（如真假千金、闪婚太子爷）的作品更具吸睛力。\n**变动解读**：榜单整体趋于稳定，头部作品《暗渡春潮》优势明显，萌宝及闪婚类题材排名微升，显示出读者对轻快爽文的偏好回暖。\n**值得关注**：需警惕榜单缺乏新面孔的风险，后续可重点观察虐恋反转类作品能否持续维持高热度。",
       "ai_source": "ai"
     },
     "books": [
@@ -82,24 +78,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.76万字",
-        "word_count": 337600,
-        "heat": 51000,
+        "word_count_text": "34.18万字",
+        "word_count": 341800,
+        "heat": 62000,
         "platform_trend": "rise",
-        "badge": "飙升14名",
+        "badge": "",
         "intro": "真千金回归，一朝之间，楚知渔从掌上明珠变成了寄人篱下的养女。\n恰逢霍家掌权人霍临川回国，许她身份、地位、财富，让她和真千金一般在霍家活着。\n起初，她感激他、仰慕他，想报答他。\n可他却在一个暴雨的深夜里将所有的恩情彻底击碎。\n他说他不要她的恩情，他要欲，他更要爱。\n此后，他掠夺她、控制她，想拥有她。\n……\n后来，楚知渔怀着孕从江城消失了。\n那个向来冷静自持、掌控一切的男人彻底慌了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4262/12784170_360x480.jpg?time=1788848958",
-        "latest_chapter": " 第149章  抽血",
-        "updated_at": "2026-09-24 23:52:05",
-        "rank_change": 14,
-        "heat_change": 33000,
+        "latest_chapter": " 第151章  红玫瑰",
+        "updated_at": "2026-09-25 23:52:03",
+        "rank_change": 0,
+        "heat_change": 11000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
         "book_id": 12802161,
         "url": "https://www.qimao.com/shuku/12802161/",
@@ -111,17 +107,17 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.35万字",
-        "word_count": 343500,
-        "heat": 35000,
-        "platform_trend": "rise",
+        "word_count_text": "34.78万字",
+        "word_count": 347800,
+        "heat": 34000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【金手指+团宠+拼好家+对照组】\n出生就被抱错的鱼鱼，在垃圾堆里捡到了断腿毁容的男人。\n“哇，好大一个爸爸，活的。”\n好多坏人欺负爸爸，鱼鱼决定多捡几个家人，一起保护爸爸。\n咦，帅帅哒，眼神凶凶哒大哥哥，你当我大哥呀！\n嘿，那个要跳海哒漂亮小哥哥，你当我二哥吧！\n哟，跟她一起被人贩子拐走哒小哥哥，想换爸爸？那好吧，让你当三哥。\n嘻嘻……家人都是她捡来哒，鱼鱼真棒！\n后来，华国多了个横着走的小姑娘。\n她爸爸是华国第一家族的家主，大哥是疯批大佬，二哥是娱乐圈顶流，三哥是未来兵王。\n人人谈之变色的特殊部门，是鱼鱼的后花园。\n新闻里的超级大佬，把鱼鱼扛在肩上举高高。\n鱼鱼我呀，不小心成团宠啦！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802161_360x480.jpg?time=1784460596",
-        "latest_chapter": " 第162章  他是龙城霸主",
-        "updated_at": "2026-09-25 00:00:12",
-        "rank_change": -2,
-        "heat_change": 4000,
+        "latest_chapter": " 第164章  鱼鱼：我的战利品！",
+        "updated_at": "2026-09-26 00:00:08",
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -129,35 +125,6 @@
       },
       {
         "rank": 18,
-        "title": "青梅消失五年后，顾医生再度失控",
-        "book_id": 12855951,
-        "url": "https://www.qimao.com/shuku/12855951/",
-        "author": "翰霖",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%BF%B0%E9%9C%96_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "43.77万字",
-        "word_count": 437700,
-        "heat": 21000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
-        "latest_chapter": " 第201章  轻点！谋杀亲夫啊",
-        "updated_at": "2026-09-24 08:12:06",
-        "rank_change": -1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 19,
         "title": "离婚当天，和京圈太子爷闪婚了",
         "book_id": 12718566,
         "url": "https://www.qimao.com/shuku/12718566/",
@@ -169,48 +136,48 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.65万字",
-        "word_count": 316500,
-        "heat": 19000,
+        "word_count_text": "32.05万字",
+        "word_count": 320500,
+        "heat": 20000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "南莘怀孕七个月产检要丈夫签字，才知道丈夫在外面一直有个家，而那个家的女主人是她的亲姐姐南虞，侄女是她丈夫傅北辰的私生女。就连她的孩子，都是傅北辰为了向南虞证明他的衷心，找人跟南莘生的。\n丈夫离心，父母偏心，公婆磋磨...这一刻，南莘彻底心死。\n渣男贱女算计她怀野种，那就生，生到傅北辰头顶一片绿油油。\n想让她净身出户？想得美，磋磨三年该她的一分钱都不能少！\n远离磋磨消耗她的亲人和男人，她将全部精力都放到了搞事业上，没人爱她，她就自己爱自己。\n离婚后，她光芒万丈，渣夫却后悔了。\n“莘莘，只要你愿意复婚，孩子不是我的也没关系。”\n纪舟野：“不好意思，孩子和她都是我的。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12718566_360x480.jpg?time=1789657564",
-        "latest_chapter": " 第154章  全网黑",
-        "updated_at": "2026-09-24 21:35:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第156章  我只是想配得上你",
+        "updated_at": "2026-09-25 22:05:02",
+        "rank_change": 1,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
         "rank": 20,
-        "title": "乖，不离婚",
-        "book_id": 13231389,
-        "url": "https://www.qimao.com/shuku/13231389/",
-        "author": "苏一",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%8B%8F%E4%B8%80_14/",
+        "title": "青梅消失五年后，顾医生再度失控",
+        "book_id": 12855951,
+        "url": "https://www.qimao.com/shuku/12855951/",
+        "author": "翰霖",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%BF%B0%E9%9C%96_14/",
         "major": "现代言情",
         "minor": "总裁豪门",
         "major_id": 1,
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "15.6万字",
-        "word_count": 156000,
-        "heat": 18000,
-        "platform_trend": "rise",
+        "word_count_text": "44.48万字",
+        "word_count": 444800,
+        "heat": 20000,
+        "platform_trend": "drop",
         "badge": "",
-        "intro": "又甜又撩明艳动人女主VS腹黑禁欲男主\n听闻登堂入室的小三女儿即将要跟顾家联姻，江清落火速从国外飞回来。\n顾家什么来头？豪门顶流，权势滔天。\n而联姻的顾九江，是顾家现任掌权人。\n三十岁，冷心冷情不近女色，是人人讳莫如深的活阎王。\n小三女儿的任务，不过是婚后生下继承人。\n江清落当即穿上一袭婚纱站在顾九江面前，嘴角扬起明艳动人的笑：“我才是爷爷亲自定下的联姻人选，选她？不如选我。”\n“生下继承人，我愿意离婚，她舍得吗？”\n众人哗然，而站在舞台中央的男人慢条斯理抬起眼，深邃的眸子投在江清落身上：“可以。”\n当晚，江清落发现顾九江这个男人，可太行了，她喜欢。\n——\n一开始，江清落没打算生孩子，她就是单纯恶心小三母女。\n再后来，她发现顾九江这人索求无度，她实在受不了了，便想怀上孩子离婚拿钱走人。\n\n谁知大半年了，江清落越努力越心酸，肚子毫无动静。\n直到某天，她在顾九江书房发现了一瓶男性避孕药。\n她气的不行，将药扔到男人手上：“顾九江，耍人好玩吗？”\n下一刻，江清落被拥进一个温热怀抱里。\n男人揽着挣扎不已的她，声音沙哑发烫：“不是生下继承人才离婚吗？不生，就不用离。”\n江清落一愣：“？”\n什么情况？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4411/13231389_360x480.jpg?time=1788240273",
-        "latest_chapter": " 第70章  惩罚你",
-        "updated_at": "2026-09-24 08:02:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了。这两只手像两个人——一个恨她入骨，一个爱她入骨。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12855951_360x480.jpg?time=1784683179",
+        "latest_chapter": " 第204章  像只失了智的狼犬",
+        "updated_at": "2026-09-25 08:12:06",
+        "rank_change": -2,
+        "heat_change": -1000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "总裁豪门"
       }

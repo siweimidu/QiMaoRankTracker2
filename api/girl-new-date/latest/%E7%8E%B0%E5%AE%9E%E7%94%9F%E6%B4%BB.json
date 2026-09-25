@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-new-date",
+    "name": "女生新书日榜",
+    "channel": "female",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-09-26",
+  "category": {
+    "name": "现实生活",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 20000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "体面老去？不！老太离婚断亲不再忍",
+          "book_id": 12791457
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：“中老年重生+反击”题材异军突起，打破了传统年轻化叙事的刻板印象。\n**读者偏好**：读者对“全家火葬场”、“断亲打脸”等极具情绪价值的爽文题材需求旺盛，现实维权与情感宣泄成为看点。\n**变动解读**：新书《体面老去？不！老太离婚断亲不再忍》上榜，精准切中家庭伦理矛盾，迅速填补了该细分赛道的市场空白。\n**值得关注**：该题材具备较强的社交传播属性，后续可关注其在不同年龄段读者群体中的渗透力。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 19,
+        "title": "体面老去？不！老太离婚断亲不再忍",
+        "book_id": 12791457,
+        "url": "https://www.qimao.com/shuku/12791457/",
+        "author": "不止诗酒",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%8D%E6%AD%A2%E8%AF%97%E9%85%92_14/",
+        "major": "现代言情",
+        "minor": "现实生活",
+        "major_id": 1,
+        "minor_id": 274,
+        "minor_url": "https://www.qimao.com/shuku/a-1-274-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.17万字",
+        "word_count": 361700,
+        "heat": 20000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【老太回春+全家火葬场+家长里短+打脸+爽文】\n五旬老太陈玉兰重生了。\n睁眼那一刻，丈夫郑思远一把将离婚协议甩在她脸上。\n儿子女儿却站在一旁冷嘲热讽，嫌她农村出身丢人、嫌她给的嫁妆太少、嫌她耽误了他们伟大父亲的美好前程。\n前世，她含泪忍下一切，换来的却是烧伤时被全家忽略活活等死。\n甚至还在病床上被逼签字骗保，直到咽气都没等来一句关心。\n这一世，她不再委屈自己。\n儿子嫌她买的东西廉价？全身名牌统统收回！\n女儿骂她给的嫁妆寒酸？那就一分不少拿回来。\n丈夫离婚想分她名下四套房？做他的春秋大梦！\n踹渣夫、撕逆子、断亲之后，她却意外收到一张来自回春医药研究所的宣传单。\n所有人都说她离开渣夫这辈子就完蛋了，劝她再忍忍。\n可她不仅逆风翻盘，还实现了逆龄回春！\n当她以焕然一新的模样重新出现在众人面前时，所有人都慌了。\n这一次，她只为自己惊艳余生！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791457_360x480.jpg?time=1784017889",
+        "latest_chapter": " 第174章  有点意思",
+        "updated_at": "2026-09-25 09:10:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "现实生活"
+      }
+    ]
+  }
+}

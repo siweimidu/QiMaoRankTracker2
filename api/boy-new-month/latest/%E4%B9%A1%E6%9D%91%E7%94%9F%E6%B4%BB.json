@@ -8,30 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
     "total_heat": 439000,
     "trend": {
-      "new_count": 2,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "重回83：赶山猎熊发家致富",
-          "book_id": 12519594
-        },
-        {
-          "title": "重生80，上山打猎富养俏前妻",
-          "book_id": 12497271
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：年代怀旧与狩猎种田题材爆发，核心卖点转向“重生弥补遗憾+经营致富+多女主家庭日常”。\n**读者偏好**：读者对80年代东北背景的“赶山打猎”情有独钟，偏好通过空间金手指实现从贫穷到富足的“生活流”爽感。\n**变动解读**：两本新书同时上榜并占据席位，标志着乡村生活赛道正从单纯种田向“年代+狩猎+多女主”的复合型叙事转型。\n**值得关注**：该小类受众对“年代感”和“生活细节”要求较高，建议关注此类作品在经营致富线与情感线上的平衡表现。",
+      "summary": "**题材趋势**：年代文与种田文结合，聚焦“重生+赶山/打猎+致富”的怀旧叙事，强调通过金手指改善家庭与情感遗憾。\n**读者偏好**：读者对年代背景下的“发家致富”有强烈代入感，偏好“弥补遗憾”的温情叙事与“多女主/重塑家庭”的爽点结合。\n**变动解读**：榜单结构稳定，反映出乡村年代题材在七猫生态中拥有稳定的受众群体，且该类目内容产出具有较强的同质化倾向。\n**值得关注**：该类目热度主要依赖“怀旧氛围”与“爽点节奏”的平衡，如何挖掘差异化的金手指设定是破局关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -48,18 +39,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.02万字",
-        "word_count": 460200,
+        "word_count_text": "46.65万字",
+        "word_count": 466500,
         "heat": 228000,
         "platform_trend": "rise",
         "badge": "飙升31名",
         "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最后过劳惨死。重生回到1983年与爷爷进山的那天，这一次陈向阳不想后悔，不想有任何遗憾。他要守护家人，守护那个心爱的人，弥补所有遗憾。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4174/12519594_360x480.jpg?time=1781771131",
-        "latest_chapter": " 第222章  追击",
-        "updated_at": "2026-09-24 20:02:06",
+        "latest_chapter": " 第225章  事了！",
+        "updated_at": "2026-09-25 13:02:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
@@ -77,18 +68,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.15万字",
-        "word_count": 491500,
+        "word_count_text": "49.82万字",
+        "word_count": 498200,
         "heat": 211000,
         "platform_trend": "rise",
         "badge": "飙升36名",
         "intro": "【乡村日常】【多女主】【年代】【打猎】【经商】吴大壮重生，回到了知青回城的那个年代，自己有三个美得冒泡的前妻，而且获得了空间和金手指。重活一世，他决定要挣大钱，让三个跟过自己的女人和孩子都过上好日子，顿顿有肉吃，月月有新衣。　从此吴大壮家里天天都飘出肉香，馋哭了村里人，前妻们发现了他的改变，觉得日子有了奔头，决定不走了。　大前妻端庄贤淑，大气温婉。　二前妻矜持含蓄，小家碧玉。　三前妻多愁善感，人美心善。　在大通铺上，她们一个个的变了......",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4166/12497271_360x480.jpg?time=1781598974",
-        "latest_chapter": " 第207章  上山找人",
-        "updated_at": "2026-09-24 08:17:03",
+        "latest_chapter": " 第210章  掉进古墓",
+        "updated_at": "2026-09-26 01:46:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

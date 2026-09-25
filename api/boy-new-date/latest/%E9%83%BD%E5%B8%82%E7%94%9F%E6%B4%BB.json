@@ -8,37 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 24000,
+    "total_heat": 26000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600
+          "book_id": 12972600,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [
-        {
-          "title": "离婚后，前妻闺蜜找上我",
-          "book_id": 12671994,
-          "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的"
-        }
-      ],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市生活」新上榜 《暴雪1962，绝美邻居上门求肉》；《离婚后，前妻闺蜜找上我》 掉出榜单。",
-      "ai_source": "rule"
+      "heat_leaders": [
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "**题材趋势**：年代重生文依然是都市类目下的强劲分支，带有强烈的苦难逆袭与情感复仇色彩。\n**读者偏好**：读者倾向于阅读带有“反转”属性的情节，尤其是对“前世凄惨、今生报复白莲花”的爽点反馈极佳。\n**变动解读**：该书排名稳步攀升且热度持续增长，说明其在读者存量市场中具备较强的阅读粘性与口碑传播力。\n**值得关注**：该题材对矛盾冲突的构建非常精准，后续剧情若能持续保持情感压制力，热度仍有进一步上行空间。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 13,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -50,18 +51,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.43万字",
-        "word_count": 334300,
-        "heat": 24000,
+        "word_count_text": "34.09万字",
+        "word_count": 340900,
+        "heat": 26000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第150章  张主任的后怕！",
-        "updated_at": "2026-09-24 21:52:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第153章  搁这虐狗呢？单身汉们哭了！",
+        "updated_at": "2026-09-25 20:53:03",
+        "rank_change": 2,
+        "heat_change": 2000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

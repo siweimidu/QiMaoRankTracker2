@@ -8,49 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 8,
     "total_heat": 66257000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "八年冷淡你提离婚，我签字你疯什么",
-          "book_id": 2067317
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "玄学小祖宗：叼奶瓶算命全家宠",
-          "book_id": 1764909,
-          "intro": "沈家来了位只有三岁的小祖宗，辈分贼大的那种。\n但她脑子好像有点问题，谁家还带着奶瓶的小娃娃把算命挂在嘴边的啊。\n但后来大家发现，脑子有问题的是他们。\n圈子里的人都在看沈家笑话，毕竟那几个心高气傲的小子"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "rank_change": -1
-        },
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "rank_change": -1
-        },
-        {
-          "title": "六年后，我携四个幼崽炸翻前夫家",
-          "book_id": 1658048,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：霸总文依然是流量高地，重逢破镜重圆、带球跑与先婚后爱仍是核心驱动力，短剧化改编作品在榜单中占据重要引流地位。\n**读者偏好**：读者热衷于具有强反转、强情绪冲突的开篇，如“离婚打脸”、“虐渣报复”等高爽点设定最能迅速拉升热度。\n**变动解读**：新上榜的《八年冷淡你提离婚，我签字你疯什么》凭借极致的“追妻火葬场”冲突迅速上位，其余作品呈现轻微的热度轮动。\n**值得关注**：具备“短剧原著”标签的作品在转化率上表现优异，建议重点关注情感拉扯强烈且自带“打脸”属性的内容产出。",
-      "ai_source": "ai"
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -95,18 +68,18 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "125.56万字",
-        "word_count": 1255600,
+        "word_count_text": "125.99万字",
+        "word_count": 1259900,
         "heat": 11266000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "怀孕25周，容姝在产检时撞见丈夫出轨。\n她身形肥胖，样貌粗俗，艰难地捧着肚子，被丈夫年轻漂亮的情人称呼为阿姨，当众被丈夫厌弃。\n可她和盛廷琛的第一次见面，也是风光无限受人追捧的存在。\n认定她爬床上位的盛廷琛，主动跟她提出了离婚。\n这一刻。\n她彻底心死，从校园到职场的八年的暗恋和付出，一切都不值得。\n生下孩子，签下离婚协议转身离开。\n-\n五年后。\n她已是惊艳绝绝身价过亿的事业型女强人，她美艳张扬，才华横溢，追求者众多。\n主动提出离婚的男人却一直没有和她领离婚证。\n容姝提起诉讼。\n曾经厌弃她的男人却时不时缠在她身边，面对追求她的人，他一一报复。\n直到容姝挽着另外男人的手高调宣布订婚。\n盛廷琛将女人抵在墙角，失控道：“容姝，想和别的男人结婚，想都别想。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
-        "latest_chapter": " 第651章  预产期",
-        "updated_at": "2026-09-24 20:57:07",
+        "latest_chapter": " 第653章  臭脾气还真是改不了一点",
+        "updated_at": "2026-09-25 22:57:08",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 4,
         "stale_update": false,
         "category": "总裁豪门"
@@ -133,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -162,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -191,7 +164,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -220,7 +193,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
         "latest_chapter": " 第398章  ——津晚大结局（下）",
         "updated_at": "2026-04-22 18:18:05",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -249,7 +222,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -278,7 +251,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/550/1649331_360x480.jpg?time=1717642444",
         "latest_chapter": " 第267章  全文终",
         "updated_at": "2024-09-30 15:24:03",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

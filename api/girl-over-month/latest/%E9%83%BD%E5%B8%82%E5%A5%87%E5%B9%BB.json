@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
@@ -20,16 +20,10 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：民俗悬疑与奇门遁甲题材在都市背景下仍具长尾效应，但市场趋于饱和。\n**读者偏好**：读者倾向于“宿命感+职业传承”的设定，即带有民间怪谈色彩的特殊职业文。\n**变动解读**：头部作品热度趋稳，未见新入局者，反映出该细分赛道近期缺乏强有力的内容供给。\n**值得关注**：需观察榜首作品在长周期内的热度抗压能力，判断该类题材是否进入存量竞争阶段。",
-      "ai_source": "ai"
+      "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -54,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

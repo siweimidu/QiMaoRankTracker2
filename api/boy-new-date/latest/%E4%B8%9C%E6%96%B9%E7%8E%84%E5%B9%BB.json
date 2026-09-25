@@ -8,28 +8,22 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 59000,
+    "total_heat": 55000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "九帝塔",
-          "book_id": 11901855,
-          "intro": "【大神小号】【传统玄幻】【剑道天才】【九大女帝】\n【微小群像】\n大乾王朝少年将军，叶玄，身怀五大至宝，遭莫须有，女帝挖宝，帝子夺脉，一夜之间，天才沦为废人。\n家族无义，享叶玄机缘，得叶玄恩惠，见其失势"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207,
-          "rank_change": 2
+          "title": "葬仙塔，葬天，葬地，葬众仙",
+          "book_id": 12679578,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -37,15 +31,10 @@
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
-          "heat_change": -2000
-        },
-        {
-          "title": "葬仙塔，葬天，葬地，葬众仙",
-          "book_id": 12679578,
-          "heat_change": -1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：从传统套路向“武道面板+种田流”与“反套路重生+爽文”分化，强调主角的快速成长与极致压迫感。\n**读者偏好**：读者更倾向于具备“系统/面板”加持的稳健升级流，以及面对婚恋、家族压迫时展现的暴力美学与绝对统治力。\n**变动解读**：《长生猎户》凭借武道升级体系上升势头强劲，而《九帝塔》的掉榜说明读者对传统群像式玄幻的审美疲劳。\n**值得关注**：具备明确成长目标（如武道点）和强社交/情感冲突（如反杀恶妻）的作品，在当前的玄幻榜单中更具竞争力。",
+      "summary": "**题材趋势**：传统的“武道面板流”与“反套路重生流”双轮驱动，强调从底层崛起及极致的打脸爽感。\n**值得关注**：读者对“系统/面板”类成长体系认可度极高，同时伴随“反舔狗/强硬人设”的需求增长。\n**变动解读**：存量作品竞争中，拥有强力升级反馈机制的作品表现更稳，热度波动反映了题材内对新鲜感的渴求。\n**值得关注**：在妖魔乱世背景下，如何将升级体系与独特的埋葬/收集机制结合，是提升用户留存的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -62,24 +51,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.76万字",
-        "word_count": 437600,
-        "heat": 37000,
+        "word_count_text": "44.37万字",
+        "word_count": 443700,
+        "heat": 33000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第213章  以一敌三，战神临尘！",
-        "updated_at": "2026-09-24 23:50:07",
-        "rank_change": 2,
-        "heat_change": -2000,
+        "latest_chapter": " 第216章  合击之术？强势轰杀！",
+        "updated_at": "2026-09-26 00:32:05",
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "title": "葬仙塔，葬天，葬地，葬众仙",
         "book_id": 12679578,
         "url": "https://www.qimao.com/shuku/12679578/",
@@ -91,17 +80,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.95万字",
-        "word_count": 479500,
+        "word_count_text": "48.54万字",
+        "word_count": 485400,
         "heat": 22000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔。\n葬仙塔，每开启一层可获得一种仙级体质，每一层还有不同颜色的葬仙土，葬人可生出仙傀，埋药可结出仙丹……\n从此，秦长夜在埋葬的路上越走越远。\n葬人！葬药！葬诸天仙佛！葬万古大道！\n“生死看淡，不服就葬。”\n“本座是个讲究人，管杀又管葬。”\n“阁下虽然很强，但还没有资格让本座葬在第四层。”\n—史上最强葬帝，秦长夜。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12679578_360x480.jpg?time=1783065316",
-        "latest_chapter": " 第224章  全员舔狗，女皇也是舔狗！",
-        "updated_at": "2026-09-24 20:02:06",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第227章  我能打一百个！",
+        "updated_at": "2026-09-25 20:02:05",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

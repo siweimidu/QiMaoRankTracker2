@@ -8,32 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
     "total_heat": 663000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "妖孽下山，医武双绝镇压全世界",
-          "book_id": 12873456
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "权财生香",
-          "book_id": 12286323,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市异能与世俗权力结合，呈现“觉醒传承+红颜知己+碾压式报仇”的标准化商业爽文格局。\n**读者偏好**：读者热衷于平凡身份觉醒后的“身份反转”，尤其是通过医武双绝横扫都市、坐拥各路绝色美女的幻想满足感。\n**变动解读**：新书《妖孽下山》入榜即稳固地位，《权财生香》排名大幅跃升，说明都市爽文市场对“医武双绝”与“权财结合”题材的强需求。\n**值得关注**：高武类作品正向“都市+极致装逼”靠拢，建议关注此类作品在都市背景下如何处理战力膨胀与世俗关系。",
+      "summary": "**题材趋势**：融合都市异能与情感互动，强调“龙傲天”式的无敌流配置，通过多位女性角色的互动提升爽感的广度。\n**读者偏好**：读者倾向于“入世修行”的叙事，即主角拥有超凡背景或能力，在都市环境下实现财富与权力的双重碾压，满足社会化成功幻想。\n**变动解读**：榜单流动性停滞，现有书籍在题材覆盖上已触及主流读者审美，短期内该细分赛道竞争格局趋于平稳。\n**值得关注**：建议关注“都市+特殊传承/身份”的结合深度，通过强化身份压制力与爽点逻辑的自洽性来巩固热度。",
       "ai_source": "ai"
     },
     "books": [
@@ -50,16 +39,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.5万字",
-        "word_count": 505000,
+        "word_count_text": "51万字",
+        "word_count": 510000,
         "heat": 445000,
         "platform_trend": "rise",
         "badge": "飙升18名",
         "intro": "开锁工卫渊意外和绝顶美女总裁春风一渡后觉醒谛听传承，听音辨物，识破人心，接连邂逅娇俏古董老板娘、绝色中医、豪门千金等各路美女，于卑微之中步步向上，终掌滔天财富、世间大权，坐拥天下繁花！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4096/12286323_360x480.jpg?time=1780553029",
-        "latest_chapter": " 第197章  赵家出手，冻结！",
-        "updated_at": "2026-09-24 23:52:06",
-        "rank_change": 3,
+        "latest_chapter": " 第198章  入驻基地",
+        "updated_at": "2026-09-26 00:46:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -79,18 +68,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.36万字",
-        "word_count": 433600,
+        "word_count_text": "44.22万字",
+        "word_count": 442200,
         "heat": 218000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“师父，我要是走了，以后谁伺候你们？”\n三位绝色师尊：“你还是留着精力，以后伺候你的老婆们和三位师姐吧！”\n秦锋实力已至巅峰，但仍旧身负血海深仇！\n为报仇，他以众神殿殿主的无敌实力碾压对手！\n天海乱，帝都震动，天下皆惊！\n他以无敌姿态向世界宣告：我来了！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4292/12873456_360x480.jpg?time=1784706958",
-        "latest_chapter": " 第201章  把姿态摆到最低！",
-        "updated_at": "2026-09-24 23:12:06",
+        "latest_chapter": " 第205章  乖乖认怂？【第四更！】",
+        "updated_at": "2026-09-25 23:49:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

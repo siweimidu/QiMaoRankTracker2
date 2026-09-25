@@ -8,43 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 3,
-    "total_heat": 71000,
+    "total_heat": 72000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "重生57：开局傻子，白捡个漂亮媳妇",
-          "book_id": 13118376
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
-        {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "rank_change": 1
-        },
         {
           "title": "重生70：一枪一个，狩猎人生",
           "book_id": 13113909,
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "heat_change": -2000
+          "title": "重生57：开局傻子，白捡个漂亮媳妇",
+          "book_id": 13118376,
+          "rank_change": -1
         }
       ],
-      "summary": "**题材趋势**：年代文稳居主流，聚焦“重生+搞钱+家庭关系”的复合型叙事，年代跨度集中在50-70年代。\n**读者偏好**：读者热衷于“开局被动（傻子/赘婿）+金手指（空间/系统/武力）+强爽反击”的套路，尤为偏好涉及寡妇、红颜等情感纠葛的强冲突情节。\n**变动解读**：榜单稳定性极高，《重生57》新上榜填补了年代细分缺口，显示出该题材在七猫平台的强续航力。\n**值得关注**：高热度作品均通过“极品亲戚+物资匮乏+逆袭打脸”构建核心爽点，此类“生存挑战+红颜羁绊”的设定是目前吸量关键。",
+      "heat_leaders": [
+        {
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：年代文稳居主流，核心卖点高度集中在“空间/金手指+物资囤积+硬核求生”的爽感构建。\n**读者偏好**：读者热衷于底层逆袭与生活改善类爽文，尤其偏爱带有强烈荷尔蒙色彩的“猎艳/多女主”与“暴力破局”情节。\n**变动解读**：榜单结构趋于稳定，头部作品竞争激烈，排名微调主要取决于剧情的冲突密度与爽点释放效率。\n**值得关注**：题材内卷严重，后续作品需在“年代背景”基础上通过更具差异化的技能点（如赶山、狩猎）增加辨识度。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +57,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.52万字",
-        "word_count": 445200,
+        "word_count_text": "45.36万字",
+        "word_count": 453600,
         "heat": 26000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第208章  圆圆飞龙骑脸？芳芳观音坐莲！",
-        "updated_at": "2026-09-24 23:08:03",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "latest_chapter": " 第212章   外商大舅哥于勒，资本家走狗！",
+        "updated_at": "2026-09-25 23:36:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "重生70：一枪一个，狩猎人生",
         "book_id": 13113909,
         "url": "https://www.qimao.com/shuku/13113909/",
@@ -90,24 +86,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.28万字",
-        "word_count": 282800,
-        "heat": 23000,
+        "word_count_text": "28.72万字",
+        "word_count": 287200,
+        "heat": 24000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1971的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
-        "latest_chapter": " 第114章  晚上来我家做饭",
-        "updated_at": "2026-09-24 21:14:03",
+        "latest_chapter": " 第116章  这熊是我打的",
+        "updated_at": "2026-09-26 02:01:04",
         "rank_change": 1,
-        "heat_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "重生57：开局傻子，白捡个漂亮媳妇",
         "book_id": 13118376,
         "url": "https://www.qimao.com/shuku/13118376/",
@@ -119,18 +115,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.63万字",
-        "word_count": 266300,
+        "word_count_text": "27.46万字",
+        "word_count": 274600,
         "heat": 22000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第128章  残酷的历史",
-        "updated_at": "2026-09-24 19:46:03",
-        "rank_change": 0,
+        "latest_chapter": " 第132章  险杀猛虎",
+        "updated_at": "2026-09-26 01:46:02",
+        "rank_change": -1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
