@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-27",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 168200,
+    "total_heat": 3364000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "rank_change": 3
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": 2
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": -2
+          },
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": -19000
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": 19000
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "heat_change": -14000
+          }
+        ],
+        "summary": "「总裁豪门」《他的瘾》上升3位领涨；《惯坏她》下滑2位；《八年冷淡你提离婚，我签字你疯什么》热度-19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "一枕春深",
+            "book_id": 11512461,
+            "intro": "沈姝为了活命去做了留种娘子，给一位病重的神秘贵人留下血脉。数年后，她带着软萌萌的小女儿重返京城，入了凛王府做奶娘。只是这凛王看她的眼神越来越不对劲，吻她的腰，进她的房，最后还逼她承认宝儿是他的女儿……"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": -1
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -49000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -34000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -26000
+          }
+        ],
+        "summary": "「宫闱宅斗」《一枕春深》 掉出榜单；《凤池生春》下滑1位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度-49000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -9000
+          },
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》上升1位领涨；《第一瞳术师》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": -14000
+          }
+        ],
+        "summary": "**题材趋势**：年代文赛道头部效应显著，存量市场竞争进入深度洗牌期，单一爆款支撑特征明显。\n**读者偏好**：读者热衷于“物资+养成+兵王”的强爽设定，偏好女主通过现代医学/技能优势实现阶级跨越的爽文逻辑。\n**变动解读**：榜单整体处于横盘震荡期，该书热度下滑1.4万，显示出完结后期流量自然衰退的客观规律。\n**值得关注**：需警惕长尾效应减弱带来的榜单空置风险，建议关注后续是否有具备新奇特设定的作品填补空缺。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：古言赛道延续“追妻火葬场”的高频爽点，真假千金与身份逆转仍是拉动读者情绪的核心驱动力。\n**读者偏好**：读者高度聚焦于女主受虐后的反差崛起，期待“断绝关系+打脸报复”带来的极致情感宣泄。\n**变动解读**：新书入榜即获7.6万热度，证明“全员跪求原谅”的强冲突开头在完结日榜中具备极强的吸睛属性。\n**值得关注**：该题材具备高粘性，后续剧情若能保持“爽感递进”，有望在榜单中获得持续的流量增长。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": -10000
+          }
+        ],
+        "summary": "**题材趋势**：奇幻赛道受众相对垂直，民俗怪谈类题材在完结榜单中表现出一定的抗压性，但头部流量波动较大。\n**读者偏好**：读者倾向于带有宿命感、诡异民俗与成长逆袭相结合的故事，偏好“特殊身份+当铺经营”的叙事框架。\n**变动解读**：排名下滑3位且热度缩减1万，反映出该类题材在完结阶段的粉丝留存面临挑战，后续转化动力不足。\n**值得关注**：需监测该题材在榜单的持续表现，观察是否因新鲜感流失导致热度进一步下探。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

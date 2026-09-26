@@ -8,56 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-19",
+  "date": "2026-09-27",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 24000,
+    "total_heat": 31000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "说我废物？反手一元秒杀S级天赋",
-          "book_id": 12150567,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "**题材趋势**：系统流与极速爽文结构依然是都市高武赛道的标配，强调节奏明快与情绪价值的快速释放。\n**读者偏好**：读者热衷于“废柴逆袭+打脸反转+超强金手指”的经典爽点组合，对强冲突剧情有极高粘性。\n**变动解读**：榜单表现平稳，头部作品《说我废物？反手一元秒杀S级天赋》热度小幅上扬，显示该赛道读者对同类爽文仍有持续买单意愿。\n**值得关注**：该类型作品高度依赖系统设定的创新性，建议关注后续是否有具备差异化“秒杀”机制的新品入局。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：强冲突、强爽感叙事依旧是都市高武的核心引擎，尤其是带有“监狱/禁地”背景的开篇，能迅速建立主角的无敌形象。\n**读者偏好**：读者倾向于阅读具有极高反差感和虐主反转的设定，如“受困于群芳”与“出狱即无敌”的极致对比。\n**变动解读**：新书《女子监狱五年，出狱即无敌》以31000热度迅速占据榜位，显示了此类传统爽文套路在七猫渠道仍具备极强的用户号召力。\n**值得关注**：该类目后续需观察此类“强人设+复仇”风格作品的留存情况，以及是否存在更多元化的升级流变体。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
-        "title": "说我废物？反手一元秒杀S级天赋",
-        "book_id": 12150567,
-        "url": "https://www.qimao.com/shuku/12150567/",
-        "author": "鱼尚冰",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E5%B0%9A%E5%86%B0_14/",
+        "rank": 9,
+        "title": "女子监狱五年，出狱即无敌",
+        "book_id": 12791886,
+        "url": "https://www.qimao.com/shuku/12791886/",
+        "author": "提笔忘情",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
         "major": "都市",
         "minor": "都市高武",
         "major_id": 203,
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.79万字",
-        "word_count": 497900,
-        "heat": 24000,
+        "word_count_text": "41.67万字",
+        "word_count": 416700,
+        "heat": 31000,
         "platform_trend": "rise",
-        "badge": "",
-        "intro": "【都市高武】+【天才】+【全程暴爽】+【一元秒杀系统】\nB级天才叶辰，在武道高考前夜惨遭黑手，修为尽废，沦为全校笑柄。\n订婚的女友当众背叛，投入死对头怀抱，并与之一同前来，对他极尽羞辱！\n“你已经是个废人了，别占着茅坑不拉屎！”\n“你反正都废了，不如把名额让给杜少！”\n“不过是一个没有背景的孤儿罢了，你就是死了都没人在意！”\n……\n绝望之际，激活一元秒杀系统！\n一块钱，可秒杀世间万物！\n【叮！一元秒杀‘神兽麒麟血脉’成功！】\n【叮！一元秒杀‘神级功法吞天魔功’成功！】\n昨日你将我打成废物，今天我让你跪地求饶！\n当武道高考测试现场，昔日的天才归来，面对前女友和死敌的百般嘲讽，叶辰只是将手轻轻放在了测试仪上……\n当那代表着超越A级，震撼全场的S级天赋光芒亮起时，整个世界都为他颤抖！\n从这一天起，叶辰脚踩一切天骄，开启了一段秒杀成神的无敌之路！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4051/12150567_360x480.jpg?time=1782827361",
-        "latest_chapter": " 第235章  空手套白狼？我也会啊！",
-        "updated_at": "2026-09-18 22:52:04",
+        "badge": "飙升12名",
+        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+        "latest_chapter": " 第179章  各方震怒",
+        "updated_at": "2026-09-26 20:22:05",
         "rank_change": 0,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 2,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

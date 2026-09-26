@@ -8,44 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 3,
-    "total_heat": 72000,
+    "count": 2,
+    "total_heat": 44000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重生70：一枪一个，狩猎人生",
-          "book_id": 13113909,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "重生57：开局傻子，白捡个漂亮媳妇",
           "book_id": 13118376,
-          "rank_change": -1
+          "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493,
+          "rank_change": -3
+        },
+        {
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909,
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493,
+          "heat_change": -3000
+        },
+        {
           "title": "重生70：一枪一个，狩猎人生",
           "book_id": 13113909,
-          "heat_change": 1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：年代文稳居主流，核心卖点高度集中在“空间/金手指+物资囤积+硬核求生”的爽感构建。\n**读者偏好**：读者热衷于底层逆袭与生活改善类爽文，尤其偏爱带有强烈荷尔蒙色彩的“猎艳/多女主”与“暴力破局”情节。\n**变动解读**：榜单结构趋于稳定，头部作品竞争激烈，排名微调主要取决于剧情的冲突密度与爽点释放效率。\n**值得关注**：题材内卷严重，后续作品需在“年代背景”基础上通过更具差异化的技能点（如赶山、狩猎）增加辨识度。",
+      "summary": "**题材趋势**：年代文持续占据主流，核心卖点高度集中于“重生+特殊身份+强刺激性人际关系”。\n**读者偏好**：受众偏好带有强烈冲突感的开局，如“寡妇堵门”、“拉帮套”等软饭硬吃或极限求生设定。\n**变动解读**：本期在榜作品整体热度下滑，缺乏新鲜血液注入，显示该细分品类目前进入存量博弈阶段，读者审美存在一定疲劳。\n**值得关注**：需警惕同质化严重导致的市场吸引力下降，创作者应尝试在“年代+”的公式中挖掘更具差异化的叙事钩子。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 15,
         "title": "重生七零资本家大少爷，开局被寡妇堵门",
         "book_id": 12779493,
         "url": "https://www.qimao.com/shuku/12779493/",
@@ -57,24 +67,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.36万字",
-        "word_count": 453600,
-        "heat": 26000,
+        "word_count_text": "45.79万字",
+        "word_count": 457900,
+        "heat": 23000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第212章   外商大舅哥于勒，资本家走狗！",
-        "updated_at": "2026-09-25 23:36:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第214章  调查陈建明的私生活？不正当关系？",
+        "updated_at": "2026-09-26 23:53:03",
+        "rank_change": -3,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 15,
+        "rank": 18,
         "title": "重生70：一枪一个，狩猎人生",
         "book_id": 13113909,
         "url": "https://www.qimao.com/shuku/13113909/",
@@ -86,46 +96,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.72万字",
-        "word_count": 287200,
-        "heat": 24000,
-        "platform_trend": "rise",
+        "word_count_text": "28.9万字",
+        "word_count": 289000,
+        "heat": 21000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1971的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
-        "latest_chapter": " 第116章  这熊是我打的",
-        "updated_at": "2026-09-26 02:01:04",
-        "rank_change": 1,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "乡村生活"
-      },
-      {
-        "rank": 18,
-        "title": "重生57：开局傻子，白捡个漂亮媳妇",
-        "book_id": 13118376,
-        "url": "https://www.qimao.com/shuku/13118376/",
-        "author": "天下龟一",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "27.46万字",
-        "word_count": 274600,
-        "heat": 22000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第132章  险杀猛虎",
-        "updated_at": "2026-09-26 01:46:02",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第117章  想蹭多少就蹭多少",
+        "updated_at": "2026-09-26 19:42:02",
+        "rank_change": -3,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -3
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：奇门秘术类目目前处于冷启动或存量调整期，题材核心聚焦于“民俗恐怖”与“诡异末世”风格。\n**读者偏好**：读者对带有强烈的地域民俗氛围、生存压迫感以及主角“反向压制”诡异设定的剧情有一定关注度。\n**变动解读**：本类目近期热度波动下滑，显示该题材在当前榜单竞争中处于弱势，缺乏新爆点支撑流量。\n**值得关注**：需重点观察是否有具备“反套路”或强悬疑感的作品入场，以打破当前热度低迷的僵局。",
+      "summary": "**题材趋势**：奇门秘术类题材具备较强的口碑发酵潜力，属于小众但韧性较强的细分赛道。\n**变动解读**：《天黑请点灯》在缺乏外部竞争的情况下实现名次跃升，热度正向增长，显示出读者对悬疑诡异类题材的持续关注。\n**读者偏好**：读者偏好“诡异氛围+反差人设”的叙事风格，对带有生存博弈色彩的恐怖悬疑题材表现出较高的探索欲。\n**值得关注**：该类作品的“世界观代入感”是核心竞争力，后续需观察其是否能通过悬念铺陈进一步扩大读者群体。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 9,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -47,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "480.9万字",
         "word_count": 4809000,
-        "heat": 0,
-        "platform_trend": "",
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
         "latest_chapter": " 第1758章  魏有明的胸牌，白眼狼现身",
         "updated_at": "2026-09-26 06:57:11",
-        "rank_change": 0,
-        "heat_change": -3,
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 16,
+    "total_heat": 1,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "边关第一猎户",
-          "book_id": 10149744
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「穿越历史」新上榜 《边关第一猎户》。",
-      "ai_source": "rule"
+      "top_fallers": [
+        {
+          "title": "边关第一猎户",
+          "book_id": 10149744,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "边关第一猎户",
+          "book_id": 10149744,
+          "heat_change": -15
+        }
+      ],
+      "summary": "**题材趋势**：传统历史架空题材在当前榜单表现疲软，整体呈现低位运行态势。\n**读者偏好**：读者对“小人物开局+边疆种田+对抗朝廷”的强爽文逻辑仍有一定共鸣，但对同质化情节的审美疲劳加剧。\n**变动解读**：本期仅存的一本《边关第一猎户》热度大幅下滑，缺乏新鲜血液注入，导致该题材在七猫男生榜的竞争力显著下降。\n**值得关注**：建议关注后续是否有具备“战争+权谋+系统/金手指”差异化元素的创新作品进入榜单，以激活该类目热度。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "边关第一猎户",
         "book_id": 10149744,
         "url": "https://www.qimao.com/shuku/10149744/",
@@ -44,18 +51,18 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "134.87万字",
-        "word_count": 1348700,
-        "heat": 16,
-        "platform_trend": "rise",
+        "word_count_text": "135.69万字",
+        "word_count": 1356900,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。\n“我想要的可不是嘉奖！”\n“传我命令，即日进关！”\n“这腐朽的王朝也是时候换换天地了！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3384/10149744_360x480.jpg?time=1781328040",
-        "latest_chapter": " 第589章  你们可要想好了",
-        "updated_at": "2026-09-25 10:07:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第593章  第四位镇北王妃",
+        "updated_at": "2026-09-26 12:41:06",
+        "rank_change": -1,
+        "heat_change": -15,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "穿越历史"

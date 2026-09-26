@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
-          "heat_change": -2
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：系统文叠加“复仇+隐世”设定，呈现典型的都市异能爽文架构。\n**读者偏好**：读者倾向于“绝境重生+扮猪吃虎”的强情绪价值叙事，关注主角从谷底反弹的爽感体验。\n**变动解读**：该类目同样面临流量真空，热度持续下滑，反映出当前都市高武赛道在日榜竞争中缺乏头部内容拉动。\n**值得关注**：建议关注作品后续在“保安流”背景下的剧情展开，看其能否通过强冲突情节挽回读者留存。",
+      "summary": "**题材趋势**：都市高武类题材近期表现低迷，市场关注度出现明显回落。\n**变动解读**：唯一在榜作品《神武天下之睚眦》排名下滑且热度波动较大，显示出用户留存能力不足，缺乏长尾增长动力。\n**读者偏好**：读者依然对传统的“悲情开局+系统逆袭”模式有一定粘性，但在内容同质化背景下，阅读耐心显著降低。\n**值得关注**：该题材正面临流量瓶颈，作品需在“系统流”基础上强化爽点节奏或加入更具辨识度的都市元素以挽回热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 10,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -45,17 +51,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "435.98万字",
-        "word_count": 4359800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "436.46万字",
+        "word_count": 4364600,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1030章  世界之巅 网",
-        "updated_at": "2026-09-25 09:02:15",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第1031章  世界之巅 覆盖式绞杀",
+        "updated_at": "2026-09-26 09:02:14",
+        "rank_change": -2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

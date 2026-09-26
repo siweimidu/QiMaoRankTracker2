@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 25000,
+    "total_heat": 24000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：都市重生与怀旧校园情感流结合，主打“养成系”与“多女主”互动，符合主流网文轻快阅读趋势。\n**读者偏好**：读者偏好重回过去的时代红利期，通过“忽悠”与“征服”不同类型的未来女神来获取爽感。\n**变动解读**：当前榜单处于横盘期，该书排名与热度维持稳定，说明其在既定受众群内已建立稳固的基本盘。\n**值得关注**：该书处于热度平稳增长阶段，需警惕题材同质化带来的审美疲劳，建议关注其后续如何通过互动升级来拉动热度突破。",
+      "heat_leaders": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：重生怀旧流在校园题材中占据主流，通过聚焦2010年左右的时间节点，利用集体记忆与“养成系”女主经营建立情感链接。\n**读者偏好**：读者热衷于“重回过去改变人生”的爽感，偏好轻松愉悦、带有一定“忽悠/攻略”色彩的都市生活节奏。\n**变动解读**：《趁校花一贫如洗，忽悠她以身相许》排名小幅上升，尽管热度波动微降，但其在榜单中的韧性证明了“多女主养成”模式的稳定受众。\n**值得关注**：建议持续关注该书在校园题材中如何通过差异化的“创业+恋爱”组合拳，进一步拉升热度表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -39,17 +51,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.35万字",
-        "word_count": 263500,
-        "heat": 25000,
-        "platform_trend": "",
+        "word_count_text": "26.93万字",
+        "word_count": 269300,
+        "heat": 24000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第117章  那男的谁啊，一个人带俩？",
-        "updated_at": "2026-09-25 08:12:11",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第119章  你到底对夏薇做了什么，让她这么喜欢你！？",
+        "updated_at": "2026-09-26 08:12:11",
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

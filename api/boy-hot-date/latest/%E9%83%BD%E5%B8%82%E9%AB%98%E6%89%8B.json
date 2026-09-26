@@ -8,43 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 4,
-    "total_heat": 1396000,
+    "count": 3,
+    "total_heat": 1075000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
+        {
+          "title": "SSS级狂龙出狱，全球拉响警报！",
+          "book_id": 11671158,
+          "intro": "十五年前被抱错的真少爷林炎在乡下受尽苦楚。\n十五岁被亲生父母接回家，林炎满心欢喜的以为等来了亲情，却沦为假少爷林澈的替罪羊，被狠心送入外国监狱。\n谁知监狱里竟然隐藏着100位隐世大能！\n五年间，他尽得"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "rank_change": 1
+          "rank_change": -3
+        },
+        {
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "警报！真龙出狱！",
           "book_id": 1834789,
-          "heat_change": 23000
-        },
-        {
-          "title": "SSS级狂龙出狱，全球拉响警报！",
-          "book_id": 11671158,
-          "heat_change": 9000
+          "heat_change": -66000
         },
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "heat_change": 7000
+          "heat_change": -28000
+        },
+        {
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "heat_change": -16000
         }
       ],
-      "summary": "**题材趋势** 核心逻辑以“监狱/出狱+医武双绝”为主导，融合了“顶罪替身”、“反套路”及“真假少爷”等强冲突元素，短剧改编效应明显。\n**读者偏好** 读者对“王者归来”式的快节奏复仇爽文青睐有加，同时对反套路类型的“反派苟道”题材展现出极高的接受度。\n**变动解读** 《警报！真龙出狱！》热度大幅领跑，显示出短剧IP赋能对都市类作品的强力拉动作用；《舔狗反派只想苟》热度稳步攀升，反映了市场对创新叙事的需求。\n**值得关注** 具备短剧属性的头部作品热度持续上扬，都市高手类题材的“视听转化”能力已成为衡量作品上限的关键指标。",
+      "summary": "**题材趋势**：强冲突、快节奏的都市爽文为主流，“出狱归来+医术/战神”依然是该品类的流量压舱石。\n**读者偏好**：倾向于强烈的身份反差与即时反馈，短剧联动作品往往能迅速占据榜单头部，流量转化效率极高。\n**变动解读**：榜单波动剧烈，尾部作品掉榜及大幅下滑，显示出都市题材竞争白热化，读者对内容新鲜度要求极高。\n**值得关注**：短剧原著类作品《警报！真龙出狱！》的统治力进一步增强，侧面验证了“网文+短剧”联动模式的行业天花板。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +72,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "377.47万字",
-        "word_count": 3774700,
-        "heat": 646000,
-        "platform_trend": "rise",
+        "word_count_text": "377.88万字",
+        "word_count": 3778800,
+        "heat": 580000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1838章  生辰宴开始",
-        "updated_at": "2026-09-25 20:37:13",
+        "latest_chapter": " 第1840章  回礼",
+        "updated_at": "2026-09-26 21:47:15",
         "rank_change": 0,
-        "heat_change": 23000,
+        "heat_change": -66000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "傲世潜龙",
         "book_id": 207105,
         "url": "https://www.qimao.com/shuku/207105/",
@@ -90,24 +101,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "826.93万字",
-        "word_count": 8269300,
-        "heat": 272000,
+        "word_count_text": "827.14万字",
+        "word_count": 8271400,
+        "heat": 256000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4057章  认识我吧",
-        "updated_at": "2026-09-25 17:27:28",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "latest_chapter": " 第4058章  反攻信号",
+        "updated_at": "2026-09-26 22:11:29",
+        "rank_change": -1,
+        "heat_change": -16000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 14,
+        "rank": 17,
         "title": "舔狗反派只想苟，女主不按套路走！",
         "book_id": 1710753,
         "url": "https://www.qimao.com/shuku/1710753/",
@@ -119,48 +130,19 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "634.93万字",
-        "word_count": 6349300,
-        "heat": 267000,
-        "platform_trend": "rise",
+        "word_count_text": "635.35万字",
+        "word_count": 6353500,
+        "heat": 239000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2675章  丑奴儿引发的风波",
-        "updated_at": "2026-09-25 20:27:19",
-        "rank_change": 1,
-        "heat_change": 7000,
+        "latest_chapter": " 第2677章  妖娆绝代凤四姐",
+        "updated_at": "2026-09-26 20:21:19",
+        "rank_change": -3,
+        "heat_change": -28000,
         "is_new": false,
         "boards_count": 3,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 20,
-        "title": "SSS级狂龙出狱，全球拉响警报！",
-        "book_id": 11671158,
-        "url": "https://www.qimao.com/shuku/11671158/",
-        "author": "我必须火",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E5%BF%85%E9%A1%BB%E7%81%AB_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "94.21万字",
-        "word_count": 942100,
-        "heat": 211000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "十五年前被抱错的真少爷林炎在乡下受尽苦楚。\n十五岁被亲生父母接回家，林炎满心欢喜的以为等来了亲情，却沦为假少爷林澈的替罪羊，被狠心送入外国监狱。\n谁知监狱里竟然隐藏着100位隐世大能！\n五年间，他尽得真传，医武双绝！狂龙出狱之日，更有武道通天，气质清冷绝尘的美女师尊与他立下武帝之约！\n归家后，偏心父母不仅毫无愧疚，竟还逼他入赘寡妇家，好给假少爷换取投资铺路。\n林炎当场撕碎婚书，冷笑连连。\n假少爷暗算？一根金针让你生死不如！\n顶级权贵蔑视？一眼看破绝症，起死回生让他当场跪拜！\n待林炎屹立世界之巅，林家全家跪在暴雨中痛哭流涕求他回家，林炎只送了他们一个字：“滚！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3891/11671158_360x480.jpg?time=1781955253",
-        "latest_chapter": " 第332章  孙女冯一曼",
-        "updated_at": "2026-09-25 23:31:05",
-        "rank_change": 0,
-        "heat_change": 9000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       }

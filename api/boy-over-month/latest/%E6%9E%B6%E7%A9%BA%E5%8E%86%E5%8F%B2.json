@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：种田经营与“老六”式权谋争霸是核心卖点，强调低开高走的爽感。\n**读者偏好**：偏好“基建+多妻”的复合爽点，读者热衷于主角在乱世中通过资源开发实现阶级跨越。\n**变动解读**：本期榜单固化明显，上榜书籍均为长线运营的成熟IP，头部效应强，缺乏新晋黑马冲击。\n**值得关注**：多部作品已完成有声剧、短剧等全版权开发，IP衍生能力已成为该类目书籍长青的关键指标。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -52,7 +52,7 @@
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
+        "stale_update": true,
         "category": "架空历史"
       },
       {
