@@ -8,33 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 1,
-    "total_heat": 34000,
+    "count": 2,
+    "total_heat": 56000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "葬仙塔，葬天，葬地，葬众仙",
-          "book_id": 12679578,
-          "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔"
+          "book_id": 12679578
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
-          "heat_change": 1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：传统“长生+武道面板”流派依然稳健，强调从底层起步、通过杀伐获取成长的积攒式爽感。\n**读者偏好**：读者倾向于硬核的成长反馈，即通过斩杀恶匪妖魔带来的数值提升，满足对“武道登顶”的期待。\n**变动解读**：榜单变动显示出优胜劣汰，传统套路作品依然有极高的市场存活率，但也面临着新题材冲击的流动压力。\n**值得关注**：该类目下“系统+武学”的组合已近饱和，后续作品若想突围，需在世界观的构建或武学体系的独创性上寻求突破。",
+      "summary": "**题材趋势**：传统“武道面板+斩妖”流与“重生复仇+爽感外挂”流并进，叙事节奏趋向极致的快节奏爽文。\n**读者偏好**：读者对系统加点带来的数值成长反馈，以及“打脸式”反派惩戒剧情具有高度阅读黏性。\n**变动解读**：榜单结构稳定，新书《葬仙塔》通过强冲突的“赘婿/反向舔狗”开局迅速切入头部，显示出此类题材对爽感阈值的要求持续走高。\n**值得关注**：如何平衡“武道升级”的枯燥感与“葬仙”体系的快节奏爽感，将是后续书籍提升留存的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,19 +50,48 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.98万字",
-        "word_count": 449800,
-        "heat": 34000,
+        "word_count_text": "45.59万字",
+        "word_count": 455900,
+        "heat": 36000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第219章  战神修罗！幕后之人！",
-        "updated_at": "2026-09-27 00:00:09",
+        "latest_chapter": " 第222章  武举第一！",
+        "updated_at": "2026-09-27 23:56:03",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 20,
+        "title": "葬仙塔，葬天，葬地，葬众仙",
+        "book_id": 12679578,
+        "url": "https://www.qimao.com/shuku/12679578/",
+        "author": "无用一书生",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E7%94%A8%E4%B8%80%E4%B9%A6%E7%94%9F_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "49.61万字",
+        "word_count": 496100,
+        "heat": 20000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔。\n葬仙塔，每开启一层可获得一种仙级体质，每一层还有不同颜色的葬仙土，葬人可生出仙傀，埋药可结出仙丹……\n从此，秦长夜在埋葬的路上越走越远。\n葬人！葬药！葬诸天仙佛！葬万古大道！\n“生死看淡，不服就葬。”\n“本座是个讲究人，管杀又管葬。”\n“阁下虽然很强，但还没有资格让本座葬在第四层。”\n—史上最强葬帝，秦长夜。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12679578_360x480.jpg?time=1783065316",
+        "latest_chapter": " 第232章  原来你才是秦长夜！",
+        "updated_at": "2026-09-27 20:02:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       }

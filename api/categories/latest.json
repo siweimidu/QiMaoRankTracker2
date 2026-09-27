@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "categories": [
     {
       "name": "都市高武",
@@ -52,14 +52,14 @@
       "url": "api/categories/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
     },
     {
-      "name": "热血校园",
-      "major": "都市",
-      "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
-    },
-    {
       "name": "乡村生活",
       "major": "都市",
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "热血校园",
+      "major": "都市",
+      "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
     {
       "name": "衍生同人",
@@ -117,9 +117,9 @@
       "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     },
     {
-      "name": "现实生活",
+      "name": "职场情缘",
       "major": "现代言情",
-      "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB.json"
+      "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
     },
     {
       "name": "远古大陆",

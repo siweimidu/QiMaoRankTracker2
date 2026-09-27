@@ -8,33 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "穿越历史",
     "major": "历史",
-    "count": 1,
+    "count": 2,
     "total_heat": 1,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
-          "title": "边关第一猎户",
-          "book_id": 10149744,
-          "rank_change": -1
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "边关第一猎户",
           "book_id": 10149744,
-          "heat_change": -15
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：传统历史架空题材在当前榜单表现疲软，整体呈现低位运行态势。\n**读者偏好**：读者对“小人物开局+边疆种田+对抗朝廷”的强爽文逻辑仍有一定共鸣，但对同质化情节的审美疲劳加剧。\n**变动解读**：本期仅存的一本《边关第一猎户》热度大幅下滑，缺乏新鲜血液注入，导致该题材在七猫男生榜的竞争力显著下降。\n**值得关注**：建议关注后续是否有具备“战争+权谋+系统/金手指”差异化元素的创新作品进入榜单，以激活该类目热度。",
+      "summary": "**题材趋势**：历史题材正向“架空权谋”与“边关争霸”倾斜，开局即自带军事背景或政治身份的强设定成为主流。\n**读者偏好**：读者更倾向于“祖龙之子”或“边关猎户”这类具有身份反转、能够快速建立军事优势并改写历史走向的爽感模式。\n**变动解读**：榜单新增《我率秦军三百万，为秦续命万万年》，显示出历史穿越类正在从传统的种田流转向更具爆发力的“强军改命”流。\n**值得关注**：新入榜书籍通过“秦朝”这一高知名度背景，结合“清君侧”的强冲突剧情，展示了历史文在短平快叙事上的巨大潜力。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,18 +50,47 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "135.69万字",
-        "word_count": 1356900,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "136.93万字",
+        "word_count": 1369300,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。\n“我想要的可不是嘉奖！”\n“传我命令，即日进关！”\n“这腐朽的王朝也是时候换换天地了！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3384/10149744_360x480.jpg?time=1781328040",
-        "latest_chapter": " 第593章  第四位镇北王妃",
-        "updated_at": "2026-09-26 12:41:06",
-        "rank_change": -1,
-        "heat_change": -15,
+        "latest_chapter": " 第598章  祖铁壁",
+        "updated_at": "2026-09-28 00:01:14",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "穿越历史"
+      },
+      {
+        "rank": 20,
+        "title": "我率秦军三百万，为秦续命万万年",
+        "book_id": 9464730,
+        "url": "https://www.qimao.com/shuku/9464730/",
+        "author": "人生短短急个球",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%BA%E7%94%9F%E7%9F%AD%E7%9F%AD%E6%80%A5%E4%B8%AA%E7%90%83_14/",
+        "major": "历史",
+        "minor": "穿越历史",
+        "major_id": 56,
+        "minor_id": 57,
+        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "202.36万字",
+        "word_count": 2023600,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
+        "latest_chapter": " 第927章  果然是这样",
+        "updated_at": "2026-09-28 00:07:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "穿越历史"

@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 28000,
+    "total_heat": 32000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542
+          "book_id": 12931542,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：现代军事题材正深度融合“系统打脸”与“家庭伦理复仇”，将个人命运与国家荣誉紧密捆绑，提升了读者的代入感。\n**读者偏好**：读者偏好“高考顶替”等具有强烈社会争议性的开篇，辅以系统加持的军旅成长路线，满足压抑后的情绪爆发。\n**变动解读**：《顶替我高考状元？我勇冠海陆空三军！》凭28000热度新上榜，证明了“草根逆袭+军工报国”的叙事模板在当前市场极具竞争力。\n**值得关注**：此类题材后续应关注其如何平衡“爽文节奏”与“军旅专业度”，以维持长线阅读粘性。",
+      "heat_leaders": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "**题材趋势**：军事题材正向“系统化+反转爽文”转型，将家国情怀与个人命运的逆袭深度捆绑。\n**读者偏好**：偏好“被顶替/受委屈—参军逆袭—降维打击”的叙事结构，追求个人尊严与职业成就的双重满足。\n**变动解读**：该作品排名稳步上升，反映出读者对“身份反转+军旅升级”模式的高度认可与持续追读。\n**值得关注**：题材通过“高考状元”与“三军勇冠”的身份落差，精准击中读者对公平正义的渴望。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -44,18 +51,18 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.4万字",
-        "word_count": 454000,
-        "heat": 28000,
+        "word_count_text": "46.02万字",
+        "word_count": 460200,
+        "heat": 32000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第182章  让你们知道，一等功战神的含金量！",
-        "updated_at": "2026-09-27 00:12:17",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第185章  ‘谋划’特等功！",
+        "updated_at": "2026-09-28 00:12:16",
+        "rank_change": 1,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "现代军事"

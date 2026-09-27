@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "刚抽中SSS级天赋，你跟我说游戏停服",
           "book_id": 2027749,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-          "book_id": 2027749,
-          "heat_change": -11000
-        }
-      ],
-      "summary": "**题材趋势**：异世大陆类在当前榜单中表现为“高门槛、强人设”的单品支撑模式，受众较为集中。\n**读者偏好**：读者热衷于“赘婿+系统+反差”的经典套路，对通过特定天赋实现身份逆袭的爽感需求强烈。\n**变动解读**：该领域目前缺乏新晋强力作品冲击，上榜书籍热度回落，显示出完结作品在长尾期面临的用户流失压力。\n**值得关注**：建议关注融合了游戏设定与传统玄幻元素的轻量化作品，此类作品在七猫受众中仍具转化潜力。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：异世大陆类目目前呈现出高度集中的头部效应，单一爆款作品即可占据榜单席位。\n**读者偏好**：融合“游戏穿越”、“赘婿开局”与“双修系统”的快节奏爽文仍是市场主流，读者偏好强冲突、强逆袭的爽点堆砌。\n**变动解读**：榜单排名稳步上升，显示出该作在完结后仍具备强大的读者粘性与推荐算法优势。\n**值得关注**：系统流与特定职业/天赋设定的结合，依然是稳定吸引读者的核心流量密码。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 8,
         "title": "刚抽中SSS级天赋，你跟我说游戏停服",
         "book_id": 2027749,
         "url": "https://www.qimao.com/shuku/2027749/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
         "latest_chapter": " 第1074章  仙人也折腰(终)",
         "updated_at": "2026-09-06 08:21:09",
-        "rank_change": -1,
-        "heat_change": -11000,
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

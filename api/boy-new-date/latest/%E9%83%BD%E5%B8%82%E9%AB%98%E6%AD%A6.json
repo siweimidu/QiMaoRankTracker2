@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 31000,
+    "total_heat": 36000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：强冲突、强爽感叙事依旧是都市高武的核心引擎，尤其是带有“监狱/禁地”背景的开篇，能迅速建立主角的无敌形象。\n**读者偏好**：读者倾向于阅读具有极高反差感和虐主反转的设定，如“受困于群芳”与“出狱即无敌”的极致对比。\n**变动解读**：新书《女子监狱五年，出狱即无敌》以31000热度迅速占据榜位，显示了此类传统爽文套路在七猫渠道仍具备极强的用户号召力。\n**值得关注**：该类目后续需观察此类“强人设+复仇”风格作品的留存情况，以及是否存在更多元化的升级流变体。",
+      "heat_leaders": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "heat_change": 5000
+        }
+      ],
+      "summary": "**题材趋势**：高武结合极具噱头的“监狱/赘婿”元素，仍是都市赛道的高留存题材，强调极致的爽感爆发。\n**读者偏好**：读者热衷于反差感强、带有强冲突开篇（如被背叛、极度压抑后爆发）的无敌流爽文。\n**变动解读**：本期该赛道处于存量博弈状态，头部作品热度稳步增长，缺乏新竞争者，市场生态相对固化。\n**值得关注**：作品《女子监狱五年，出狱即无敌》凭借高频更新与爽点堆砌，维持着强劲的市场吸睛力。",
       "ai_source": "ai"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.67万字",
-        "word_count": 416700,
-        "heat": 31000,
+        "word_count_text": "42.36万字",
+        "word_count": 423600,
+        "heat": 36000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第179章  各方震怒",
-        "updated_at": "2026-09-26 20:22:05",
+        "latest_chapter": " 第182章  苏烈逐客",
+        "updated_at": "2026-09-27 20:32:05",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 5000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,27 +19,32 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
-          "rank_change": -2
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "heat_change": -1000
+        },
+        {
           "title": "民间诡闻实录",
           "book_id": 197091,
-          "heat_change": -9000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：民俗恐怖与职业诡事类目表现稳健，通过“第一人称”与“行业内幕”构建强烈的沉浸式恐怖氛围。\n**读者偏好**：读者对捞尸、接阴生等带有职业色彩的民间诡异传说有固定审美，偏爱写实风格的志怪叙事。\n**变动解读**：整体热度略有回调，头部书籍《山野诡闻笔记》表现稳定，说明该赛道读者群体较为固定，对题材纯度要求较高。\n**值得关注**：此类书籍需注重氛围营造与诡谲情节的连贯性，避免同质化，以防止读者审美疲劳导致的留存下滑。",
+      "summary": "**题材趋势**：民俗恐怖与传统诡事类题材占据主导，强调职业化（如捞尸、接阴）与民间异闻的沉浸式叙事。\n**读者偏好**：读者对带有强烈地域色彩和神秘民俗氛围的“第一人称笔记体”小说有极高偏好，追求猎奇与惊悚体验。\n**变动解读**：榜单趋于稳定，头部作品的微调反映了读者在不同民间诡事题材间的兴趣轮动，整体生态健康。\n**值得关注**：以“职业身份+诡异见闻”为核心的单元剧结构，是该品类保持长久生命力的核心创作范式。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -53,15 +58,15 @@
         "status": "已完结",
         "word_count_text": "256.27万字",
         "word_count": 2562700,
-        "heat": 82000,
+        "heat": 81000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -82,15 +87,15 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 63000,
-        "platform_trend": "drop",
+        "heat": 64000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -2,
-        "heat_change": -9000,
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

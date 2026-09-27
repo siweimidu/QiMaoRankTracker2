@@ -8,44 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 241000,
+    "total_heat": 248000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "小司机的美女总裁老婆",
-          "book_id": 2052700,
-          "rank_change": 1
-        },
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "小司机的美女总裁老婆",
-          "book_id": 2052700,
-          "heat_change": -13000
-        },
-        {
           "title": "镇天神医",
           "book_id": 1675640,
-          "heat_change": -10000
+          "heat_change": 4000
+        },
+        {
+          "title": "小司机的美女总裁老婆",
+          "book_id": 2052700,
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：都市生活与修仙/神医元素深度嵌套，短剧联动已成为该类目的核心宣发标配。\n**读者偏好**：受众倾向于“下山流”、“赘婿/小人物逆袭”的快节奏爽文，核心爽点在于身份反差与超常规能力的展示。\n**变动解读**：榜单呈现存量竞争态势，在无新书入榜的情况下，现有作品通过短剧热度拉动维持排名，但整体热度呈现自然回落趋势。\n**值得关注**：都市高武类目严重依赖短剧化运营，后续需重点监测短剧热度对长尾书籍的转化与支撑作用。",
-      "ai_source": "ai"
+      "summary": "「都市高武」《镇天神医》热度+4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -63,15 +52,15 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 128000,
-        "platform_trend": "drop",
+        "heat": 131000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
-        "rank_change": 1,
-        "heat_change": -13000,
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -92,15 +81,15 @@
         "status": "已完结",
         "word_count_text": "543.03万字",
         "word_count": 5430300,
-        "heat": 113000,
-        "platform_trend": "drop",
+        "heat": 117000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": 1,
-        "heat_change": -10000,
+        "rank_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

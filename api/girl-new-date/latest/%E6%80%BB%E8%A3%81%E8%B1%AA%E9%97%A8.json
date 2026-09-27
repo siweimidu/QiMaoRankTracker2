@@ -8,70 +8,60 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 5,
-    "total_heat": 216000,
+    "total_heat": 264000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "离婚证已领，时爷请克制！",
-          "book_id": 12717066
-        },
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "孕难产还要她AA，去父留子你活该绝嗣",
-          "book_id": 12728424
-        }
-      ],
-      "dropped_books": [
+          "book_id": 12728424,
+          "rank_change": 6
+        },
         {
-          "title": "青梅消失五年后，顾医生再度失控",
-          "book_id": 12855951,
-          "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了"
-        }
-      ],
-      "top_risers": [
+          "title": "离婚证已领，时爷请克制！",
+          "book_id": 12717066,
+          "rank_change": 2
+        },
         {
           "title": "离婚当天，和京圈太子爷闪婚了",
           "book_id": 12718566,
-          "rank_change": 11
-        },
-        {
-          "title": "暗渡春潮",
-          "book_id": 12784170,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
           "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
           "book_id": 12802161,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "孕难产还要她AA，去父留子你活该绝嗣",
+          "book_id": 12728424,
+          "heat_change": 16000
+        },
+        {
           "title": "离婚当天，和京圈太子爷闪婚了",
           "book_id": 12718566,
-          "heat_change": 28000
+          "heat_change": 13000
         },
         {
-          "title": "暗渡春潮",
-          "book_id": 12784170,
-          "heat_change": 5000
-        },
-        {
-          "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
-          "book_id": 12802161,
-          "heat_change": -3000
+          "title": "离婚证已领，时爷请克制！",
+          "book_id": 12717066,
+          "heat_change": 8000
         }
       ],
-      "summary": "「总裁豪门」新上榜 《离婚证已领，时爷请克制！》、《孕难产还要她AA，去父留子你活该绝嗣》；《青梅消失五年后，顾医生再度失控》 掉出榜单；《离婚当天，和京圈太子爷闪婚了》上升11位领涨；《鱼宝三岁半，哥哥们都是窝捡来哒》下滑2位；《离婚当天，和京圈太子爷闪婚了》热度+28000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：核心卖点高度集中在“离婚”与“觉醒”主题，虐恋后的事业逆袭与情感反击成为拉动热度的关键。\n**读者偏好**：读者对极度压抑后的反弹爽感需求强烈，尤其是“AA制”、“产房冷遇”等强冲突、具争议性的家庭矛盾设定极具吸睛力。\n**变动解读**：榜单呈现出明显的“情绪化”导向，带有强烈报复色彩和极端矛盾冲突的标题作品（如《孕难产还要她AA》）排名涨幅最快。\n**值得关注**：建议关注“离婚+反击”题材，通过制造极致的婚姻不公来快速建立女主的对立面，从而撬动读者的同情与爽点反馈。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -87,24 +77,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.58万字",
-        "word_count": 345800,
-        "heat": 67000,
+        "word_count_text": "35.01万字",
+        "word_count": 350100,
+        "heat": 74000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "真千金回归，一朝之间，楚知渔从掌上明珠变成了寄人篱下的养女。\n恰逢霍家掌权人霍临川回国，许她身份、地位、财富，让她和真千金一般在霍家活着。\n起初，她感激他、仰慕他，想报答他。\n可他却在一个暴雨的深夜里将所有的恩情彻底击碎。\n他说他不要她的恩情，他要欲，他更要爱。\n此后，他掠夺她、控制她，想拥有她。\n……\n后来，楚知渔怀着孕从江城消失了。\n那个向来冷静自持、掌控一切的男人彻底慌了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4262/12784170_360x480.jpg?time=1788848958",
-        "latest_chapter": " 第153章  楚知渔的项链",
-        "updated_at": "2026-09-27 00:08:04",
-        "rank_change": 2,
-        "heat_change": 5000,
+        "latest_chapter": " 第155章  父母们都来了",
+        "updated_at": "2026-09-27 23:52:05",
+        "rank_change": 0,
+        "heat_change": 7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "离婚当天，和京圈太子爷闪婚了",
         "book_id": 12718566,
         "url": "https://www.qimao.com/shuku/12718566/",
@@ -116,24 +106,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.46万字",
-        "word_count": 324600,
-        "heat": 48000,
+        "word_count_text": "32.86万字",
+        "word_count": 328600,
+        "heat": 61000,
         "platform_trend": "rise",
-        "badge": "飙升11名",
+        "badge": "",
         "intro": "南莘怀孕七个月产检要丈夫签字，才知道丈夫在外面一直有个家，而那个家的女主人是她的亲姐姐南虞，侄女是她丈夫傅北辰的私生女。就连她的孩子，都是傅北辰为了向南虞证明他的衷心，找人跟南莘生的。\n丈夫离心，父母偏心，公婆磋磨...这一刻，南莘彻底心死。\n渣男贱女算计她怀野种，那就生，生到傅北辰头顶一片绿油油。\n想让她净身出户？想得美，磋磨三年该她的一分钱都不能少！\n远离磋磨消耗她的亲人和男人，她将全部精力都放到了搞事业上，没人爱她，她就自己爱自己。\n离婚后，她光芒万丈，渣夫却后悔了。\n“莘莘，只要你愿意复婚，孩子不是我的也没关系。”\n纪舟野：“不好意思，孩子和她都是我的。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12718566_360x480.jpg?time=1789657564",
-        "latest_chapter": " 第158章  这两人有情况",
-        "updated_at": "2026-09-26 22:09:03",
-        "rank_change": 11,
-        "heat_change": 28000,
+        "latest_chapter": " 第160章  我是不是给你脸了？",
+        "updated_at": "2026-09-27 20:12:03",
+        "rank_change": 1,
+        "heat_change": 13000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "title": "离婚证已领，时爷请克制！",
         "book_id": 12717066,
         "url": "https://www.qimao.com/shuku/12717066/",
@@ -145,53 +135,24 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.5万字",
-        "word_count": 335000,
-        "heat": 45000,
+        "word_count_text": "33.9万字",
+        "word_count": 339000,
+        "heat": 53000,
         "platform_trend": "rise",
-        "badge": "飙升22名",
-        "intro": "【先婚后爱+追妻火葬场+事业逆袭+人间清醒+高岭之花下神坛】\n结婚两年，祁知予把暗恋藏进骨血，做了时泽聿最温顺的妻子。\n等来的，却是他亲手碾碎她的海外深造名额，断她事业前路，冷声道：“结了婚就该安分待在家。”\n转头却砸上亿资源铺路，把旁支娇纵养女捧成娱乐圈新贵。 \n全白港城都等着看她哭着求饶，认定她离了时家活不下去。\n可祁知予反手签了离婚协议，带着筹备一年的影视项目惊艳回归。\n新锐导演祁知予，杀伐果断，锋芒毕露。 \n人人都知时泽聿是白港城最硬的骨头，阴鸷狠戾，从不低头。\n直到暴雨夜，有人亲眼看见，那位翻手为云的掌权人，哭红眼跪在她别墅楼下，淋了整整一夜。\n他攥着她的手腕不肯放，声音破碎得不成样子：“祁知予，我所有身家都给你，命也给你，你回头看我一眼，行不行？”\n“我错了……你别不要我。”\n祁知予淡淡拂开他的手，笑意凉薄刺骨：“时泽聿，你的命，谁稀罕。”\n屋内，那位众星捧月的高岭之花裴司晏轻声垂眸，嗓音温柔恳切：“你若愿意，可否试着给我个机会？”\n极其冷静的外表下，那一步步小心翼翼的靠近和克制，只有裴司晏自己知道。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12717066_360x480.jpg?time=1789458421",
-        "latest_chapter": " 第159章  活腻了？敢当着裴司晏的面欺负祁知予",
-        "updated_at": "2026-09-26 18:01:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "总裁豪门"
-      },
-      {
-        "rank": 13,
-        "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
-        "book_id": 12802161,
-        "url": "https://www.qimao.com/shuku/12802161/",
-        "author": "乔木鸭",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%94%E6%9C%A8%E9%B8%AD_14/",
-        "major": "现代言情",
-        "minor": "总裁豪门",
-        "major_id": 1,
-        "minor_id": 8,
-        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "35.22万字",
-        "word_count": 352200,
-        "heat": 31000,
-        "platform_trend": "drop",
         "badge": "",
-        "intro": "【金手指+团宠+拼好家+对照组】\n出生就被抱错的鱼鱼，在垃圾堆里捡到了断腿毁容的男人。\n“哇，好大一个爸爸，活的。”\n好多坏人欺负爸爸，鱼鱼决定多捡几个家人，一起保护爸爸。\n咦，帅帅哒，眼神凶凶哒大哥哥，你当我大哥呀！\n嘿，那个要跳海哒漂亮小哥哥，你当我二哥吧！\n哟，跟她一起被人贩子拐走哒小哥哥，想换爸爸？那好吧，让你当三哥。\n嘻嘻……家人都是她捡来哒，鱼鱼真棒！\n后来，华国多了个横着走的小姑娘。\n她爸爸是华国第一家族的家主，大哥是疯批大佬，二哥是娱乐圈顶流，三哥是未来兵王。\n人人谈之变色的特殊部门，是鱼鱼的后花园。\n新闻里的超级大佬，把鱼鱼扛在肩上举高高。\n鱼鱼我呀，不小心成团宠啦！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802161_360x480.jpg?time=1784460596",
-        "latest_chapter": " 第166章  黑暗料理，道德绑架？",
-        "updated_at": "2026-09-26 23:57:06",
-        "rank_change": -2,
-        "heat_change": -3000,
+        "intro": "【先婚后爱+追妻火葬场+事业逆袭+人间清醒+高岭之花下神坛】\n结婚两年，祁知予把暗恋藏进骨血，做了时泽聿最温顺的妻子。\n等来的，却是他亲手碾碎她的海外深造名额，断她事业前路，冷声道：“结了婚就该安分待在家。”\n转头却砸上亿资源铺路，把旁支娇纵养女捧成娱乐圈新贵。 \n全白港城都等着看她哭着求饶，认定她离了时家活不下去。\n可祁知予反手签了离婚协议，带着筹备一年的影视项目惊艳回归。\n新锐导演祁知予，杀伐果断，锋芒毕露。 \n人人都知时泽聿是白港城最硬的骨头，阴鸷狠戾，从不低头。\n直到暴雨夜，有人亲眼看见，那位翻手为云的掌权人，哭红眼跪在她别墅楼下，淋了整整一夜。\n他攥着她的手腕不肯放，声音破碎得不成样子：“祁知予，我所有身家都给你，命也给你，你回头看我一眼，行不行？”\n“我错了……你别不要我。”\n祁知予淡淡拂开他的手，笑意凉薄刺骨：“时泽聿，你的命，谁稀罕。”\n屋内，那位众星捧月的高岭之花裴司晏轻声垂眸，嗓音温柔恳切：“你若愿意，可否试着给我个机会？”\n极其冷静的外表下，那一步步小心翼翼的靠近和克制，只有裴司晏自己知道。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12717066_360x480.jpg?time=1790532714",
+        "latest_chapter": " 第161章  故意压时泽聿一头",
+        "updated_at": "2026-09-27 17:57:03",
+        "rank_change": 2,
+        "heat_change": 8000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
       },
       {
-        "rank": 17,
+        "rank": 11,
         "title": "孕难产还要她AA，去父留子你活该绝嗣",
         "book_id": 12728424,
         "url": "https://www.qimao.com/shuku/12728424/",
@@ -203,18 +164,47 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.62万字",
-        "word_count": 356200,
-        "heat": 25000,
+        "word_count_text": "36.03万字",
+        "word_count": 360300,
+        "heat": 41000,
         "platform_trend": "rise",
-        "badge": "飙升72名",
+        "badge": "",
         "intro": "最相爱的时候，丈夫宋靖俞丢给林知雾一份AA协议，从此感情冰冷。林知雾甚至因为掏不出一千块钱的无痛针费用，差点死在产床上。\n宋靖俞的突然冷落成了林知雾无法解开的谜，她倾尽全力，卑微乞求，换来的却是他的漠不关心和他身边人的百般折辱。\n后来，她不解了。\n因为——\n她也有了秘密。\n“死去”的女儿被她养在国外。\n多年后，宋靖俞发现自己还有一个女儿。\n“我愿用全部真相，换女儿叫一声爸爸。”\n“不换！”\n“家产归你，换你们回家！”\n林知雾轻轻哂笑。\n“家产么？我有的是！”\n在宋靖俞不曾关注的日子里，家庭主妇的林知雾早就涅槃重生，成了炙手可热的高科技大佬。\n她身边，亦有了一个冷面阎王。\n而宋靖俞听女儿叫那冷面阎王：“爸爸。”\n有一日，他亲眼见冷面阎王伏首在林知雾面前，“宝宝乖，全听你的。”\n后来他才知道，是他亲手将爱人推向另一个男人，也是他亲手放弃的女儿抚养权……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4243/12728424_360x480.jpg?time=1783482879",
-        "latest_chapter": " 第160章  道歉是假，攀附是真",
-        "updated_at": "2026-09-26 14:20:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第162章  林小姐藏得太深",
+        "updated_at": "2026-09-27 19:22:03",
+        "rank_change": 6,
+        "heat_change": 16000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "总裁豪门"
+      },
+      {
+        "rank": 14,
+        "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+        "book_id": 12802161,
+        "url": "https://www.qimao.com/shuku/12802161/",
+        "author": "乔木鸭",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%94%E6%9C%A8%E9%B8%AD_14/",
+        "major": "现代言情",
+        "minor": "总裁豪门",
+        "major_id": 1,
+        "minor_id": 8,
+        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "35.65万字",
+        "word_count": 356500,
+        "heat": 35000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【金手指+团宠+拼好家+对照组】\n出生就被抱错的鱼鱼，在垃圾堆里捡到了断腿毁容的男人。\n“哇，好大一个爸爸，活的。”\n好多坏人欺负爸爸，鱼鱼决定多捡几个家人，一起保护爸爸。\n咦，帅帅哒，眼神凶凶哒大哥哥，你当我大哥呀！\n嘿，那个要跳海哒漂亮小哥哥，你当我二哥吧！\n哟，跟她一起被人贩子拐走哒小哥哥，想换爸爸？那好吧，让你当三哥。\n嘻嘻……家人都是她捡来哒，鱼鱼真棒！\n后来，华国多了个横着走的小姑娘。\n她爸爸是华国第一家族的家主，大哥是疯批大佬，二哥是娱乐圈顶流，三哥是未来兵王。\n人人谈之变色的特殊部门，是鱼鱼的后花园。\n新闻里的超级大佬，把鱼鱼扛在肩上举高高。\n鱼鱼我呀，不小心成团宠啦！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12802161_360x480.jpg?time=1784460596",
+        "latest_chapter": " 第168章  栽赃陷害，被拘留？",
+        "updated_at": "2026-09-28 00:00:04",
+        "rank_change": -1,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
