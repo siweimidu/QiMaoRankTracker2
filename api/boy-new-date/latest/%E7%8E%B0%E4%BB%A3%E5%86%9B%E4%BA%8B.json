@@ -8,25 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 32000,
+    "total_heat": 36000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
@@ -34,12 +34,12 @@
           "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：军事题材正向“系统化+反转爽文”转型，将家国情怀与个人命运的逆袭深度捆绑。\n**读者偏好**：偏好“被顶替/受委屈—参军逆袭—降维打击”的叙事结构，追求个人尊严与职业成就的双重满足。\n**变动解读**：该作品排名稳步上升，反映出读者对“身份反转+军旅升级”模式的高度认可与持续追读。\n**值得关注**：题材通过“高考状元”与“三军勇冠”的身份落差，精准击中读者对公平正义的渴望。",
+      "summary": "**题材趋势**：军事题材向“身份错位+个人奋斗”转型，高考状元身份被顶替的冲突性开局，极大地强化了读者的代入感。\n**读者偏好**：读者热衷于“强力反转”叙事，即通过主角在军队的耀眼成就，对曾经的压迫者实现降维打击。\n**变动解读**：尽管排名小幅下滑，但热度仍维持在4000的增量，反映出该书在细分赛道内仍有较强的读者韧性。\n**值得关注**：后续重点在于主角回家探亲后的冲突爆发点，能否将剧情推向高潮将决定该书能否重回上升通道。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -51,16 +51,16 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.02万字",
-        "word_count": 460200,
-        "heat": 32000,
+        "word_count_text": "46.64万字",
+        "word_count": 466400,
+        "heat": 36000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第185章  ‘谋划’特等功！",
-        "updated_at": "2026-09-28 00:12:16",
-        "rank_change": 1,
+        "latest_chapter": " 第188章  没意思，跟怪物比，有啥意思的？",
+        "updated_at": "2026-09-29 00:12:16",
+        "rank_change": -1,
         "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,

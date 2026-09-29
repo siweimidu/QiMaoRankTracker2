@@ -8,66 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "穿越历史",
     "major": "历史",
-    "count": 2,
-    "total_heat": 1,
+    "count": 1,
+    "total_heat": 5,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "我率秦军三百万，为秦续命万万年",
-          "book_id": 9464730
-        }
-      ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "new_count": 0,
+      "dropped_count": 1,
+      "new_books": [],
+      "dropped_books": [
         {
           "title": "边关第一猎户",
           "book_id": 10149744,
-          "heat_change": -1
+          "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。"
         }
       ],
-      "summary": "**题材趋势**：历史题材正向“架空权谋”与“边关争霸”倾斜，开局即自带军事背景或政治身份的强设定成为主流。\n**读者偏好**：读者更倾向于“祖龙之子”或“边关猎户”这类具有身份反转、能够快速建立军事优势并改写历史走向的爽感模式。\n**变动解读**：榜单新增《我率秦军三百万，为秦续命万万年》，显示出历史穿越类正在从传统的种田流转向更具爆发力的“强军改命”流。\n**值得关注**：新入榜书籍通过“秦朝”这一高知名度背景，结合“清君侧”的强冲突剧情，展示了历史文在短平快叙事上的巨大潜力。",
+      "top_risers": [
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730,
+          "rank_change": 5
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730,
+          "heat_change": 4
+        }
+      ],
+      "summary": "**题材趋势**：历史穿越题材呈现出向“秦汉争霸”及“强爽权谋”集中的趋势，读者更倾向于阅读具有宏大叙事感的爽文。\n**读者偏好**：读者热衷于“扶苏正统”类改写历史的爽点，偏好开局即拥有兵权、直接介入核心权谋的强节奏故事。\n**变动解读**：《我率秦军三百万》强势冲榜，取代了传统的猎户种田文，说明读者对“战争杀伐”类历史爽文的兴趣度极速攀升。\n**值得关注**：该类目热度集中度极高，建议关注以“名将/皇子”为核心，通过改变历史节点获取爽感的作品。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
-        "title": "边关第一猎户",
-        "book_id": 10149744,
-        "url": "https://www.qimao.com/shuku/10149744/",
-        "author": "柳白飞",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9F%B3%E7%99%BD%E9%A3%9E_14/",
-        "major": "历史",
-        "minor": "穿越历史",
-        "major_id": 56,
-        "minor_id": 57,
-        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "136.93万字",
-        "word_count": 1369300,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "",
-        "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。\n“我想要的可不是嘉奖！”\n“传我命令，即日进关！”\n“这腐朽的王朝也是时候换换天地了！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3384/10149744_360x480.jpg?time=1781328040",
-        "latest_chapter": " 第598章  祖铁壁",
-        "updated_at": "2026-09-28 00:01:14",
-        "rank_change": 0,
-        "heat_change": -1,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "穿越历史"
-      },
-      {
-        "rank": 20,
+        "rank": 15,
         "title": "我率秦军三百万，为秦续命万万年",
         "book_id": 9464730,
         "url": "https://www.qimao.com/shuku/9464730/",
@@ -79,18 +57,18 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "202.36万字",
-        "word_count": 2023600,
-        "heat": 1,
+        "word_count_text": "203万字",
+        "word_count": 2030000,
+        "heat": 5,
         "platform_trend": "rise",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第927章  果然是这样",
-        "updated_at": "2026-09-28 00:07:09",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第930章  使者到了",
+        "updated_at": "2026-09-29 00:07:08",
+        "rank_change": 5,
+        "heat_change": 4,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "穿越历史"

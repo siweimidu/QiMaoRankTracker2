@@ -8,49 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
     "total_heat": 48000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "重生57：开局傻子，白捡个漂亮媳妇",
-          "book_id": 13118376
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "重生70：一枪一个，狩猎人生",
-          "book_id": 13113909,
-          "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1971的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，"
-        }
-      ],
-      "top_risers": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "重生七零资本家大少爷，开局被寡妇堵门",
           "book_id": 12779493,
-          "rank_change": 2
+          "rank_change": -3
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "heat_change": 3000
-        }
-      ],
-      "summary": "**题材趋势**：“年代+空间+重生+情感博弈”成为核心范式，强调在极端生存压力下通过异能破局的阶层跃迁感。\n**读者偏好**：读者倾向于带有强烈“救赎”与“资源囤积”属性的剧情，尤其是涉及特殊身份（如资本家大少、天才医生）的荒诞开局极具吸引力。\n**变动解读**：榜单流动性强，题材内容高度同质化，新书入榜迅速，旧书更迭频繁。\n**值得关注**：《重生七零资本家大少爷》热度稳步增长，证明了“身份反差+生存经营”的组合在当前市场极具竞争力。",
+      "heat_leaders": [],
+      "summary": "**题材趋势** “年代+重生+空间”成为核心模板，题材高度聚焦于极端生存环境下的破局与致富。\n**读者偏好** 读者对“开局不利”到“逆袭生活”的阶级跨越感兴趣，尤其是带有时代背景的奋斗叙事。\n**变动解读** 整体热度走低，且未见新书上榜，反映出该细分赛道近期内容供给相对匮乏。\n**值得关注** 关注此类题材如何在同质化严重的“重生+寡妇/空间”设定中进行差异化包装。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 16,
         "title": "重生七零资本家大少爷，开局被寡妇堵门",
         "book_id": 12779493,
         "url": "https://www.qimao.com/shuku/12779493/",
@@ -62,19 +45,19 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.42万字",
-        "word_count": 464200,
+        "word_count_text": "47.05万字",
+        "word_count": 470500,
         "heat": 26000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第217章  王二就是个运货的？何所长烦透了！",
-        "updated_at": "2026-09-27 23:48:03",
-        "rank_change": 2,
-        "heat_change": 3000,
+        "latest_chapter": " 第220章   虎肉熊肉都能搞来？陈哥路子野！",
+        "updated_at": "2026-09-28 21:53:04",
+        "rank_change": -3,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"
       },
@@ -91,18 +74,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.72万字",
-        "word_count": 287200,
+        "word_count_text": "29.33万字",
+        "word_count": 293300,
         "heat": 22000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第138章  粮食充裕",
-        "updated_at": "2026-09-27 22:27:03",
+        "latest_chapter": " 第141章  疯狂的女人",
+        "updated_at": "2026-09-28 22:33:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

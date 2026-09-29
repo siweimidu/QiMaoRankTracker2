@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 36000,
+    "total_heat": 39000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": 5000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：高武结合极具噱头的“监狱/赘婿”元素，仍是都市赛道的高留存题材，强调极致的爽感爆发。\n**读者偏好**：读者热衷于反差感强、带有强冲突开篇（如被背叛、极度压抑后爆发）的无敌流爽文。\n**变动解读**：本期该赛道处于存量博弈状态，头部作品热度稳步增长，缺乏新竞争者，市场生态相对固化。\n**值得关注**：作品《女子监狱五年，出狱即无敌》凭借高频更新与爽点堆砌，维持着强劲的市场吸睛力。",
+      "summary": "**题材趋势**：高武类目延续了“都市异能+红颜羁绊”的经典配方，强调主角在特殊环境中积累实力并回归都市的爽文逻辑。\n**读者偏好**：读者偏爱“扮猪吃虎”与“反差对比”，即主角出狱后的无敌姿态与外界对其认知落差带来的爽感。\n**变动解读**：当前排名与热度表现平稳，说明在缺乏外部竞争的前提下，该书已形成稳定的阅读受众群，粘性较高。\n**值得关注**：建议关注后续剧情中“废女”身份揭秘及主角实力展示的节奏，这是维持热度增长的关键节点。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,19 +45,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.36万字",
-        "word_count": 423600,
-        "heat": 36000,
+        "word_count_text": "43.15万字",
+        "word_count": 431500,
+        "heat": 39000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第182章  苏烈逐客",
-        "updated_at": "2026-09-27 20:32:05",
+        "latest_chapter": " 第185章  破局之策",
+        "updated_at": "2026-09-28 20:22:04",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 3000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       }

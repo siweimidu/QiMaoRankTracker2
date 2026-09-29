@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "仙君今天也想杀我",
           "book_id": 13281888,
-          "rank_change": 2
+          "heat_change": -2
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统仙侠与快穿攻略系统的融合仍是该品类下的稳定输出点，强调反差感与高压环境下的情感博弈。\n**读者偏好**：读者倾向于“任务型女主”与“禁欲系男主”的极限拉扯，这种高冲突设定能有效提升读者的沉浸感。\n**变动解读**：本期仅存的一本在榜书籍排名上升，显示该题材在当前榜单中存量较少，竞争压力较小，但缺乏新书冲击。\n**值得关注**：后续需观察是否有更多结合“妖魔/克制”元素的差异化作品进入榜单，以打破目前单一作品的垄断状态。",
+      "summary": "**题材趋势** 仙侠题材在女生榜单中处于边缘化地位，市场份额极低，缺乏新鲜血液。\n**读者偏好** 读者更青睐带有“系统任务”、“攻略向”及“反差萌”元素的轻快仙侠文，重剧情轻仙侠。\n**变动解读** 榜单呈固化状态，仅存的一本书籍热度出现负增长，显示该细分品类在当前榜单缺乏流量支撑。\n**值得关注** 核心在于“攻略对象”与“身份对立”带来的情感拉扯感，建议加强人设冲突以挽回流失热度。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "16.22万字",
-        "word_count": 162200,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "16.65万字",
+        "word_count": 166500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【没心没肺任务型女主 × 端方克制逐渐沦陷仙君】\n黎想穿越了。\n好消息，她绑定了系统，只要把攻略对象的好感度刷到七十，就能回家。\n坏消息，她穿成了一只妖。\n更坏的消息，攻略对象裴云逸，是个见妖拔剑、恨不得把“妖邪必诛”刻在脑门的修士。\n第一次见面，他一剑划破了她的脖子。\n黎想：“系统，咱不行换个人呢？”\n系统：“不行。”\n黎想：“那我任务完不成咋办？”\n系统温柔一笑：“狠狠电你哦。”\n为了活着回家，黎想只能兢兢业业跟在裴云逸身后刷好感。\n黎想本以为，这任务最大的困难，是如何让一个恨妖入骨的人不杀她。\n后来她才发现——\n裴云逸看她的眼神，好像越来越不对劲了。\n黎想：等等，我刷的是你的好感，你怎么先疯了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4428/13281888_360x480.jpg?time=1788240267",
-        "latest_chapter": " 第76章  万清宗不会知道了吧？",
-        "updated_at": "2026-09-27 11:12:02",
-        "rank_change": 2,
-        "heat_change": 0,
+        "latest_chapter": " 第78章  怎么到我这里就不会说话了？",
+        "updated_at": "2026-09-28 11:04:03",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

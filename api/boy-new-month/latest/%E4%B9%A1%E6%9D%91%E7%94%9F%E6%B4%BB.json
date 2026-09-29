@@ -8,26 +8,43 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 439000,
+    "total_heat": 386000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "重生80，上山打猎富养俏前妻",
+          "book_id": 12497271,
+          "intro": "【乡村日常】【多女主】【年代】【打猎】【经商】吴大壮重生，回到了知青回城的那个年代，自己有三个美得冒泡的前妻，而且获得了空间和金手指。重活一世，他决定要挣大钱，让三个跟过自己的女人和孩子都过上好日子，"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "重回83：赶山猎熊发家致富",
+          "book_id": 12519594,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：以“年代+重生+赶山/打猎”为核心，融合了强烈的地域特色与弥补遗憾的温情爽文色彩。\n**读者偏好**：读者青睐“发家致富”的奋斗叙事，对充满烟火气的乡村生活及多女主情感线具有较高黏性。\n**变动解读**：榜单呈现高度固化，两本年代文表现均衡，反映出该细分领域受众群体对特定年代情怀的忠诚度极高。\n**值得关注**：两部作品均通过“金手指+重活一世”的设定优化人生，这种“弥补式”叙事是当前乡村题材的流量密码。",
+      "summary": "**题材趋势** 核心卖点聚焦于“年代重生+赶山/种田+生存挑战”，融合了怀旧风与生存经营元素。\n**读者偏好** 读者偏爱“底层破局”叙事，既有对艰苦年代奋斗的共情，也有对“软饭硬吃”等反传统爽点的期待。\n**变动解读** 类目出现小幅更迭，新书《重生七零资本家大少爷》通过“寡妇堵门”等强冲突开局迅速上位，替代了同质化的年代打猎题材。\n**值得关注** 乡村题材正从纯粹的种田向“年代+多重危机+系统空间”的复合爽文转型。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 16,
         "title": "重回83：赶山猎熊发家致富",
         "book_id": 12519594,
         "url": "https://www.qimao.com/shuku/12519594/",
@@ -39,16 +56,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.9万字",
-        "word_count": 479000,
+        "word_count_text": "48.51万字",
+        "word_count": 485100,
         "heat": 228000,
         "platform_trend": "rise",
-        "badge": "飙升31名",
+        "badge": "飙升33名",
         "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最后过劳惨死。重生回到1983年与爷爷进山的那天，这一次陈向阳不想后悔，不想有任何遗憾。他要守护家人，守护那个心爱的人，弥补所有遗憾。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4174/12519594_360x480.jpg?time=1781771131",
-        "latest_chapter": " 第231章  三魁",
-        "updated_at": "2026-09-27 13:02:03",
-        "rank_change": 0,
+        "latest_chapter": " 第234章  得参图",
+        "updated_at": "2026-09-28 13:02:03",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -57,30 +74,30 @@
       },
       {
         "rank": 20,
-        "title": "重生80，上山打猎富养俏前妻",
-        "book_id": 12497271,
-        "url": "https://www.qimao.com/shuku/12497271/",
-        "author": "一码归一码",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E7%A0%81%E5%BD%92%E4%B8%80%E7%A0%81_14/",
+        "title": "重生七零资本家大少爷，开局被寡妇堵门",
+        "book_id": 12779493,
+        "url": "https://www.qimao.com/shuku/12779493/",
+        "author": "平安吖",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B9%B3%E5%AE%89%E5%90%96_14/",
         "major": "都市",
         "minor": "乡村生活",
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.52万字",
-        "word_count": 505200,
-        "heat": 211000,
+        "word_count_text": "47.05万字",
+        "word_count": 470500,
+        "heat": 158000,
         "platform_trend": "rise",
-        "badge": "飙升36名",
-        "intro": "【乡村日常】【多女主】【年代】【打猎】【经商】吴大壮重生，回到了知青回城的那个年代，自己有三个美得冒泡的前妻，而且获得了空间和金手指。重活一世，他决定要挣大钱，让三个跟过自己的女人和孩子都过上好日子，顿顿有肉吃，月月有新衣。　从此吴大壮家里天天都飘出肉香，馋哭了村里人，前妻们发现了他的改变，觉得日子有了奔头，决定不走了。　大前妻端庄贤淑，大气温婉。　二前妻矜持含蓄，小家碧玉。　三前妻多愁善感，人美心善。　在大通铺上，她们一个个的变了......",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4166/12497271_360x480.jpg?time=1781598974",
-        "latest_chapter": " 第213章  白玉兰怀孕了",
-        "updated_at": "2026-09-27 08:09:03",
+        "badge": "飙升73名",
+        "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
+        "latest_chapter": " 第220章   虎肉熊肉都能搞来？陈哥路子野！",
+        "updated_at": "2026-09-28 21:53:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"
       }

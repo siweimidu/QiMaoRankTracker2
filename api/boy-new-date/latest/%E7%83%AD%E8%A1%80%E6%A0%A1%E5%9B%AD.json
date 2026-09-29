@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 26000,
+    "total_heat": 31000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "heat_change": 2000
+          "heat_change": 5000
         }
       ],
-      "summary": "**题材趋势**：校园题材向“重生+多女主养成”回归，通过时间跨度与人物命运的改写制造阅读张力。\n**读者偏好**：受众倾向于轻松、怀旧且带有一定“养成感”的都市情感线，对“重回过去改变人生”的设定有极高粘性。\n**变动解读**：尽管排名略有下滑，但热度仍持续上涨，说明该赛道竞争加剧，头部作品正面临流量分流考验。\n**值得关注**：作品通过“养成多位未来女强人”的设定，利用多线叙事提升读者的代入感与期待值。",
+      "summary": "**题材趋势**：重生+校园恋爱题材依然稳健，凭借“怀旧+养成”的强代入感，在细分榜单中保持高活跃度。\n**读者偏好**：读者倾向于阅读带有“全员女神养成”元素的轻松向爽文，尤其是针对特定人设（如女教授、女团顶流）的互动类情节。\n**变动解读**：本类目仅存一本上榜书，且热度逆势大幅增长（+5000），说明此类题材在存量竞争中具有极强的用户粘性与长尾效应。\n**值得关注**：该书排名上升两位且热度涨势明显，反映出读者对“重回2010年”背景下的校园情感博弈类内容有持续的阅读需求。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 12,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -51,17 +51,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.38万字",
-        "word_count": 273800,
-        "heat": 26000,
+        "word_count_text": "27.86万字",
+        "word_count": 278600,
+        "heat": 31000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第121章  晚晚，我总感觉他不是什么好人！",
-        "updated_at": "2026-09-27 08:12:10",
-        "rank_change": -1,
-        "heat_change": 2000,
+        "latest_chapter": " 第123章  没错的，你被改到最后一个登场了！",
+        "updated_at": "2026-09-28 09:48:02",
+        "rank_change": 2,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

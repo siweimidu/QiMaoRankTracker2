@@ -8,63 +8,56 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-08-26",
+  "date": "2026-09-29",
   "category": {
     "name": "无限快穿",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "攻略？阴湿诡异直接吻了上来",
+          "book_id": 13033788
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "诡异直播，早死的老公是疯批boss",
-          "book_id": 9923838,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "诡异直播，早死的老公是疯批boss",
-          "book_id": 9923838,
-          "heat_change": -3
-        }
-      ],
-      "summary": "**题材趋势**：无限流题材深度融合“诡异直播”与“冥界遗产”等黑色幽默元素，追求快节奏的爽感输出。\n**读者偏好**：读者倾向于女主在极端恐怖环境下通过特殊道具（如冥币）实现降维打击，追求“反套路”与“疯批”人设带来的情绪价值。\n**变动解读**：仅存的一本在榜作品热度下滑，显示该小类当前进入更新波动期，缺乏新奇切入点吸引流量。\n**值得关注**：建议关注“诡异+金手指”类作品中，女主如何通过非传统手段实现游戏通关，这是当前该类目留存用户的核心看点。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：无限流与甜宠、病娇元素深度融合，将恐怖诡异背景作为情感升温的“催化剂”，强化极致爽感。\n**读者偏好**：读者热衷于“反差萌”与“惊悚感”并存的互动，尤其偏好病娇型诡异BOSS与冷静女主的博弈。\n**变动解读**：新书入局即占据头部位置，展现了无限流题材在细分市场强大的吸睛能力，读者对“诡异+恋爱”模式仍有较高追捧。\n**值得关注**：该题材正向“甜宠+恐怖”双向驱动转型，后续作品应在副本设计与男主病娇属性的独特性上做文章。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "诡异直播，早死的老公是疯批boss",
-        "book_id": 9923838,
-        "url": "https://www.qimao.com/shuku/9923838/",
-        "author": "瞌睡鱼",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%9E%8C%E7%9D%A1%E9%B1%BC_14/",
+        "rank": 18,
+        "title": "攻略？阴湿诡异直接吻了上来",
+        "book_id": 13033788,
+        "url": "https://www.qimao.com/shuku/13033788/",
+        "author": "镜子",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%95%9C%E5%AD%90_14/",
         "major": "幻想言情",
         "minor": "无限快穿",
         "major_id": 4,
         "minor_id": 283,
         "minor_url": "https://www.qimao.com/shuku/a-4-283-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "83.96万字",
-        "word_count": 839600,
-        "heat": 1,
-        "platform_trend": "drop",
+        "status": "连载中",
+        "word_count_text": "23.59万字",
+        "word_count": 235900,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "众所周知，老公死后就能继承遗产\n\n　　好消息：云栀的老公死了，她继承了一百亿\n\n　　坏消息：是冥币\n\n　　就在云栀准备把老公挖出来揍一顿的时候，她被拉进了诡异游戏\n\n　　云栀发现，一百亿冥币居然在诡异世界有用\n\n　　等等，怎么她在副本里面遇见的变态痴汉boss，长得和她早死的塑料老公一模一样！？\n\n　　云栀一直以为她和塑料老公是闪婚联姻没有感情，但变成副本boss的男人却格外粘人\n\n　　变成boss的塑料老公：老婆我们不是一见钟情两情相悦然后结婚的吗？\n\n　　云栀：啊？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3308/9923838_360x480.jpg?time=1774405962",
-        "latest_chapter": " 第415章  番外（完）",
-        "updated_at": "2026-08-20 23:50:07",
-        "rank_change": -1,
-        "heat_change": -3,
-        "is_new": false,
+        "intro": "【无限流+甜宠爽文+双洁+男主病娇】\n黎初进入诡异游戏，系统要求她感化未来的诡异BOSS时渊，达成救世成就。\n【玩偶屋】被诅咒的玩偶在午夜游荡，呼朋唤友玩捉迷藏，被找到的人将献出肢体成为它的一部分。\n黎初发现了形似时渊的娃娃，手感不错捏了一路，身边的人红着耳朵闷不做声，捏着捏着她才知道，这是时渊的共感娃娃。\n【诡影双生】不要独自待在封闭无光的环境，否则你将被你的‘影子’取代。\n光影交错间，身侧男人拉着她的手，温凉如玉；身后贴上来的怀抱炽热，嗓音蛊惑：“宝宝，他是胆小鬼，不要他，要我好不好？”\n【伊甸园】人间乐园中潜藏着恶魔，黎初在寻找「原罪」途中被一株藤蔓缠上了，藤蔓被她一摸就开花，身边男人也跟着脸红。\n——原来这藤蔓是时渊的分身！\n…\n黎初辛勤做任务，系统却在某天发出尖锐爆鸣：\n宿主，我们攻略错人了！他是比诡异BOSS还要可怕一万倍的存在，快逃！！……等等，他怎么一直抱着你亲？！\n＊\n时渊很早就知晓任务者和系统的存在，他是后期被深渊同化的不可名状，从来不是什么男主。\n得知黎初认错攻略对象，时渊直接吻了上去，抱着黎初不撒手：老婆，你没认错，我就是你要用爱感化的对象！老婆贴贴～",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13033788_360x480.jpg?time=1785995596",
+        "latest_chapter": " 第116章  消失的18楼",
+        "updated_at": "2026-09-28 08:32:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
-        "stale_update": true,
+        "stale_update": false,
         "category": "无限快穿"
       }
     ]

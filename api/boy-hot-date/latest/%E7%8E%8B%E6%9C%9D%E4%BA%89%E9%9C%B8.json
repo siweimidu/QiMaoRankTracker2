@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 287000,
+    "total_heat": 291000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 5000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈期，头部作品凭借强力爽点维持高位。\n**读者偏好**：读者更青睐带有“身份错位”与“强者崛起”标签的快节奏开局，英雄叙事仍是核心驱动力。\n**变动解读**：本期榜单保持高度稳定性，头部作品《大周第一武夫》热度稳步微增，显示出长线读者的忠诚度。\n**值得关注**：该题材目前缺乏新晋黑马冲击，建议关注同类作品在节奏把控与爽点叠加上的创新。",
-      "ai_source": "ai"
+      "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度+4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -45,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "217.24万字",
-        "word_count": 2172400,
-        "heat": 287000,
+        "word_count_text": "217.9万字",
+        "word_count": 2179000,
+        "heat": 291000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1004章  仙人气息",
-        "updated_at": "2026-09-27 20:07:07",
-        "rank_change": 0,
-        "heat_change": 5000,
+        "latest_chapter": " 第1007章  黑莲的后手",
+        "updated_at": "2026-09-28 20:21:09",
+        "rank_change": -1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

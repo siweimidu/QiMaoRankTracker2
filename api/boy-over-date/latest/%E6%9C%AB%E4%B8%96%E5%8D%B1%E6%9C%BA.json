@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -30,27 +30,16 @@
         {
           "title": "末世，从吞尸体开始进化",
           "book_id": 2051697,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "末世，从吞尸体开始进化",
-          "book_id": 2051697,
-          "heat_change": -5000
-        },
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "**题材趋势**：末世题材在七猫完结榜中展现出极强的韧性，双雄对峙格局持续，整体热度处于高位震荡。\n**读者偏好**：读者高度聚焦“重生+杀戮”的复仇爽感，以及“吞噬进化”带来的极端生存变强反馈，硬核废土风格极具吸睛力。\n**变动解读**：头部竞争激烈，书籍热度互有消长，反映出存量完结书在读者口碑效应下的长尾留存能力。\n**值得关注**：头部作品通过跨平台联动（如漫画上线）进行IP化运营，是延长完结书生命周期的有效手段。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：末世题材在完结榜中表现稳健，强生存与进化流依然是该品类的核心驱动力。\n**读者偏好**：读者倾向于“重生+杀伐果断”的爽感叙事，以及“吞噬进化”带来的数值增长快感。\n**变动解读**：头部两本书籍热度高度接近（7.1万与7万），排名互换反映出完结书籍在长尾期的竞争已进入存量博弈阶段。\n**值得关注**：头部作品通过跨媒介（如漫画化）联动进一步延长IP生命周期，是该类目完结书维持热度的有效手段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -72,14 +61,14 @@
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
         "rank_change": 1,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "末世危机"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "末世，从吞尸体开始进化",
         "book_id": 2051697,
         "url": "https://www.qimao.com/shuku/2051697/",
@@ -94,14 +83,14 @@
         "word_count_text": "212.61万字",
         "word_count": 2126100,
         "heat": 70000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万般凶煞，以牙为刃，撕开人族生路！\n【吞噬能量+9】\n【请选择加点方式：气血/精神力】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/859/2575713_360x480.jpg?time=1778641204",
         "latest_chapter": " 第745章  尾声",
         "updated_at": "2026-09-23 07:51:06",
-        "rank_change": -2,
-        "heat_change": -5000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

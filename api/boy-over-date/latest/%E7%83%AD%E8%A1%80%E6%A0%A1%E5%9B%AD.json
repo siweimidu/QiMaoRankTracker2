@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -23,34 +23,34 @@
         {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
           "title": "我和软萌女友的恋爱日常",
           "book_id": 214789,
-          "rank_change": -4
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": -10000
-        },
-        {
           "title": "重生2000：从追求青涩校花同桌开始",
           "book_id": 1758273,
-          "heat_change": 1000
+          "heat_change": 3000
+        },
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：校园类题材已全面转向“重生+商业+恋爱”的复合型叙事，纯粹的校园热血已让位于甜宠与致富结合的怀旧叙事。\n**读者偏好**：读者热衷于弥补遗憾的重生流设定，尤其偏好将“青涩初恋”与“商业成功”并行的爽感体验。\n**变动解读**：榜内出现明显的存量互博，重商向作品热度上升，说明读者更倾向于具备“搞钱”成长属性的校园文。\n**值得关注**：重生年代（如2000年）与白月光校花的组合已成为流量密码，是当前该赛道拉动热度的关键增长点。",
+      "summary": "**题材趋势**：校园类题材深度绑定“重生年代文”，核心逻辑从纯粹的校园热血转向“重生+弥补遗憾+商业发家”的复合流派。\n**读者偏好**：读者对青涩纯爱、白月光养成以及时代记忆有强烈共鸣，尤其青睐“恋爱日常+搞钱事业”双线并行的爽感。\n**变动解读**：榜内竞争激烈，重塑遗憾的“重生文”热度反超纯恋爱题材，显示读者审美偏好正向强剧情驱动的叙事偏移。\n**值得关注**：在纯爱甜宠之外，融入2000年代商业背景的“爽点叠加型”校园文正逐渐展现出更强的市场竞争力和热度增长潜力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -64,22 +64,22 @@
         "status": "已完结",
         "word_count_text": "429.99万字",
         "word_count": 4299900,
-        "heat": 73000,
+        "heat": 76000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "热血校园"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -93,15 +93,15 @@
         "status": "已完结",
         "word_count_text": "299.99万字",
         "word_count": 2999900,
-        "heat": 73000,
+        "heat": 70000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": -4,
-        "heat_change": -10000,
+        "rank_change": -2,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
