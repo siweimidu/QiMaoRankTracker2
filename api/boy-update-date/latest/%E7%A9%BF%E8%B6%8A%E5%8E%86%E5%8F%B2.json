@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 5,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "边关第一猎户",
-          "book_id": 10149744,
-          "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。"
-        }
-      ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "rank_change": 5
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "heat_change": 4
+          "heat_change": -3
         }
       ],
-      "summary": "**题材趋势**：历史穿越题材呈现出向“秦汉争霸”及“强爽权谋”集中的趋势，读者更倾向于阅读具有宏大叙事感的爽文。\n**读者偏好**：读者热衷于“扶苏正统”类改写历史的爽点，偏好开局即拥有兵权、直接介入核心权谋的强节奏故事。\n**变动解读**：《我率秦军三百万》强势冲榜，取代了传统的猎户种田文，说明读者对“战争杀伐”类历史爽文的兴趣度极速攀升。\n**值得关注**：该类目热度集中度极高，建议关注以“名将/皇子”为核心，通过改变历史节点获取爽感的作品。",
+      "summary": "**题材趋势**：架空历史与“大秦续命”题材仍是流量高地，尤其以“祖龙之子”身份切入的政斗与征伐流备受追捧。\n**读者偏好**：读者热衷于颠覆历史走向的爽感，偏向“开局即权力”的强逻辑设定，对“平匈奴、定天下”的宏大叙事有较强代入感。\n**变动解读**：虽然当前仅有单一头部作品支撑，但该书热度降幅显著，提示市场对该类题材的审美疲劳，或需更具新意的切入点。\n**值得关注**：历史类题材的创新方向，建议尝试在“争霸”基础之上叠加更具现代感的权谋博弈或科技基建设定。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 17,
         "title": "我率秦军三百万，为秦续命万万年",
         "book_id": 9464730,
         "url": "https://www.qimao.com/shuku/9464730/",
@@ -57,17 +51,17 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "203万字",
-        "word_count": 2030000,
-        "heat": 5,
-        "platform_trend": "rise",
+        "word_count_text": "203.65万字",
+        "word_count": 2036500,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第930章  使者到了",
-        "updated_at": "2026-09-29 00:07:08",
-        "rank_change": 5,
-        "heat_change": 4,
+        "latest_chapter": " 第933章  猜不到，根本猜不到",
+        "updated_at": "2026-09-30 00:07:09",
+        "rank_change": -2,
+        "heat_change": -3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

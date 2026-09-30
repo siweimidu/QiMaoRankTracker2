@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,21 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": 3000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：高武类目延续了“都市异能+红颜羁绊”的经典配方，强调主角在特殊环境中积累实力并回归都市的爽文逻辑。\n**读者偏好**：读者偏爱“扮猪吃虎”与“反差对比”，即主角出狱后的无敌姿态与外界对其认知落差带来的爽感。\n**变动解读**：当前排名与热度表现平稳，说明在缺乏外部竞争的前提下，该书已形成稳定的阅读受众群，粘性较高。\n**值得关注**：建议关注后续剧情中“废女”身份揭秘及主角实力展示的节奏，这是维持热度增长的关键节点。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：高武题材持续向“极度爽文”靠拢，强调主角在特殊环境下的极端磨练与出狱后的阶级跃迁。\n**读者偏好**：读者热衷于“反差感”与“复仇爽感”，偏好身负特殊体质、受尽屈辱后强势回归的传统爽文套路。\n**变动解读**：本类目上榜作品排名稳步上升，说明在缺乏新书冲击的情况下，经典都市高武题材的用户黏性极强。\n**值得关注**：需观察该类目是否能出现题材缝合的新作，以打破目前单品类垄断的局面。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -45,17 +45,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.15万字",
-        "word_count": 431500,
+        "word_count_text": "43.86万字",
+        "word_count": 438600,
         "heat": 39000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第185章  破局之策",
-        "updated_at": "2026-09-28 20:22:04",
-        "rank_change": 0,
-        "heat_change": 3000,
+        "latest_chapter": " 第188章  招揽被拒",
+        "updated_at": "2026-09-29 20:12:04",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

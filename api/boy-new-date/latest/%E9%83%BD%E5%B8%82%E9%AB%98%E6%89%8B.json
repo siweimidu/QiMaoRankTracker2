@@ -8,21 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 3,
-    "total_heat": 103000,
+    "count": 2,
+    "total_heat": 53000,
     "trend": {
       "new_count": 0,
       "dropped_count": 1,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "从拒绝美女总裁开始权势滔天",
-          "book_id": 12713682,
-          "intro": "当了三年舔狗，换来一碗毒药；拼死救下女总裁，却惹来杀身之祸！\n万念俱灰之际，祖传玉佩觉醒——从此拳镇山河，医武双绝！\n而那个总在深夜给他送汤的漂亮女邻居，竟藏着让他疯狂突破的秘密……"
+          "title": "我想躺平当保安，女神非要来纠缠",
+          "book_id": 9999144,
+          "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？"
         }
       ],
       "top_risers": [
@@ -32,65 +32,20 @@
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "我想躺平当保安，女神非要来纠缠",
-          "book_id": 9999144,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "我想躺平当保安，女神非要来纠缠",
-          "book_id": 9999144,
-          "heat_change": 3000
-        },
         {
           "title": "下山即无敌，美女总裁逼我去领证！",
           "book_id": 12594795,
-          "heat_change": 3000
-        },
-        {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "heat_change": 1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：高度同质化，“高手下山+美女总裁+退婚/纠缠”构成了该品类的核心模板。\n**读者偏好**：读者追求极致的爽感，偏好强冲突开局，渴望看到主角在都市中通过医武双绝实现降维打击。\n**变动解读**：榜单整体流动性较弱，头部作品竞争白热化，新书入榜难度大，题材固化现象明显。\n**值得关注**：《下山即无敌，美女总裁逼我去领证！》排名上升且热度稳健，显示“强行绑定”的冲突式开局依然是流量密码。",
+      "summary": "**题材趋势**：高度同质化，“高手下山+美女总裁+退婚/强推”仍是该细分领域的核心增长引擎。\n**读者偏好**：受众对强爽节奏、多女后宫以及男主开局无敌的设定表现出极高粘性。\n**变动解读**：榜单竞争进入存量博弈阶段，头部作品通过强化“暴力宠”与“权势伴随”等爽点维持热度，同质化作品优胜劣汰明显。\n**值得关注**：创作者需在套路化框架内通过极致的“冲突前置”与“爽点密集度”来争取排名。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
-        "title": "我想躺平当保安，女神非要来纠缠",
-        "book_id": 9999144,
-        "url": "https://www.qimao.com/shuku/9999144/",
-        "author": "我在丛中笑",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E5%9C%A8%E4%B8%9B%E4%B8%AD%E7%AC%91_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.32万字",
-        "word_count": 503200,
-        "heat": 52000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "杀手之王避祸都市，本想躺平当保安，却被美女总裁意外强推。\n从此，总裁、女秘、明星、黑道大嫂，各路女神，纷纷上门，纠缠不休······\n想安静滴当个小保安，就这么难吗？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3334/9999144_360x480.jpg?time=1779872277",
-        "latest_chapter": " 第244章  巫师联系我了",
-        "updated_at": "2026-09-29 00:02:31",
-        "rank_change": -1,
-        "heat_change": 3000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 14,
+        "rank": 13,
         "title": "下山即无敌，美女总裁逼我去领证！",
         "book_id": 12594795,
         "url": "https://www.qimao.com/shuku/12594795/",
@@ -102,17 +57,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.55万字",
-        "word_count": 415500,
-        "heat": 29000,
+        "word_count_text": "41.97万字",
+        "word_count": 419700,
+        "heat": 31000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第145章  安家婚约",
-        "updated_at": "2026-09-28 23:36:04",
+        "latest_chapter": " 第147章  吓跪了？！",
+        "updated_at": "2026-09-30 00:00:08",
         "rank_change": 1,
-        "heat_change": 3000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -131,17 +86,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.63万字",
-        "word_count": 256300,
+        "word_count_text": "26.08万字",
+        "word_count": 260800,
         "heat": 22000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第116章  天神下凡",
-        "updated_at": "2026-09-29 05:02:02",
+        "latest_chapter": " 第118章  青龙帮难道要毁在她的手上？",
+        "updated_at": "2026-09-30 05:02:03",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：民俗惊悚与诡异复苏类题材在细分市场保持长尾效应，强调氛围营造与生存压迫感。\n**读者偏好**：读者倾向于带有强代入感的“异世求生”设定，偏好黑暗残酷、丛林法则式的世界观背景。\n**变动解读**：本期仅存的一本在榜书籍排名微升，显示出该题材在小众圈层内拥有稳定的核心受众，但新增供给不足。\n**值得关注**：罗樵森的作品通过“人吃人”的极端设定强化了爽感与危机感，该类题材的“民俗+生存”模式仍具转化潜力。",
+      "heat_leaders": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：悬疑诡异类题材持续走冷，市场表现偏向垂类小众，整体热度处于盘整期。\n**读者偏好**：读者偏好带有民俗恐怖、生存法则及冷幽默元素的作品，对氛围感的营造要求较高。\n**变动解读**：本类目仅存一本在榜，排名与热度波动反映出该题材在男生频道的流量获取存在一定瓶颈，缺乏新鲜血液注入。\n**值得关注**：在恐怖悬疑领域，如何通过更具张力的“生存博弈”设定来提升读者的留存率与点击欲望。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 9,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -45,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "483.49万字",
-        "word_count": 4834900,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "484.52万字",
+        "word_count": 4845200,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1767章  二十四山镇龙符，山崩中的阴阳先生！",
-        "updated_at": "2026-09-29 06:57:13",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第1771章  雌一翻云雨，老苗王持埙",
+        "updated_at": "2026-09-30 06:57:13",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

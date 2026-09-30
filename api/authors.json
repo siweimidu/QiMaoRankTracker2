@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T08:53:45",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30T08:08:54",
+  "date": "2026-09-30",
   "authors": [
     {
       "author": "化十",
@@ -11,6 +11,17 @@
       "titles": [
         "荒古武神",
         "吞天神体"
+      ]
+    },
+    {
+      "author": "锦锦不是妖",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
+      "books": 2,
+      "boards": 5,
+      "total_heat": 20935000,
+      "titles": [
+        "第五年重逢，驰先生再度失控",
+        "裴先生，暗恋她已十二年"
       ]
     },
     {
@@ -40,7 +51,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2605001,
+      "total_heat": 2605002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -125,16 +136,6 @@
       "total_heat": 22646000,
       "titles": [
         "警报！真龙出狱！"
-      ]
-    },
-    {
-      "author": "锦锦不是妖",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 20911000,
-      "titles": [
-        "第五年重逢，驰先生再度失控"
       ]
     },
     {
@@ -291,7 +292,7 @@
       "author": "墨墨卿卿",
       "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%A2%A8%E5%8D%BF%E5%8D%BF_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 9339000,
       "titles": [
         "霍二爷，新婚请克制！"

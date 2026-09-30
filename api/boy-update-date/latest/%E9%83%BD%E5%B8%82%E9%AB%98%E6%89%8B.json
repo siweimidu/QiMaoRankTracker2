@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 4,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -30,27 +30,22 @@
         {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "heat_change": -1
-        },
-        {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：都市高手类目前处于存量博弈阶段，题材高度依赖“强者下山/出狱”的经典爽点逻辑。\n**读者偏好**：读者对强冲突、快节奏的复仇及打脸情节有极高依赖，对“短剧原著”标签表现出较强认可。\n**变动解读**：本周期内无新书上榜，头部两本书籍热度互换，显示出该细分品类目前缺乏足够亮眼的新增供给。\n**值得关注**：需警惕经典套路审美疲劳，建议关注具备“短剧联动”或“强冲突人设”的强节奏型作品。",
+      "summary": "**题材趋势**：传统“下山流”与“复仇爽文”依然是都市品类的基石，强调快节奏的打脸与身份反差。\n**读者偏好**：读者更倾向于具备强冲突、强爽感设定的作品，特别是带短剧改编背书的爆款文。\n**变动解读**：《医武双绝》凭借经典套路回升，显示出读者对高浓度爽点的持续买单；《镇狱狂龙》虽有下滑，但依靠短剧流量标签，长尾效应依然稳固。\n**值得关注**：短剧原著类作品在都市赛道的吸睛能力，建议作者在创作时强化“爆爽”标签与前三章的钩子。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 8,
         "title": "医武双绝：下山捡个总裁当老婆",
         "book_id": 11745600,
         "url": "https://www.qimao.com/shuku/11745600/",
@@ -62,24 +57,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "126.74万字",
-        "word_count": 1267400,
+        "word_count_text": "128.17万字",
+        "word_count": 1281700,
         "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第519章  巨额财富",
-        "updated_at": "2026-09-29 00:12:16",
+        "latest_chapter": " 第523章  灵石全部消失了",
+        "updated_at": "2026-09-30 00:12:17",
         "rank_change": 2,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -91,17 +86,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "340.19万字",
-        "word_count": 3401900,
-        "heat": 2,
+        "word_count_text": "340.89万字",
+        "word_count": 3408900,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1472章  只是朋友",
-        "updated_at": "2026-09-29 07:02:14",
-        "rank_change": -2,
-        "heat_change": 1,
+        "latest_chapter": " 第1475章  你们想的太复杂了",
+        "updated_at": "2026-09-30 07:02:14",
+        "rank_change": -1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

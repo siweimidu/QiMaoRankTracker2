@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "categories": [
     {
       "name": "都市高武",
@@ -62,6 +62,11 @@
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
+      "name": "明星娱乐",
+      "major": "都市",
+      "url": "api/categories/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
+    },
+    {
       "name": "衍生同人",
       "major": "N次元",
       "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
@@ -97,14 +102,14 @@
       "url": "api/categories/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
     },
     {
-      "name": "都市奇幻",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
-    },
-    {
       "name": "年代重生",
       "major": "现代言情",
       "url": "api/categories/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
+    },
+    {
+      "name": "都市奇幻",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "玄幻仙侠",
@@ -137,14 +142,14 @@
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
     },
     {
-      "name": "末世求生",
-      "major": "幻想言情",
-      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
-    },
-    {
       "name": "无限快穿",
       "major": "幻想言情",
       "url": "api/categories/latest/%E6%97%A0%E9%99%90%E5%BF%AB%E7%A9%BF.json"
+    },
+    {
+      "name": "末世求生",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
     }
   ]
 }

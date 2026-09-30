@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:53:45",
+  "generated_at": "2026-09-30T08:08:54",
   "boards": [
     {
       "slug": "boy-hot-date",
@@ -9,7 +9,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -31,7 +31,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -52,13 +52,14 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
         "乡村生活",
         "幻想修真",
         "恐怖灵异",
+        "明星娱乐",
         "架空历史",
         "热血校园",
         "现代军事",
@@ -75,7 +76,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -96,7 +97,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -118,7 +119,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -141,7 +142,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -162,7 +163,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -183,7 +184,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -200,7 +201,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -216,7 +217,7 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -234,7 +235,7 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -253,10 +254,9 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
-        "古代情缘",
         "宫闱宅斗",
         "年代重生",
         "总裁豪门",
@@ -272,7 +272,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "宫闱宅斗",
@@ -290,7 +290,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -308,7 +308,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-09-29",
+      "latest_date": "2026-09-30",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -318,6 +318,7 @@
         "无限快穿",
         "末世求生",
         "玄幻仙侠",
+        "种田经商",
         "都市奇幻"
       ]
     }

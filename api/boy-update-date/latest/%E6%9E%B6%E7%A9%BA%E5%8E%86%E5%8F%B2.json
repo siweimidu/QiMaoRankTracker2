@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 6,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,20 +21,20 @@
       "dropped_books": [],
       "top_risers": [
         {
+          "title": "我爹让我弑君，陛下却把公主赐给我",
+          "book_id": 11895729,
+          "rank_change": 1
+        },
+        {
           "title": "公主退婚？我买下了满朝文武",
           "book_id": 12878790,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
           "title": "医仙，将军，少年侯！谁与争锋！",
           "book_id": 12371697,
-          "rank_change": -3
-        },
-        {
-          "title": "我爹让我弑君，陛下却把公主赐给我",
-          "book_id": 11895729,
           "rank_change": -1
         }
       ],
@@ -42,20 +42,15 @@
         {
           "title": "医仙，将军，少年侯！谁与争锋！",
           "book_id": 12371697,
-          "heat_change": 2
+          "heat_change": -2
         },
         {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "heat_change": -1
-        },
-        {
-          "title": "我爹让我弑君，陛下却把公主赐给我",
-          "book_id": 11895729,
+          "title": "公主退婚？我买下了满朝文武",
+          "book_id": 12878790,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：历史类题材正加速“去严肃化”，侧重于“权谋+反差+爽文”的融合，强调主角身份与外部环境的剧烈冲突。\n**读者偏好**：读者更倾向于“开局低谷、迅速翻盘”的叙事节奏，尤其是涉及“假太监”、“刺客伪装”等带有强戏剧张力的开局设定最受欢迎。\n**变动解读**：榜单热度集中在头部，竞争激烈，《公主退婚？我买下了满朝文武》凭借“败家子逆袭”的经典爽点成功上位，反映了读者对逆袭类爽剧的持续偏好。\n**值得关注**：以“医仙、将军、少年侯”为代表的复合身份设定展现了较强吸引力，尽管排名波动，但其热度积攒能力依然稳健。",
+      "summary": "**题材趋势**：以“身份错位”为核心的轻快爽文为主，融合了宫廷权谋、职业逆袭与婚恋反转等商业元素。\n**读者偏好**：读者青睐“扮猪吃虎”式的主角成长线，偏好从卑微身份通过智斗或特殊技能快速掌握核心资源的节奏。\n**变动解读**：榜单呈现温和波动，反转感较强的作品如《我爹让我弑君》更受市场青睐，反映出读者对强叙事动力作品的偏好。\n**值得关注**：兼具“反贼”与“驸马”双重身份的作品，通过身份冲突制造张力的模式，是当前提升留存的有效手段。",
       "ai_source": "ai"
     },
     "books": [
@@ -72,24 +67,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "116.48万字",
-        "word_count": 1164800,
+        "word_count_text": "117.2万字",
+        "word_count": 1172000,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第348章  济南沦陷，齐王跑路！",
-        "updated_at": "2026-09-29 00:32:04",
+        "latest_chapter": " 第350章  魏无忌发兵！",
+        "updated_at": "2026-09-30 00:32:05",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "我爹让我弑君，陛下却把公主赐给我",
         "book_id": 11895729,
         "url": "https://www.qimao.com/shuku/11895729/",
@@ -104,21 +99,21 @@
         "word_count_text": "94.15万字",
         "word_count": 941500,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
         "latest_chapter": " 第300章  我还是站在账旁边",
         "updated_at": "2026-09-28 08:12:07",
-        "rank_change": -1,
-        "heat_change": -1,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "公主退婚？我买下了满朝文武",
         "book_id": 12878790,
         "url": "https://www.qimao.com/shuku/12878790/",
@@ -130,16 +125,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.15万字",
-        "word_count": 371500,
-        "heat": 2,
+        "word_count_text": "37.73万字",
+        "word_count": 377300,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢回三百匹战马，也让沈浪一夜赚到近两千两白银。\n此后，毁容歌姬、疯癫匠人、落榜书生、逃亡老卒……那些被世人当成废物的人，全被他买回牙行，养成名动天下的大人物。\n多年以后，满朝文武排队登门，四方帝王重金求才。那位当年嫌他不学无术的公主才终于明白——她退掉的不是一个纨绔，而是一个能买下天下英雄的男人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4293/12878790_360x480.jpg?time=1784871732",
-        "latest_chapter": " 第183章  六十两买不到名字",
-        "updated_at": "2026-09-29 00:45:03",
-        "rank_change": 2,
+        "latest_chapter": " 第186章  半日卖给四家",
+        "updated_at": "2026-09-30 00:02:21",
+        "rank_change": 1,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
@@ -147,7 +142,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "医仙，将军，少年侯！谁与争锋！",
         "book_id": 12371697,
         "url": "https://www.qimao.com/shuku/12371697/",
@@ -159,17 +154,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "59.56万字",
-        "word_count": 595600,
-        "heat": 3,
+        "word_count_text": "60.01万字",
+        "word_count": 600100,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "杨胡穿越大承，成为边境小村庄内的一小郎中，本想靠着救人治病在这乱世当中讨个吃食，结果硬生生被塞进来了个国色天香的老婆。边塞环境艰苦，加张嘴更是加个负担，但是当其他人还风餐露宿的时候，杨胡携妻子早就住上军中大帐；当别人还在吃着糠咽菜时，杨胡通过救活富家子弟赚得盆满钵满；直到杨胡在村里捡了个女将军，至此杨胡领营大帐，破蛮族，灭六国，一统边境被封万户少年候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
-        "latest_chapter": " 第258章  残旗",
-        "updated_at": "2026-09-29 00:12:15",
-        "rank_change": -3,
-        "heat_change": 2,
+        "latest_chapter": " 第260章  读坳",
+        "updated_at": "2026-09-30 00:12:16",
+        "rank_change": -1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

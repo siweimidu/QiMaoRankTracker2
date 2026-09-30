@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 151000,
+    "total_heat": 145000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,17 +21,23 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "山野诡闻笔记",
-          "book_id": 214783,
-          "rank_change": 1
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "rank_change": 4
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "山野诡闻笔记",
           "book_id": 214783,
-          "heat_change": 4000
+          "heat_change": -8000
         },
         {
           "title": "民间诡闻实录",
@@ -39,12 +45,12 @@
           "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：民俗恐怖与奇门诡术题材保持高频活跃，内容聚焦于“民间禁忌”与“职业传承”的悬疑叙事。\n**读者偏好**：读者偏爱具有地域色彩和写实感的诡异故事，如“捞尸”、“接阴生”等职业化、单元剧式的民俗体验。\n**变动解读**：整体热度稳中有升，《山野诡闻笔记》凭借更强的叙事代入感实现排名攀升，展现了该赛道的强劲长尾效应。\n**值得关注**：以“第一人称”视角的民间实录类作品具有极高的用户粘性，建议关注此类“伪纪实”风格的叙事创新。",
+      "summary": "**题材趋势**：灵异民俗类题材进入“深度叙事”阶段，以第一人称视角讲述民间诡闻的纪实风写作手法，正成为该细分赛道的创作主流。\n**读者偏好**：读者对民俗禁忌、职业诡事（如接阴、捞尸）等带有强烈猎奇属性的单元剧式叙事需求旺盛。\n**变动解读**：榜内出现剧烈换位，显示出用户对不同风格诡闻的消费偏好在动态调整，《民间诡闻实录》的攀升印证了此类题材的口碑驱动特征。\n**值得关注**：头部作品热度出现波动，暗示读者对同质化内容的审美疲劳，创作者需在“诡异感”与“真实感”平衡上做差异化。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -58,22 +64,22 @@
         "status": "已完结",
         "word_count_text": "256.27万字",
         "word_count": 2562700,
-        "heat": 85000,
-        "platform_trend": "rise",
+        "heat": 77000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "rank_change": -1,
+        "heat_change": -8000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "奇门秘术"
       },
       {
-        "rank": 18,
+        "rank": 14,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -87,14 +93,14 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 66000,
+        "heat": 68000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 0,
+        "rank_change": 4,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -16,30 +16,13 @@
     "total_heat": 658000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "攀君",
-          "book_id": 12335439,
-          "intro": "【先婚后爱+甜宠+双洁】遭继妹算计，未婚夫悔婚，戚姝深陷流言，京城都传再没人会娶她。\n可当天，权倾朝野的摄政王却登门求娶。\n他说：“我无心情爱，你不会争风吃醋的性子，甚合我意。”\n戚姝当场应了。\n哪怕"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "rank_change": 4
-        },
-        {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "rank_change": 4
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：传统古言仍占据头部流量，题材偏向高冲突的“禁忌感”与“大女主爽文”模式。\n**读者偏好**：读者更青睐带有强戏剧张力的设定，如“寡妇借种”的伦理博弈或“退婚后团宠”的反差爽感。\n**变动解读**：榜单稳定性较强，两部头部作品通过高冲突剧情实现名次跃升，显示出读者对强情节驱动作品的持续买单。\n**值得关注**：高冲突、强人设的古言作品在存量竞争中更具长尾效应，叙事节奏与爽点铺设是决定排名的关键。",
+      "summary": "**题材趋势**：传统古言热度稳健，侧重“强人设+强冲突”的剧情驱动模式。\n**读者偏好**：读者热衷于反差感强烈的配置，如“寡妇与冷面权臣”的禁忌感，以及“大女主爽文”中多位高位男主簇拥的团宠设定。\n**变动解读**：本期榜单格局高度固化，现有两部作品热度壁垒明显，缺乏新晋黑马冲击。\n**值得关注**：两部作品均通过极端身份差与强情感张力留住核心用户，后续建议关注此类高情绪价值的剧情钩子设计。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,16 +39,16 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.55万字",
-        "word_count": 365500,
+        "word_count_text": "36.97万字",
+        "word_count": 369700,
         "heat": 362000,
         "platform_trend": "rise",
         "badge": "飙升61名",
         "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼她爬上了他的床。\n结束后，裴知珩神情冷淡：“待你怀孕，便结束关系，我会另娶旁人。”\n谢如棠攥紧手指，垂下眼帘。\n他心中有白月光，而她还惦记着亡夫，也好。\n只是不曾料到。\n待怀上子嗣后，妇人却转头变脸。\n谢如棠怀中抱着孩子，语气柔媚平淡，“二爷，你回裴府吧，我还要给元郎守着呢……”\n闻言，向来清心寡欲的权臣竟捏碎了手中的毛笔。\n走廊拐角，裴知珩掐着她的腰，指腹狠狠碾过，脸上再无高华冷淡的神色，“如果我非要在沈府里住下，不走了呢？”\n为了留住妇人的心，夜间他将她按在床榻上，“孩子都这般大了，不如再生一个吧，过去我说的不作数……”\n谢如棠咬牙切齿，将他轰了出去！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4215/12644022_360x480.jpg?time=1785777374",
-        "latest_chapter": " 第170章  她想恃宠而骄一次",
-        "updated_at": "2026-09-28 23:33:03",
-        "rank_change": 4,
+        "latest_chapter": " 第172章  好好备孕",
+        "updated_at": "2026-09-30 00:04:05",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,8 +68,8 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.71万字",
-        "word_count": 497100,
+        "word_count_text": "49.73万字",
+        "word_count": 497300,
         "heat": 296000,
         "platform_trend": "rise",
         "badge": "",
@@ -94,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
         "latest_chapter": " 第222章  这两个人都不是省油的灯",
         "updated_at": "2026-09-29 08:12:06",
-        "rank_change": 4,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

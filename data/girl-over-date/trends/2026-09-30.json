@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-30",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 185000,
+    "total_heat": 3700000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": 1
+          },
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "诱情染指，疯批宠娇入怀",
+            "book_id": 1876752,
+            "rank_change": -3
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": -1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -15000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": 14000
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": 13000
+          }
+        ],
+        "summary": "**题材趋势**：传统霸总叙事与“带球跑”、“追妻火葬场”等经典钩子深度融合，短剧改编联动效应显著。\n**读者偏好**：读者极度偏好强情绪冲突，如破镜重圆、带崽回归、先婚后爱等高频爽点，尤其钟情于“渣男悔悟”与“女主独立”的对比叙事。\n**变动解读**：榜单整体趋于稳固，头部作品热度波动反映了读者对老牌精品文的重温与追更，细分赛道内“带崽”类题材热度回升明显。\n**值得关注**：《八年冷淡你提离婚，我签字你疯什么》热度逆势增长，显示出读者对“离婚后极致打脸”题材的强烈共鸣。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": 1
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 155000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 8000
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「宫闱宅斗」《凤池生春》上升1位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+155000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -3000
+          },
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "**题材趋势**：年代文赛道头部效应显著，核心卖点高度聚焦于“强强联手”与“物资/好孕”等高爽点设定。\n**读者偏好**：读者热衷于身世反转、婚后甜宠及“病弱/绝嗣vs兵王”的反差人设，强调女主在艰苦年代的生存与逆袭。\n**变动解读**：榜单结构趋于稳固，新书《七零，易孕娇妻被绝嗣京少宠哭了》凭借强冲突的换婚开局顺利入榜，验证了快节奏爽文逻辑的有效性。\n**值得关注**：建议后续创作强化“物资囤积”与“先婚后爱”的深度融合，通过极致的宠溺感和身份差异化提升读者的留存率。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：都市奇幻赛道竞争进入存量博弈，带有民俗志怪、宿命论色彩的悬疑题材仍占据一定市场份额。\n**读者偏好**：偏向于具有强烈代入感的底层视角，特别是结合了“当铺”、“祭品”等神秘职业设定，满足读者的猎奇心理。\n**变动解读**：《阴当》排名上升，显示出该类题材在完结榜单中具有较强的长尾效应，受众黏性较高。\n**值得关注**：该类题材需持续挖掘本土化民俗符号，通过构建独特的职业体系与悬疑氛围，保持读者的持续阅读动力。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

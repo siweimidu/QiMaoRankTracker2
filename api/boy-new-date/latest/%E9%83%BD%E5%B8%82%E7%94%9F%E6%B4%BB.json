@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 58000,
+    "total_heat": 65000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "rank_change": 11
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 34000
+          "heat_change": 7000
         }
       ],
-      "summary": "**题材趋势**：年代文回潮明显，尤其是结合“重生+物资+复仇”元素的东北题材，在都市类目中具备极强的吸睛属性。\n**读者偏好**：读者更倾向于爽点密集、情绪价值极高的“虐渣复仇”叙事，对充满时代感的生存博弈类情节接受度高。\n**变动解读**：该书单日热度暴涨34000，排名大幅跃升11位，说明题材切中了当前读者的阅读爽点，具备极强的爆款潜质。\n**值得关注**：需重点观察其后续剧情中“反派打脸”与“生活经营”的节奏把控，这将决定其长线留存能力。",
+      "summary": "**题材趋势**：“年代文+重生复仇+生活流”热度持续攀升，尤其是带有时代烙印的“暴雪、邻居、物资”元素极具吸引力。\n**读者偏好**：读者热衷于主角重生后对前世遗憾的弥补与对恶人的“反向收割”，情绪张力极强。\n**变动解读**：该题材正处于上升期，凭借强烈的反差感与接地气的时代背景，展现出良好的增长势头。\n**值得关注**：年代生活题材在处理“物资匮乏背景”与“主角开挂”的平衡上，是当前吸引流量的关键点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -51,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.07万字",
-        "word_count": 360700,
-        "heat": 58000,
+        "word_count_text": "36.69万字",
+        "word_count": 366900,
+        "heat": 65000,
         "platform_trend": "rise",
-        "badge": "飙升11名",
+        "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第162章  周雪晴的自卑心思！",
-        "updated_at": "2026-09-28 22:42:03",
-        "rank_change": 11,
-        "heat_change": 34000,
+        "latest_chapter": " 第165章  开介绍信，结婚！",
+        "updated_at": "2026-09-29 19:59:04",
+        "rank_change": 1,
+        "heat_change": 7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

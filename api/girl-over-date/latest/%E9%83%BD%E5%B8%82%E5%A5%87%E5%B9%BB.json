@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
@@ -23,23 +23,17 @@
         {
           "title": "阴当",
           "book_id": 1979356,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "heat_change": 3000
-        }
-      ],
-      "summary": "**题材趋势**：都市奇幻类目表现出较强的韧性，民俗、灵异类细分题材仍具备良好的用户转化潜力。\n**读者偏好**：读者倾向于带有宿命感、悬疑元素及特殊职业背景（如当铺掌事）的成长型叙事。\n**变动解读**：《阴当》排名与热度双双上扬，证明在垂直赛道中，具备强记忆点的开篇与民俗设定能有效触发用户粘性。\n**值得关注**：该题材正处于上升期，具备爆款潜质，建议关注后续是否有同类题材作品跟进。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市奇幻赛道竞争进入存量博弈，带有民俗志怪、宿命论色彩的悬疑题材仍占据一定市场份额。\n**读者偏好**：偏向于具有强烈代入感的底层视角，特别是结合了“当铺”、“祭品”等神秘职业设定，满足读者的猎奇心理。\n**变动解读**：《阴当》排名上升，显示出该类题材在完结榜单中具有较强的长尾效应，受众黏性较高。\n**值得关注**：该类题材需持续挖掘本土化民俗符号，通过构建独特的职业体系与悬疑氛围，保持读者的持续阅读动力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 16,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 2,
-        "heat_change": 3000,
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

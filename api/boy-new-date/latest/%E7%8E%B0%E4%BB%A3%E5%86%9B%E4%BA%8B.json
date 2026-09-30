@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 36000,
+    "total_heat": 37000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "heat_change": 4000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：军事题材向“身份错位+个人奋斗”转型，高考状元身份被顶替的冲突性开局，极大地强化了读者的代入感。\n**读者偏好**：读者热衷于“强力反转”叙事，即通过主角在军队的耀眼成就，对曾经的压迫者实现降维打击。\n**变动解读**：尽管排名小幅下滑，但热度仍维持在4000的增量，反映出该书在细分赛道内仍有较强的读者韧性。\n**值得关注**：后续重点在于主角回家探亲后的冲突爆发点，能否将剧情推向高潮将决定该书能否重回上升通道。",
+      "summary": "**题材趋势**：军事题材正深度融合“都市逆袭”要素，通过高考身份被顶替等社会痛点增强代入感。\n**读者偏好**：读者偏好“参军成长流”，倾向于看到主角通过系统辅助快速获得军衔，实现对昔日仇敌的降维打击。\n**变动解读**：该书热度增长明显且排名蹿升，显示出读者对“身份置换+军事奋斗”这一叙事模型的极高兴趣。\n**值得关注**：此类“强矛盾+强反转”的军事爽文，是目前带动该品类热度增长的核心驱动力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 9,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -51,17 +51,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.64万字",
-        "word_count": 466400,
-        "heat": 36000,
+        "word_count_text": "47.49万字",
+        "word_count": 474900,
+        "heat": 37000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第188章  没意思，跟怪物比，有啥意思的？",
-        "updated_at": "2026-09-29 00:12:16",
-        "rank_change": -1,
-        "heat_change": 4000,
+        "latest_chapter": " 第192章  以后谁要是不服秦战阳，先来找我暴龙！",
+        "updated_at": "2026-09-30 00:12:17",
+        "rank_change": 2,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
