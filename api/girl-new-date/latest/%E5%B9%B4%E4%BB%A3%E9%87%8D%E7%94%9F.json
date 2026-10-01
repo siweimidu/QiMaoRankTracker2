@@ -8,55 +8,56 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 5,
-    "total_heat": 504000,
+    "count": 4,
+    "total_heat": 485000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
+          "book_id": 12454263,
+          "intro": "林晓晓重生了，重生到和堂姐一起定亲这一天！\n堂姐还要设计和她换亲！\n上一世，林晓晓表面嫁给军官丈夫，有儿有女家庭幸福。\n实际上婆婆磋磨，连生三女一子，不到五十岁就香消玉殒。\n重生归来，堂姐设计要抢妈宝"
+        }
+      ],
       "top_risers": [
         {
           "title": "军婚超甜！闪婚后成了首长的心尖宠",
           "book_id": 12803265,
-          "rank_change": 5
+          "rank_change": 3
         }
       ],
       "top_fallers": [
         {
           "title": "领证日一胎四宝，说好的绝嗣大佬呢？",
           "book_id": 12565836,
-          "rank_change": -6
-        },
-        {
-          "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
-          "book_id": 12454263,
-          "rank_change": -5
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "一胎五宝，我成军属院顶流",
+          "book_id": 12655653,
+          "heat_change": 18000
+        },
+        {
           "title": "错嫁随军：新婚夜冷面军少沦陷了",
           "book_id": 12792057,
-          "heat_change": -35000
+          "heat_change": -16000
         },
         {
-          "title": "领证日一胎四宝，说好的绝嗣大佬呢？",
-          "book_id": 12565836,
-          "heat_change": -12000
-        },
-        {
-          "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
-          "book_id": 12454263,
-          "heat_change": -8000
+          "title": "军婚超甜！闪婚后成了首长的心尖宠",
+          "book_id": 12803265,
+          "heat_change": 4000
         }
       ],
-      "summary": "「年代重生」《军婚超甜！闪婚后成了首长的心尖宠》上升5位领涨；《领证日一胎四宝，说好的绝嗣大佬呢？》下滑6位；《错嫁随军：新婚夜冷面军少沦陷了》热度-35000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：军婚题材占据绝对主流，多胎与系统加持是核心爽点。\n**读者偏好**：读者倾向于“反差逆袭”与“军属院生活”的沉浸式体验，对多子多福的设定有极高粘性。\n**变动解读**：《一胎五宝》热度稳健增长，显示此类题材在短时间内仍具备极强的流量吸引力。\n**值得关注**：《军婚超甜！》通过虐渣打脸与双强人设实现排名反超，证明纯爽文节奏在年代文中依然管用。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -72,17 +73,17 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.6万字",
-        "word_count": 346000,
-        "heat": 277000,
+        "word_count_text": "35.21万字",
+        "word_count": 352100,
+        "heat": 261000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二代，夫妻恩爱，风光无限。\n她自私懒惰嫁穷苦男配，丈夫还要爱慕女主。\n甚至为了救下扭伤的女主，任由她被横梁砸碎，落个惨死的结局。\n姜珍霓不想死，抗争后发现根本没办法摆脱剧情，她准备熬一熬。\n熬到剧情上线——\n等周厉骁爱上女主，她就可以离婚，以后好好爱自己。\n姜珍霓揉着酸痛的腰，抚着一天天大起来的肚子，看着蹲在水池边给她洗内衣的周厉骁，有些疑惑，他怎么还不去给女主当舔狗？？\n……\n本该嫁红二代，风光无限的江明月，背着孩子洗衣服，看着被周厉骁百般疼宠的姜珍霓彻底傻眼——\n她怎么也想不通，　明明红二代是属于她的姻缘，怎么阴差阳错，周厉骁才是隐藏的红二代？\n到底是哪一步出了错？\n【时代背景一九七八年】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4265/12792057_360x480.jpg?time=1784770379",
-        "latest_chapter": " 第168章  质疑周厉骁？你配吗！",
-        "updated_at": "2026-09-29 18:02:06",
+        "latest_chapter": " 第171章  都虚成这样了？！",
+        "updated_at": "2026-09-30 20:31:03",
         "rank_change": 0,
-        "heat_change": -35000,
+        "heat_change": -16000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -101,24 +102,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.73万字",
-        "word_count": 457300,
-        "heat": 146000,
+        "word_count_text": "46.35万字",
+        "word_count": 463500,
+        "heat": 164000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变成了一胎五宝，她又活了！\n恶毒原主造的孽，跟她什么关系？\n作为当红顶流，演戏可是她最擅长的。\n绿茶白月光蛊惑男主？绿茶谁不会啊，高冷老公秒变忠犬大狼狗。\n一家要被下放？她反手将陷害一家的人拉下水。\n被质疑肚子过大？不好意思，她一胎五宝，肚子大不正常么？\n自从她生下五宝，整个大院都沸腾了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
-        "latest_chapter": " 第190章  对不起，我为我犯下的错误，向你诚挚地道歉",
-        "updated_at": "2026-09-29 11:17:03",
+        "latest_chapter": " 第192章  瑶瑶，你相信有前世今生吗？",
+        "updated_at": "2026-09-30 11:47:03",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": 18000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 14,
+        "rank": 11,
         "title": "军婚超甜！闪婚后成了首长的心尖宠",
         "book_id": 12803265,
         "url": "https://www.qimao.com/shuku/12803265/",
@@ -130,24 +131,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.02万字",
-        "word_count": 450200,
-        "heat": 32000,
+        "word_count_text": "46万字",
+        "word_count": 460000,
+        "heat": 36000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军区活下来，\n阴差阳错，她住进了战功赫赫却冷厉可怖的团长商颂年的宿舍。\n原本只是一次偶然，却意外治好了这位极品军官严重的厌食症。\n从此以后，苏婉清成了商颂年的小厨娘……\n可日子一长，男人的眼神却越来越不对劲，吃醋、护短、甚至连她看别人一眼都要黑脸。\n直到有一天，平日里高高在上、令人闻风丧胆的商团长，把他的小厨娘抵在灶台边：“清清，我吃饱了，现在该喂你了……”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803265_360x480.jpg?time=1790125642",
-        "latest_chapter": " 第184章  这事不对劲",
-        "updated_at": "2026-09-30 00:12:11",
-        "rank_change": 5,
-        "heat_change": 6000,
+        "latest_chapter": " 第188章  迂回战术",
+        "updated_at": "2026-10-01 00:12:11",
+        "rank_change": 3,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "领证日一胎四宝，说好的绝嗣大佬呢？",
         "book_id": 12565836,
         "url": "https://www.qimao.com/shuku/12565836/",
@@ -161,44 +162,15 @@
         "status": "连载中",
         "word_count_text": "46.66万字",
         "word_count": 466600,
-        "heat": 27000,
+        "heat": 24000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "傅尧重生了，一睁眼回到了被渣男捉奸的那张床上。\n上辈子她满心欢喜上京领证，却被渣男未婚夫设计，和中了药的陌生男人滚了床单，当场被捉奸身败名裂！她被赶回乡下，怀的四胞胎被迫打胎，还给渣男爹妈当了一辈子老妈子。\n直到两个老东西咽气那天，她才知道一切都是渣男夫妇的算计。渣男为了攀上权贵，早就跟城里的高门贵女结了婚，为了骗婚的事情不败露，也为了自己的前途，他将中药的程霁送到了傅尧床上，一石二鸟。\n盛怒之下，傅尧提起杀猪刀，捅死了这对狗男女。\n看着面前熟睡的程霁，她红了眼眶，这辈子这冤大头爱谁当谁当，她不奉陪了。\n她决心扑到眼前这位权势滔天的教授程霁怀里。\n“程教授，这个证我们必须要领。”\n协议结婚，三年期满，互不打扰。\n程霁以为领证不过是权宜之计外加补偿。\n可傅尧的一句话却令程霁按捺不住了。\n“我怀了你的四胞胎。”\n“可是老婆，我，我绝嗣啊……”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565836_360x480.jpg?time=1782179948",
         "latest_chapter": " 第222章  恶有恶报",
         "updated_at": "2026-09-29 23:19:04",
-        "rank_change": -6,
-        "heat_change": -12000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 20,
-        "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
-        "book_id": 12454263,
-        "url": "https://www.qimao.com/shuku/12454263/",
-        "author": "星语月谈",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%98%9F%E8%AF%AD%E6%9C%88%E8%B0%88_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "41.72万字",
-        "word_count": 417200,
-        "heat": 22000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "林晓晓重生了，重生到和堂姐一起定亲这一天！\n堂姐还要设计和她换亲！\n上一世，林晓晓表面嫁给军官丈夫，有儿有女家庭幸福。\n实际上婆婆磋磨，连生三女一子，不到五十岁就香消玉殒。\n重生归来，堂姐设计要抢妈宝男窝囊废，林晓晓迫不及待跳出火坑。\n只是堂姐口中不行的冷淡猎户糙汉，为什么对她如此热情似火？\n——\n林盼娣觉得自己上当了。\n为什么辛苦抢来的堂妹夫是个什么都听他妈说的，从来不会护着媳妇，有事情还都怪媳妇的窝囊废？\n为什么前世一路高升的男人，今生却被被灰溜溜的赶出部队？\n为什么前世连碰都不愿意碰自己一下的糙汉子，今生却把堂妹宠上了天！\n——\n陆野视角：\n我有一个很喜欢很喜欢的姑娘。\n本以为我这一生都要被父亲临终嘱托的婚约困住。\n但上天眷顾，我的女孩她跨越了时间奔向了我。\n我想，我怎么爱她也不够！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4152/12454263_360x480.jpg?time=1782271753",
-        "latest_chapter": " 第197章  时半夏就不配有朋友！",
-        "updated_at": "2026-09-29 22:00:05",
-        "rank_change": -5,
-        "heat_change": -8000,
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

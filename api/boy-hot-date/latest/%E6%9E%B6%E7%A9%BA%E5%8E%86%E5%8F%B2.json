@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 1594000,
+    "total_heat": 1571000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,15 +21,15 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
+          "title": "边军悍卒",
+          "book_id": 1882754,
           "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "边关兵王",
-          "book_id": 1995023,
+          "title": "从骑奴到大乾武圣",
+          "book_id": 12465015,
           "rank_change": -1
         }
       ],
@@ -37,21 +37,21 @@
         {
           "title": "逍遥四公子",
           "book_id": 1809361,
-          "heat_change": 27000
+          "heat_change": -18000
         },
         {
           "title": "从骑奴到大乾武圣",
           "book_id": 12465015,
-          "heat_change": 13000
+          "heat_change": -3000
         },
         {
           "title": "边关兵王",
           "book_id": 1995023,
-          "heat_change": 8000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势** 架空历史题材呈现“爽文化”特征，穿越设定与权谋、武道、边关战争紧密结合，且与短剧改编生态深度捆绑，IP联动效应显著。\n**读者偏好** 读者偏爱“底层崛起”的阶层跨越感，尤其是带有“艳遇+武力征服”元素的爽文，能有效满足读者的代入感与成就感。\n**变动解读** 头部作品《逍遥四公子》依托短剧原著优势持续领跑，榜单内部热度流动活跃，显示出读者对“种田/战争+爽感升级”类作品的高度关注。\n**值得关注** 《从骑奴到大乾武圣》排名上升，说明在历史题材中，将“身份卑微”与“高武成长”结合的强反差叙事，具备极强的用户留存潜力。",
-      "ai_source": "ai"
+      "summary": "「架空历史」《边军悍卒》上升1位领涨；《从骑奴到大乾武圣》下滑1位；《逍遥四公子》热度-18000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -67,24 +67,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "621.07万字",
-        "word_count": 6210700,
-        "heat": 663000,
-        "platform_trend": "rise",
+        "word_count_text": "621.68万字",
+        "word_count": 6216800,
+        "heat": 645000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
-        "latest_chapter": " 第2928章  去不去由不得他",
-        "updated_at": "2026-09-30 07:02:20",
+        "latest_chapter": " 第2931章  这世上少了谁都行",
+        "updated_at": "2026-10-01 07:02:24",
         "rank_change": 0,
-        "heat_change": 27000,
+        "heat_change": -18000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "从骑奴到大乾武圣",
         "book_id": 12465015,
         "url": "https://www.qimao.com/shuku/12465015/",
@@ -96,17 +96,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "68.01万字",
-        "word_count": 680100,
-        "heat": 346000,
-        "platform_trend": "rise",
+        "word_count_text": "68.64万字",
+        "word_count": 686400,
+        "heat": 343000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
-        "latest_chapter": " 第319章  找到他们，然后杀了他们！",
-        "updated_at": "2026-09-29 07:59:04",
-        "rank_change": 1,
-        "heat_change": 13000,
+        "latest_chapter": " 第322章  三长老",
+        "updated_at": "2026-09-30 08:05:05",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -125,24 +125,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "288.85万字",
-        "word_count": 2888500,
-        "heat": 322000,
-        "platform_trend": "rise",
+        "word_count_text": "289.46万字",
+        "word_count": 2894600,
+        "heat": 320000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
-        "latest_chapter": " 第1397章  虚予实夺",
-        "updated_at": "2026-09-30 06:02:13",
-        "rank_change": -1,
-        "heat_change": 8000,
+        "latest_chapter": " 第1400章  再见秦羽",
+        "updated_at": "2026-10-01 06:02:12",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "边军悍卒",
         "book_id": 1882754,
         "url": "https://www.qimao.com/shuku/1882754/",
@@ -154,17 +154,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "412.35万字",
-        "word_count": 4123500,
+        "word_count_text": "412.77万字",
+        "word_count": 4127700,
         "heat": 263000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "大宗三年，冬。铁真族犯边，大宗王朝镇西军边城被困，战事吃紧。内有符王赵争，勾结黑巾盗起兵谋反，连下数城。\n大宗王朝顿时处在内忧外困，风雨飘摇之中。\n同年冬，林丰意外穿越至距边城八十里的胡西铺乡，岭兜子村烽火台，成为一名镇西军戍守烽火台的步弓手...\n同名有声小说全平台上线，头部主播领衔演播，欢迎收听！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
-        "latest_chapter": " 第1938章  又进一步",
-        "updated_at": "2026-09-29 08:57:14",
-        "rank_change": 0,
-        "heat_change": 8000,
+        "latest_chapter": " 第1940章  老本行生意",
+        "updated_at": "2026-09-30 08:27:15",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

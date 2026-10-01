@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 37000,
+    "total_heat": 35000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": 2
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "heat_change": 1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：军事题材正深度融合“都市逆袭”要素，通过高考身份被顶替等社会痛点增强代入感。\n**读者偏好**：读者偏好“参军成长流”，倾向于看到主角通过系统辅助快速获得军衔，实现对昔日仇敌的降维打击。\n**变动解读**：该书热度增长明显且排名蹿升，显示出读者对“身份置换+军事奋斗”这一叙事模型的极高兴趣。\n**值得关注**：此类“强矛盾+强反转”的军事爽文，是目前带动该品类热度增长的核心驱动力。",
+      "summary": "**题材趋势**：军事题材与“身世/打脸”元素深度结合，强调主角在军营中的成长与对外部压迫的阶梯式反击。\n**读者偏好**：读者热衷于“高考状元身份被顶替”这类强社会话题性开局，追求主角在军旅生涯中实现跨越式打脸的快感。\n**变动解读**：受限于书单竞争，该书热度出现下滑（-2000，排名↓1），显示此类强剧情向作品在缺乏新内容迭代时容易出现热度波动。\n**值得关注**：应重点挖掘“回家探亲”后的冲突爆发点，这是此类爽文能否留住读者的关键转折点。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -51,17 +51,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.49万字",
-        "word_count": 474900,
-        "heat": 37000,
-        "platform_trend": "rise",
+        "word_count_text": "48.12万字",
+        "word_count": 481200,
+        "heat": 35000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第192章  以后谁要是不服秦战阳，先来找我暴龙！",
-        "updated_at": "2026-09-30 00:12:17",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "latest_chapter": " 第195章  这次，用实弹？？？",
+        "updated_at": "2026-10-01 00:12:15",
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

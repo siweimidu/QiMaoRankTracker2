@@ -11,8 +11,8 @@
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
-      "rank": 7,
-      "heat": 1
+      "rank": 11,
+      "heat": 4
     }
   ],
   "history": [
@@ -177,6 +177,12 @@
       "b": "boy-update-date",
       "r": 7,
       "h": 1
+    },
+    {
+      "d": "2026-10-01",
+      "b": "boy-update-date",
+      "r": 11,
+      "h": 4
     }
   ]
 }

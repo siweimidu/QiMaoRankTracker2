@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 4,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "觉醒SSS安抚力，五个大佬争着宠",
-          "book_id": 12800163,
-          "rank_change": -4
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "觉醒SSS安抚力，五个大佬争着宠",
           "book_id": 12800163,
-          "heat_change": 3
+          "heat_change": -4
         }
       ],
-      "summary": "**题材趋势**：末世背景下叠加“恶女觉醒”与“1vN雄竞”元素，强调情感博弈而非单纯的生存竞争。\n**读者偏好**：读者倾向于观看女主在背叛与绝境中觉醒，并反向掌控多个大佬的修罗场剧情。\n**变动解读**：《觉醒SSS安抚力》排名下滑，虽热度有所回升，但面临榜单后段的竞争压力。\n**值得关注**：该题材正从传统的“打怪升级”转向“情感爽文”，角色间的修罗场张力是留存关键。",
+      "summary": "**题材趋势**：末世题材在女生频道表现疲软，目前仅靠融合“雄竞修罗场”与“恶女觉醒”元素的爽文勉强维持在榜。\n**读者偏好**：读者更倾向于将末世作为背景板，核心需求集中在女主异能觉醒后的身份反转与多男主情感博弈。\n**变动解读**：该小类整体热度归零且缺乏新作补充，显示出该赛道在当前平台女生频道的流量进入瓶颈期。\n**值得关注**：在末世设定下，如何通过极端的“虐渣”与“修罗场”提升读者的爽感反馈，是维持该类目留存的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.14万字",
-        "word_count": 321400,
-        "heat": 4,
-        "platform_trend": "drop",
+        "word_count_text": "32.55万字",
+        "word_count": 325500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【末世+变美+恶女觉醒+1vN+雄竞修罗场】\n\n　　基地长未婚夫认女主当未婚妻，让她这个原未婚妻沦为笑柄。\n       青梅竹马背叛她，帮女主监视她。\n       生死与共的队友抛弃她，选择去救更弱的女主。       \n       亲生哥哥废掉她的晶核，只因为女主更需要。\n       她才发现自己是一本小说的恶毒女配，注定众叛亲离，凄惨的死去。\n        她死遁丢弃了主角团，反而在反派团里混成了团宠。\n        隐鸷的反派们一个个被她驯化成粘人精。   \n       偏执阴鸷的蛇系小狼狗。\n       沉稳冷酷的狼系指挥官。\n       温柔矜贵的人夫感管家。\n       多情忧郁的鸟系双子星。\n       男主团们悔疯了，反派团把她护在怀里：“姝姝现在有我们了。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12800163_360x480.jpg?time=1784514032",
-        "latest_chapter": " 第156章  轮流陪护",
-        "updated_at": "2026-09-30 00:02:15",
-        "rank_change": -4,
-        "heat_change": 3,
+        "latest_chapter": " 第158章  好吧， 我也喜欢你",
+        "updated_at": "2026-10-01 00:02:11",
+        "rank_change": 0,
+        "heat_change": -4,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

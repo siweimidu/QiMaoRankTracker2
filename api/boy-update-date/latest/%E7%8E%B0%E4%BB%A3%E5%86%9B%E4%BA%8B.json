@@ -8,43 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "现代军事",
     "major": "军事",
-    "count": 2,
-    "total_heat": 4,
+    "count": 1,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
-          "rank_change": 4
+          "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖"
         }
       ],
-      "top_fallers": [],
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "heat_change": -2
-        },
-        {
-          "title": "四次入伍，我被军区拉进黑名单！",
-          "book_id": 12179937,
-          "heat_change": 2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：从传统的严肃军事向“系统流+兵王爽文”转型，突出主角在军旅生活中的“刺头”属性与超凡表现。\n**读者偏好**：读者热衷于“高考状元顶替”、“军营钉子户”等反常规设定，期待主角通过打脸或极具个性的成长实现热血逆袭。\n**变动解读**：《四次入伍，我被军区拉进黑名单！》热度飙升并领跑，说明带有强烈性格标签和反差感的叙事更具爆发力。\n**值得关注**：此类题材的生命力在于通过“不走寻常路”的军旅生涯，持续满足读者的情绪共鸣和爽感期待。",
+      "summary": "**题材趋势**：以“身份错位+军旅成长”为核心的强情节叙事，依旧是都市军事题材的流量密码。\n**读者偏好**：读者热衷于“打脸复仇+国家荣誉”双重快感的叠加，对角色因被排挤而爆发出的成长潜能有高度共鸣。\n**变动解读**：榜单流动性加剧，原先的“军营钉子户”题材书籍掉榜，显示读者对单一的军旅成长套路审美疲劳。\n**值得关注**：在保持爽感的同时，如何拓展军事题材的差异化切入点，是维持榜单竞争力的核心。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -56,48 +57,19 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.49万字",
-        "word_count": 474900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "48.12万字",
+        "word_count": 481200,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第192章  以后谁要是不服秦战阳，先来找我暴龙！",
-        "updated_at": "2026-09-30 00:12:17",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第195章  这次，用实弹？？？",
+        "updated_at": "2026-10-01 00:12:15",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "现代军事"
-      },
-      {
-        "rank": 15,
-        "title": "四次入伍，我被军区拉进黑名单！",
-        "book_id": 12179937,
-        "url": "https://www.qimao.com/shuku/12179937/",
-        "author": "因果逆转",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%A0%E6%9E%9C%E9%80%86%E8%BD%AC_14/",
-        "major": "军事",
-        "minor": "现代军事",
-        "major_id": 60,
-        "minor_id": 61,
-        "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "106.61万字",
-        "word_count": 1066100,
-        "heat": 4,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
-        "latest_chapter": " 第476章  我丁浩南又回来了，天狼有本事整死我！",
-        "updated_at": "2026-09-29 10:57:05",
-        "rank_change": 4,
-        "heat_change": 2,
-        "is_new": false,
-        "boards_count": 3,
         "stale_update": false,
         "category": "现代军事"
       }

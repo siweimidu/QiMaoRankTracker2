@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 65000,
+    "total_heat": 74000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 7000
+          "heat_change": 9000
         }
       ],
-      "summary": "**题材趋势**：“年代文+重生复仇+生活流”热度持续攀升，尤其是带有时代烙印的“暴雪、邻居、物资”元素极具吸引力。\n**读者偏好**：读者热衷于主角重生后对前世遗憾的弥补与对恶人的“反向收割”，情绪张力极强。\n**变动解读**：该题材正处于上升期，凭借强烈的反差感与接地气的时代背景，展现出良好的增长势头。\n**值得关注**：年代生活题材在处理“物资匮乏背景”与“主角开挂”的平衡上，是当前吸引流量的关键点。",
+      "summary": "**题材趋势**：年代文结合重生题材依然是都市赛道的流量压舱石，尤其是带有强冲突的“复仇+极品打脸”模式。\n**读者偏好**：读者更倾向于阅读具有鲜明时代印记（如1962东北山村）且开篇即具备高情绪价值的爽文。\n**变动解读**：该类目热度保持稳健增长（+9000），说明此类强人设的年代复仇文在七猫受众中拥有极高的黏性。\n**值得关注**：如何利用“白莲花”与“极品亲戚”等经典反派构建开篇冲突，是目前提升留存的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.69万字",
-        "word_count": 366900,
-        "heat": 65000,
+        "word_count_text": "37.41万字",
+        "word_count": 374100,
+        "heat": 74000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第165章  开介绍信，结婚！",
-        "updated_at": "2026-09-29 19:59:04",
-        "rank_change": 1,
-        "heat_change": 7000,
+        "latest_chapter": " 第168章  羡慕，嫉妒！",
+        "updated_at": "2026-09-30 21:58:03",
+        "rank_change": 0,
+        "heat_change": 9000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
