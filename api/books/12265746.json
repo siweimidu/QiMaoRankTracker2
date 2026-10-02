@@ -11,8 +11,8 @@
     {
       "board": "girl-new-month",
       "board_name": "女生新书月榜",
-      "rank": 3,
-      "heat": 909000
+      "rank": 16,
+      "heat": 502000
     }
   ],
   "history": [
@@ -405,6 +405,12 @@
       "b": "girl-new-month",
       "r": 3,
       "h": 909000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "girl-new-month",
+      "r": 16,
+      "h": 502000
     }
   ]
 }

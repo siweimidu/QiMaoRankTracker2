@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 373000,
+    "total_heat": 368000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "边关猎户，我粮肉满仓富甲一方",
           "book_id": 2093494,
-          "rank_change": -4
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": -7000
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -4000
-        },
         {
           "title": "边关猎户，我粮肉满仓富甲一方",
           "book_id": 2093494,
           "heat_change": -3000
+        },
+        {
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：历史题材呈现明显的“种田+权谋+争霸”融合趋势，强调差异化的经营爽点。\n**读者偏好**：读者更青睐“反套路”历史文，如从边疆切入或通过种田积累实力，拒绝枯燥的传统宫斗。\n**变动解读**：《边关猎户》排名大幅下滑且热度普降，显示出该类目在完结期缺乏新流量注入，进入了存量竞争阶段。\n**值得关注**：《打到北极圈了，你让我继承皇位？》凭借极具差异化的地理设定维持热度，是此类目目前的标杆。",
+      "summary": "**题材趋势**：历史题材正向“种田+权谋+轻喜”转型，重点突出“基建致富”与“皇子争斗”的差异化爽感。\n**读者偏好**：读者热衷于反差感强的人设，如“不务正业搞军权”或“战乱饥荒下的经营种田”，强调低开高走的爽快进程。\n**变动解读**：榜单结构极其稳定，各书排名变动幅度极小，显示出该品类在七猫平台拥有极高的用户忠诚度和阅读深度。\n**值得关注**：《边关猎户，我粮肉满仓富甲一方》通过经营与家庭线的结合展现了差异化魅力，是榜单中少有的轻快型历史作品。",
       "ai_source": "ai"
     },
     "books": [
@@ -71,7 +66,7 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -92,7 +87,7 @@
         "status": "已完结",
         "word_count_text": "350.25万字",
         "word_count": 3502500,
-        "heat": 96000,
+        "heat": 94000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
@@ -100,7 +95,7 @@
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
         "rank_change": 0,
-        "heat_change": -7000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -122,21 +117,21 @@
         "word_count_text": "284万字",
         "word_count": 2840000,
         "heat": 72000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "边关猎户，我粮肉满仓富甲一方",
         "book_id": 2093494,
         "url": "https://www.qimao.com/shuku/2093494/",
@@ -150,14 +145,14 @@
         "status": "已完结",
         "word_count_text": "195.91万字",
         "word_count": 1959100,
-        "heat": 67000,
+        "heat": 64000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，家里又多了一张嘴了。\n为了照顾这些无家可归的小妾们，一心本该躺平宁远被迫走上狩猎为营生，开启广积粮，高筑墙，缓称王的幸福美满生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
         "latest_chapter": " 第823章  山高路远，还是那句话，江湖再见吧",
         "updated_at": "2026-09-23 23:31:09",
-        "rank_change": -4,
+        "rank_change": 1,
         "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,

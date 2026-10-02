@@ -8,18 +8,24 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 74000,
+    "total_heat": 83000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -28,12 +34,12 @@
           "heat_change": 9000
         }
       ],
-      "summary": "**题材趋势**：年代文结合重生题材依然是都市赛道的流量压舱石，尤其是带有强冲突的“复仇+极品打脸”模式。\n**读者偏好**：读者更倾向于阅读具有鲜明时代印记（如1962东北山村）且开篇即具备高情绪价值的爽文。\n**变动解读**：该类目热度保持稳健增长（+9000），说明此类强人设的年代复仇文在七猫受众中拥有极高的黏性。\n**值得关注**：如何利用“白莲花”与“极品亲戚”等经典反派构建开篇冲突，是目前提升留存的关键。",
+      "summary": "**题材趋势**：年代重生文在都市赛道表现稳健，强冲突的“复仇+生活”模式极具市场号召力。\n**读者偏好**：受众倾向于具有极强代入感的开篇，尤其是面对昔日仇敌的爽感反击与生存危机下的物质积累。\n**变动解读**：该书热度上涨9000，排名稳步提升，显示出其在七猫平台深厚的读者粘性与持续的裂变增长能力。\n**值得关注**：如何平衡年代背景下的“苦难叙事”与“爽文节奏”，是该类题材持续获客的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -45,19 +51,19 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.41万字",
-        "word_count": 374100,
-        "heat": 74000,
+        "word_count_text": "38.1万字",
+        "word_count": 381000,
+        "heat": 83000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第168章  羡慕，嫉妒！",
-        "updated_at": "2026-09-30 21:58:03",
-        "rank_change": 0,
+        "latest_chapter": " 第171章  周雪晴的改变！",
+        "updated_at": "2026-10-01 16:12:03",
+        "rank_change": 1,
         "heat_change": 9000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       }

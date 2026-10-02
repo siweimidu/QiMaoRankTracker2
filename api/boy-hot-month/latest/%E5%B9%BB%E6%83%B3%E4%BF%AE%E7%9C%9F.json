@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-hot-month",
+    "name": "男生大热月榜",
+    "channel": "male",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-10-02",
+  "category": {
+    "name": "幻想修真",
+    "major": "武侠仙侠",
+    "count": 1,
+    "total_heat": 7573000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "九转仙葫",
+          "book_id": 12212670
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：凡人流、苟道流等回归传统的修真文依然是市场主流，系统化标签辅助阅读趋势明显。\n**读者偏好**：读者热衷于“废柴逆袭+金手指进化”的成长模式，对杀伐果断、无系统但有独特外挂的设定接受度极高。\n**变动解读**：《九转仙葫》新上榜即占据榜单位置，证明了“凡人流+宝物进化”的经典组合在当前环境下仍具有精准的流量抓取能力。\n**值得关注**：新书入榜显示该细分品类仍有新血液注入，后续需观察其热度能否实现可持续增长。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 16,
+        "title": "九转仙葫",
+        "book_id": 12212670,
+        "url": "https://www.qimao.com/shuku/12212670/",
+        "author": "西山落尘",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%A5%BF%E5%B1%B1%E8%90%BD%E5%B0%98_14/",
+        "major": "武侠仙侠",
+        "minor": "幻想修真",
+        "major_id": 205,
+        "minor_id": 225,
+        "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "106.29万字",
+        "word_count": 1062900,
+        "heat": 7573000,
+        "platform_trend": "rise",
+        "badge": "飙升57名",
+        "intro": "【凡人流】【无系统】【杀伐果断】【苟道】\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成了顶级功法，而且这仙葫还能进化……\n仙葫九转，转转不同，一转净化万物，二转点石成金，提升功法……六转逆生死，九转定乾坤……而每一次仙葫进化，都需要海量的功德和元魂，顾长生右手执剑杀戮收集元魂，左手持盾庇护苍生积累功德，从此踏上一条逆天之路……\n从此我顾长生为苍生立命，为天地立心，为万世开太平……我为九葫之主，我为诸天至尊！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
+        "latest_chapter": " 第363章  宫主驾到",
+        "updated_at": "2026-10-01 12:01:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 3,
+        "stale_update": false,
+        "category": "幻想修真"
+      }
+    ]
+  }
+}

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 55000,
+    "total_heat": 54000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,34 +23,33 @@
         {
           "title": "下山即无敌，美女总裁逼我去领证！",
           "book_id": 12594795,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "book_id": 12594795,
-          "heat_change": 3000
+          "rank_change": 4
         },
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": -1000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：下山流与战神类题材依旧是都市品类的核心驱动力，爽点高度同质化。\n**读者偏好**：读者热衷于“无敌开局+美女总裁+婚约”的强冲突组合，对快节奏的扮猪吃虎式打脸有极高需求。\n**变动解读**：榜单呈现头部效应，头部作品通过更极致的“无敌”标签吸纳更多流量，拉开了与同类竞品的差距。\n**值得关注**：需警惕题材审美疲劳，创作者若能通过差异化的“金手指”设定或更具张力的开篇冲突，有望实现突围。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "heat_change": -2000
+        },
+        {
+          "title": "下山即无敌，美女总裁逼我去领证！",
+          "book_id": 12594795,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "**题材趋势**：题材高度聚焦“下山+退婚+美女总裁”的黄金公式，叙事模板化严重，强调主角的“无敌”设定与职场/豪门冲突。\n**读者偏好**：读者偏好“降维打击”式的爽快感，对“美女总裁”作为核心关联人物的设定有着近乎执着的阅读偏好。\n**变动解读**：两本在榜书均处于上升趋势，说明“高手下山”题材在都市分类中依然是吸引点击的刚需产品，变动幅度体现了内容同质化竞争下的用户分流。\n**值得关注**：此类书籍高度依赖“开局冲突”的快感，建议观察后续剧情如何处理“退婚”后的长线情感铺陈，以维持读者留存。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 7,
         "title": "下山即无敌，美女总裁逼我去领证！",
         "book_id": 12594795,
         "url": "https://www.qimao.com/shuku/12594795/",
@@ -62,24 +61,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.45万字",
-        "word_count": 424500,
-        "heat": 34000,
+        "word_count_text": "42.94万字",
+        "word_count": 429400,
+        "heat": 35000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第149章  木系灵体，仙人墓葬开启！",
-        "updated_at": "2026-09-30 23:32:05",
-        "rank_change": 2,
-        "heat_change": 3000,
+        "latest_chapter": " 第151章  天师道传人？",
+        "updated_at": "2026-10-01 23:41:03",
+        "rank_change": 4,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -91,19 +90,19 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.53万字",
-        "word_count": 265300,
-        "heat": 21000,
+        "word_count_text": "26.97万字",
+        "word_count": 269700,
+        "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第120章  谁阻拦我报仇，便是我林峰的仇人",
-        "updated_at": "2026-10-01 05:02:03",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第122章  花拳绣腿，中看不中用",
+        "updated_at": "2026-10-02 05:02:02",
+        "rank_change": 1,
+        "heat_change": -2000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       }

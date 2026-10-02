@@ -8,28 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 4,
-    "total_heat": 169000,
+    "count": 5,
+    "total_heat": 192000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "劝爹入赘公主府，玄学嫡女被团宠",
+          "book_id": 13123386
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
+          "title": "听女儿心声，侯夫人挺孕肚乱杀",
+          "book_id": 12800205,
           "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "听女儿心声，侯夫人挺孕肚乱杀",
-          "book_id": 12800205,
+          "title": "夺她入帐，惹上疯批权臣逃不掉",
+          "book_id": 10423605,
           "rank_change": -2
         },
         {
@@ -42,25 +47,25 @@
         {
           "title": "夺她入帐，惹上疯批权臣逃不掉",
           "book_id": 10423605,
-          "heat_change": -4000
+          "heat_change": -3000
+        },
+        {
+          "title": "侯府来了个小阎王，满朝权贵争又抢",
+          "book_id": 12479613,
+          "heat_change": -2000
         },
         {
           "title": "听女儿心声，侯夫人挺孕肚乱杀",
           "book_id": 12800205,
-          "heat_change": -2000
-        },
-        {
-          "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
-          "book_id": 12583887,
-          "heat_change": -2000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：宅斗与萌崽玄学、疯批权臣元素深度融合，侧重于“重生复仇”与“身份逆袭”。\n**读者偏好**：读者喜爱“心声流”带来的信息差爽感，以及“权势博弈下的极限拉扯”。\n**变动解读**：榜单整体热度回落，竞争进入存量博弈阶段，节奏紧凑的爽文更易获得读者青睐。\n**值得关注**：《侯府来了个小阎王》凭借萌崽玄学元素表现出色，是目前细分领域中极具竞争力的创新方向。",
+      "summary": "**题材趋势**：玄学元素与“胎儿心声”成为宅斗文的标配，通过超自然视角打破传统宅斗沉闷感。\n**读者偏好**：读者更倾向于“爽感前置”，即通过重生知晓剧情或利用玄学金手指，实现对反派的降维打击。\n**变动解读**：榜单结构稳定，新书《劝爹入赘公主府，玄学嫡女被团宠》的入榜进一步印证了“玄学+团宠”模式在宅斗类中的高转化率。\n**值得关注**：《听女儿心声，侯夫人挺孕肚乱杀》热度领跑，印证了“萌娃+护短女主”的组合是当前宅斗题材中极具增长潜力的方向。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "听女儿心声，侯夫人挺孕肚乱杀",
         "book_id": 12800205,
         "url": "https://www.qimao.com/shuku/12800205/",
@@ -72,17 +77,17 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.63万字",
-        "word_count": 466300,
-        "heat": 61000,
+        "word_count_text": "47.24万字",
+        "word_count": 472400,
+        "heat": 60000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边半生，每每看到母亲被欺更是气得要疯，在母亲死时以十世功德换来二人重生。\n       心声女儿来助力，季月如斗恶婆，惩小姑，养废一双继子女。\n       利用她的亲姐跟安顺侯更是没落得一个好下场。\n       母女二人一路上披荆斩棘，遇神杀神遇佛杀佛，自此走上人生巅峰。\n       顺王萧策一生偏执阴暗，可独独他的目光会被母女二人所吸引，一路上护着宠着，极尽偏爱。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12800205_360x480.jpg?time=1788544688",
-        "latest_chapter": " 第225章  报案",
-        "updated_at": "2026-09-30 08:27:04",
-        "rank_change": -2,
-        "heat_change": -2000,
+        "latest_chapter": " 第228章  是秋还是娇",
+        "updated_at": "2026-10-01 08:32:05",
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -101,24 +106,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.98万字",
-        "word_count": 449800,
-        "heat": 43000,
+        "word_count_text": "45.39万字",
+        "word_count": 453900,
+        "heat": 41000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第217章  闯鬼界，鬼王给仁宝当马骑",
-        "updated_at": "2026-10-01 06:02:06",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "latest_chapter": " 第219章  幼稚的鬼王，聪明的仁宝",
+        "updated_at": "2026-10-02 06:02:06",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "title": "夺她入帐，惹上疯批权臣逃不掉",
         "book_id": 10423605,
         "url": "https://www.qimao.com/shuku/10423605/",
@@ -130,17 +135,17 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.06万字",
-        "word_count": 430600,
-        "heat": 34000,
+        "word_count_text": "43.5万字",
+        "word_count": 435000,
+        "heat": 31000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
-        "latest_chapter": " 第199章  围困",
-        "updated_at": "2026-10-01 00:01:16",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "latest_chapter": " 第201章  她主动吻了他",
+        "updated_at": "2026-10-02 00:07:04",
+        "rank_change": -2,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -148,6 +153,35 @@
       },
       {
         "rank": 15,
+        "title": "劝爹入赘公主府，玄学嫡女被团宠",
+        "book_id": 13123386,
+        "url": "https://www.qimao.com/shuku/13123386/",
+        "author": "九汐公子",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E6%B1%90%E5%85%AC%E5%AD%90_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.87万字",
+        "word_count": 318700,
+        "heat": 30000,
+        "platform_trend": "rise",
+        "badge": "飙升31名",
+        "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼缠身，还被侯府榨干最后一丝价值，嫁给心有所属的宁王，最后被钉骨活埋，险些魂飞魄散。\n再次睁眼，姐姐调换了命签，顶着她的“荣华富贵命”，抢着跟娘嫁入侯府。\n原来姐姐也重生了。\n她以为，跟着爹就会在被贬途中被山匪砍死，跟着娘就能坐享侯府荣华？\n呵，殊不知，侯府才是龙潭虎穴。\n顾令窈很期待，侯府继姐换上姐姐的“刑克六亲命”后，侯府会是什么下场。\n而她一眼看破父亲与长公主姻缘线，劝爹入赘公主府，在家当福星团宠，在外当一卦难求的国师。\n这一世，她要复仇，要改变父亲、长公主和三位继兄的命运，找到前世恩人保他一世平安！\n当姐姐还在做着王妃梦时，她所在的侯府和她想嫁的王爷，都已被顾令窈送上了黄泉路！\n只是，她怎么报恩报着报着，被那位惊才绝艳的昭王殿下，按在了皇后宝座上？\n“既要报恩，前世我与你共赴黄泉，今生你与我同享皇权，如何？”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123386_360x480.jpg?time=1789283551",
+        "latest_chapter": " 第103章  六皇弟，跟窈灵县主赔罪！",
+        "updated_at": "2026-10-02 00:13:02",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 17,
         "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
         "book_id": 12583887,
         "url": "https://www.qimao.com/shuku/12583887/",
@@ -161,7 +195,7 @@
         "status": "连载中",
         "word_count_text": "48.5万字",
         "word_count": 485000,
-        "heat": 31000,
+        "heat": 30000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【娇媚心机小丫鬟+禁欲侯爷+甜宠+宅斗】\n前世，沈清禾被亲妹抢亲，只能给纨绔当通房，亲妹成了小侯爷的通房。\n　　可最终，小侯爷绝嗣，反而纨绔成了权倾朝野的首辅，亲妹嫉妒之下百般陷害，沈清禾郁郁而终。\n　　重来一次，亲妹选了纨绔，却不知沈清禾受了多少白眼，忍了多少冷淡才让纨绔一朝醒悟。\n　　沈清禾冷笑着看亲妹自作孽，转身去服侍了小侯爷。\n　　小侯爷向来不近女色，沈清禾刚靠近，他就立下规矩：不许擅自靠近，不许觊觎正室之位，不许对他生出非分之想。\n　　沈清禾欣然同意:只要生下子嗣，奴婢定不纠缠。\n她努力做好他白月光的替身，图钱图权就是不图他真心。\n　　后来，她刚生下全镇国侯府翘首以盼的子嗣，小侯爷的白月光找上门。\n　　沈清禾当机立断拿着身契和数不清的银票，远赴江南，终于开启她的逍遥日子，\n　　谁知，那名震天下的小侯爷，却罕见地失了眠。",
@@ -169,9 +203,9 @@
         "latest_chapter": " 第173章  她越来越合他心意",
         "updated_at": "2026-09-30 23:49:03",
         "rank_change": -2,
-        "heat_change": -2000,
+        "heat_change": -1000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

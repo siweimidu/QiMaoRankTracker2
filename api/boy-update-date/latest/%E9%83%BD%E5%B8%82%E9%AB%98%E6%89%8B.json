@@ -8,39 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 5,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
+          "heat_change": -2
+        },
+        {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "heat_change": 2
+          "heat_change": -2
         }
       ],
-      "summary": "**题材趋势**：传统“下山流”与“复仇爽文”依然是赛道支柱，短剧IP转化成为拉动热度的核心引擎。\n**读者偏好**：读者极度追求极致的复仇快感与不拖泥带水的爽点，对“脑子寄存”类快节奏叙事表现出高粘性。\n**变动解读**：榜单呈现内卷态势，拥有短剧背书的《SSSSSSSSSSSSS级镇狱狂龙》凭极强的情绪价值实现强势反超。\n**值得关注**：IP联动对流量的撬动效果明显，后续创作应强化开篇的冲突密度与爽点释放效率。",
+      "summary": "**题材趋势** 题材高度同质化，依然围绕“下山/出狱+神医/高手+退婚/复仇”的经典三板斧展开，依赖强烈的标签引导读者。\n**读者偏好** 读者对“短剧联动”类作品表现出一定的关注度，但也伴随着极快的热度消耗，对套路化剧情的审美疲劳愈发明显。\n**变动解读** 该小类当前处于收缩状态，上榜作品极少且热度平平，显示出都市高手类题材在短剧化、碎片化阅读环境下的获客压力。\n**值得关注** 《SSSSSSSSSSSSS级镇狱狂龙》作为短剧原著，其市场号召力与内容表现的匹配度是后续判断该类目能否回暖的关键指标。",
       "ai_source": "ai"
     },
     "books": [
@@ -57,24 +56,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "129.61万字",
-        "word_count": 1296100,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "131.05万字",
+        "word_count": 1310500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第527章  太过凶残",
-        "updated_at": "2026-10-01 00:12:16",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第531章  万兽之王",
+        "updated_at": "2026-10-02 00:12:16",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -86,17 +85,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "341.57万字",
-        "word_count": 3415700,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "342.27万字",
+        "word_count": 3422700,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1478章  帮我发布一则新闻",
-        "updated_at": "2026-10-01 07:02:17",
-        "rank_change": 3,
-        "heat_change": 2,
+        "latest_chapter": " 第1481章  绝对配合",
+        "updated_at": "2026-10-02 07:02:18",
+        "rank_change": -1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

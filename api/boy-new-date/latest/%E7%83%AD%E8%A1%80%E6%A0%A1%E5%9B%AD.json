@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 31000,
+    "total_heat": 30000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "rank_change": -2
+          "rank_change": 2
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 校园重生题材持续占据品类头部，主打怀旧滤镜与多女主情感博弈。\n**读者偏好** 读者偏向于“重回过去+弥补遗憾+多线感情成长”的爽文逻辑，对特定年代背景（如2010年）有较强代入感。\n**变动解读** 榜单进入存量博弈阶段，头部作品排名小幅下滑，显示市场对单一模式的审美疲劳，缺乏新鲜血液注入。\n**值得关注** 后续需观察是否有融合科技、商业竞争等复合元素的创新型校园作品出现，以打破目前的题材同质化困境。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "**题材趋势**：校园重生文趋向“多女主+养成+年代怀旧”模式，精准击中读者对2010年代青春遗憾的补偿心理。\n**读者偏好**：读者偏好“养成系”爽感，即通过信息差降维打击，将未来的高位女性角色提前纳入个人势力范围。\n**变动解读**：尽管热度微幅下调，但排名依然逆势上浮，说明该作品在同类竞争中具备较强的防御力与口碑沉淀。\n**值得关注**：此类题材同质化较高，如何通过差异化的“忽悠”手段与角色互动设计维持新鲜感，是后续运营重心。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 12,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -45,19 +51,19 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.78万字",
-        "word_count": 287800,
-        "heat": 31000,
-        "platform_trend": "rise",
+        "word_count_text": "29.26万字",
+        "word_count": 292600,
+        "heat": 30000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第127章  《小幸运》三",
-        "updated_at": "2026-09-30 08:12:12",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第129章  就算是那种事情，咱姐妹也要一起！",
+        "updated_at": "2026-10-01 08:12:11",
+        "rank_change": 2,
+        "heat_change": -1000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "热血校园"
       }

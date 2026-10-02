@@ -8,26 +8,38 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 8932000,
+    "total_heat": 9503000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈期，市场头部效应显著，长线作品统治力极强。\n**读者偏好**：读者更青睐带有“微末崛起”与“爽点前置”色彩的武道争霸文，主角身份反差感是留存关键。\n**变动解读**：本期榜单零变动，反映出该细分领域竞争壁垒稳固，优质长篇作品占据绝对头部生态位。\n**值得关注**：需警惕题材同质化带来的用户审美疲劳，建议后续观察是否有破局类新书切入。",
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": 571000
+        }
+      ],
+      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台热度持续走高，具备极强的用户粘性。\n**读者偏好**：读者倾向于“开局即冲突”的强节奏叙事，特别是带有身份反差和征服感的爽文设定。\n**变动解读**：《大周第一武夫》排名稳步上行且热度增量显著，显示出该书在内容节奏和爽点铺排上极具竞争力，正处于上升期。\n**值得关注**：该题材目前呈现头部效应，单品强劲的榜单统治力反映了读者对高质量长线更新作品的追捧。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 11,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -39,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "219.22万字",
-        "word_count": 2192200,
-        "heat": 8932000,
-        "platform_trend": "drop",
+        "word_count_text": "219.87万字",
+        "word_count": 2198700,
+        "heat": 9503000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1013章  万御楼来人",
-        "updated_at": "2026-09-30 19:37:07",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1016章  妖海暴动",
+        "updated_at": "2026-10-01 20:41:08",
+        "rank_change": 2,
+        "heat_change": 571000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

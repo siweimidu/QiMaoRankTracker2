@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -2
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：该小类目前呈现极度冷清的滞涨状态，市场活跃度处于冰点，缺乏新鲜血液注入。\n**读者偏好**：读者对传统诡异民俗风题材的关注度持续走低，存量市场留存困难。\n**变动解读**：榜单仅存一书且热度持续下滑，显示该细分赛道正面临严重的流量流失，缺乏强有力的内容驱动。\n**值得关注**：需警惕该细分品类在平台流量分配中的优先级进一步下调，存量内容难以支撑长线增长。",
+      "summary": "**题材趋势** 民俗诡异与黑暗悬疑风格崛起，注重生存压力与压抑氛围的构建。\n**读者偏好** 偏好带有“规则怪谈”色彩的生存挑战，以及主角性格冷峻、反差感强的设定。\n**变动解读** 《天黑请点灯》凭借独特的世界观设定热度回升，证明在垂直类目中，强风格化的恐怖悬疑内容仍具备较强的用户粘性。\n**值得关注** 恐怖悬疑题材的差异化表现，建议后续观察此类题材在小众圈层的渗透率是否持续提升。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 7,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -45,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "485.53万字",
-        "word_count": 4855300,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "486.34万字",
+        "word_count": 4863400,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1774章  大巫医手笔，羽化药丹",
-        "updated_at": "2026-10-01 06:57:13",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第1777章  你有心吗，在哪儿呢？",
+        "updated_at": "2026-10-02 06:57:13",
+        "rank_change": 2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

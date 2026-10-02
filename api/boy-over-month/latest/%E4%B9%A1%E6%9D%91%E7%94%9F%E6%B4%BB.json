@@ -8,26 +8,44 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 5831000,
+    "count": 1,
+    "total_heat": 2095000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "重回77：我靠赶猎抓鱼，一人养三家",
+          "book_id": 9992436,
+          "intro": "杨枫重生77年，却意外多了三个前妻！\n温婉气质的语文老师，清纯可人的活泼小姨子，直爽白皙的川妹子……\n这样的前妻，他有三个！\n还是赶不走，打不跑，能和睦相处的那种！\n看着漏水的土房和空空如也的米缸，杨"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：年代文属性显著，核心叙事逻辑为“时代背景+生存挑战+家庭温情”，强调从困顿到富足的成长弧光。\n**读者偏好**：读者倾向于带有强烈“种田”属性的纪实感叙事，喜欢通过主角的物资积累与家庭修复获得情绪价值。\n**变动解读**：榜单保持静默状态，现有作品凭借扎实的年代背景与爽点铺陈，保持了稳定的用户粘性。\n**值得关注**：作品中融入的“特殊情感关系”（如多位前妻设定）显示出该题材在传统种田文基础上，正尝试加入更多戏剧冲突元素。",
+      "top_fallers": [
+        {
+          "title": "重回六十年代，从挖何首乌开始",
+          "book_id": 2064995,
+          "rank_change": -9
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "重回六十年代，从挖何首乌开始",
+          "book_id": 2064995,
+          "heat_change": -1320000
+        }
+      ],
+      "summary": "**题材趋势**：年代种田文热度出现明显分化，读者对该类题材的审美疲劳度有所上升。\n**读者偏好**：读者倾向于带有强烈情感救赎与家庭温情色彩的“重生致富”叙事，对纯粹的资源挖掘类内容兴趣减弱。\n**变动解读**：该小类面临较大冲击，榜单出现流失，头部作品热度大幅下滑，显示出该细分赛道正经历完结后的流量衰退期。\n**值得关注**：年代文如何通过差异化的人物关系设定（如家庭羁绊）来维持读者的持续阅读欲望。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 18,
         "title": "重回六十年代，从挖何首乌开始",
         "book_id": 2064995,
         "url": "https://www.qimao.com/shuku/2064995/",
@@ -41,44 +59,15 @@
         "status": "已完结",
         "word_count_text": "213.39万字",
         "word_count": 2133900,
-        "heat": 3415000,
+        "heat": 2095000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "如果能重来一回，究竟能把日子过成什么样？\n上辈子，大雪封山时，妻女吃毒饺子自杀。\n杜建国悔恨不已，\n这辈子他誓要改变这一切。\n挖何首乌、抓獾子、冬捕大黑乌，熊瞎子也不放过。\n从人人喊打的赌徒，到富甲一方的大山户。\n杜建国搂着媳妇，抱着闺女。\n这日子，过的巴适的很~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
         "latest_chapter": " 第1035章  十七年后",
         "updated_at": "2026-09-10 09:51:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
-        "category": "乡村生活"
-      },
-      {
-        "rank": 19,
-        "title": "重回77：我靠赶猎抓鱼，一人养三家",
-        "book_id": 9992436,
-        "url": "https://www.qimao.com/shuku/9992436/",
-        "author": "菌菇汤拌饭",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%8F%8C%E8%8F%87%E6%B1%A4%E6%8B%8C%E9%A5%AD_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "186.03万字",
-        "word_count": 1860300,
-        "heat": 2416000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "杨枫重生77年，却意外多了三个前妻！\n温婉气质的语文老师，清纯可人的活泼小姨子，直爽白皙的川妹子……\n这样的前妻，他有三个！\n还是赶不走，打不跑，能和睦相处的那种！\n看着漏水的土房和空空如也的米缸，杨枫咧嘴一笑。\n这一世，就让我上山赶猎，下水捞鱼，喂饱全家！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3331/9992436_360x480.jpg?time=1775389354",
-        "latest_chapter": " 第899章  大结局",
-        "updated_at": "2026-09-13 22:29:08",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -9,
+        "heat_change": -1320000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

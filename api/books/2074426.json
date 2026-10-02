@@ -6,19 +6,19 @@
   "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
   "minor": "王朝争霸",
   "status": "连载中",
-  "word_count_text": "219.22万字",
+  "word_count_text": "219.87万字",
   "latest": [
+    {
+      "board": "boy-hot-month",
+      "board_name": "男生大热月榜",
+      "rank": 11,
+      "heat": 9503000
+    },
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 13,
-      "heat": 294000
-    },
-    {
-      "board": "boy-hot-month",
-      "board_name": "男生大热月榜",
-      "rank": 13,
-      "heat": 8932000
+      "heat": 292000
     }
   ],
   "history": [
@@ -561,6 +561,18 @@
       "b": "boy-hot-month",
       "r": 13,
       "h": 8932000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "boy-hot-date",
+      "r": 13,
+      "h": 292000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "boy-hot-month",
+      "r": 11,
+      "h": 9503000
     }
   ]
 }

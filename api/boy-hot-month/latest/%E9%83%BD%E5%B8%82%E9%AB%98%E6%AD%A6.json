@@ -8,21 +8,33 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 2,
-    "total_heat": 49790000,
+    "count": 1,
+    "total_heat": 38538000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "我在都市修了个野仙",
+          "book_id": 2078908,
+          "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？"
+        }
+      ],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：都市高武类题材进入存量竞争阶段，头部效应显著，长尾效应较弱。\n**读者偏好**：读者更青睐“神医+无敌流”叠加元素，爽点直接、人设强硬的快节奏作品依然是市场核心。\n**变动解读**：本期榜单稳定性极高，无新书入局，头部作品《盖世神医》占据绝大部分流量份额。\n**值得关注**：需警惕榜单固化现象，后续作品若无强力爽点创新，很难撼动现有头部格局。",
+      "heat_leaders": [
+        {
+          "title": "盖世神医",
+          "book_id": 195958,
+          "heat_change": -4006000
+        }
+      ],
+      "summary": "**题材趋势** 市场进入存量博弈阶段，头部效应极度显著，单品统治力极强但缺乏新鲜血液涌入。\n**读者偏好** 读者对“神医+无敌”套路的爽感依赖度高，倾向于强冲突、快节奏的打脸型叙事。\n**变动解读** 榜单出现空缺，头部作品《盖世神医》热度小幅回调，反映出题材整体活跃度处于下行调整期。\n**值得关注** 需警惕题材同质化导致的用户审美疲劳，建议关注后续是否有具备新颖设定或强差异化的作品填补空缺。",
       "ai_source": "ai"
     },
     "books": [
@@ -39,48 +51,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "917.03万字",
-        "word_count": 9170300,
-        "heat": 42544000,
+        "word_count_text": "917.44万字",
+        "word_count": 9174400,
+        "heat": 38538000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4473章  杀准帝如宰鸡",
-        "updated_at": "2026-09-30 23:41:30",
+        "latest_chapter": " 第4475章  一波又起",
+        "updated_at": "2026-10-01 17:37:30",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -4006000,
         "is_new": false,
         "boards_count": 3,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 20,
-        "title": "我在都市修了个野仙",
-        "book_id": 2078908,
-        "url": "https://www.qimao.com/shuku/2078908/",
-        "author": "大温柔",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A7%E6%B8%A9%E6%9F%94_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "254.47万字",
-        "word_count": 2544700,
-        "heat": 7246000,
-        "platform_trend": "rise",
-        "badge": "飙升64名",
-        "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1226章  仙尸！",
-        "updated_at": "2026-09-30 22:45:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

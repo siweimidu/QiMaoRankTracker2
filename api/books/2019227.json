@@ -9,28 +9,28 @@
   "word_count_text": "132.17万字",
   "latest": [
     {
-      "board": "girl-over-month",
-      "board_name": "女生完结月榜",
-      "rank": 5,
-      "heat": 10015000
-    },
-    {
       "board": "girl-over-date",
       "board_name": "女生完结日榜",
       "rank": 6,
-      "heat": 192000
+      "heat": 186000
+    },
+    {
+      "board": "girl-over-month",
+      "board_name": "女生完结月榜",
+      "rank": 6,
+      "heat": 6879000
     },
     {
       "board": "girl-hot-month",
       "board_name": "女生大热月榜",
-      "rank": 13,
-      "heat": 10015000
+      "rank": 18,
+      "heat": 6879000
     },
     {
       "board": "girl-hot-date",
       "board_name": "女生大热日榜",
       "rank": 20,
-      "heat": 192000
+      "heat": 186000
     }
   ],
   "history": [
@@ -1089,6 +1089,30 @@
       "b": "girl-over-month",
       "r": 5,
       "h": 10015000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "girl-hot-date",
+      "r": 20,
+      "h": 186000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "girl-hot-month",
+      "r": 18,
+      "h": 6879000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "girl-over-date",
+      "r": 6,
+      "h": 186000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "girl-over-month",
+      "r": 6,
+      "h": 6879000
     }
   ]
 }

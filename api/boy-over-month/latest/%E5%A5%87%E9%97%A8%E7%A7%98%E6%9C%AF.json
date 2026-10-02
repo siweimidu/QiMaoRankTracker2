@@ -8,55 +8,49 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 7122000,
+    "total_heat": 4442000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：民俗志怪类作品占据绝对统治地位，内容高度聚焦于“民间禁忌”与“职业诡事”。\n**读者偏好**：读者热衷于具有强视觉冲击力和浓厚乡土气息的诡异叙事，偏好“第一人称”带来的沉浸式代入感。\n**变动解读**：榜单结构极度稳固，头部作品通过长线运营积累了深厚的热度护城河，短期内缺乏新晋挑战者。\n**值得关注**：需警惕该细分赛道题材同质化严重的问题，创作者需在民俗挖掘深度上寻求差异化突破。",
+      "top_risers": [
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "rank_change": 4
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": -11
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "heat_change": -2362000
+        },
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "heat_change": -318000
+        }
+      ],
+      "summary": "**题材趋势**：民间诡闻与民俗异事依然是该赛道的基石，通过具象化的职业（接阴婆、捞尸人）构建悬疑氛围是核心手法。\n**读者偏好**：读者偏好具备强烈民俗色彩和恐怖氛围的“单元剧”式叙事，对充满神秘感的传统技艺有高度探索欲。\n**变动解读**：榜单呈现明显的“头部洗牌”特征，两本书热度均大幅回撤，反映出灵异类题材在完结月榜中难以维持长久的高热度。\n**值得关注**：建议尝试将“民间传说”与“现代都市探险”进行更紧密的钩子衔接，以延缓读者的弃书率。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 4,
-        "title": "山野诡闻笔记",
-        "book_id": 214783,
-        "url": "https://www.qimao.com/shuku/214783/",
-        "author": "吴大胆",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%90%B4%E5%A4%A7%E8%83%86_14/",
-        "major": "奇闻异事",
-        "minor": "奇门秘术",
-        "major_id": 204,
-        "minor_id": 231,
-        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "256.27万字",
-        "word_count": 2562700,
-        "heat": 4517000,
-        "platform_trend": "rise",
-        "badge": "飙升26名",
-        "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
-        "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
-        "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "奇门秘术"
-      },
-      {
-        "rank": 16,
+        "rank": 12,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -70,17 +64,46 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 2605000,
+        "heat": 2287000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 4,
+        "heat_change": -318000,
         "is_new": false,
         "boards_count": 3,
+        "stale_update": true,
+        "category": "奇门秘术"
+      },
+      {
+        "rank": 15,
+        "title": "山野诡闻笔记",
+        "book_id": 214783,
+        "url": "https://www.qimao.com/shuku/214783/",
+        "author": "吴大胆",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%90%B4%E5%A4%A7%E8%83%86_14/",
+        "major": "奇闻异事",
+        "minor": "奇门秘术",
+        "major_id": 204,
+        "minor_id": 231,
+        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "256.27万字",
+        "word_count": 2562700,
+        "heat": 2155000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "山村乡野，诡事异闻。\n捞尸、上身、喝符水、扎纸人、五仙庙、问米过阴、阴山走蛟……\n我行走在人群和俗世之外，经历一件件常人难以窥见的隐秘诡异之事！\n现在，讲给你听。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
+        "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
+        "updated_at": "2024-05-11 07:57:09",
+        "rank_change": -11,
+        "heat_change": -2362000,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": true,
         "category": "奇门秘术"
       }

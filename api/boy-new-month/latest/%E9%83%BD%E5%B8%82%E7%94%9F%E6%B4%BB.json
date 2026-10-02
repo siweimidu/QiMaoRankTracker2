@@ -8,50 +8,61 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 814000,
+    "total_heat": 785000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "女总裁重生后，非逼我娶校花",
+          "book_id": 12625923,
+          "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！"
+        }
+      ],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市职场与情感羁绊类题材持续占据榜单高位，核心看点依然聚焦于“重生”、“女总裁”与“校花”等强冲突元素。\n**读者偏好**：读者倾向于爽感直接、具有强反差人设（如“叫妈”的伦理反转）以及轻快幽默的都市情感类叙事。\n**变动解读**：本期榜单保持高度稳定，该书凭借成熟的网文节奏与高辨识度的标题吸引力，维持了极高的市场热度。\n**值得关注**：在存量竞争环境下，此类融合了“软饭流”与“攻略流”的职场情感文仍是七猫平台的长青品类。",
-      "ai_source": "ai"
+      "summary": "「都市生活」新上榜 《暴雪1962，绝美邻居上门求肉》；《女总裁重生后，非逼我娶校花》 掉出榜单。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
-        "title": "女总裁重生后，非逼我娶校花",
-        "book_id": 12625923,
-        "url": "https://www.qimao.com/shuku/12625923/",
-        "author": "南风拂玉竹",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%8D%97%E9%A3%8E%E6%8B%82%E7%8E%89%E7%AB%B9_14/",
+        "rank": 7,
+        "title": "暴雪1962，绝美邻居上门求肉",
+        "book_id": 12972600,
+        "url": "https://www.qimao.com/shuku/12972600/",
+        "author": "七日一夜",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E6%97%A5%E4%B8%80%E5%A4%9C_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "50.28万字",
-        "word_count": 502800,
-        "heat": 814000,
+        "status": "连载中",
+        "word_count_text": "38.1万字",
+        "word_count": 381000,
+        "heat": 785000,
         "platform_trend": "rise",
-        "badge": "飙升31名",
-        "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！”\n秦兰：“叫什么秦总，叫妈！”\n本以为只要保密工作做得好，就能安心搞事业，谁知……\n孟青妍（纯欲校花）：“昨晚的事，不许说出去！就这一次！最后一次……”\n沈思琪（腹黑萝莉）：“既然你都和妍姐好过了……那我也要！”\n宋欢（高冷御姐）：“曹昱，青妍不知道我们的事吧？”\n傅月华（风韵美妇）：“她们都太年轻了，没什么经验。姐可不一样……”\n秦兰（丈母娘）：？？？我只让你搞定我女儿，你怎么把我闺蜜也一锅端了？！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4209/12625923_360x480.jpg?time=1782712739",
-        "latest_chapter": " 第210章  这里以后就是我们的家！（完）",
-        "updated_at": "2026-09-29 22:22:05",
+        "badge": "飙升32名",
+        "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
+        "latest_chapter": " 第171章  周雪晴的改变！",
+        "updated_at": "2026-10-01 16:12:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       }

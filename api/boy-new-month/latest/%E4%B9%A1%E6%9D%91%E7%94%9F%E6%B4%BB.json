@@ -8,26 +8,53 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 386000,
+    "count": 3,
+    "total_heat": 1438000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "重生57：开局傻子，白捡个漂亮媳妇",
+          "book_id": 13118376
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493,
+          "rank_change": 5
+        },
+        {
+          "title": "重回83：赶山猎熊发家致富",
+          "book_id": 12519594,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：以“重生年代+硬核发家”为主流，强调在特定历史背景下通过狩猎、采药或空间金手指实现阶级逆袭。\n**读者偏好**：读者热衷于极具地域特色（东北林场）的写实感，以及处理复杂人际关系（如寡妇、亲戚纠葛）的破局爽感。\n**变动解读**：榜单结构保持极高稳定性，存量作品在细分领域内已建立起稳固的读者粘性。\n**值得关注**：年代文的“年代感细节”与“生存危机感”是当前留存读者的关键，应进一步强化时代氛围的沉浸式塑造。",
+      "heat_leaders": [
+        {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493,
+          "heat_change": 321000
+        },
+        {
+          "title": "重回83：赶山猎熊发家致富",
+          "book_id": 12519594,
+          "heat_change": 293000
+        }
+      ],
+      "summary": "**题材趋势**：年代种田文持续升温，通过“重生+弥补遗憾”的怀旧滤镜，结合生存挑战与发家致富，构筑高代入感空间。\n**读者偏好**：读者偏好带有明显时代特征的叙事，如80年代、70年代背景，且对“开局被动受辱但迅速破局”的强节奏剧情尤为买账。\n**变动解读**：榜单呈现向上的良性循环，老书排名快速上升，说明该类目读者粘性高，对“打脸+改善生活”的爽点反馈积极。\n**值得关注**：生存压力（如饥荒、批斗）与个人奋斗的结合是目前的热门切入点，建议关注此类“压抑后的爆发”型作品。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 13,
         "title": "重回83：赶山猎熊发家致富",
         "book_id": 12519594,
         "url": "https://www.qimao.com/shuku/12519594/",
@@ -39,24 +66,24 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.35万字",
-        "word_count": 493500,
-        "heat": 228000,
+        "word_count_text": "49.97万字",
+        "word_count": 499700,
+        "heat": 521000,
         "platform_trend": "rise",
-        "badge": "飙升33名",
+        "badge": "",
         "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最后过劳惨死。重生回到1983年与爷爷进山的那天，这一次陈向阳不想后悔，不想有任何遗憾。他要守护家人，守护那个心爱的人，弥补所有遗憾。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4174/12519594_360x480.jpg?time=1781771131",
-        "latest_chapter": " 第238章  收松茸",
-        "updated_at": "2026-09-30 13:02:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第241章  又是一年秋",
+        "updated_at": "2026-10-01 12:22:03",
+        "rank_change": 3,
+        "heat_change": 293000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"
       },
       {
-        "rank": 20,
+        "rank": 15,
         "title": "重生七零资本家大少爷，开局被寡妇堵门",
         "book_id": 12779493,
         "url": "https://www.qimao.com/shuku/12779493/",
@@ -68,18 +95,47 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.33万字",
-        "word_count": 483300,
-        "heat": 158000,
+        "word_count_text": "48.75万字",
+        "word_count": 487500,
+        "heat": 479000,
         "platform_trend": "rise",
-        "badge": "飙升73名",
+        "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第226章    何所长，就你这态度还想要虎比？",
-        "updated_at": "2026-09-30 22:53:04",
+        "latest_chapter": " 第228章  何雅雯来访，姐姐不会谈恋爱了吧？",
+        "updated_at": "2026-10-01 23:05:05",
+        "rank_change": 5,
+        "heat_change": 321000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "乡村生活"
+      },
+      {
+        "rank": 17,
+        "title": "重生57：开局傻子，白捡个漂亮媳妇",
+        "book_id": 13118376,
+        "url": "https://www.qimao.com/shuku/13118376/",
+        "author": "天下龟一",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
+        "major": "都市",
+        "minor": "乡村生活",
+        "major_id": 203,
+        "minor_id": 48,
+        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.39万字",
+        "word_count": 313900,
+        "heat": 438000,
+        "platform_trend": "rise",
+        "badge": "飙升57名",
+        "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
+        "latest_chapter": " 第151章  打工不如打猎",
+        "updated_at": "2026-10-01 22:49:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"

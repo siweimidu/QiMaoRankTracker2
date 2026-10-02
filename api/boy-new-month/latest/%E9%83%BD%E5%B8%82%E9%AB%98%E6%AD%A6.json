@@ -8,55 +8,49 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 381000,
+    "total_heat": 1060000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：延续“下山/出狱即无敌”的经典模板，通过“医武双绝”与“多位绝色师尊/红颜”构建爽文宇宙。\n**读者偏好**：读者追求极致的战力表现，偏好主角在饱受压迫后，以绝对武力碾压世俗规则的复仇叙事。\n**变动解读**：榜单排名趋于静止，目前该赛道缺乏新鲜叙事逻辑的冲击，市场处于存量竞争阶段。\n**值得关注**：建议在“无敌流”的基础上引入更多元化的身份设定（如众神殿殿主等），以满足读者对强权身份的代入感需求。",
+      "top_risers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": 10
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "妖孽下山，医武双绝镇压全世界",
+          "book_id": 12873456,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "heat_change": 462000
+        },
+        {
+          "title": "妖孽下山，医武双绝镇压全世界",
+          "book_id": 12873456,
+          "heat_change": 217000
+        }
+      ],
+      "summary": "**题材趋势**：高武爽文回归经典套路，“刑满出狱”与“下山无敌”仍是流量的核心驱动力。\n**读者偏好**：读者高度聚焦于“身份反差”与“极致压制”，如从阶下囚到无敌强者的心理博弈，以及师承背景下的横推感。\n**变动解读**：《女子监狱五年》表现出极强的爆发力，排名大幅跃升，说明带有禁忌感和复仇爽点的开局极易引爆流量。\n**值得关注**：都市高武类目头部效应明显，竞争集中在如何以最快速度铺陈“出狱/下山”后的战力碾压节奏。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
-        "title": "妖孽下山，医武双绝镇压全世界",
-        "book_id": 12873456,
-        "url": "https://www.qimao.com/shuku/12873456/",
-        "author": "胖奇",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%83%96%E5%A5%87_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "49.28万字",
-        "word_count": 492800,
-        "heat": 218000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "“师父，我要是走了，以后谁伺候你们？”\n三位绝色师尊：“你还是留着精力，以后伺候你的老婆们和三位师姐吧！”\n秦锋实力已至巅峰，但仍旧身负血海深仇！\n为报仇，他以众神殿殿主的无敌实力碾压对手！\n天海乱，帝都震动，天下皆惊！\n他以无敌姿态向世界宣告：我来了！！！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4292/12873456_360x480.jpg?time=1784706958",
-        "latest_chapter": " 第229章  扶持刘刚上位！【第六更！】",
-        "updated_at": "2026-09-30 23:23:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 19,
+        "rank": 9,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -68,19 +62,48 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.95万字",
-        "word_count": 449500,
-        "heat": 163000,
+        "word_count_text": "45.94万字",
+        "word_count": 459400,
+        "heat": 625000,
         "platform_trend": "rise",
-        "badge": "",
+        "badge": "飙升10名",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第192章  一剑压服",
-        "updated_at": "2026-10-01 00:02:21",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第196章  酒后纠缠",
+        "updated_at": "2026-10-01 22:32:03",
+        "rank_change": 10,
+        "heat_change": 462000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 18,
+        "title": "妖孽下山，医武双绝镇压全世界",
+        "book_id": 12873456,
+        "url": "https://www.qimao.com/shuku/12873456/",
+        "author": "胖奇",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%83%96%E5%A5%87_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "49.92万字",
+        "word_count": 499200,
+        "heat": 435000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“师父，我要是走了，以后谁伺候你们？”\n三位绝色师尊：“你还是留着精力，以后伺候你的老婆们和三位师姐吧！”\n秦锋实力已至巅峰，但仍旧身负血海深仇！\n为报仇，他以众神殿殿主的无敌实力碾压对手！\n天海乱，帝都震动，天下皆惊！\n他以无敌姿态向世界宣告：我来了！！！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4292/12873456_360x480.jpg?time=1784706958",
+        "latest_chapter": " 第232章  死去的青龙，只是一个替身！",
+        "updated_at": "2026-10-01 22:18:03",
+        "rank_change": -1,
+        "heat_change": 217000,
+        "is_new": false,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

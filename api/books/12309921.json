@@ -6,13 +6,13 @@
   "intro": "十年前，叶家惨遭灭门。\n十年后，绝世天骄从昆仑山上走下。\n且看他带着三封婚书，强势纵横都市，路横推各路世家，携美娇妻看尽世间繁华。",
   "minor": "都市高手",
   "status": "连载中",
-  "word_count_text": "46.31万字",
+  "word_count_text": "46.94万字",
   "latest": [
     {
       "board": "boy-new-month",
       "board_name": "男生新书月榜",
-      "rank": 10,
-      "heat": 333000
+      "rank": 11,
+      "heat": 542000
     }
   ],
   "history": [
@@ -147,6 +147,12 @@
       "b": "boy-new-month",
       "r": 10,
       "h": 333000
+    },
+    {
+      "d": "2026-10-02",
+      "b": "boy-new-month",
+      "r": 11,
+      "h": 542000
     }
   ]
 }
