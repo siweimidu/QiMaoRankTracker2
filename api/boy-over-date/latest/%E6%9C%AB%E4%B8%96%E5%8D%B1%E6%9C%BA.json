@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 2,
-    "total_heat": 136000,
+    "total_heat": 125000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -37,20 +37,20 @@
         {
           "title": "末世，从吞尸体开始进化",
           "book_id": 2051697,
-          "heat_change": -4000
+          "heat_change": -8000
         },
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": 3000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：重生复仇与异能进化是末世题材的流量双引擎，强调杀伐果断的主角人设。\n**读者偏好**：读者倾向于带有“极致生存危机”与“系统化变强”元素的爽文，避世或沉重风格略显乏力。\n**变动解读**：《全球灾变之末日游戏》位次上升，而《末世，从吞尸体开始进化》热度回落，显示出用户更偏好节奏明快、带有游戏化设定的末世爽文。\n**值得关注**：题材内部分化明显，热度分流反映出读者对末世文“爽点”的迭代需求，创新进化流可能面临审美疲劳。",
+      "summary": "**题材趋势**：末世题材呈现“杀戮/进化”双驱动模式，强调极端环境下的生存博弈与个体成长。\n**读者偏好**：读者倾向于快节奏的进化升级流，对“吞噬”、“变强”等强刺激性爽点的接受度极高。\n**变动解读**：榜单整体热度下滑，两本书均出现不同程度的热度流失，显示该题材在当前阶段进入存量消化的平台期。\n**值得关注**：需关注具备强视觉冲击力和特殊进化路径（如吞噬）的作品，这类设定在末世题材中仍具备较强的留存能力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -64,22 +64,22 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 72000,
-        "platform_trend": "rise",
+        "heat": 69000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
         "rank_change": 1,
-        "heat_change": 3000,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "末世危机"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "title": "末世，从吞尸体开始进化",
         "book_id": 2051697,
         "url": "https://www.qimao.com/shuku/2051697/",
@@ -93,7 +93,7 @@
         "status": "已完结",
         "word_count_text": "212.61万字",
         "word_count": 2126100,
-        "heat": 64000,
+        "heat": 56000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万般凶煞，以牙为刃，撕开人族生路！\n【吞噬能量+9】\n【请选择加点方式：气血/精神力】",
@@ -101,7 +101,7 @@
         "latest_chapter": " 第745章  尾声",
         "updated_at": "2026-09-23 07:51:06",
         "rank_change": -2,
-        "heat_change": -4000,
+        "heat_change": -8000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

@@ -8,65 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
     "total_heat": 54821000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "让你当个替身，你咋君临天下",
-          "book_id": 12647139
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "让你冒充太子，你咋登基了？",
-          "book_id": 10297272,
-          "intro": "现代精英特工陈峰，拥有举世无双的模仿能力，以及过目不忘本领，却意外穿越为太子替身。\n无能太子为了应付皇帝检查：“现在去睡太子妃，事后赏你荣华富贵。”\n陈峰微微一笑：“你什么身份，竟敢跟本宫长得一模一样"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "rank_change": 3
-        },
-        {
-          "title": "边军悍卒",
-          "book_id": 1882754,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "边关兵王",
-          "book_id": 1995023,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "逍遥四公子",
-          "book_id": 1809361,
-          "heat_change": -4222000
-        },
-        {
-          "title": "边关兵王",
-          "book_id": 1995023,
-          "heat_change": -2580000
-        },
-        {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "heat_change": 739000
-        }
-      ],
-      "summary": "**题材趋势**：穿越+权谋+爽文模式为主流，IP联动（如网剧/短剧原著）成为提升热度的强力引擎，题材正向“草根逆袭”与“身份错位”方向倾斜。\n**读者偏好**：读者倾向于带有强烈冲突感和反差萌的设定，如“替身”、“骑奴”等开局，既满足了历史代入感，又兼具都市爽文的节奏。\n**变动解读**：《从骑奴到大乾武圣》凭借题材反差迅速爬升，新书《让你当个替身，你咋君临天下》上榜，显示出读者对“身份反转”类作品的追捧。\n**值得关注**：“替身/冒充”类题材在架空历史中展现出强劲的生命力，此类作品通过极端的开局设定，能有效拉动读者的好奇心与留存率。",
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：穿越权谋与边关热血成为核心命题，且“短剧原著”属性显著，IP联动趋势明显。\n**读者偏好**：读者倾向于“替身逆袭”、“边关崛起”以及“从底层到君临天下”的阶级跨越路径，对爽点密集、节奏明快的作品接受度高。\n**变动解读**：榜单结构保持静止，反映出当前历史类头部IP阵营已形成稳定的流量壁垒，读者阅读偏好趋于固定。\n**值得关注**：《让你当个替身，你咋君临天下》展现了“替身+反转”的强戏剧张力，是当前读者喜好的典型代表。",
       "ai_source": "ai"
     },
     "books": [
@@ -83,17 +39,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "622.31万字",
-        "word_count": 6223100,
+        "word_count_text": "622.92万字",
+        "word_count": 6229200,
         "heat": 21309000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
-        "latest_chapter": " 第2934章  七十岁正是闯的年纪",
-        "updated_at": "2026-10-02 07:02:24",
+        "latest_chapter": " 第2937章  爹爹又想抽你皇兄了",
+        "updated_at": "2026-10-03 07:02:23",
         "rank_change": 0,
-        "heat_change": -4222000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -112,17 +68,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "290.08万字",
-        "word_count": 2900800,
+        "word_count_text": "290.69万字",
+        "word_count": 2906900,
         "heat": 10085000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
-        "latest_chapter": " 第1403章  魔宗",
-        "updated_at": "2026-10-02 06:02:12",
-        "rank_change": -1,
-        "heat_change": -2580000,
+        "latest_chapter": " 第1406章  一年之期",
+        "updated_at": "2026-10-03 06:02:14",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -141,17 +97,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "69.25万字",
-        "word_count": 692500,
+        "word_count_text": "70.53万字",
+        "word_count": 705300,
         "heat": 9318000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
-        "latest_chapter": " 第325章  请侯爷允许我辞去总管之职",
-        "updated_at": "2026-10-01 09:06:05",
-        "rank_change": 3,
-        "heat_change": 739000,
+        "latest_chapter": " 第331章  再也没人是他的主子！",
+        "updated_at": "2026-10-03 07:54:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -170,17 +126,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "413.2万字",
-        "word_count": 4132000,
+        "word_count_text": "413.62万字",
+        "word_count": 4136200,
         "heat": 7746000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "大宗三年，冬。铁真族犯边，大宗王朝镇西军边城被困，战事吃紧。内有符王赵争，勾结黑巾盗起兵谋反，连下数城。\n大宗王朝顿时处在内忧外困，风雨飘摇之中。\n同年冬，林丰意外穿越至距边城八十里的胡西铺乡，岭兜子村烽火台，成为一名镇西军戍守烽火台的步弓手...\n同名有声小说全平台上线，头部主播领衔演播，欢迎收听！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
-        "latest_chapter": " 第1942章  大出血",
-        "updated_at": "2026-10-01 08:21:14",
-        "rank_change": 1,
-        "heat_change": -544000,
+        "latest_chapter": " 第1944章  是个大人物",
+        "updated_at": "2026-10-02 08:17:15",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -210,7 +166,7 @@
         "updated_at": "2026-10-02 08:11:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"

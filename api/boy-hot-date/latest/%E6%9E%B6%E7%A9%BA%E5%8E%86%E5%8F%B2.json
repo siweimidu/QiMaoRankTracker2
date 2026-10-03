@@ -8,44 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 1553000,
+    "total_heat": 1516000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "从骑奴到大乾武圣",
           "book_id": 12465015,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "从骑奴到大乾武圣",
-          "book_id": 12465015,
-          "heat_change": -5000
+          "rank_change": 3
         },
         {
           "title": "边关兵王",
           "book_id": 1995023,
-          "heat_change": -5000
+          "rank_change": 1
         },
+        {
+          "title": "边军悍卒",
+          "book_id": 1882754,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "逍遥四公子",
           "book_id": 1809361,
-          "heat_change": -4000
+          "heat_change": -26000
+        },
+        {
+          "title": "边关兵王",
+          "book_id": 1995023,
+          "heat_change": -19000
+        },
+        {
+          "title": "从骑奴到大乾武圣",
+          "book_id": 12465015,
+          "heat_change": 4000
         }
       ],
-      "summary": "「架空历史」《从骑奴到大乾武圣》下滑1位；《从骑奴到大乾武圣》热度-5000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：穿越历史与军旅战争题材为主流，且均具有较强的“短剧化”特征，内容呈现出高频次的改编联动与爽点前置。\n**读者偏好**：倾向于从卑微身份（骑奴、边卒）到武圣或兵王的晋升叙事，兼顾朝堂权谋与江湖快意，强调“开局即爽”的代入感。\n**变动解读**：头部书《逍遥四公子》依托影视联动稳坐榜首，其余书籍排名集体上浮，显示出该品类读者活跃度较好，粘性较强。\n**值得关注**：《从骑奴到大乾武圣》凭借极其直白、强冲突的底层逆袭爽感，热度逆市上涨，展现了传统男频文在下沉市场的生命力。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -61,24 +71,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "622.31万字",
-        "word_count": 6223100,
-        "heat": 641000,
+        "word_count_text": "622.92万字",
+        "word_count": 6229200,
+        "heat": 615000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
-        "latest_chapter": " 第2934章  七十岁正是闯的年纪",
-        "updated_at": "2026-10-02 07:02:24",
+        "latest_chapter": " 第2937章  爹爹又想抽你皇兄了",
+        "updated_at": "2026-10-03 07:02:23",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": -26000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 11,
+        "rank": 8,
         "title": "从骑奴到大乾武圣",
         "book_id": 12465015,
         "url": "https://www.qimao.com/shuku/12465015/",
@@ -90,24 +100,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "69.25万字",
-        "word_count": 692500,
-        "heat": 338000,
-        "platform_trend": "drop",
+        "word_count_text": "70.53万字",
+        "word_count": 705300,
+        "heat": 342000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "主母捉奸，主子躲进床底，让作为奴仆的陈实上床顶替！主母逼迫之下，陈实不得不假戏真做。但让他更没想到的是，事后主子又交给他一件差事，竟然让他……\n说好的奇遇，怎么都是艳遇，在一位位绝代佳人的扶持下，陈实从一介卑贱骑奴，成为大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1782281536",
-        "latest_chapter": " 第325章  请侯爷允许我辞去总管之职",
-        "updated_at": "2026-10-01 09:06:05",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "latest_chapter": " 第331章  再也没人是他的主子！",
+        "updated_at": "2026-10-03 07:54:05",
+        "rank_change": 3,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "边关兵王",
         "book_id": 1995023,
         "url": "https://www.qimao.com/shuku/1995023/",
@@ -119,24 +129,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "290.08万字",
-        "word_count": 2900800,
-        "heat": 315000,
+        "word_count_text": "290.69万字",
+        "word_count": 2906900,
+        "heat": 296000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
-        "latest_chapter": " 第1403章  魔宗",
-        "updated_at": "2026-10-02 06:02:12",
-        "rank_change": 0,
-        "heat_change": -5000,
+        "latest_chapter": " 第1406章  一年之期",
+        "updated_at": "2026-10-03 06:02:14",
+        "rank_change": 1,
+        "heat_change": -19000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "边军悍卒",
         "book_id": 1882754,
         "url": "https://www.qimao.com/shuku/1882754/",
@@ -148,17 +158,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "413.2万字",
-        "word_count": 4132000,
-        "heat": 259000,
-        "platform_trend": "drop",
+        "word_count_text": "413.62万字",
+        "word_count": 4136200,
+        "heat": 263000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "大宗三年，冬。铁真族犯边，大宗王朝镇西军边城被困，战事吃紧。内有符王赵争，勾结黑巾盗起兵谋反，连下数城。\n大宗王朝顿时处在内忧外困，风雨飘摇之中。\n同年冬，林丰意外穿越至距边城八十里的胡西铺乡，岭兜子村烽火台，成为一名镇西军戍守烽火台的步弓手...\n同名有声小说全平台上线，头部主播领衔演播，欢迎收听！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
-        "latest_chapter": " 第1942章  大出血",
-        "updated_at": "2026-10-01 08:21:14",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "latest_chapter": " 第1944章  是个大人物",
+        "updated_at": "2026-10-02 08:17:15",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

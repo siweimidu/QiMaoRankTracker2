@@ -8,33 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 1,
-    "total_heat": 83000,
+    "count": 2,
+    "total_heat": 99000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_books": [
         {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600,
-          "rank_change": 1
+          "title": "都重生了谁还老实创业啊？",
+          "book_id": 12594366
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 9000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：年代重生文在都市赛道表现稳健，强冲突的“复仇+生活”模式极具市场号召力。\n**读者偏好**：受众倾向于具有极强代入感的开篇，尤其是面对昔日仇敌的爽感反击与生存危机下的物质积累。\n**变动解读**：该书热度上涨9000，排名稳步提升，显示出其在七猫平台深厚的读者粘性与持续的裂变增长能力。\n**值得关注**：如何平衡年代背景下的“苦难叙事”与“爽文节奏”，是该类题材持续获客的关键。",
+      "summary": "**题材趋势**：复古年代文与重生搞钱流双雄争霸，强调“反击遗憾”与“时代红利”的双重爽感。\n**读者偏好**：读者偏好极具张力的复仇与利益掠夺叙事，如“绝美邻居/白莲花”的互动情节是吸引点击的核心钩子。\n**变动解读**：榜单扩容，新书《都重生了谁还老实创业啊？》通过“反套路”口号切入，证明了重生搞钱文在七猫生态中依然拥有极高的用户留存基础。\n**值得关注**：年代文的强互动叙事（邻里关系）与重生文的快节奏爽感，是后续都市生活类作品破圈的两个关键方向。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,19 +50,48 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.1万字",
-        "word_count": 381000,
-        "heat": 83000,
-        "platform_trend": "rise",
+        "word_count_text": "38.86万字",
+        "word_count": 388600,
+        "heat": 82000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第171章  周雪晴的改变！",
-        "updated_at": "2026-10-01 16:12:03",
-        "rank_change": 1,
-        "heat_change": 9000,
+        "latest_chapter": " 第174章  不许牛逼林支书！",
+        "updated_at": "2026-10-02 16:12:05",
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "都市生活"
+      },
+      {
+        "rank": 20,
+        "title": "都重生了谁还老实创业啊？",
+        "book_id": 12594366,
+        "url": "https://www.qimao.com/shuku/12594366/",
+        "author": "延延一笑",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%BB%B6%E5%BB%B6%E4%B8%80%E7%AC%91_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "38.77万字",
+        "word_count": 387700,
+        "heat": 17000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "互联网大亨魏东重生2000年，回到了被表哥踢出公司的那天。\n这一世，他只想做三件事：\n让父母不再抱憾离世，让白月光不再只是回忆，让上辈子的仇人破产倒闭。\n至于创业……都重生了，谁还老实创业？\n先来一招空手套白狼，再顺手牵羊、无中生有、趁火打劫、浑水摸鱼……总之，一切皆可白嫖，万物皆能变现。\n世人的非议？虚妄啊。\n等你遥遥领先，自有大儒为你强辩。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594366_360x480.jpg?time=1786101197",
+        "latest_chapter": " 第97章  当普信女碰到了普信男",
+        "updated_at": "2026-10-03 01:11:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       }

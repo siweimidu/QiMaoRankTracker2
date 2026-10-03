@@ -8,49 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
     "total_heat": 2059000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "葬仙塔，葬天，葬地，葬众仙",
-          "book_id": 12679578,
-          "intro": "“本座堂堂长夜大帝，竟然重生成了一条舔狗？”\n秦长夜重生洞房花烛夜，新娘正盛气凌人，发布婚前约法一百章，章章刀人心。\n“一粒小蜉蝣，也敢束青天？”\n秦长夜当场重振雄风，反手把欺辱他的新娘全家埋入葬仙塔"
-        },
-        {
-          "title": "掌握全村秘密，从渔夫到武圣！",
-          "book_id": 12203571,
-          "intro": "李念穿成为千湖县渔民，大哥下湖发生意外，留下漂亮的嫂子和小侄女。\n家中粮食被偷，没有过冬的粮食，邻居丰腴的张大嫂让他拉帮套。\n拉帮套？\n狗都不干！\n李念提着鱼竿就出了门。\n【每日情报系统加载完成】\n【"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "阴阳天帝诀",
-          "book_id": 12749622,
-          "rank_change": 3
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "阴阳天帝诀",
-          "book_id": 12749622,
-          "heat_change": 328000
-        }
-      ],
-      "summary": "**题材趋势**：传统“武道面板+草根逆袭”流派依旧稳固，同时伴有强爽感的“赘婿重生+掠夺升级”类题材回暖。\n**读者偏好**：读者更倾向于具备明确成长反馈（武道点、熟练度）及快节奏爽感（夺取修为、红颜炉鼎）的设定。\n**变动解读**：新书《长生猎户》凭借扎实的种田武道设定迅速登榜，而《阴阳天帝诀》凭借强烈的反派式爽感实现排名与热度的双重跃升。\n**值得关注**：生存压力下的底层变强路径（如猎户、赘婿）是当前吸引读者的核心切入点。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统玄幻元素依然稳固，系统流（武道面板）与重生赘婿流是当前市场的核心驱动力。\n**读者偏好**：读者热衷于“底层逆袭”与“数值成长”的爽感，对包含掠夺、反杀及多位红颜角色的剧情接受度极高。\n**变动解读**：榜单结构高度固化，头部作品热度断层明显，市场竞争进入存量博弈阶段，缺乏新晋爆款冲击。\n**值得关注**：武道面板带来的直观成长反馈，结合快节奏的打怪升级设定，仍是该品类拉动留存的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -67,18 +39,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.02万字",
-        "word_count": 480200,
+        "word_count_text": "48.83万字",
+        "word_count": 488300,
         "heat": 1482000,
         "platform_trend": "rise",
         "badge": "飙升23名",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第234章  惊天变故！云州府陷落！",
-        "updated_at": "2026-10-01 23:50:04",
+        "latest_chapter": " 第238章  巫蛊教大祭司！化丹强者！",
+        "updated_at": "2026-10-03 00:31:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
@@ -96,17 +68,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.08万字",
-        "word_count": 380800,
+        "word_count_text": "38.49万字",
+        "word_count": 384900,
         "heat": 577000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第179章  我会给你，留具全尸！",
-        "updated_at": "2026-10-01 21:48:03",
-        "rank_change": 3,
-        "heat_change": 328000,
+        "latest_chapter": " 第181章  雷家老祖，你还不出手？",
+        "updated_at": "2026-10-02 22:38:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

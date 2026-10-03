@@ -12,7 +12,7 @@
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
       "rank": 1,
-      "heat": 350000
+      "heat": 326000
     },
     {
       "board": "boy-over-month",
@@ -21,16 +21,16 @@
       "heat": 11245000
     },
     {
-      "board": "boy-hot-date",
-      "board_name": "男生大热日榜",
-      "rank": 8,
-      "heat": 350000
-    },
-    {
       "board": "boy-hot-month",
       "board_name": "男生大热月榜",
       "rank": 8,
       "heat": 11245000
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 10,
+      "heat": 326000
     }
   ],
   "history": [
@@ -1134,6 +1134,30 @@
     },
     {
       "d": "2026-10-02",
+      "b": "boy-over-month",
+      "r": 1,
+      "h": 11245000
+    },
+    {
+      "d": "2026-10-03",
+      "b": "boy-hot-date",
+      "r": 10,
+      "h": 326000
+    },
+    {
+      "d": "2026-10-03",
+      "b": "boy-hot-month",
+      "r": 8,
+      "h": 11245000
+    },
+    {
+      "d": "2026-10-03",
+      "b": "boy-over-date",
+      "r": 1,
+      "h": 326000
+    },
+    {
+      "d": "2026-10-03",
       "b": "boy-over-month",
       "r": 1,
       "h": 11245000

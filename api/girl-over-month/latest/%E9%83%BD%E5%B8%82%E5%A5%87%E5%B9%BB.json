@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "rank_change": -3
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "阴当",
-          "book_id": 1979356,
-          "heat_change": -2055000
-        }
-      ],
-      "summary": "**题材趋势**：民俗灵异与悬疑当铺类题材仍是该细分赛道的基石，强调宿命感与奇诡氛围的构建。\n**读者偏好**：读者倾向于带有强烈“天煞孤星”宿命设定及“职业传承”元素的成长型叙事。\n**变动解读**：头部作品热度出现显著回落，显示该赛道在完结期后流量自然衰减，缺乏新晋作品补位。\n**值得关注**：需警惕垂直赛道因缺乏新鲜血液注入而陷入存量博弈，建议挖掘更具差异化的民俗怪谈题材。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：民俗灵异与宿命论题材在女性市场依然具备长尾效应，强调主角身世的特殊性与职业神秘感。\n**读者偏好**：读者倾向于阅读带有“传统民俗”、“命理玄学”及“受气包逆袭”元素的都市奇幻作品。\n**变动解读**：榜单呈现高度稳定性，头部作品《阴当》凭借扎实的民俗铺陈稳居榜位，未见新竞品冲击。\n**值得关注**：此类题材需通过强烈的宿命冲突开篇，后续剧情中“掌事”身份的经营与民俗秘闻的探索是留存读者的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -60,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": -3,
-        "heat_change": -2055000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -8,63 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
     "total_heat": 7054000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "抱歉，我真的才高八斗",
-          "book_id": 12985194
-        },
-        {
-          "title": "饥荒年，我带领女囚上山称王",
-          "book_id": 12782937
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "我一人一刀，横扫边军",
-          "book_id": 12312078,
-          "intro": "谁能想到，穿越第一天，就差点被人下锅烹煮？\n大武王朝北境，林阳穿越而来便身陷死局。\n为了活命，他以命相搏，斩杀数名军卒，硬生生拿下了整座边堡。\n利用现代知识，开垦冻土发展大棚种植，发掘煤矿冶炼战刀铠甲"
-        },
-        {
-          "title": "纨绔县令",
-          "book_id": 12250128,
-          "intro": "李玄知一觉醒来，得到一个好消息和一个坏消息。\n好消息——穿成了京城伯府二公子，过着衣来伸手、饭来张口的好日子。\n坏消息——靠着“捐官”，也就是花钱买了个官位，正在赴任的路上。\n看着手里的官印，再看看外"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "斩佞，镇北，王天下！",
-          "book_id": 12722883,
-          "rank_change": 14
-        },
-        {
-          "title": "诗仙，诗圣，镇国公！",
-          "book_id": 11834034,
-          "rank_change": 1
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "诗仙，诗圣，镇国公！",
-          "book_id": 11834034,
-          "heat_change": 1487000
-        },
-        {
-          "title": "斩佞，镇北，王天下！",
-          "book_id": 12722883,
-          "heat_change": 1058000
-        }
-      ],
-      "summary": "**题材趋势**：架空历史类目前呈现“爽点前置+轻快叙事”的特征，穿越后的身份反差与金手指快速兑现成为核心卖点。\n**读者偏好**：读者更青睐“才华横溢型”主角（如诗仙、科举流）与“绝境反杀型”主角（如镇北、种田争霸），追求极致的逆袭快感。\n**变动解读**：《斩佞，镇北，王天下！》热度飙升，显示出读者对“家国情怀+家族复兴”强冲突题材的旺盛需求。\n**值得关注**：新上榜的《饥荒年，我带领女囚上山称王》引入了生存冒险元素，差异化的开局设定具备较强的留存潜力。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：以“爽文流”为主导，高度聚焦于权谋升级、家国情怀与世俗成就的结合。\n**读者偏好**：受众倾向于阅读带有“全能型”主角设定、且在朝堂与江湖间游刃有余的快节奏叙事。\n**变动解读**：榜单结构极其稳定，头部书籍热度断层明显，反映出该品类目前处于存量竞争阶段，缺乏强力新书冲击。\n**值得关注**：头部作品《诗仙，诗圣，镇国公！》凭借极高的热度占据统治地位，其文风与爽感设定是当前该细分领域的标杆。",
       "ai_source": "ai"
     },
     "books": [
@@ -81,17 +39,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.72万字",
-        "word_count": 477200,
+        "word_count_text": "48.16万字",
+        "word_count": 481600,
         "heat": 4260000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\n继母陷害，亲爹驱逐。\n本来只想做点小生意，潇洒的过完这一生，没想到……\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\n贪官污吏的克星，武林江湖的霸主，四方异族最严厉的父亲。陈长安：这也是我。\n醒掌天下权，醉卧美人膝，从被扫地出门开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
-        "latest_chapter": " 第219章  赵睿认输",
-        "updated_at": "2026-10-01 11:21:03",
-        "rank_change": 1,
-        "heat_change": 1487000,
+        "latest_chapter": " 第221章  奉旨编书",
+        "updated_at": "2026-10-02 16:31:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -110,19 +68,19 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.02万字",
-        "word_count": 500200,
+        "word_count_text": "50.65万字",
+        "word_count": 506500,
         "heat": 1261000,
         "platform_trend": "rise",
         "badge": "飙升14名",
         "intro": "北境一战，赵家一门十三将，尽殉北陲。\n赵慎行穿越而来，成为赵家仅剩血脉，六位嫂嫂为求自保，一同改嫁。\n然，大虞皇朝内部早已腐朽。内忧外患下，赵慎行持刀挽天倾。\n加冠后，他立字尚武，斩奸佞，护北疆。\n战火四起，诸子百家相继出山，各显神通。\n这是乱世，亦是盛世。\n群雄逐鹿中原，试问天下英雄，谁可终乱世，王天下？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4241/12722883_360x480.jpg?time=1785867384",
-        "latest_chapter": " 第173章  谨言拒后位，离蜀赴北",
-        "updated_at": "2026-10-01 22:37:03",
-        "rank_change": 14,
-        "heat_change": 1058000,
+        "latest_chapter": " 第175章  筹建水军，南医入北",
+        "updated_at": "2026-10-02 22:36:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
@@ -139,18 +97,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.01万字",
-        "word_count": 390100,
+        "word_count_text": "39.62万字",
+        "word_count": 396200,
         "heat": 1003000,
         "platform_trend": "rise",
         "badge": "飙升46名",
         "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗词？张口就是千古名篇。\n李安生发现！\n这个世界有钱又有才，真的可以为所欲为。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1790567965",
-        "latest_chapter": " 第182章  鱼儿上钩，跟我回家！",
-        "updated_at": "2026-10-01 12:12:05",
+        "latest_chapter": " 第185章  来自孙家的求救信",
+        "updated_at": "2026-10-02 12:02:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
@@ -168,18 +126,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.62万字",
-        "word_count": 436200,
+        "word_count_text": "44.21万字",
+        "word_count": 442100,
         "heat": 530000,
         "platform_trend": "rise",
         "badge": "飙升22名",
         "intro": "陈望北穿越成伪齐虎豹营小队正，奉命押送百名女眷前往两千里外的北蛮王城。\n北上是死，抗命也是死。\n暴风雪过后，他带着仅剩三十余人误入一座四季如春的山谷秘境。\n这里有前朝淮南王遗留的藏兵洞、百石陈粮、废弃军械，也有满山药材、盐矿温泉、野兽与未知古遗迹。\n陈望北立下铁律，带着一群原本十指不沾阳春水的女眷搭窝棚、挖山货、打猎开荒、制盐造皂、练弩自保。\n秘境之外，乱世烽烟，匪患横行；\n秘境之内，众人从苟活到安家，从一无所有到粮满仓、屋成片。\n待根基稳固，陈望北走出山谷，以黄精膏、荀草皂、精盐药材打开临水镇商路。\n灭土匪，开药铺、建商队，悄然织起一张横跨州县的商业网络。\n他不争天下，不拜诸侯，只想守住这一方桃源、护住身后之人。\n可当各方势力都盯上秘境财富，当北蛮铁骑南下他才发现：乱世之中，生意做大了，便再也无法置身事外。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4261/12782937_360x480.jpg?time=1784945464",
-        "latest_chapter": " 第158章  临水镇回不去了！",
-        "updated_at": "2026-10-02 07:31:03",
+        "latest_chapter": " 第160章  入侵山谷的敌人！",
+        "updated_at": "2026-10-03 07:55:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"

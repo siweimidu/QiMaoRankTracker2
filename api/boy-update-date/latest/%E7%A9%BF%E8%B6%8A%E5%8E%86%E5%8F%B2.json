@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "我率秦军三百万，为秦续命万万年",
-          "book_id": 9464730,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：传统历史架空题材在当前榜单中表现疲软，市场存量竞争特征明显。\n**读者偏好**：读者更倾向于“祖龙/秦朝”背景下的强权爽文，偏好主角拥有强大军事掌控力的剧情。\n**变动解读**：该类目仅存一本在榜书籍，且热度极低，反映出该细分赛道在七猫平台目前处于流量洼地。\n**值得关注**：需观察后续是否有具备强冲突、快节奏的秦汉历史新书入场，以激活该品类热度。",
+      "summary": "**题材趋势**：历史穿越类目目前进入存量博弈阶段，以“秦朝争霸”为核心的爽文模式仍是该小类的主力支撑。\n**读者偏好**：读者更青睐“扶苏逆袭”、“改变历史走向”的强情绪驱动型爽点，侧重于快节奏的政权夺取与军事扩张。\n**变动解读**：头部书籍面临热度流失，榜单缺乏新鲜血液注入，显示该品类短期内缺乏创新爆款带动。\n**值得关注**：重点观察此类“强设定、快节奏”的历史文在长周期内能否通过更新维持用户黏性，防止热度进一步萎缩。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "204.95万字",
-        "word_count": 2049500,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "205.59万字",
+        "word_count": 2055900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第939章  韩信：背水一战",
-        "updated_at": "2026-10-02 00:07:08",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第942章  识时务者为俊杰",
+        "updated_at": "2026-10-03 00:07:08",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

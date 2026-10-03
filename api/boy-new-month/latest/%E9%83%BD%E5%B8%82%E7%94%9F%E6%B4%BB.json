@@ -8,33 +8,22 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
     "total_heat": 785000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "女总裁重生后，非逼我娶校花",
-          "book_id": 12625923,
-          "intro": "曹昱只想找个月薪三千的工作实习，结果被重生的女总裁高薪录用。\n入职后才发现，自己的工作内容竟然是：泡她的校花女儿？！\n甚至，不择手段地把他和校花关在房间里。\n曹昱：“秦总，收手吧！外面全是学姐的闺蜜！"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市生活」新上榜 《暴雪1962，绝美邻居上门求肉》；《女总裁重生后，非逼我娶校花》 掉出榜单。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：年代文与重生复仇题材高度结合，通过“极寒环境”与“生存物资”的冲突构建初期阅读钩子。\n**读者偏好**：读者偏爱带有强烈怀旧色彩的时代背景，以及主角在困境中掌握生存主动权的“反击型”叙事。\n**变动解读**：榜单处于静止状态，说明当前头部内容在特定受众群体中具备极高的粘性与留存。\n**值得关注**：年代背景下的“生存竞争”是当前都市生活类目中极具爆发力的细分赛道。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -50,18 +39,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.1万字",
-        "word_count": 381000,
+        "word_count_text": "38.86万字",
+        "word_count": 388600,
         "heat": 785000,
         "platform_trend": "rise",
         "badge": "飙升32名",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第171章  周雪晴的改变！",
-        "updated_at": "2026-10-01 16:12:03",
+        "latest_chapter": " 第174章  不许牛逼林支书！",
+        "updated_at": "2026-10-02 16:12:05",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"

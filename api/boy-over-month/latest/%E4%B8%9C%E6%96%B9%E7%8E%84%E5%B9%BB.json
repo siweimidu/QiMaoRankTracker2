@@ -8,53 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
     "total_heat": 20553000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "rank_change": 12
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -2378000
-        },
-        {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "heat_change": 2005000
-        },
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": -359000
-        }
-      ],
-      "summary": "**题材趋势**：传统玄幻“废柴流”与“金手指”结合仍是核心，且近期“胎穿悟道”、“快节奏暴爽”等强设定元素表现抢眼。\n**读者偏好**：读者热衷于极具冲突感的开局，如退婚、被废、被背刺等强逆袭题材，对具备“多女主”、“无敌流”爽点的作品粘性极高。\n**变动解读**：《玲珑塔》强势突围，排名飙升12位，反映出融合女帝、快节奏与爽感的作品在存量市场中极具爆发力。\n**值得关注**：新入榜的《噬神鼎》证明了“皇陵/神器+炼化流”经典套路在七猫平台依然拥有稳定的受众基本盘。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统废柴流与“胎穿/系统”流深度融合，强调“开局即无敌”的爽感节奏。\n**读者偏好**：读者极度青睐“武魂被废+神秘金手指+极致反杀”的经典套路，对“女帝/多女主”等强互动元素接受度高。\n**变动解读**：本期榜单极其稳固，存量头部作品统治力强，短期内未见新晋黑马冲击格局。\n**值得关注**：以《荒古武神》为首的头部作品热度断层明显，显示出读者对“长线升级+快节奏暴爽”模式的强依赖。",
       "ai_source": "ai"
     },
     "books": [
@@ -81,7 +49,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -2378000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -109,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
-        "rank_change": 12,
-        "heat_change": 2005000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -138,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 3,
-        "heat_change": -359000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -169,7 +137,7 @@
         "updated_at": "2026-08-21 13:02:14",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -16,25 +16,13 @@
     "total_heat": 38538000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908,
-          "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "盖世神医",
-          "book_id": 195958,
-          "heat_change": -4006000
-        }
-      ],
-      "summary": "**题材趋势** 市场进入存量博弈阶段，头部效应极度显著，单品统治力极强但缺乏新鲜血液涌入。\n**读者偏好** 读者对“神医+无敌”套路的爽感依赖度高，倾向于强冲突、快节奏的打脸型叙事。\n**变动解读** 榜单出现空缺，头部作品《盖世神医》热度小幅回调，反映出题材整体活跃度处于下行调整期。\n**值得关注** 需警惕题材同质化导致的用户审美疲劳，建议关注后续是否有具备新颖设定或强差异化的作品填补空缺。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市高武类题材进入存量博弈期，头部效应极度集中，经典爽文模型占据绝对统治地位。\n**读者偏好**：核心受众偏好“神医+强者”的复合型爽点，倾向于阅读具有极高压制力、快节奏打脸的叙事风格。\n**变动解读**：榜单呈现高度固化状态，头部作品《盖世神医》热度稳健，短期内未见强力竞品冲击。\n**值得关注**：该题材已形成极高的入榜门槛，后续需观察此类长篇作品在长周期内的热度衰减率及是否有新作能通过破圈题材实现突围。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "917.44万字",
-        "word_count": 9174400,
+        "word_count_text": "917.85万字",
+        "word_count": 9178500,
         "heat": 38538000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4475章  一波又起",
-        "updated_at": "2026-10-01 17:37:30",
+        "latest_chapter": " 第4477章  金花婆婆！",
+        "updated_at": "2026-10-02 13:57:31",
         "rank_change": 0,
-        "heat_change": -4006000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

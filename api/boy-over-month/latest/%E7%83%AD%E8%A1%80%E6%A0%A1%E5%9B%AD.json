@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -19,34 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "rank_change": -6
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "heat_change": -1363000
-        },
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": -382000
-        }
-      ],
-      "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》上升3位领涨；《我和软萌女友的恋爱日常》下滑6位；《我和软萌女友的恋爱日常》热度-1363000。",
-      "ai_source": "rule"
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：校园题材向“怀旧重生”与“纯爱治愈”转型，商业崛起与青春恋爱并行的双线叙事成为主流。\n**读者偏好**：读者热衷于弥补青春遗憾的代入感，偏好“高甜”与“奋斗”结合的轻松阅读体验，对怀旧元素有天然好感。\n**变动解读**：榜单排名维持静态，显示出此类题材在“完结月榜”中受众群体极为固定，长尾效应极强。\n**值得关注**：在“重生+赚钱+恋爱”的成熟公式下，如何提升情感交互的细腻度，以差异化的人设标签吸引年轻读者。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -71,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 3,
-        "heat_change": -382000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -100,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": -6,
-        "heat_change": -1363000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

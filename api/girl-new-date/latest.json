@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "types": [
     {
       "name": "全部",
@@ -37,6 +37,10 @@
     {
       "name": "职场情缘",
       "url": "api/girl-new-date/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "异世幻想",
+      "url": "api/girl-new-date/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     }
   ]
 }

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -19,48 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -3
-        },
-        {
-          "title": "边关猎户，我粮肉满仓富甲一方",
-          "book_id": 2093494,
-          "rank_change": -2
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "边关猎户，我粮肉满仓富甲一方",
-          "book_id": 2093494,
-          "heat_change": -1785000
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -836000
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": -710000
-        }
-      ],
-      "summary": "**题材趋势**：种田争霸与权谋爽文为主流，侧重于“开局被贬/被弃”后的逆势崛起，侧重经营与军事爽感。\n**读者偏好**：读者更倾向于“利用现代知识降维打击”的爽文逻辑，同时对影视化、有声化改编的成熟IP具有较高的品牌认可度。\n**变动解读**：榜单头部出现回调迹象，整体热度有所下滑，显示出该品类在完结榜单中正面临周期性的流量退潮。\n**值得关注**：《打到北极圈了，你让我继承皇位？》凭借独特的边关经营视角实现反超，说明“冷门地缘+种田”题材具备差异化竞争优势。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：由传统的皇权争霸转向“基建+种田+反套路”模式，弱化宫斗，强化实业强国与个人爽点。\n**读者偏好**：读者偏爱“被贬/放逐+科技降维打击+富甲一方”的设定，对“不夺嫡、只搞钱/军权”的避世型爽文需求旺盛。\n**变动解读**：榜单结构稳定，作品热度分布均衡，多部作品已完成有声/短剧版权转化，显示出强劲的IP运营潜力。\n**值得关注**：商业化开发程度高的作品（如《世子无双》）在榜单中表现出极强的生命力，IP联动效应明显。",
       "ai_source": "ai"
     },
     "books": [
@@ -86,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 1,
-        "heat_change": -148000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -115,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
         "latest_chapter": " 第823章  山高路远，还是那句话，江湖再见吧",
         "updated_at": "2026-09-23 23:31:09",
-        "rank_change": -2,
-        "heat_change": -1785000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -144,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": -1,
-        "heat_change": -710000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -173,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -3,
-        "heat_change": -836000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

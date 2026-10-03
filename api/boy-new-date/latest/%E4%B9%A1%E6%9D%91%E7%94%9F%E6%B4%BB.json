@@ -8,70 +8,41 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 44000,
+    "total_heat": 37000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重生57：开局傻子，白捡个漂亮媳妇",
-          "book_id": 13118376,
-          "rank_change": 2
-        },
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "重生七零资本家大少爷，开局被寡妇堵门",
           "book_id": 12779493,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "重生七零资本家大少爷，开局被寡妇堵门",
           "book_id": 12779493,
-          "heat_change": -2000
+          "heat_change": -4000
+        },
+        {
+          "title": "重生57：开局傻子，白捡个漂亮媳妇",
+          "book_id": 13118376,
+          "heat_change": -3000
         }
       ],
-      "summary": "「乡村生活」《重生57：开局傻子，白捡个漂亮媳妇》上升2位领涨；《重生七零资本家大少爷，开局被寡妇堵门》热度-2000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：主打“年代文+重生+空间”的复合风口，通过“开局地狱模式”与“生活物资匮乏”的对比，增强读者的阅读代入感。\n**读者偏好**：读者偏好强冲突的开篇，如“寡妇堵门”、“傻子身份”等强互动性情节，期待主角在困境中通过金手指逆袭并改善生活。\n**变动解读**：榜单出现小幅震荡，热度普遍下滑，暗示该题材当前处于获客节奏放缓阶段，读者对同类套路的审美疲劳感初现。\n**值得关注**：需警惕过度依赖“开局被动”的剧情逻辑，如何在后续剧情中保持爽感升级将是留存的关键。",
+      "ai_source": "ai"
     },
     "books": [
-      {
-        "rank": 16,
-        "title": "重生七零资本家大少爷，开局被寡妇堵门",
-        "book_id": 12779493,
-        "url": "https://www.qimao.com/shuku/12779493/",
-        "author": "平安吖",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B9%B3%E5%AE%89%E5%90%96_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "48.75万字",
-        "word_count": 487500,
-        "heat": 22000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第228章  何雅雯来访，姐姐不会谈恋爱了吧？",
-        "updated_at": "2026-10-01 23:05:05",
-        "rank_change": 1,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "乡村生活"
-      },
       {
         "rank": 17,
         "title": "重生57：开局傻子，白捡个漂亮媳妇",
@@ -85,17 +56,46 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.39万字",
-        "word_count": 313900,
-        "heat": 22000,
-        "platform_trend": "rise",
+        "word_count_text": "32.22万字",
+        "word_count": 322200,
+        "heat": 19000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第151章  打工不如打猎",
-        "updated_at": "2026-10-01 22:49:03",
-        "rank_change": 2,
-        "heat_change": 0,
+        "latest_chapter": " 第155章  老村秘闻",
+        "updated_at": "2026-10-02 23:00:09",
+        "rank_change": 0,
+        "heat_change": -3000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "乡村生活"
+      },
+      {
+        "rank": 18,
+        "title": "重生七零资本家大少爷，开局被寡妇堵门",
+        "book_id": 12779493,
+        "url": "https://www.qimao.com/shuku/12779493/",
+        "author": "平安吖",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B9%B3%E5%AE%89%E5%90%96_14/",
+        "major": "都市",
+        "minor": "乡村生活",
+        "major_id": 203,
+        "minor_id": 48,
+        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "49.17万字",
+        "word_count": 491700,
+        "heat": 18000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
+        "latest_chapter": " 第230章  姐？脸红了？你是不是喜欢陈哥？",
+        "updated_at": "2026-10-02 23:03:03",
+        "rank_change": -2,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

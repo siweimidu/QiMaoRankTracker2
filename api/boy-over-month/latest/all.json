@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
-  "prev_date": "2026-10-01",
+  "date": "2026-10-03",
+  "prev_date": "2026-10-02",
   "books": [
     {
       "rank": 1,
@@ -34,7 +34,7 @@
       "latest_chapter": " 第3863章  另一个世界（大结局）",
       "updated_at": "2026-04-22 00:17:41",
       "rank_change": 0,
-      "heat_change": -2378000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 4,
       "stale_update": true,
@@ -63,7 +63,7 @@
       "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
       "updated_at": "2026-04-02 18:35:10",
       "rank_change": 0,
-      "heat_change": -1330000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -91,8 +91,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
       "latest_chapter": " 第2753章  前往上苍之上（大结局）",
       "updated_at": "2026-08-31 16:32:19",
-      "rank_change": 12,
-      "heat_change": 2005000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -120,8 +120,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
       "latest_chapter": " 第1257章  番外三：星辰大海",
       "updated_at": "2026-03-31 22:07:15",
-      "rank_change": 1,
-      "heat_change": -148000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -149,8 +149,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
       "latest_chapter": " 第823章  山高路远，还是那句话，江湖再见吧",
       "updated_at": "2026-09-23 23:31:09",
-      "rank_change": -2,
-      "heat_change": -1785000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -179,7 +179,7 @@
       "latest_chapter": " 第2590章  圆满。",
       "updated_at": "2025-12-15 11:18:20",
       "rank_change": 0,
-      "heat_change": -364000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -209,7 +209,7 @@
       "updated_at": "2026-09-05 12:02:13",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "都市高手"
@@ -236,8 +236,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
       "latest_chapter": " 第1634章  番外——十年后",
       "updated_at": "2025-03-03 00:03:29",
-      "rank_change": -1,
-      "heat_change": -710000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -265,8 +265,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
       "latest_chapter": " 第1077章  大结局",
       "updated_at": "2026-06-10 17:01:11",
-      "rank_change": 3,
-      "heat_change": -359000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -294,8 +294,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
       "latest_chapter": " 第1992章  讣告",
       "updated_at": "2025-12-10 14:02:20",
-      "rank_change": 3,
-      "heat_change": -382000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -325,7 +325,7 @@
       "updated_at": "2026-09-06 08:21:09",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "异世大陆"
@@ -352,8 +352,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
       "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
       "updated_at": "2021-10-12 11:14:06",
-      "rank_change": 4,
-      "heat_change": -318000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -381,8 +381,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
       "latest_chapter": " 第1063章  大结局（下）",
       "updated_at": "2026-03-08 01:17:14",
-      "rank_change": -3,
-      "heat_change": -836000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -410,8 +410,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
       "latest_chapter": " 第1338章  完结感言",
       "updated_at": "2023-02-18 08:11:26",
-      "rank_change": -6,
-      "heat_change": -1363000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -439,8 +439,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
       "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
       "updated_at": "2024-05-11 07:57:09",
-      "rank_change": -11,
-      "heat_change": -2362000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -470,7 +470,7 @@
       "updated_at": "2026-08-21 13:02:14",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "东方玄幻"
@@ -497,8 +497,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": 1,
-      "heat_change": -320000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -526,8 +526,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
       "latest_chapter": " 第1035章  十七年后",
       "updated_at": "2026-09-10 09:51:07",
-      "rank_change": -9,
-      "heat_change": -1320000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -546,17 +546,17 @@
       "minor_id": 61,
       "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
       "status": "连载中",
-      "word_count_text": "192.76万字",
-      "word_count": 1927600,
+      "word_count_text": "193.6万字",
+      "word_count": 1936000,
       "heat": 1960000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
-      "latest_chapter": " 第891章  对不起，这只是开胃菜！",
-      "updated_at": "2026-10-01 15:17:08",
-      "rank_change": -2,
-      "heat_change": -642000,
+      "latest_chapter": " 第895章  女武神与云豹携手，共战毛熊",
+      "updated_at": "2026-10-02 15:17:09",
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": false,
@@ -586,7 +586,7 @@
       "updated_at": "2026-08-17 18:03:16",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "都市高手"
@@ -599,46 +599,14 @@
       "count": 4,
       "total_heat": 20553000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "噬神鼎",
-            "book_id": 1868453
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "玲珑塔",
-            "book_id": 1754203,
-            "rank_change": 12
-          },
-          {
-            "title": "荒古圣体：在娘胎开始悟道",
-            "book_id": 1849458,
-            "rank_change": 3
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "荒古武神",
-            "book_id": 216404,
-            "heat_change": -2378000
-          },
-          {
-            "title": "玲珑塔",
-            "book_id": 1754203,
-            "heat_change": 2005000
-          },
-          {
-            "title": "荒古圣体：在娘胎开始悟道",
-            "book_id": 1849458,
-            "heat_change": -359000
-          }
-        ],
-        "summary": "**题材趋势**：传统玄幻“废柴流”与“金手指”结合仍是核心，且近期“胎穿悟道”、“快节奏暴爽”等强设定元素表现抢眼。\n**读者偏好**：读者热衷于极具冲突感的开局，如退婚、被废、被背刺等强逆袭题材，对具备“多女主”、“无敌流”爽点的作品粘性极高。\n**变动解读**：《玲珑塔》强势突围，排名飙升12位，反映出融合女帝、快节奏与爽感的作品在存量市场中极具爆发力。\n**值得关注**：新入榜的《噬神鼎》证明了“皇陵/神器+炼化流”经典套路在七猫平台依然拥有稳定的受众基本盘。",
+        "heat_leaders": [],
+        "summary": "**题材趋势**：传统废柴流与“胎穿/系统”流深度融合，强调“开局即无敌”的爽感节奏。\n**读者偏好**：读者极度青睐“武魂被废+神秘金手指+极致反杀”的经典套路，对“女帝/多女主”等强互动元素接受度高。\n**变动解读**：本期榜单极其稳固，存量头部作品统治力强，短期内未见新晋黑马冲击格局。\n**值得关注**：以《荒古武神》为首的头部作品热度断层明显，显示出读者对“长线升级+快节奏暴爽”模式的强依赖。",
         "ai_source": "ai"
       },
       "books": [
@@ -665,7 +633,7 @@
           "latest_chapter": " 第3863章  另一个世界（大结局）",
           "updated_at": "2026-04-22 00:17:41",
           "rank_change": 0,
-          "heat_change": -2378000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 4,
           "stale_update": true,
@@ -693,8 +661,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
           "latest_chapter": " 第2753章  前往上苍之上（大结局）",
           "updated_at": "2026-08-31 16:32:19",
-          "rank_change": 12,
-          "heat_change": 2005000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -722,8 +690,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
           "latest_chapter": " 第1077章  大结局",
           "updated_at": "2026-06-10 17:01:11",
-          "rank_change": 3,
-          "heat_change": -359000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -753,7 +721,7 @@
           "updated_at": "2026-08-21 13:02:14",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": true,
           "category": "东方玄幻"
@@ -770,48 +738,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "打到北极圈了，你让我继承皇位？",
-            "book_id": 1864493,
-            "rank_change": 1
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "世子无双",
-            "book_id": 1860026,
-            "rank_change": -3
-          },
-          {
-            "title": "边关猎户，我粮肉满仓富甲一方",
-            "book_id": 2093494,
-            "rank_change": -2
-          },
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "边关猎户，我粮肉满仓富甲一方",
-            "book_id": 2093494,
-            "heat_change": -1785000
-          },
-          {
-            "title": "世子无双",
-            "book_id": 1860026,
-            "heat_change": -836000
-          },
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "heat_change": -710000
-          }
-        ],
-        "summary": "**题材趋势**：种田争霸与权谋爽文为主流，侧重于“开局被贬/被弃”后的逆势崛起，侧重经营与军事爽感。\n**读者偏好**：读者更倾向于“利用现代知识降维打击”的爽文逻辑，同时对影视化、有声化改编的成熟IP具有较高的品牌认可度。\n**变动解读**：榜单头部出现回调迹象，整体热度有所下滑，显示出该品类在完结榜单中正面临周期性的流量退潮。\n**值得关注**：《打到北极圈了，你让我继承皇位？》凭借独特的边关经营视角实现反超，说明“冷门地缘+种田”题材具备差异化竞争优势。",
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：由传统的皇权争霸转向“基建+种田+反套路”模式，弱化宫斗，强化实业强国与个人爽点。\n**读者偏好**：读者偏爱“被贬/放逐+科技降维打击+富甲一方”的设定，对“不夺嫡、只搞钱/军权”的避世型爽文需求旺盛。\n**变动解读**：榜单结构稳定，作品热度分布均衡，多部作品已完成有声/短剧版权转化，显示出强劲的IP运营潜力。\n**值得关注**：商业化开发程度高的作品（如《世子无双》）在榜单中表现出极强的生命力，IP联动效应明显。",
         "ai_source": "ai"
       },
       "books": [
@@ -837,8 +767,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
           "latest_chapter": " 第1257章  番外三：星辰大海",
           "updated_at": "2026-03-31 22:07:15",
-          "rank_change": 1,
-          "heat_change": -148000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -866,8 +796,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
           "latest_chapter": " 第823章  山高路远，还是那句话，江湖再见吧",
           "updated_at": "2026-09-23 23:31:09",
-          "rank_change": -2,
-          "heat_change": -1785000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -895,8 +825,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
           "latest_chapter": " 第1634章  番外——十年后",
           "updated_at": "2025-03-03 00:03:29",
-          "rank_change": -1,
-          "heat_change": -710000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -924,8 +854,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
           "latest_chapter": " 第1063章  大结局（下）",
           "updated_at": "2026-03-08 01:17:14",
-          "rank_change": -3,
-          "heat_change": -836000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -940,30 +870,13 @@
       "total_heat": 8501000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 1,
+        "dropped_count": 0,
         "new_books": [],
-        "dropped_books": [
-          {
-            "title": "最狂邪医",
-            "book_id": 1821655,
-            "intro": "六年前，他本是李家武道天才，却被神秘人破碎丹田，废掉一身修为，沦为废物，被赶出家族。\n六年后，妖孽下山，一身修为，绝世医术，无敌归来，百倍复仇，大杀四方。\n他有六位绝色师姐，上百隐门势力，无敌师尊，谁"
-          }
-        ],
+        "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "小司机的美女总裁老婆",
-            "book_id": 2052700,
-            "heat_change": -1330000
-          },
-          {
-            "title": "镇天神医",
-            "book_id": 1675640,
-            "heat_change": -364000
-          }
-        ],
-        "summary": "**题材趋势**：以都市异能、神医下山、赘婿逆袭为核心，强调“战力天花板”与“情感羁绊”的双重满足。\n**读者偏好**：读者高度聚焦于短剧化改编作品，对具备强戏剧冲突、快节奏叙事以及爽文标签（如婚书、总裁、战神）的作品有极高偏好。\n**变动解读**：榜单结构趋于固化，头部作品虽然热度略有回落，但依然保持着较强的长尾效应，市场准入门槛较高。\n**值得关注**：尽管《最狂邪医》掉出榜单，但都市类作品的短剧化联动已成为标配，内容与视觉产品的协同效应直接决定了榜单统治力。",
+        "heat_leaders": [],
+        "summary": "**题材趋势**：都市异能与情感爽文结合，侧重“都市战神/医圣”回归与“软饭/赘婿”反转的题材融合。\n**读者偏好**：读者热衷于强烈的阶级逆袭感，如“小司机变亿万富豪”或“无敌神医下山”的快节奏爽文，强调强力主角在都市环境下的掌控力。\n**变动解读**：榜单呈现高度集约化特征，头部作品数量较少但单体热度极高，市场竞争呈现“胜者全拿”的态势。\n**值得关注**：短剧化趋势显著，《镇天神医》等作品通过短剧热度反馈反哺网文阅读，是目前都市类提升热度的核心路径。",
         "ai_source": "ai"
       },
       "books": [
@@ -990,7 +903,7 @@
           "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
           "updated_at": "2026-04-02 18:35:10",
           "rank_change": 0,
-          "heat_change": -1330000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1019,7 +932,7 @@
           "latest_chapter": " 第2590章  圆满。",
           "updated_at": "2025-12-15 11:18:20",
           "rank_change": 0,
-          "heat_change": -364000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1033,29 +946,14 @@
       "count": 2,
       "total_heat": 4934000,
       "trend": {
-        "new_count": 2,
-        "dropped_count": 1,
-        "new_books": [
-          {
-            "title": "SSS级狂龙归来，全球戒备！",
-            "book_id": 2060177
-          },
-          {
-            "title": "被关女子监狱三年，我修炼成仙了",
-            "book_id": 1697715
-          }
-        ],
-        "dropped_books": [
-          {
-            "title": "下山后，漂亮姐姐蠢蠢欲动",
-            "book_id": 2053900,
-            "intro": "因为偷偷拿师父收藏的美女图引火，陆尘被师父一脚踹下山，结果刚下山就被漂亮姐姐拐回家。\n陆尘只能感叹师父说的没错，山下女人如狼似虎，男孩子一定要保护好自己。\n陆尘是想拒绝的，奈何漂亮姐姐人美，身材棒，说"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "**题材趋势**：战神归来与“出狱+退婚”流依旧是都市高手赛道的绝对主流，强冲突、强人设的快节奏爽文仍具统治力。\n**读者偏好**：读者热衷于主角身份的极致反差（如北境之主、监狱修仙者）以及多女主簇拥的爽感叙事。\n**变动解读**：榜单完成了一次彻底的头部置换，两本新书以强设定直接上榜，显示出该品类对新鲜感的高度依赖。\n**值得关注**：后续作者应在“身份设定”上挖掘更多新奇场景（如特殊环境下的修行），以维持读者的阅读粘性。",
+        "summary": "**题材趋势**：战神归来与都市修仙流派依然是市场基石，侧重于“无敌流”与“多女主”关系的爽点铺陈。\n**读者偏好**：读者倾向于强代入感的身份反差（如监狱出狱、北境之主）与快节奏的社交互动，追求极致的爽感与尊严满足。\n**变动解读**：榜单结构高度固化，头部效应显著，缺乏新血液涌入，反映出该细分领域存量竞争激烈，用户留存稳定。\n**值得关注**：如何通过“异能+都市”的复合设定，在传统战神文的架构上进行差异化叙事，是破局的关键。",
         "ai_source": "ai"
       },
       "books": [
@@ -1083,7 +981,7 @@
           "updated_at": "2026-09-05 12:02:13",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 2,
           "stale_update": true,
           "category": "都市高手"
@@ -1112,7 +1010,7 @@
           "updated_at": "2026-08-17 18:03:16",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": true,
           "category": "都市高手"
@@ -1129,34 +1027,11 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "重生2000：从追求青涩校花同桌开始",
-            "book_id": 1758273,
-            "rank_change": 3
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "我和软萌女友的恋爱日常",
-            "book_id": 214789,
-            "rank_change": -6
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "我和软萌女友的恋爱日常",
-            "book_id": 214789,
-            "heat_change": -1363000
-          },
-          {
-            "title": "重生2000：从追求青涩校花同桌开始",
-            "book_id": 1758273,
-            "heat_change": -382000
-          }
-        ],
-        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》上升3位领涨；《我和软萌女友的恋爱日常》下滑6位；《我和软萌女友的恋爱日常》热度-1363000。",
-        "ai_source": "rule"
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：校园题材向“怀旧重生”与“纯爱治愈”转型，商业崛起与青春恋爱并行的双线叙事成为主流。\n**读者偏好**：读者热衷于弥补青春遗憾的代入感，偏好“高甜”与“奋斗”结合的轻松阅读体验，对怀旧元素有天然好感。\n**变动解读**：榜单排名维持静态，显示出此类题材在“完结月榜”中受众群体极为固定，长尾效应极强。\n**值得关注**：在“重生+赚钱+恋爱”的成熟公式下，如何提升情感交互的细腻度，以差异化的人设标签吸引年轻读者。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1181,8 +1056,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
           "latest_chapter": " 第1992章  讣告",
           "updated_at": "2025-12-10 14:02:20",
-          "rank_change": 3,
-          "heat_change": -382000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1210,8 +1085,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
           "latest_chapter": " 第1338章  完结感言",
           "updated_at": "2023-02-18 08:11:26",
-          "rank_change": -6,
-          "heat_change": -1363000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -1229,33 +1104,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "rank_change": 4
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "山野诡闻笔记",
-            "book_id": 214783,
-            "rank_change": -11
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "山野诡闻笔记",
-            "book_id": 214783,
-            "heat_change": -2362000
-          },
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "heat_change": -318000
-          }
-        ],
-        "summary": "**题材趋势**：民间诡闻与民俗异事依然是该赛道的基石，通过具象化的职业（接阴婆、捞尸人）构建悬疑氛围是核心手法。\n**读者偏好**：读者偏好具备强烈民俗色彩和恐怖氛围的“单元剧”式叙事，对充满神秘感的传统技艺有高度探索欲。\n**变动解读**：榜单呈现明显的“头部洗牌”特征，两本书热度均大幅回撤，反映出灵异类题材在完结月榜中难以维持长久的高热度。\n**值得关注**：建议尝试将“民间传说”与“现代都市探险”进行更紧密的钩子衔接，以延缓读者的弃书率。",
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：民俗恐怖与职业诡闻类作品持续占据核心地位，依靠强烈的悬疑氛围与民间传说素材构建叙事壁垒。\n**读者偏好**：读者追求“沉浸式”的诡异体验，对具有行业特殊性（如接阴婆、捞尸人）的职业设定有极高兴趣。\n**变动解读**：榜单呈现高度稳定的“双寡头”格局，新作品难以撼动现有头部书目的读者粘性。\n**值得关注**：深挖民间民俗传说中的“禁忌感”与“神秘感”，强化故事的真实氛围营造，是保持该品类热度的核心逻辑。",
         "ai_source": "ai"
       },
       "books": [
@@ -1281,8 +1133,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
           "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
           "updated_at": "2021-10-12 11:14:06",
-          "rank_change": 4,
-          "heat_change": -318000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -1310,8 +1162,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
           "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
           "updated_at": "2024-05-11 07:57:09",
-          "rank_change": -11,
-          "heat_change": -2362000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1325,19 +1177,14 @@
       "count": 1,
       "total_heat": 2301000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-            "book_id": 2027749
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "**题材趋势**：游戏异界与赘婿流的强强联合仍是当前市场的流量密码，具备极高的爽点转化率。\n**读者偏好**：读者热衷于“开局即巅峰”的设定，对反转剧情及快速积累修为的“暴爽”节奏有强烈需求。\n**变动解读**：新书入榜即占据高位，显示出此类题材在完结月榜中仍具备极强的用户留存与拉新能力。\n**值得关注**：该题材是否能通过“天赋+修仙”的套路持续吸引新读者，值得后续观察。",
+        "summary": "**题材趋势**：异世穿越与系统流题材依然是网文市场的长青基石，强调“开局即巅峰”的爽感构建。\n**读者偏好**：读者更青睐于融合游戏世界观与赘婿身份反转的强冲突剧情，追求主角快速获得逆天改命的能力。\n**变动解读**：本期榜单结构高度稳固，头部作品市场占有率明确，显示出该题材完结作品的长尾效应显著。\n**值得关注**：如何通过“天赋系统+身份反转”的经典组合保持高额热度，是此类作品进入完结期的核心竞争力。",
         "ai_source": "ai"
       },
       "books": [
@@ -1365,7 +1212,7 @@
           "updated_at": "2026-09-06 08:21:09",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 2,
           "stale_update": true,
           "category": "异世大陆"
@@ -1382,23 +1229,11 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "rank_change": 1
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "heat_change": -320000
-          }
-        ],
-        "summary": "「末世危机」《全球灾变之末日游戏》上升1位领涨；《全球灾变之末日游戏》热度-320000。",
-        "ai_source": "rule"
+        "heat_leaders": [],
+        "summary": "**题材趋势**：末世生存类作品的核心逻辑已从单纯的资源争夺，转向“人性博弈与杀伐果断”的极致个人英雄主义。\n**读者偏好**：受众偏好带有重生复仇属性、节奏快、主角性格狠辣的末世文，追求极致的代入感与反压迫快感。\n**变动解读**：榜单热度无明显波动，说明该题材完结作品在特定受众群体中具备极强的黏性，排名已进入稳定期。\n**值得关注**：跨媒体联动（如漫画化）对作品热度的反哺效应，是完结作品维持长效曝光的重要路径。",
+        "ai_source": "ai"
       },
       "books": [
         {
@@ -1423,8 +1258,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": 1,
-          "heat_change": -320000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -1439,31 +1274,13 @@
       "total_heat": 2095000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 1,
+        "dropped_count": 0,
         "new_books": [],
-        "dropped_books": [
-          {
-            "title": "重回77：我靠赶猎抓鱼，一人养三家",
-            "book_id": 9992436,
-            "intro": "杨枫重生77年，却意外多了三个前妻！\n温婉气质的语文老师，清纯可人的活泼小姨子，直爽白皙的川妹子……\n这样的前妻，他有三个！\n还是赶不走，打不跑，能和睦相处的那种！\n看着漏水的土房和空空如也的米缸，杨"
-          }
-        ],
+        "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "重回六十年代，从挖何首乌开始",
-            "book_id": 2064995,
-            "rank_change": -9
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "重回六十年代，从挖何首乌开始",
-            "book_id": 2064995,
-            "heat_change": -1320000
-          }
-        ],
-        "summary": "**题材趋势**：年代种田文热度出现明显分化，读者对该类题材的审美疲劳度有所上升。\n**读者偏好**：读者倾向于带有强烈情感救赎与家庭温情色彩的“重生致富”叙事，对纯粹的资源挖掘类内容兴趣减弱。\n**变动解读**：该小类面临较大冲击，榜单出现流失，头部作品热度大幅下滑，显示出该细分赛道正经历完结后的流量衰退期。\n**值得关注**：年代文如何通过差异化的人物关系设定（如家庭羁绊）来维持读者的持续阅读欲望。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：年代文与乡村种田文结合，通过“重回过去+弥补遗憾+发家致富”的叙事框架，满足读者的情感补偿心理。\n**读者偏好**：读者倾向于阅读带有浓厚生活气息、家庭温情与草根崛起叙事的作品，追求“从底层逆袭”的真实感。\n**变动解读**：榜单排名趋于固化，显示出乡村年代文在完结月榜中拥有极其稳健的受众基础，市场格局已定。\n**值得关注**：以“家庭救赎”为核心驱动力，辅以丰富的乡村资源开发情节，是该题材吸引读者的关键情感钩子。",
         "ai_source": "ai"
       },
       "books": [
@@ -1489,8 +1306,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
           "latest_chapter": " 第1035章  十七年后",
           "updated_at": "2026-09-10 09:51:07",
-          "rank_change": -9,
-          "heat_change": -1320000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1509,21 +1326,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "让你带问题女兵，你全养成特种兵王了？",
-            "book_id": 2091811,
-            "rank_change": -2
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "让你带问题女兵，你全养成特种兵王了？",
-            "book_id": 2091811,
-            "heat_change": -642000
-          }
-        ],
-        "summary": "**题材趋势**：军事类目在完结榜呈现明显的“单品支撑”特征，垂直细分市场缺乏新进头部内容的强力竞争。\n**读者偏好**：读者对“强强对抗”与“战术养成”结合的爽文模式需求稳定，尤其是带有“特种兵”与“反差养成”元素的题材具有长尾效应。\n**变动解读**：榜单热度出现显著回落（-642,000），反映出该书进入完结后的自然流量衰减，且暂无新作品填补市场空缺。\n**值得关注**：在缺乏同类竞品的情况下，该书仍能维持百余万量级热度，说明该题材在七猫平台的护城河依然稳固，但后续缺乏增量供给。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：军事题材目前呈现出高度垂直的“军事+养成”融合趋势，纯粹硬核军事已逐渐向更具网感和爽点的“特种兵王带教”模式转型。\n**读者偏好**：读者更倾向于观看具备“反差感”的人设，特别是通过“刺头兵”与“强力教官”的碰撞，实现从管理混乱到打造最强战队的爽感叙事。\n**变动解读**：本月榜单处于极度平稳期，头部产品热度稳固，市场竞争格局短期内未出现明显波动，处于典型的存量竞争阶段。\n**值得关注**：头部书籍《让你带问题女兵，你全养成特种兵王了？》凭借高概念人设维持高热度，建议关注此类“带教+养成”模式在短剧化改编中的潜力。",
         "ai_source": "ai"
       },
       "books": [
@@ -1540,17 +1345,17 @@
           "minor_id": 61,
           "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
           "status": "连载中",
-          "word_count_text": "192.76万字",
-          "word_count": 1927600,
+          "word_count_text": "193.6万字",
+          "word_count": 1936000,
           "heat": 1960000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
-          "latest_chapter": " 第891章  对不起，这只是开胃菜！",
-          "updated_at": "2026-10-01 15:17:08",
-          "rank_change": -2,
-          "heat_change": -642000,
+          "latest_chapter": " 第895章  女武神与云豹携手，共战毛熊",
+          "updated_at": "2026-10-02 15:17:09",
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": false,
@@ -1561,8 +1366,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 4,
-    "dropped_count": 4,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 3247350,
     "total_heat": 64947000,
     "first_day": false

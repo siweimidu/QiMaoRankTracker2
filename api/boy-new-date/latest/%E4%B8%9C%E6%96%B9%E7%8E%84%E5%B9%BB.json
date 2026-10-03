@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 70000,
+    "total_heat": 64000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "阴阳天帝诀",
-          "book_id": 12749622,
-          "rank_change": 7
-        },
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "阴阳天帝诀",
-          "book_id": 12749622,
-          "heat_change": 5000
-        },
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
+          "heat_change": -4000
+        },
+        {
+          "title": "阴阳天帝诀",
+          "book_id": 12749622,
           "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：当前上榜作品核心逻辑集中于“重生复仇”与“系统/面板升级流”，强调力量等级的高速跃迁与收集要素。\n**读者偏好**：读者对“赘婿+采补/红颜”的传统爽文模式依然保持高粘度，同时“斩妖除魔+武道面板”的数值成长快感具有极强的留存效应。\n**变动解读**：《阴阳天帝诀》排名暴涨7位且热度大幅增长，验证了“重生+红颜羁绊”这一强刺激题材在玄幻类目中仍具极强爆发力。\n**值得关注**：在榜作品虽少但热度集中，建议关注“武道面板”类书籍如何通过更具象的成长反馈留住核心用户。",
+      "summary": "**题材趋势**：传统“赘婿复仇流”与“武道面板升级流”各占一席，叙事高度依赖金手指驱动。\n**读者偏好**：读者对“掠夺式升级”和“面板量化成长”有着极强的爽点共鸣，倾向于快节奏的数值提升与打脸剧情。\n**变动解读**：榜单流动性较弱，头部书籍热度下滑明显，显示出存量竞争压力增大，作品需要更强的剧情转折来维持热度粘性。\n**值得关注**：在玄幻赛道，具备明确成长反馈的“武道面板”类作品仍是长尾流量的保障，需警惕同质化导致的读者流失。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +56,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.08万字",
-        "word_count": 380800,
-        "heat": 37000,
-        "platform_trend": "rise",
+        "word_count_text": "38.49万字",
+        "word_count": 384900,
+        "heat": 35000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第179章  我会给你，留具全尸！",
-        "updated_at": "2026-10-01 21:48:03",
-        "rank_change": 7,
-        "heat_change": 5000,
+        "latest_chapter": " 第181章  雷家老祖，你还不出手？",
+        "updated_at": "2026-10-02 22:38:03",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "长生猎户，从形意拳到人间武圣！",
         "book_id": 12789207,
         "url": "https://www.qimao.com/shuku/12789207/",
@@ -90,17 +85,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.02万字",
-        "word_count": 480200,
-        "heat": 33000,
+        "word_count_text": "48.83万字",
+        "word_count": 488300,
+        "heat": 29000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第234章  惊天变故！云州府陷落！",
-        "updated_at": "2026-10-01 23:50:04",
-        "rank_change": 1,
-        "heat_change": -2000,
+        "latest_chapter": " 第238章  巫蛊教大祭司！化丹强者！",
+        "updated_at": "2026-10-03 00:31:03",
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

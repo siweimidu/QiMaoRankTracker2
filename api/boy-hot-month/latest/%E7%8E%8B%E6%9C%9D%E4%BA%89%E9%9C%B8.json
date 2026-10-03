@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -19,22 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "heat_change": 571000
-        }
-      ],
-      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台热度持续走高，具备极强的用户粘性。\n**读者偏好**：读者倾向于“开局即冲突”的强节奏叙事，特别是带有身份反差和征服感的爽文设定。\n**变动解读**：《大周第一武夫》排名稳步上行且热度增量显著，显示出该书在内容节奏和爽点铺排上极具竞争力，正处于上升期。\n**值得关注**：该题材目前呈现头部效应，单品强劲的榜单统治力反映了读者对高质量长线更新作品的追捧。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统权谋与武道争霸结合的“爽文”架构依然是该类别的中坚力量，展现了极强的长尾效应。\n**读者偏好**：读者倾向于主角从底层身份（如杂役）通过个人武力与智谋快速逆袭，重塑王朝格局的强代入感叙事。\n**变动解读**：本期榜单保持高度稳定，头部作品市场统治力强，短期内未出现挑战者，显示该细分领域进入存量竞争阶段。\n**值得关注**：建议重点监测此类作品在“身份逆袭”与“权谋博弈”平衡点上的创新迭代，以应对读者审美疲劳。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "219.87万字",
-        "word_count": 2198700,
+        "word_count_text": "220.96万字",
+        "word_count": 2209600,
         "heat": 9503000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1016章  妖海暴动",
-        "updated_at": "2026-10-01 20:41:08",
-        "rank_change": 2,
-        "heat_change": 571000,
+        "latest_chapter": " 第1021章  分成比例",
+        "updated_at": "2026-10-02 21:27:08",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

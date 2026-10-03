@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -16,47 +16,13 @@
     "total_heat": 8217000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 2,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "我团宠小师妹，嚣张点怎么了",
-          "book_id": 1764505,
-          "intro": "姬无双乃神魔俱畏的不灭剑尊，却被至亲背叛，尸骨无存。\n一朝重生，她竟成了被挖走灵骨、无法修炼的小废物？\n废物又如何？\n她依旧是师父们的掌心宝！\n但一回头才发现，自家师父们和同门们，竟然都是气运之子的“"
-        },
-        {
-          "title": "重回拜师日，偏心师尊靠边站",
-          "book_id": 1943722,
-          "intro": "【卷王徒弟x咸鱼师尊，师徒对照组，HE】\n修为突破后，郁岚清兴高采烈的去找师尊报喜。\n却看到师尊正在陪小师妹练习御剑。\n得知郁岚清突破后，师尊第一反应是转头安慰小师妹。\n“你别管她，她不如你。”\n宗门"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "rank_change": -3
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "柔弱医修今天也在背地里暴打魔尊",
-          "book_id": 1981956,
-          "heat_change": -2216000
-        },
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "heat_change": -2108000
-        }
-      ],
-      "summary": "**题材趋势**：精品化趋势明显，榜单收缩至头部效应极强的群像文与大女主爽文，读者对于长篇仙侠的追更意愿受完结节点影响较大。\n**读者偏好**：更偏向“强人设+跨界融合”的爽文，如瞳术、医修等专业化标签，能够显著提升读者的留存率与点击率。\n**变动解读**：上榜作品数量锐减，头部洗牌加剧，作品热度普遍出现下滑，说明该品类在完结月面临较大的用户流失压力。\n**值得关注**：《第一瞳术师》凭借群像文优势成功登顶，该书融合了多元热门标签，是当前市场环境下该题材最稳健的存量标杆。",
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：大女主群像与“扮猪吃虎”式爽文为主流，强调废材逆袭与极致战力的成长路径。\n**读者偏好**：受众倾向于拥有特殊技能（如瞳术、医修）的强大女主，偏好爽点密集、节奏明快的修仙升级流。\n**变动解读**：当前榜单处于缩量竞争阶段，仅两部作品在榜且排名静止，反映出该品类在七猫平台目前处于头部垄断状态。\n**值得关注**：出版实体书与综艺联动背书对于玄幻题材的破圈至关重要，是维持作品热度与公信力的重要方式。",
       "ai_source": "ai"
     },
     "books": [
@@ -82,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": 1,
-        "heat_change": -2108000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -111,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": -3,
-        "heat_change": -2216000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -8,79 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 9,
     "total_heat": 50620000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "玄学小祖宗：叼奶瓶算命全家宠",
-          "book_id": 1764909
-        },
-        {
-          "title": "不务正夜",
-          "book_id": 1996931
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "逃婚三年，江少的花心人设崩了",
-          "book_id": 1839513,
-          "intro": "【破镜重圆 相爱相杀】\n伪花心风流少爷VS美艳清冷女总裁\n林向晚逃婚后回国，遇到左拥右抱的江时璟，十分嗤之以鼻。\n江时璟和她说话。\n林向晚：没憋好屁。\n江时璟朝她笑。\n林向晚：他准备算计我。\n江时璟把"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "六年后，我携四个幼崽炸翻前夫家",
-          "book_id": 1658048,
-          "rank_change": 3
-        },
-        {
-          "title": "惯坏她",
-          "book_id": 10034568,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "rank_change": -3
-        },
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "rank_change": -3
-        },
-        {
-          "title": "皑如山上雪",
-          "book_id": 2053898,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "第五年重逢，驰先生再度失控",
-          "book_id": 2072940,
-          "heat_change": -7611000
-        },
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "heat_change": -3555000
-        },
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "heat_change": -2733000
-        }
-      ],
-      "summary": "**题材趋势**：传统霸总叙事与“玄学+萌宝”元素的深度融合成为新增长点，高频出现的破镜重圆与先婚后爱仍是稳固的基本盘。\n**读者偏好**：读者更倾向于具有强冲突、快节奏反转的设定，尤其青睐“身份落差”和“虐渣打脸”的爽点反馈。\n**变动解读**：新上榜作品通过叠加“玄学小祖宗”与“混球贵公子”等强人设，有效激活了榜单活力，弥补了部分头部作品因完结周期带来的热度下滑。\n**值得关注**：《玄学小祖宗：叼奶瓶算命全家宠》作为新锐，展现了极强的引流潜力，建议关注此类“萌娃+玄学”跨界题材的持续表现。",
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：聚焦“破镜重圆”与“先婚后爱”两大核心卖点，融合玄学、萌宝等强冲突元素提升爽感。\n**读者偏好**：偏好具有极致反差感的人设，如“禁欲大佬”与“人间尤物”的组合，以及从被背叛到强势逆袭的复仇爽文。\n**变动解读**：本期榜单稳定性极高，前九名热度排名完全持平，反映出头部作品已建立深厚的用户护城河，长尾效应显著。\n**值得关注**：多本作品已成功联动热门综艺或影视短剧，IP跨界联动成为提升书籍曝光量与用户粘性的关键手段。",
       "ai_source": "ai"
     },
     "books": [
@@ -107,7 +49,7 @@
         "latest_chapter": " 第418章  大结局",
         "updated_at": "2026-06-12 06:02:04",
         "rank_change": 0,
-        "heat_change": -7611000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -135,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
         "latest_chapter": " 第657章  人间幸福，不过如此",
         "updated_at": "2026-09-28 19:41:06",
-        "rank_change": -1,
-        "heat_change": -2234000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -164,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
-        "rank_change": 3,
-        "heat_change": -668000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -195,7 +137,7 @@
         "updated_at": "2024-09-02 22:01:10",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "总裁豪门"
@@ -222,8 +164,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
-        "rank_change": -3,
-        "heat_change": -2733000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -251,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
-        "rank_change": -3,
-        "heat_change": -3555000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -282,7 +224,7 @@
         "updated_at": "2026-08-25 17:14:05",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "总裁豪门"
@@ -309,8 +251,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": 3,
-        "heat_change": -1237000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -338,8 +280,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
         "latest_chapter": " 第398章  ——津晚大结局（下）",
         "updated_at": "2026-04-22 18:18:05",
-        "rank_change": -2,
-        "heat_change": -1745000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
