@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "types": [
     {
       "name": "全部",
@@ -51,16 +51,12 @@
       "url": "api/boy-new-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
     {
-      "name": "幻想修真",
-      "url": "api/boy-new-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+      "name": "虚拟网游",
+      "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
     },
     {
       "name": "明星娱乐",
       "url": "api/boy-new-date/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
-    },
-    {
-      "name": "虚拟网游",
-      "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
     }
   ]
 }

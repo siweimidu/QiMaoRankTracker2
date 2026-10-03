@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-04",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 430950,
+    "total_heat": 8619000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553,
+            "rank_change": -4
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553,
+            "heat_change": -44000
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 35000
+          },
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": 29000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《分居三年，高冷商总跪地求不离》；《霍二爷，新婚请克制！》上升1位领涨；《薄总，婚后请节制！》下滑4位；《薄总，婚后请节制！》热度-44000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "intro": "【重生+姐妹换府对照组+飒爽女主+虐渣复仇】\n上辈子，爹娘和离，陆未吟不敢争取跟随母亲，留在落魄将军府，爹不疼兄不爱。\n边疆起战事，她随军出征，九死一生挣下赫赫军功，结果军功成了父亲的，嘉奖是全家的。"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": -3
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "heat_change": -47000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -39000
+          },
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「宫闱宅斗」《随母改嫁旺新家，重生嫡女嘎嘎乱杀》 掉出榜单；《抢我婚约嫁太子？我携孕肚嫁皇帝》上升1位领涨；《玉帐春》下滑3位；《玉帐春》热度-47000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 31000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》上升3位领涨；《错嫁随军：新婚夜冷面军少沦陷了》热度+31000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 22000
+          }
+        ],
+        "summary": "**题材趋势**：玄学元素与都市豪门题材深度融合，“玄学+甜宠”仍是该品类维持热度的核心驱动力。\n**读者偏好**：受众偏好“高位者低头”与“真香打脸”的强反差设定，追求玄学技能在现代都市背景下的爽感释放。\n**变动解读**：本期仅存的一本头部作品排名小幅上升，且单日热度增长2.2万，显示出该细分领域头部效应极强，存量作品粘性稳固。\n**值得关注**：在缺乏新书冲击的情况下，该题材依靠单一头部作品维持榜单活跃度，需警惕品类内容供给不足导致的增长瓶颈。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

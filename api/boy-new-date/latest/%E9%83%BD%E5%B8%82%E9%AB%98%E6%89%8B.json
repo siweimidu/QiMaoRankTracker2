@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -19,21 +19,16 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": -2000
-        },
-        {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "book_id": 12594795,
-          "heat_change": -1000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：高度同质化，“高手下山+美女总裁+退婚/领证”依然是该品类的核心驱动力，叙事模型极其稳固。\n**读者偏好**：读者热衷于快节奏的爽感释放，尤其偏爱“扮猪吃虎”与“后宫多女”的组合，追求极度直白的强力设定。\n**变动解读**：榜单稳定性极高，虽然热度略有波动，但头部作品格局未变，市场进入存量竞争的平稳期。\n**值得关注**：两本头部作品在题材上高度重合，后续同类作品若无差异化卖点（如独特的异能设定或更极致的职场反差），恐难突围。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：传统“下山流”依然是都市品类的主力军，核心卖点高度集中在“无敌流”与“婚恋爽文”的强结合。\n**读者偏好**：读者热衷于快节奏的身份反差与后宫爽点，偏好“开局即满级”的强力设定。\n**变动解读**：榜单结构高度稳固，存量作品通过口碑积累实现小幅爬升，新书切入难度较大。\n**值得关注**：两本头部作品高度同质化，未来竞争将取决于“退婚”与“总裁”套路下的差异化爽点挖掘。",
       "ai_source": "ai"
     },
     "books": [
@@ -50,24 +45,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.37万字",
-        "word_count": 433700,
+        "word_count_text": "43.82万字",
+        "word_count": 438200,
         "heat": 34000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第152章  五行圣体",
-        "updated_at": "2026-10-03 01:10:05",
+        "latest_chapter": " 第154章  你说安雅去哪了？",
+        "updated_at": "2026-10-03 23:56:05",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -79,17 +74,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.4万字",
-        "word_count": 274000,
+        "word_count_text": "27.83万字",
+        "word_count": 278300,
         "heat": 17000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第124章  一言不合就杀人",
-        "updated_at": "2026-10-03 05:02:02",
-        "rank_change": 0,
-        "heat_change": -2000,
+        "latest_chapter": " 第126章  发自内心深处的恐惧",
+        "updated_at": "2026-10-04 05:02:02",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

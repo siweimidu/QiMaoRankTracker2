@@ -8,55 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-10-04",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 18000,
+    "total_heat": 29000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "大小姐，都末世了谁还惯着你",
+          "book_id": 12813204
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "我在末世当农场主",
-          "book_id": 12719736,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "**题材趋势**：末世题材已从单纯的“求生”转向“经营+种田”的复合风格，弱化生存压抑感，强化资源建设带来的安全感与成就感。\n**读者偏好**：读者更倾向于在末世背景下实现“乌托邦式”的资源囤积与家园建设，追求在极端环境下构建舒适圈的心理代偿。\n**变动解读**：当前品类表现平稳但缺乏爆发力，热度微跌暗示该细分赛道在缺乏新鲜感冲击时，用户留存压力增大。\n**值得关注**：建议在末世背景中融入更多元化的“基建经营”元素，提升主角在危机中的掌控力，增强读者的沉浸式体验。",
+      "heat_leaders": [],
+      "summary": "**题材趋势** 呈现“末世+重生+恶女+1vN雄竞”的复合型叙事，将传统的生存求生与复杂的情感博弈结合。\n**读者偏好** 读者对“恶女受惩”及“男主复仇”的爽感叙事有强烈需求，尤其是多男主（1vN）设定能有效带动读者讨论热度。\n**变动解读** 作为榜单新进力量，该题材展现了较强的引流潜力，通过高反差人设迅速抢占新书份额。\n**值得关注** 此类融合题材在末世背景下极具爆款潜质，后续应关注其热度能否在榜单中长线维持。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "我在末世当农场主",
-        "book_id": 12719736,
-        "url": "https://www.qimao.com/shuku/12719736/",
-        "author": "罐头",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%BD%90%E5%A4%B4_14/",
+        "rank": 17,
+        "title": "大小姐，都末世了谁还惯着你",
+        "book_id": 12813204,
+        "url": "https://www.qimao.com/shuku/12813204/",
+        "author": "熊就要有个熊样",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%86%8A%E5%B0%B1%E8%A6%81%E6%9C%89%E4%B8%AA%E7%86%8A%E6%A0%B7_14/",
         "major": "幻想言情",
         "minor": "末世求生",
         "major_id": 4,
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.32万字",
-        "word_count": 333200,
-        "heat": 18000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "姜黎穿成末世里的垫脚石炮灰，刚陪渣男奋斗赚钱买上安全区的房子，就被分手。\n看着家徒四壁的屋子，姜黎决定用最后的积蓄买安全区外的一块地。\n从一块地开始，建造属于自己的农场——\n民宿区、餐饮区、果林、咖啡区、温室、钓场、露营烧烤。\n姜黎完美复刻了自己在末世前最受有钱人欢迎的旅游农庄！\n名利、金钱、人脉，接踵而来。\n短短时间，姜黎混得风生水起。\n渣男眼红了。\n“姜黎，你还爱我吗？”\n“不，我只爱种田。”\n……\n穿越后，姜黎发现了自己身上的BUG。\n别人的异能是身体进化，而她的异能是——\n草木感知，草木枯荣，草木净化……\n【末世×采集×种田×基建×美食×经营×女主武力值天花板】",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12719736_360x480.jpg?time=1783906963",
-        "latest_chapter": " 第152章  葡萄冰茶上市",
-        "updated_at": "2026-09-16 21:51:03",
+        "word_count_text": "31.25万字",
+        "word_count": 312500,
+        "heat": 29000,
+        "platform_trend": "rise",
+        "badge": "飙升16名",
+        "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1785229117",
+        "latest_chapter": " 第149章  谁说男人没有心机的",
+        "updated_at": "2026-10-03 23:42:03",
         "rank_change": 0,
-        "heat_change": -1000,
-        "is_new": false,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世求生"

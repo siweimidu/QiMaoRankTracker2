@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "heat_change": -1
+          "heat_change": 3
         }
       ],
-      "summary": "**题材趋势**：历史穿越类目目前进入存量博弈阶段，以“秦朝争霸”为核心的爽文模式仍是该小类的主力支撑。\n**读者偏好**：读者更青睐“扶苏逆袭”、“改变历史走向”的强情绪驱动型爽点，侧重于快节奏的政权夺取与军事扩张。\n**变动解读**：头部书籍面临热度流失，榜单缺乏新鲜血液注入，显示该品类短期内缺乏创新爆款带动。\n**值得关注**：重点观察此类“强设定、快节奏”的历史文在长周期内能否通过更新维持用户黏性，防止热度进一步萎缩。",
+      "summary": "**题材趋势**：历史权谋类题材在榜单中呈现窄幅震荡，头部效应弱，整体更新活跃度不足。\n**读者偏好**：读者倾向于“秦汉争霸”与“强权介入”叙事，偏好主角以绝对武力改变历史走向的爽感。\n**变动解读**：该小类仅余一本在榜，且排名与热度同步下行，说明缺乏新书填充，市场关注度处于低位。\n**值得关注**：需观察是否存在题材迭代，或该类目是否因缺乏强力更新支撑而陷入流量瓶颈。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 19,
         "title": "我率秦军三百万，为秦续命万万年",
         "book_id": 9464730,
         "url": "https://www.qimao.com/shuku/9464730/",
@@ -45,17 +51,17 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "205.59万字",
-        "word_count": 2055900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "206.23万字",
+        "word_count": 2062300,
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第942章  识时务者为俊杰",
-        "updated_at": "2026-10-03 00:07:08",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第945章  霸王一戟出",
+        "updated_at": "2026-10-04 00:06:13",
+        "rank_change": -3,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

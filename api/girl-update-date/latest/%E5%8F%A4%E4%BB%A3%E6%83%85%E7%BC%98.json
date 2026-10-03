@@ -8,43 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 4,
-    "total_heat": 2,
+    "total_heat": 3,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "表妹貌美，冷面世子情难自恃",
-          "book_id": 12443391
+          "book_id": 12443391,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "穿进强制爱古言，四个大佬全部失控",
-          "book_id": 12581412,
-          "heat_change": -2
-        },
+      "top_fallers": [
         {
           "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
           "book_id": 13288209,
+          "rank_change": -1
+        },
+        {
+          "title": "穿进强制爱古言，四个大佬全部失控",
+          "book_id": 12581412,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+          "book_id": 13288209,
+          "heat_change": 1
+        },
+        {
+          "title": "穿进强制爱古言，四个大佬全部失控",
+          "book_id": 12581412,
+          "heat_change": 1
+        },
+        {
+          "title": "表妹貌美，冷面世子情难自恃",
+          "book_id": 12443391,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：题材呈现多元化趋势，融合了强制爱、萌宝养成、玄学元素及世子宠妻等多种卖点。\n**读者偏好**：读者对高冲突、强情感浓度（如强制爱）以及轻松治愈向（如萌宝救赎）的题材均表现出关注。\n**变动解读**：榜单流动性较高，新书《表妹貌美，冷面世子情难自恃》成功挤入榜单，显示出“冷面禁欲男主+祸水人设”的经典组合仍具吸引力。\n**值得关注**：该小类风格跨度大，建议创作者关注“高概念设定”在古风背景下的延展，以满足不同细分需求的读者。",
+      "summary": "**题材趋势**：古代情缘呈现“萌宠/玄学+救赎”与“强制爱/虐恋”双轨并行趋势，故事背景多向多元化演变。\n**读者偏好**：读者对带有“幼崽养育”、“兽语沟通”等清新治愈元素的作品接受度高，同时也对极具禁忌感的“强制爱”题材保持持续关注。\n**变动解读**：榜单结构相对稳定，排名微调反映了题材内部的竞争，其中《表妹貌美，冷面世子情难自恃》的上升显示出大众对于“祸水人设+冷面世子”强强组合的偏好。\n**值得关注**：融合“战神/权臣+神童/异能”的父女向题材具有差异化优势，在古言细分市场中具备较强的用户粘性。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,15 +72,15 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.62万字",
-        "word_count": 506200,
+        "word_count_text": "51.09万字",
+        "word_count": 510900,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
-        "latest_chapter": " 第226章  输的彻底，一败涂地",
-        "updated_at": "2026-10-02 08:12:09",
+        "latest_chapter": " 第228章  我不信天下宗门全都是傻子开的",
+        "updated_at": "2026-10-03 08:12:07",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -78,7 +89,7 @@
         "category": "古代情缘"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
         "book_id": 13288209,
         "url": "https://www.qimao.com/shuku/13288209/",
@@ -90,24 +101,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.45万字",
-        "word_count": 234500,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "24.4万字",
+        "word_count": 244000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【五岁软萌宝×落难战神，父女向，养崽崽，复仇】\n谁能想到，西山破庙的小奶团子安安，竟能和鸟兽唠嗑！\n才五岁大，圆乎乎一小只，饥荒时喊着松鼠带路猎狍，救下全村饥民，被村民当成小神女。\n旁人只疼她软萌懂事，却不知她守着一个大秘密　——　身边沉默瘸腿的爹爹，是蒙冤逃亡的镇国大将军林啸。\n朝廷追兵、山中匪寇步步紧逼，安安半点不怕。\n她使唤飞鸟放哨、野兽警戒，一点点采药储粮，用自己独有的本事护着伤痕累累的爹爹。\n待到时机成熟，小神女牵着爹爹离开西山，奔赴京城，要把害人的奸相彻底扳倒！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4430/13288209_360x480.jpg?time=1787819785",
-        "latest_chapter": " 第80章  院中故人",
-        "updated_at": "2026-10-02 21:02:03",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第82章  鼠群妙计",
+        "updated_at": "2026-10-03 21:02:04",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "穿进强制爱古言，四个大佬全部失控",
         "book_id": 12581412,
         "url": "https://www.qimao.com/shuku/12581412/",
@@ -119,24 +130,24 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.14万字",
-        "word_count": 441400,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "44.57万字",
+        "word_count": 445700,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "黎清晏一朝穿书，成了强制爱古言女配。\n强制四个男人的那种。\n穿越前，她连男人小手都没摸过。\n现在却要和他们通过一道道情关，刷满亲密度才能活。\n满眼嫌恶她的腹黑贵公子，自卑绝情的残疾将军。\n动不动就下蛊的苗疆少年，还有个玩不过的禁欲大佬……\n四个！\n黎清宴麻了。\n天要亡她！！\n******\n情关不断出现，要求越来越高：\n第一关：亲一下，试试水！\n第二关：熟悉彼此，每一寸……\n第三关：欢愉\n第X关：交融……\n黎清晏只能不断试验过关，不行就换人，再换……再换！\n情关过得不容易，前期是他们不配合，后来是四个大佬全部失控~~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4194/12581412_360x480.jpg?time=1790499755",
-        "latest_chapter": " 第207章  身孕？",
-        "updated_at": "2026-10-02 19:02:04",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第209章  这是不是又得负责？",
+        "updated_at": "2026-10-03 20:52:03",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "表妹貌美，冷面世子情难自恃",
         "book_id": 12443391,
         "url": "https://www.qimao.com/shuku/12443391/",
@@ -148,18 +159,18 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "55.83万字",
-        "word_count": 558300,
-        "heat": 2,
+        "word_count_text": "56.28万字",
+        "word_count": 562800,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "全南阳都知道，孟芙清是个祸水。\n克夫、扒灰、勾引小叔子，她被婆家撵出来的时候，满大街的人都在看笑话。\n她以为到了京城，投靠姨母，一切会好起来。\n直到她在雨里遇见了顾衍。\n承阳侯府世子，禁军统领，整个京城最冷心冷情的男人。\n他看她的眼神，像在看一件脏东西。\n“侯府容不下祸水。”\n她低着头，不争辩，不解释。\n可她没想到。\n当别的男人觊觎她时，第一个冲出来的是他。\n当她弟弟出事走投无路时，出手相救的是他。\n当她答应给别人做外室时，红着眼踹开门的人，还是他。\n他说这是交易。\n可当她的前夫“死而复生”，站在医馆门口说“我来接你回家”时。\n顾衍站在街对面的茶楼里，手里的茶杯碎了一地。\n鲜血顺着指缝滴下来，他浑然不觉。\n那一刻他才明白。\n他不是戒不掉她。\n他是不想戒。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4148/12443391_360x480.jpg?time=1787454423",
-        "latest_chapter": " 第222章  他要的妻，自是清白女子",
-        "updated_at": "2026-10-02 19:29:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第224章  他要，她只能迎合",
+        "updated_at": "2026-10-03 19:36:03",
+        "rank_change": 1,
+        "heat_change": -1,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"

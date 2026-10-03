@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1194000,
+    "total_heat": 1188000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": -68000
+          "heat_change": -6000
         }
       ],
-      "summary": "**题材趋势**：都市高武类产品呈现典型的“头部垄断”特征，单一爆款占据绝对统治地位。\n**读者偏好**：读者高度聚焦于“医武双绝”类爽文，偏爱强冲突、快节奏的个人英雄主义叙事。\n**变动解读**：榜单结构高度固化，热度出现小幅回撤，反映出该品类在缺乏新书冲击时进入了存量消耗期。\n**值得关注**：需警惕头部作品热度下滑带来的品类流量缺口，关注后续是否有新作能打破单一书目统治的僵局。",
+      "summary": "**题材趋势**：都市高武类题材目前呈现存量竞争态势，头部效应极强，单品统治力显著。\n**读者偏好**：读者倾向于阅读具备“强爽感、强掌控力”特征的医武双修类作品，主角“生死由我”的设定极具吸引力。\n**变动解读**：榜单处于高位震荡期，头部作品《盖世神医》热度微降，显示出该细分领域短期内缺乏新鲜血液补充。\n**值得关注**：需持续监测头部作品长尾效应的持续性，以及是否有新晋高武作品能够打破当前的固化格局。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "917.85万字",
-        "word_count": 9178500,
-        "heat": 1194000,
+        "word_count_text": "918.05万字",
+        "word_count": 9180500,
+        "heat": 1188000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4477章  金花婆婆！",
-        "updated_at": "2026-10-02 13:57:31",
+        "latest_chapter": " 第4478章  多事之秋",
+        "updated_at": "2026-10-03 23:37:30",
         "rank_change": 0,
-        "heat_change": -68000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

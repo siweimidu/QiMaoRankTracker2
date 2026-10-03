@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "heat_change": -2
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：该小类目前处于极度冷门期，市场供给与读者活跃度双双跌入冰点。\n**读者偏好**：受众倾向于民俗恐怖与“诡异流”设定，偏好具有强代入感的末世生存与人性博弈主题。\n**变动解读**：榜单仅存一本且热度持续下滑，显示该细分品类在当前平台流量分配中面临边缘化风险。\n**值得关注**：需警惕该题材在平台算法下的曝光困境，建议关注后续是否有强力新书带动该品类的热度回升。",
+      "summary": "**题材趋势**：悬疑诡异类题材维持低位运行，市场热度表现平淡，缺乏强有力的内容供给。\n**读者偏好**：读者对“民俗惊悚”与“废土异界”结合的设定有一定留存，偏好冷峻、压抑的生存向叙事。\n**变动解读**：榜单仅剩单书支撑且排名下滑，显示出该细分领域在当前阅读生态中竞争力有限，读者留存面临挑战。\n**值得关注**：关注此类作品能否通过强情节反转或独特的诡异世界观设定，重新拉动读者的阅读兴趣。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -45,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "487.19万字",
-        "word_count": 4871900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "487.78万字",
+        "word_count": 4877800,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1780章  秦天倾诡影？窥心大场！",
-        "updated_at": "2026-10-03 06:57:13",
-        "rank_change": 0,
-        "heat_change": -2,
+        "latest_chapter": " 第1782章  微闾派尸身！",
+        "updated_at": "2026-10-04 06:52:14",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

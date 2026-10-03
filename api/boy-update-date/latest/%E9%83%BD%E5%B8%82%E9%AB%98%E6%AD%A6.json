@@ -8,70 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 9,
+    "total_heat": 2,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886
-        },
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "死前考核",
-          "book_id": 12606348
+          "book_id": 12606348,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [
+      "top_fallers": [
         {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起"
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": -1
         }
       ],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：高武类题材正向“都市异能”与“规则怪谈/系统考核”方向延伸，强调出狱即无敌的爽快感。\n**读者偏好**：读者极度渴望快节奏的“开挂”体验，对带有生存博弈、空间考核等新鲜设定的作品表现出极高的首读兴趣。\n**变动解读**：榜单出现大幅更迭，新晋书籍凭借强力人设与高概念开局迅速上位，挤压了旧作空间。\n**值得关注**：基于“生死考核”或“特殊空间”的创新设定具有较强的吸睛效应，是都市高武品类后续的潜力方向。",
-      "ai_source": "ai"
+      "heat_leaders": [
+        {
+          "title": "死前考核",
+          "book_id": 12606348,
+          "heat_change": -4
+        },
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "heat_change": -3
+        }
+      ],
+      "summary": "「都市高武」《死前考核》上升1位领涨；《女子监狱五年，出狱即无敌》下滑1位；《死前考核》热度-4。",
+      "ai_source": "rule"
     },
     "books": [
       {
         "rank": 17,
-        "title": "女子监狱五年，出狱即无敌",
-        "book_id": 12791886,
-        "url": "https://www.qimao.com/shuku/12791886/",
-        "author": "提笔忘情",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "46.8万字",
-        "word_count": 468000,
-        "heat": 4,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第200章  股权风波",
-        "updated_at": "2026-10-02 22:22:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 18,
         "title": "死前考核",
         "book_id": 12606348,
         "url": "https://www.qimao.com/shuku/12606348/",
@@ -83,19 +62,48 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "61.2万字",
-        "word_count": 612000,
-        "heat": 5,
+        "word_count_text": "61.84万字",
+        "word_count": 618400,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "很多人在经历过生死大劫之后，就会性情大变，人生也像开挂一样。\n那是因为每个人在临死前，都会进入一片死前考核空间。\n只要通过考核就能活过来，而且在考核空间获得的特殊能力也会带回现世。\n所谓大难不死必有后福其实就是这么来的，是真的开了挂！\n世上有极少部分人是从死前考核空间走出来的。\n而有些人，去过一次，还想再去…...\n凌无就是其中之一！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606348_360x480.jpg?time=1784385499",
-        "latest_chapter": " 第178章  连自己的失败也能算进去",
-        "updated_at": "2026-10-02 22:38:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第180章  你该不会就是这第六重的太子爷吧？",
+        "updated_at": "2026-10-03 22:19:04",
+        "rank_change": 1,
+        "heat_change": -4,
+        "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 18,
+        "title": "女子监狱五年，出狱即无敌",
+        "book_id": 12791886,
+        "url": "https://www.qimao.com/shuku/12791886/",
+        "author": "提笔忘情",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.63万字",
+        "word_count": 476300,
+        "heat": 1,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+        "latest_chapter": " 第204章  怒废秦七",
+        "updated_at": "2026-10-03 22:32:04",
+        "rank_change": -1,
+        "heat_change": -3,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "都市高武"
       }

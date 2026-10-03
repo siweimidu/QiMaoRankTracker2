@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 278000,
+    "total_heat": 286000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -14000
+          "heat_change": 8000
         }
       ],
-      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台维持稳定，具备极强的用户粘性与长线留存能力。\n**读者偏好**：读者更青睐“从底层崛起”的爽文逻辑，且对带有强烈个人英雄主义色彩的武道背景接受度极高。\n**变动解读**：尽管热度小幅回落，但排名逆势上升，反映出该类目在头部竞争中具有较强的抗压性和市场韧性。\n**值得关注**：需警惕热度波动，建议观察此类作品在情节推进中如何平衡“权谋布局”与“武力爽感”的节奏。",
+      "summary": "**题材趋势**：传统权谋与武道争霸题材在七猫平台具有长尾效应，单品竞争格局相对稳固。\n**读者偏好**：读者倾向于“低开高走”的爽文逻辑，即从卑微身份切入，通过武力与权谋改变世道格局。\n**变动解读**：虽然排名微跌，但热度逆势增长8000，说明该书用户粘性极高，处于稳定的存量运营期。\n**值得关注**：在缺乏新作冲击的情况下，该书能否通过后续剧情的“高燃”转折进一步拉升热度，是维持榜单统治力的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "220.96万字",
-        "word_count": 2209600,
-        "heat": 278000,
-        "platform_trend": "drop",
+        "word_count_text": "222.02万字",
+        "word_count": 2220200,
+        "heat": 286000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1021章  分成比例",
-        "updated_at": "2026-10-02 21:27:08",
-        "rank_change": 1,
-        "heat_change": -14000,
+        "latest_chapter": " 第1026章  有故事的人",
+        "updated_at": "2026-10-03 23:27:08",
+        "rank_change": -1,
+        "heat_change": 8000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
