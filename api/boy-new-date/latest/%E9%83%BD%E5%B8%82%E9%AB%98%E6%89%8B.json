@@ -8,32 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 51000,
+    "total_heat": 53000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "rank_change": 1
+          "rank_change": -2
+        },
+        {
+          "title": "下山即无敌，美女总裁逼我去领证！",
+          "book_id": 12594795,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统“下山流”依然是都市品类的主力军，核心卖点高度集中在“无敌流”与“婚恋爽文”的强结合。\n**读者偏好**：读者热衷于快节奏的身份反差与后宫爽点，偏好“开局即满级”的强力设定。\n**变动解读**：榜单结构高度稳固，存量作品通过口碑积累实现小幅爬升，新书切入难度较大。\n**值得关注**：两本头部作品高度同质化，未来竞争将取决于“退婚”与“总裁”套路下的差异化爽点挖掘。",
+      "heat_leaders": [
+        {
+          "title": "下山即无敌，美女总裁逼我去领证！",
+          "book_id": 12594795,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "**题材趋势**：都市高手类目前表现疲软，题材高度同质化，以“下山”、“退婚”、“美女总裁”为核心卖点的存量竞争特征明显。\n**读者偏好**：读者对强爽、后宫、扮猪吃虎的套路化叙事有稳定需求，但缺乏新意导致用户留存动力不足。\n**变动解读**：本期无新书入榜，头部作品排名集体下滑，说明该品类缺乏新鲜血液注入，市场热度出现自然衰减。\n**值得关注**：需警惕题材审美疲劳，建议创作者在“高手下山”的传统框架内，尝试融入更具反差感的职业设定或社会议题。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "下山即无敌，美女总裁逼我去领证！",
         "book_id": 12594795,
         "url": "https://www.qimao.com/shuku/12594795/",
@@ -45,24 +56,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.82万字",
-        "word_count": 438200,
-        "heat": 34000,
-        "platform_trend": "drop",
+        "word_count_text": "44.27万字",
+        "word_count": 442700,
+        "heat": 36000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第154章  你说安雅去哪了？",
-        "updated_at": "2026-10-03 23:56:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第155章  直面妖兽",
+        "updated_at": "2026-10-05 01:06:03",
+        "rank_change": -1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 18,
+        "rank": 20,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -74,16 +85,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.83万字",
-        "word_count": 278300,
+        "word_count_text": "28.27万字",
+        "word_count": 282700,
         "heat": 17000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第126章  发自内心深处的恐惧",
-        "updated_at": "2026-10-04 05:02:02",
-        "rank_change": 1,
+        "latest_chapter": " 第128章  雪崩时没有一片雪花是无辜的",
+        "updated_at": "2026-10-05 05:02:03",
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

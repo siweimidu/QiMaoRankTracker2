@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 33000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "大小姐，都末世了谁还惯着你",
-          "book_id": 12813204
+          "book_id": 12813204,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 呈现“末世+重生+恶女+1vN雄竞”的复合型叙事，将传统的生存求生与复杂的情感博弈结合。\n**读者偏好** 读者对“恶女受惩”及“男主复仇”的爽感叙事有强烈需求，尤其是多男主（1vN）设定能有效带动读者讨论热度。\n**变动解读** 作为榜单新进力量，该题材展现了较强的引流潜力，通过高反差人设迅速抢占新书份额。\n**值得关注** 此类融合题材在末世背景下极具爆款潜质，后续应关注其热度能否在榜单中长线维持。",
+      "heat_leaders": [
+        {
+          "title": "大小姐，都末世了谁还惯着你",
+          "book_id": 12813204,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "**题材趋势**：末世元素叠加“重生复仇”与“雄竞修罗场”成为新增长点。\n**读者偏好**：读者对“恶女”形象及“男主重生虐渣”的复仇爽感有显著阅读偏好，情感拉扯感强的题材更具吸引力。\n**变动解读**：该题材表现出较强韧性，在榜作品热度逆势增长，排名稳步攀升，显示出读者对强冲突情节的高反馈。\n**值得关注**：男性视角下的复仇与多角情感博弈，是当前提升末世文留存率的重要抓手。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 16,
         "title": "大小姐，都末世了谁还惯着你",
         "book_id": 12813204,
         "url": "https://www.qimao.com/shuku/12813204/",
@@ -44,18 +51,18 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.25万字",
-        "word_count": 312500,
-        "heat": 29000,
+        "word_count_text": "31.66万字",
+        "word_count": 316600,
+        "heat": 33000,
         "platform_trend": "rise",
-        "badge": "飙升16名",
+        "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1785229117",
-        "latest_chapter": " 第149章  谁说男人没有心机的",
-        "updated_at": "2026-10-03 23:42:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第151章  弄死得了",
+        "updated_at": "2026-10-04 23:44:04",
+        "rank_change": 1,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世求生"

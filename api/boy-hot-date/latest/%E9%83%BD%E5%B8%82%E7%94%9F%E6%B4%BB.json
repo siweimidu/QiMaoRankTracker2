@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 382000,
+    "total_heat": 381000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "步步登阶",
+          "book_id": 1982360,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -3000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：都市生活类题材表现趋于稳定，正处于平稳过渡期，市场热度波动较小。\n**读者偏好**：读者更青睐带有现实主义色彩的成长型叙事，作品通过“都市打拼”引发的情感共鸣是留存的关键。\n**变动解读**：榜单结构高度单一且稳定，上榜作品《步步登阶》虽然热度微调，但依然稳居榜单，市场进入存量博弈阶段。\n**值得关注**：建议关注有声剧等跨媒介联动对小说热度的支撑作用，这类互动模式是提升都市生活类作品黏性的有效手段。",
+      "summary": "**题材趋势**：以现实主义职场与社会生存为核心，强调草根视角下的成长与人性博弈。\n**读者偏好**：读者更倾向于具备“有声剧”转化潜力的现实题材，偏好带有社会痛点与生活质感的沉浸式叙事。\n**变动解读**：榜单排名出现微调，且热度处于小幅缩量状态，反映出该类目在缺乏强力新品补位时的市场动力不足。\n**值得关注**：跨媒介联动（有声剧）对热度维持的加持作用明显，后续可重点观察该类目能否通过现实题材创新实现热度回升。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 7,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -45,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "290.93万字",
-        "word_count": 2909300,
-        "heat": 382000,
+        "word_count_text": "291.55万字",
+        "word_count": 2915500,
+        "heat": 381000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1385章  女领队",
-        "updated_at": "2026-10-04 01:21:11",
-        "rank_change": 0,
-        "heat_change": -3000,
+        "latest_chapter": " 第1388章  目的",
+        "updated_at": "2026-10-05 00:37:11",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

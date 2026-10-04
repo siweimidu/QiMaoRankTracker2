@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-over-date",
+    "name": "女生完结日榜",
+    "channel": "female",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-05",
+  "category": {
+    "name": "职场情缘",
+    "major": "现代言情",
+    "count": 1,
+    "total_heat": 76000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "邢教练，别太野",
+          "book_id": 1979319
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「职场情缘」新上榜 《邢教练，别太野》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "邢教练，别太野",
+        "book_id": 1979319,
+        "url": "https://www.qimao.com/shuku/1979319/",
+        "author": "七个菜包",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E4%B8%AA%E8%8F%9C%E5%8C%85_14/",
+        "major": "现代言情",
+        "minor": "职场情缘",
+        "major_id": 1,
+        "minor_id": 11,
+        "minor_url": "https://www.qimao.com/shuku/a-1-11-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "87.23万字",
+        "word_count": 872300,
+        "heat": 76000,
+        "platform_trend": "rise",
+        "badge": "飙升10名",
+        "intro": "【有声版权已售，喜马拉雅搜同名有声剧收听】\n【外柔内刚女翻译&外骚内闷拳击教练】\n山穷水尽的林妍回老家相亲，遇到了柳暗花明的硬汉邢彧。\n“邢教练，你条件不错怎么还来相亲？”\n“我挑。”\n她评价：太轻浮，不靠谱。\n自此，这个轻浮的邢教练便阴魂不散的缠上了她。\n多次偶遇、疯狂撩拨，本以为出自男人好色的本性。\n殊不知，是长达多年的蓄谋克制。\n某日，他赤着上半身寸寸逼近，她下意识推开。\n他漾笑：“朋友，袭我胸？”\n“我又不是色狼。”\n“色狼一下又怎样？你倒是狼我一下啊。”\n她摇头：脸皮厚，太浪荡。\n后来，她主动将他压倒，盯着他逐渐泛红的耳尖调侃。\n“邢教练，你不是很会吗？”\n邢彧眉目刚硬，喉结滚了又滚。\n“我可是，正经人。”\n……\n（1V1，双洁）",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242170_360x480.jpg?time=1749029180",
+        "latest_chapter": " 第395章  番外4：幸福时光（终篇）",
+        "updated_at": "2025-10-13 22:13:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "职场情缘"
+      }
+    ]
+  }
+}

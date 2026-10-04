@@ -8,38 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 4,
-    "total_heat": 173000,
+    "total_heat": 176000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_books": [
         {
           "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
-          "book_id": 12583887,
-          "intro": "【娇媚心机小丫鬟+禁欲侯爷+甜宠+宅斗】\n前世，沈清禾被亲妹抢亲，只能给纨绔当通房，亲妹成了小侯爷的通房。\n　　可最终，小侯爷绝嗣，反而纨绔成了权倾朝野的首辅，亲妹嫉妒之下百般陷害，沈清禾郁郁而终。\n"
+          "book_id": 12583887
         }
       ],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "rank_change": -2
-        },
-        {
-          "title": "听女儿心声，侯夫人挺孕肚乱杀",
-          "book_id": 12800205,
-          "rank_change": -1
-        },
+      "dropped_books": [
         {
           "title": "夺她入帐，惹上疯批权臣逃不掉",
           "book_id": 10423605,
+          "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "劝爹入赘公主府，玄学嫡女被团宠",
+          "book_id": 13123386,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "听女儿心声，侯夫人挺孕肚乱杀",
+          "book_id": 12800205,
           "rank_change": -1
         }
       ],
@@ -47,54 +48,20 @@
         {
           "title": "劝爹入赘公主府，玄学嫡女被团宠",
           "book_id": 13123386,
-          "heat_change": 9000
+          "heat_change": 2000
         },
         {
           "title": "听女儿心声，侯夫人挺孕肚乱杀",
           "book_id": 12800205,
           "heat_change": -1000
-        },
-        {
-          "title": "侯府来了个小阎王，满朝权贵争又抢",
-          "book_id": 12479613,
-          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：传统宅斗式微，融合“玄学+萌崽+重生”的轻快爽文模式成为市场主流，强调“报复式爽感”。\n**读者偏好**：读者更倾向于具备“胎中灵体/心声”外挂的主角，以此实现对传统宅斗压抑氛围的降维打击。\n**变动解读**：榜单整体处于震荡期，除《劝爹入赘公主府》热度微升外，其余作品排名均有下滑，表明读者对传统套路的审美疲劳。\n**值得关注**：带有“玄学+团宠”标签的作品仍具长线潜力，建议重点观察此类作品在“换府改命”情节上的创新迭代。",
+      "summary": "**题材趋势**：玄学元素与“胎中灵体/心声”设定已成为当前宅斗文的差异化利器，传统的纯宅斗模式正在向爽文模式转型。\n**读者偏好**：读者倾向于阅读具备“预知视角”的爽文，偏爱女主或女儿通过玄学/心声扭转命运、虐渣打脸，实现家庭地位逆转的叙事。\n**变动解读**：榜单竞争激烈，新作品《侯爷绝嗣？好孕丫鬟又又又是喜脉》入榜，显示出“身份差+好孕”的经典宅斗套路在细分市场上仍有稳定受众。\n**值得关注**：玄学与宅斗的深度融合是目前的最优解，创作者应侧重于构思如何通过非自然手段解构传统宅斗中的复杂矛盾。",
       "ai_source": "ai"
     },
     "books": [
       {
         "rank": 8,
-        "title": "听女儿心声，侯夫人挺孕肚乱杀",
-        "book_id": 12800205,
-        "url": "https://www.qimao.com/shuku/12800205/",
-        "author": "七似月",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E4%BC%BC%E6%9C%88_14/",
-        "major": "古代言情",
-        "minor": "宫闱宅斗",
-        "major_id": 2,
-        "minor_id": 209,
-        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "48.48万字",
-        "word_count": 484800,
-        "heat": 54000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边半生，每每看到母亲被欺更是气得要疯，在母亲死时以十世功德换来二人重生。\n       心声女儿来助力，季月如斗恶婆，惩小姑，养废一双继子女。\n       利用她的亲姐跟安顺侯更是没落得一个好下场。\n       母女二人一路上披荆斩棘，遇神杀神遇佛杀佛，自此走上人生巅峰。\n       顺王萧策一生偏执阴暗，可独独他的目光会被母女二人所吸引，一路上护着宠着，极尽偏爱。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12800205_360x480.jpg?time=1788544688",
-        "latest_chapter": " 第234章  卖惨",
-        "updated_at": "2026-10-03 08:37:03",
-        "rank_change": -1,
-        "heat_change": -1000,
-        "is_new": false,
-        "boards_count": 3,
-        "stale_update": false,
-        "category": "宫闱宅斗"
-      },
-      {
-        "rank": 9,
         "title": "劝爹入赘公主府，玄学嫡女被团宠",
         "book_id": 13123386,
         "url": "https://www.qimao.com/shuku/13123386/",
@@ -106,19 +73,48 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.13万字",
-        "word_count": 331300,
-        "heat": 53000,
+        "word_count_text": "33.75万字",
+        "word_count": 337500,
+        "heat": 55000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼缠身，还被侯府榨干最后一丝价值，嫁给心有所属的宁王，最后被钉骨活埋，险些魂飞魄散。\n再次睁眼，姐姐调换了命签，顶着她的“荣华富贵命”，抢着跟娘嫁入侯府。\n原来姐姐也重生了。\n她以为，跟着爹就会在被贬途中被山匪砍死，跟着娘就能坐享侯府荣华？\n呵，殊不知，侯府才是龙潭虎穴。\n顾令窈很期待，侯府继姐换上姐姐的“刑克六亲命”后，侯府会是什么下场。\n而她一眼看破父亲与长公主姻缘线，劝爹入赘公主府，在家当福星团宠，在外当一卦难求的国师。\n这一世，她要复仇，要改变父亲、长公主和三位继兄的命运，找到前世恩人保他一世平安！\n当姐姐还在做着王妃梦时，她所在的侯府和她想嫁的王爷，都已被顾令窈送上了黄泉路！\n只是，她怎么报恩报着报着，被那位惊才绝艳的昭王殿下，按在了皇后宝座上？\n“既要报恩，前世我与你共赴黄泉，今生你与我同享皇权，如何？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123386_360x480.jpg?time=1789283551",
-        "latest_chapter": " 第107章  夺宁王的救命法器！",
-        "updated_at": "2026-10-04 00:00:03",
-        "rank_change": 0,
-        "heat_change": 9000,
+        "latest_chapter": " 第109章  萧靖澜将威云骑令牌送给顾令窈！",
+        "updated_at": "2026-10-05 00:03:04",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 9,
+        "title": "听女儿心声，侯夫人挺孕肚乱杀",
+        "book_id": 12800205,
+        "url": "https://www.qimao.com/shuku/12800205/",
+        "author": "七似月",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E4%BC%BC%E6%9C%88_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "49.1万字",
+        "word_count": 491000,
+        "heat": 53000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边半生，每每看到母亲被欺更是气得要疯，在母亲死时以十世功德换来二人重生。\n       心声女儿来助力，季月如斗恶婆，惩小姑，养废一双继子女。\n       利用她的亲姐跟安顺侯更是没落得一个好下场。\n       母女二人一路上披荆斩棘，遇神杀神遇佛杀佛，自此走上人生巅峰。\n       顺王萧策一生偏执阴暗，可独独他的目光会被母女二人所吸引，一路上护着宠着，极尽偏爱。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4267/12800205_360x480.jpg?time=1788544688",
+        "latest_chapter": " 第237章  纯哥受伤",
+        "updated_at": "2026-10-04 08:31:04",
+        "rank_change": -1,
+        "heat_change": -1000,
+        "is_new": false,
+        "boards_count": 3,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
@@ -135,48 +131,48 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.79万字",
-        "word_count": 457900,
+        "word_count_text": "46.2万字",
+        "word_count": 462000,
         "heat": 38000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第221章  给小天师建庙",
-        "updated_at": "2026-10-03 16:28:04",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第223章  恶鬼在大佛寺",
+        "updated_at": "2026-10-04 20:46:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 18,
-        "title": "夺她入帐，惹上疯批权臣逃不掉",
-        "book_id": 10423605,
-        "url": "https://www.qimao.com/shuku/10423605/",
-        "author": "香菜达达",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%A6%99%E8%8F%9C%E8%BE%BE%E8%BE%BE_14/",
+        "rank": 17,
+        "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+        "book_id": 12583887,
+        "url": "https://www.qimao.com/shuku/12583887/",
+        "author": "木昭宁",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%A8%E6%98%AD%E5%AE%81_14/",
         "major": "古代言情",
         "minor": "宫闱宅斗",
         "major_id": 2,
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.34万字",
-        "word_count": 443400,
-        "heat": 28000,
+        "word_count_text": "50.36万字",
+        "word_count": 503600,
+        "heat": 30000,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
-        "latest_chapter": " 第205章  她狠狠咬了他一口",
-        "updated_at": "2026-10-04 00:27:03",
-        "rank_change": -1,
+        "intro": "【娇媚心机小丫鬟+禁欲侯爷+甜宠+宅斗】\n前世，沈清禾被亲妹抢亲，只能给纨绔当通房，亲妹成了小侯爷的通房。\n　　可最终，小侯爷绝嗣，反而纨绔成了权倾朝野的首辅，亲妹嫉妒之下百般陷害，沈清禾郁郁而终。\n　　重来一次，亲妹选了纨绔，却不知沈清禾受了多少白眼，忍了多少冷淡才让纨绔一朝醒悟。\n　　沈清禾冷笑着看亲妹自作孽，转身去服侍了小侯爷。\n　　小侯爷向来不近女色，沈清禾刚靠近，他就立下规矩：不许擅自靠近，不许觊觎正室之位，不许对他生出非分之想。\n　　沈清禾欣然同意:只要生下子嗣，奴婢定不纠缠。\n她努力做好他白月光的替身，图钱图权就是不图他真心。\n　　后来，她刚生下全镇国侯府翘首以盼的子嗣，小侯爷的白月光找上门。\n　　沈清禾当机立断拿着身契和数不清的银票，远赴江南，终于开启她的逍遥日子，\n　　谁知，那名震天下的小侯爷，却罕见地失了眠。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4195/12583887_360x480.jpg?time=1789293329",
+        "latest_chapter": " 第180章  宋玉兰进府",
+        "updated_at": "2026-10-04 22:35:02",
+        "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
+        "is_new": true,
+        "boards_count": 3,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

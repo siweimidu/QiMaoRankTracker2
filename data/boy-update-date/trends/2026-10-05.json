@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-05",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 31,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "rank_change": -2
+          },
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -2
+          },
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：传统玄幻赛道趋于饱和，题材高度集中在“废柴逆袭+系统/金手指+无敌流”的模板化表达。\n**读者偏好**：读者对“杀伐果断”、“背景逆天”及“反套路爽感”的需求极高，偏好节奏极快、开局即巅峰的爽文模式。\n**变动解读**：榜单整体流动性停滞，老书统治力稳固。部分书籍热度下滑，暗示读者对重复度过高的“收徒/炉鼎流”题材产生审美疲劳。\n**值得关注**：《让你当炉做鼎，你炼阴阳证大道？》虽排名下降但热度逆势增长，说明此类带有强冲突、强人设标签的题材仍具备长尾流量潜力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "rank_change": 1
+          },
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：高武题材正向“都市异能+系统觉醒”深度融合，强调社会身份反差（如保安、囚犯）带来的爽感叠加。\n**读者偏好**：读者热衷于“绝境重生”与“扮猪吃虎”的爽点配置，尤其青睐带有明确升级反馈与系统外挂的强节奏叙事。\n**变动解读**：新书《神武天下之睚眦》强势登榜并占据热度高位，激活了该小类市场，存量书通过排名爬升展示了良好的用户粘性。\n**值得关注**：新入局者《神武天下之睚眦》以极高热度开局，建议重点观察其“系统+职业反差”的组合拳是否能引发后续的同类题材跟风。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "公主退婚？我买下了满朝文武",
+            "book_id": 12878790,
+            "rank_change": -2
+          },
+          {
+            "title": "我爹让我弑君，陛下却把公主赐给我",
+            "book_id": 11895729,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "公主退婚？我买下了满朝文武",
+            "book_id": 12878790,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：历史题材核心卖点向“权谋+反差+赘婿/驸马”偏移，强调主角在朝堂博弈中的身份错位带来的戏剧张力。\n**读者偏好**：读者偏爱“低调苟活却被迫高调”的爽文逻辑，对“权谋博弈”、“被动上位”等情节有较高接受度。\n**变动解读**：由于缺乏新书入场，榜单内老书排位集体下挫，热度增长乏力，反映出该类目在当前周期内缺乏能够拉动流量的新爆点。\n**值得关注**：虽然排名下滑，但《公主退婚？我买下了满朝文武》热度仍有微涨，说明“经商+朝堂”题材在稳固受众群体方面表现出较强的韧性。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "顶替我高考状元？我勇冠海陆空三军！",
+            "book_id": 12931542,
+            "rank_change": -5
+          },
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "顶替我高考状元？我勇冠海陆空三军！",
+            "book_id": 12931542,
+            "heat_change": 3
+          },
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：军事爽文赛道趋于饱和，题材高度聚焦于“退伍兵王重返/入伍”的强人设反差流。\n**读者偏好**：读者热衷于“扮猪吃虎”与“身份错位”带来的爽感，尤其是高考状元、千万富翁等社会精英身份与军旅生活的冲突设定最易引发共鸣。\n**变动解读**：本期榜单虽排名全线下滑，但热度值均有显著增长，说明存量书目的读者黏性与追读活跃度较高。\n**值得关注**：建议重点关注《顶替我高考状元？我勇冠海陆空三军！》，其强烈的社会矛盾冲突设定在短剧化改编与流量获取上具备天然优势。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》下滑1位；《SSSSSSSSSSSSS级镇狱狂龙》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势** 奇门秘术类目前处于极度冷门期，榜单仅存一本老书支撑，市场活跃度极低。\n**读者偏好** 读者对民俗诡异、人吃人等黑暗悬疑风格仍有潜在关注，但当前缺乏优质更新驱动热度。\n**变动解读** 榜单呈完全静止状态，热度微降，显示该细分品类在七猫男生频道面临严重的流量匮乏。\n**值得关注** 需观察《天黑请点灯》后续是否会有内容更新带动热度回升，或该类目是否面临被整合的风险。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

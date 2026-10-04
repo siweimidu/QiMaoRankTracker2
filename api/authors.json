@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T07:35:46",
-  "date": "2026-10-04",
+  "generated_at": "2026-10-05T07:54:20",
+  "date": "2026-10-05",
   "authors": [
     {
       "author": "化十",
@@ -14,21 +14,10 @@
       ]
     },
     {
-      "author": "梁山老鬼",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
-      "books": 2,
-      "boards": 4,
-      "total_heat": 3282000,
-      "titles": [
-        "无敌六皇子",
-        "天命纨绔"
-      ]
-    },
-    {
       "author": "白木木",
       "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E6%9C%A8%E6%9C%A8_14/",
       "books": 2,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 2986000,
       "titles": [
         "全师门就我一个废柴",
@@ -40,7 +29,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287001,
+      "total_heat": 2287000,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -305,6 +294,16 @@
       "total_heat": 8567000,
       "titles": [
         "家有玄妻，百邪不侵！"
+      ]
+    },
+    {
+      "author": "墨墨卿卿",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%A2%A8%E5%8D%BF%E5%8D%BF_14/",
+      "books": 1,
+      "boards": 3,
+      "total_heat": 8525000,
+      "titles": [
+        "霍二爷，新婚请克制！"
       ]
     }
   ]

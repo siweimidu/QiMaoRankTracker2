@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "categories": [
     {
       "name": "都市高武",
@@ -85,11 +85,6 @@
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
-    },
-    {
-      "name": "穿越历史",
-      "major": "历史",
-      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "总裁豪门",

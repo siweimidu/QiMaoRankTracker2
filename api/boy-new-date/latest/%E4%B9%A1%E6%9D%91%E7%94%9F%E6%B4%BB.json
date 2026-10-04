@@ -8,33 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "乡村生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 36000,
+    "count": 1,
+    "total_heat": 21000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "dropped_books": [
         {
           "title": "重生57：开局傻子，白捡个漂亮媳妇",
           "book_id": 13118376,
-          "heat_change": -1000
+          "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！"
         }
       ],
-      "summary": "**题材趋势**：年代文与种田文深度交织，以“极品斗争”与“物资匮乏背景下的逆袭”为叙事主轴。\n**读者偏好**：读者倾向于“重生改变命运”的奋斗叙事，特别是带有“寡妇”、“傻子”等强冲突标签的开局。\n**变动解读**：两本作品处于势均力敌的拉锯状态，排名交替上升反映了读者对不同年代背景及冲突节奏的细微偏好。\n**值得关注**：生存压力与生活改善的对比是留存关键，需关注后续剧情中“空间金手指”与现实经营的结合度。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "重生七零资本家大少爷，开局被寡妇堵门",
+          "book_id": 12779493,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "**题材趋势**：年代文结合“生存挑战”与“软饭硬吃”的强人设模式，是当前乡村生活类题材的主流卖点。\n**读者偏好**：读者偏爱带有紧迫感、压迫感的开局（如寡妇堵门、批斗危机），追求在极端环境下破局的爽感。\n**变动解读**：榜单出现新旧更替，原头部作品被挤出，显示该赛道读者对剧情的同质化容忍度较低，更易被更具冲突感的题材吸引。\n**值得关注**：该类目热度增长明显，后续需关注“空间+年代+生存”公式的迭代，以及读者对剧情节奏的反馈变化。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,46 +51,17 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.58万字",
-        "word_count": 495800,
-        "heat": 18000,
-        "platform_trend": "drop",
+        "word_count_text": "50.22万字",
+        "word_count": 502200,
+        "heat": 21000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局熬到平反？\n偶得祖传玉佩中一神秘空间，天天往外冒物资。\n于是荒年我粮爆满仓，美女寡妇在我身，什么狗屁大伯二叔，惹我头上全给你们炸喽！\n山头小鬼子的宝藏！野狼谷的盗洞！\n在这个野蛮年代陈建明彻底杀疯了！\n左手美女入我怀，右手万两黄金权！\n当别人还在为半块地瓜干争得头破血流时，陈建明早已踩着时代的红利一路狂飙，缔造属于自己的传奇商业帝国！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4260/12779493_360x480.jpg?time=1784102642",
-        "latest_chapter": " 第232章   小意外，不重要！你看我带回来个啥？",
-        "updated_at": "2026-10-03 16:59:04",
-        "rank_change": 2,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "乡村生活"
-      },
-      {
-        "rank": 17,
-        "title": "重生57：开局傻子，白捡个漂亮媳妇",
-        "book_id": 13118376,
-        "url": "https://www.qimao.com/shuku/13118376/",
-        "author": "天下龟一",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
-        "major": "都市",
-        "minor": "乡村生活",
-        "major_id": 203,
-        "minor_id": 48,
-        "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "33.06万字",
-        "word_count": 330600,
-        "heat": 18000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第159章  曹欣的目标",
-        "updated_at": "2026-10-03 22:19:03",
+        "latest_chapter": " 第235章  什么都给我？也包括你吗？",
+        "updated_at": "2026-10-04 20:48:05",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 66000,
+    "total_heat": 70000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
-          "rank_change": -3
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "heat_change": 3000
+          "heat_change": 2000
         },
         {
           "title": "长生猎户，从形意拳到人间武圣！",
           "book_id": 12789207,
-          "heat_change": -1000
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：以“赘婿逆袭+系统面板”为核心驱动，强调掠夺式成长与极端的修炼爽感，风格向快节奏、高张力演变。\n**读者偏好**：读者追求简单粗暴的升级体验，对“武道面板”类金手指接受度极高，同时也偏好通过征服强敌实现自我价值的升级流叙事。\n**变动解读**：榜单呈现两极分化，传统面板修仙（如《长生猎户》）因同质化竞争热度下滑，而具备强烈冲突性、带有“掠夺/采补”元素的作品稳居头部。\n**值得关注**：玄幻品类正进入存量竞争阶段，题材的差异化是关键，后续需警惕纯面板流作品因缺乏新意而导致的用户审美疲劳。",
+      "summary": "**题材趋势**：传统玄幻正在向“系统面板流”与“快节奏升级流”转型，注重功法积累与斩妖除魔的爽感闭环。\n**读者偏好**：读者倾向于高压环境下通过金手指快速变强的逻辑，对“赘婿逆袭、武道面板、掠夺机缘”等设定兴趣浓厚。\n**变动解读**：榜单规模较小但热度稳定，书籍间竞争激烈，表现出小众精炼的榜单生态，缺乏大幅度排位波动。\n**值得关注**：《阴阳天帝诀》的红颜炉鼎设定虽极具争议，但在男性爽文市场中依然是强有力的流量引擎，需关注其后续转化表现。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,24 +56,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.9万字",
-        "word_count": 389000,
-        "heat": 38000,
+        "word_count_text": "39.34万字",
+        "word_count": 393400,
+        "heat": 40000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第183章  神朝必杀令！",
-        "updated_at": "2026-10-03 13:09:03",
+        "latest_chapter": " 第185章  谁敢动我师尊？",
+        "updated_at": "2026-10-04 19:01:04",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "长生猎户，从形意拳到人间武圣！",
         "book_id": 12789207,
         "url": "https://www.qimao.com/shuku/12789207/",
@@ -85,17 +85,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.85万字",
-        "word_count": 498500,
-        "heat": 28000,
-        "platform_trend": "drop",
+        "word_count_text": "50.66万字",
+        "word_count": 506600,
+        "heat": 30000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点可直接提升功法熟练等级！\n甚至射箭、练武也能增长熟练度！\n于是，从山野猎户到宗门道子，从一介庶民再到人间武圣...\n别人苦练十年百年，他只需要加点，就能走上巅峰！\n“既然这世道不讲道理，那我就用拳头让这个世道听我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12789207_360x480.jpg?time=1785236832",
-        "latest_chapter": " 第243章  海量武道点，禹州的上宗门！",
-        "updated_at": "2026-10-04 00:04:08",
-        "rank_change": -3,
-        "heat_change": -1000,
+        "latest_chapter": " 第247章  大长老的震撼！回天丹到手！",
+        "updated_at": "2026-10-05 00:10:06",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

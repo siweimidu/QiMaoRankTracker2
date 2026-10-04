@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "category": {
     "name": "无限快穿",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：题材处于存量盘整期，市场表现平淡，缺乏强有力的内容供给支撑热度增长。\n**读者偏好**：读者更偏好“无限流+高危恋爱”的设定，即在极度恐怖的环境中追求病娇式高糖互动。\n**变动解读**：榜单维持静止，头部作品热度未能有效激活，反映出该细分赛道近期缺乏破圈的爆款内容。\n**值得关注**：建议重点观察如何通过提升“诡异氛围”与“攻略对象人格魅力”的互动密度，来拉动读者的阅读参与感。",
-      "ai_source": "ai"
+      "top_fallers": [
+        {
+          "title": "攻略？阴湿诡异直接吻了上来",
+          "book_id": 13033788,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "攻略？阴湿诡异直接吻了上来",
+          "book_id": 13033788,
+          "heat_change": 1
+        }
+      ],
+      "summary": "「无限快穿」《攻略？阴湿诡异直接吻了上来》下滑1位；《攻略？阴湿诡异直接吻了上来》热度+1。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "攻略？阴湿诡异直接吻了上来",
         "book_id": 13033788,
         "url": "https://www.qimao.com/shuku/13033788/",
@@ -39,17 +51,17 @@
         "minor_id": 283,
         "minor_url": "https://www.qimao.com/shuku/a-4-283-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.3万字",
-        "word_count": 253000,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "25.51万字",
+        "word_count": 255100,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【无限流+甜宠爽文+双洁+男主病娇】\n黎初进入诡异游戏，系统要求她感化未来的诡异BOSS时渊，达成救世成就。\n【玩偶屋】被诅咒的玩偶在午夜游荡，呼朋唤友玩捉迷藏，被找到的人将献出肢体成为它的一部分。\n黎初发现了形似时渊的娃娃，手感不错捏了一路，身边的人红着耳朵闷不做声，捏着捏着她才知道，这是时渊的共感娃娃。\n【诡影双生】不要独自待在封闭无光的环境，否则你将被你的‘影子’取代。\n光影交错间，身侧男人拉着她的手，温凉如玉；身后贴上来的怀抱炽热，嗓音蛊惑：“宝宝，他是胆小鬼，不要他，要我好不好？”\n【伊甸园】人间乐园中潜藏着恶魔，黎初在寻找「原罪」途中被一株藤蔓缠上了，藤蔓被她一摸就开花，身边男人也跟着脸红。\n——原来这藤蔓是时渊的分身！\n…\n黎初辛勤做任务，系统却在某天发出尖锐爆鸣：\n宿主，我们攻略错人了！他是比诡异BOSS还要可怕一万倍的存在，快逃！！……等等，他怎么一直抱着你亲？！\n＊\n时渊很早就知晓任务者和系统的存在，他是后期被深渊同化的不可名状，从来不是什么男主。\n得知黎初认错攻略对象，时渊直接吻了上去，抱着黎初不撒手：老婆，你没认错，我就是你要用爱感化的对象！老婆贴贴～",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13033788_360x480.jpg?time=1785995596",
-        "latest_chapter": " 第124章  【大结局】扭转命运",
-        "updated_at": "2026-10-03 20:02:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第125章  番外：时猫猫",
+        "updated_at": "2026-10-04 13:31:03",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

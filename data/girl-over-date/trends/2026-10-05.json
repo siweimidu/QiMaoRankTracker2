@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-05",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 161650,
+    "total_heat": 3233000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "暗恋她的第十一年",
+            "book_id": 1889690
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "他的瘾",
+            "book_id": 1814440,
+            "intro": "【美强惨.腹黑偏执私生子x富家乖乖女】\n直到未婚夫梁牧之在订婚当天同人私奔，被抛下的许栀才幡然醒悟，真心未必能换得真心。\n她看向那个一直默默在她身后的男人。\n梁锦墨觉得自己已经习惯了黑暗，但许栀给了他"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": 7
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": -3
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": -1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": 68000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 16000
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "heat_change": 10000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《暗恋她的第十一年》；《他的瘾》 掉出榜单；《消失十五年，孩子妈穿回来了！》上升7位领涨；《皑如山上雪》下滑3位；《消失十五年，孩子妈穿回来了！》热度+68000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -17000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 4000
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《第一凤女》下滑2位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度-17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "世子先别死，夫人有喜了",
+            "book_id": 1830570
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《世子先别死，夫人有喜了》；《为奴三年后，整个侯府跪求我原谅》下滑2位；《为奴三年后，整个侯府跪求我原谅》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "柔弱医修今天也在背地里暴打魔尊",
+            "book_id": 1981956,
+            "intro": "沐风华刚转世投胎，就遇到同在母体中的弟弟要抢夺她的生命力。于是，沐风华还在母体中就开始了打弟弟的日子。而渣爹要杀妻儿入无情道。她当然是让渣爹入土为安了。后来，沐风华过上了每天吃饭，修炼，打弟弟的平凡日"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「年代重生」《穿成六零小炮灰，大小姐带物资养兵王》下滑1位；《穿成六零小炮灰，大小姐带物资养兵王》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "邢教练，别太野",
+            "book_id": 1979319
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」新上榜 《邢教练，别太野》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

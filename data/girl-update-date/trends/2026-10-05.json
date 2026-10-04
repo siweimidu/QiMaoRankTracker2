@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-05",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 23,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": -2
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "heat_change": -2
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《侯爷绝嗣？好孕丫鬟又又又是喜脉》上升1位领涨；《凰宫梦》下滑2位；《媚君侧》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 1
+          },
+          {
+            "title": "穿进强制爱古言，四个大佬全部失控",
+            "book_id": 12581412,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "rank_change": -3
+          },
+          {
+            "title": "表妹貌美，冷面世子情难自恃",
+            "book_id": 12443391,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "heat_change": 2
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《新婚夜流放，飒爽太子妃种出西北大仓！》；《王妃一身妖骨，京城百祟俯首》上升1位领涨；《五岁小神女：我靠兽语救了废柴将军爹爹》下滑3位；《五岁小神女：我靠兽语救了废柴将军爹爹》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《离婚后她惊艳了世界》上升1位领涨；《她玩火》下滑1位；《霍二爷，新婚请克制！》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "七零退婚嫌我瞎？我嫁军少旺全家",
+            "book_id": 12637551,
+            "intro": "林菀绑定抽卡系统，获得短暂复明，\n看清了未婚夫的欺骗和虚伪，\n也看透了亲妈的偏心，\n果断卖掉工作，下乡嫁给娃娃亲对象。\n可不想，却被瘸腿小叔子拉进房……\n东北的热炕头，夜夜抵死纠缠，谁知今夕是何年？"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "神医军嫂要离婚，冷面团长急红眼",
+            "book_id": 13164777,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我才五岁，怎么就成军区团宠了",
+            "book_id": 12134931,
+            "heat_change": -2
+          },
+          {
+            "title": "神医军嫂要离婚，冷面团长急红眼",
+            "book_id": 13164777,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「年代重生」《七零退婚嫌我瞎？我嫁军少旺全家》 掉出榜单；《神医军嫂要离婚，冷面团长急红眼》上升1位领涨；《我才五岁，怎么就成军区团宠了》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "无限快穿",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "攻略？阴湿诡异直接吻了上来",
+            "book_id": 13033788,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "攻略？阴湿诡异直接吻了上来",
+            "book_id": 13033788,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「无限快穿」《攻略？阴湿诡异直接吻了上来》下滑1位；《攻略？阴湿诡异直接吻了上来》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "仙君今天也想杀我",
+            "book_id": 13281888,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "仙君今天也想杀我",
+            "book_id": 13281888,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「玄幻仙侠」《仙君今天也想杀我》下滑1位；《仙君今天也想杀我》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
