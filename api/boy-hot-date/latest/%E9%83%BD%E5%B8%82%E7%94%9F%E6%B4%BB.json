@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 381000,
+    "total_heat": 385000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "步步登阶",
-          "book_id": 1982360,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：以现实主义职场与社会生存为核心，强调草根视角下的成长与人性博弈。\n**读者偏好**：读者更倾向于具备“有声剧”转化潜力的现实题材，偏好带有社会痛点与生活质感的沉浸式叙事。\n**变动解读**：榜单排名出现微调，且热度处于小幅缩量状态，反映出该类目在缺乏强力新品补位时的市场动力不足。\n**值得关注**：跨媒介联动（有声剧）对热度维持的加持作用明显，后续可重点观察该类目能否通过现实题材创新实现热度回升。",
+      "summary": "**题材趋势**：都市生活类题材进入平稳期，目前榜单呈现单兵作战状态，市场竞争压力较小但流量规模相对有限。\n**读者偏好**：读者更偏向于阅历感较强、带有社会现实写实风格的成长励志故事，对有声剧等衍生内容有较高依赖度。\n**变动解读**：榜单结构无变动，核心作品《步步登阶》热度小幅回暖，显示出该类目在存量市场中仍保持着稳定的读者粘性。\n**值得关注**：该类目需关注作品的跨媒介转化能力，通过有声剧等形式拓宽受众触达路径是维持热度的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "291.55万字",
-        "word_count": 2915500,
-        "heat": 381000,
-        "platform_trend": "drop",
+        "word_count_text": "291.76万字",
+        "word_count": 2917600,
+        "heat": 385000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1388章  目的",
-        "updated_at": "2026-10-05 00:37:11",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "latest_chapter": " 第1389章  另类的感同身受",
+        "updated_at": "2026-10-05 22:51:11",
+        "rank_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

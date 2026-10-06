@@ -8,34 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 1,
+    "count": 3,
+    "total_heat": 2,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "rank_change": -1
+          "title": "美女总裁，请上车",
+          "book_id": 2091347
         }
       ],
-      "heat_leaders": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "heat_change": -1
+          "rank_change": 1
         }
       ],
-      "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》下滑1位；《SSSSSSSSSSSSS级镇狱狂龙》热度-1。",
-      "ai_source": "rule"
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
+          "heat_change": -1
+        },
+        {
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：都市赛道高度依赖短剧IP联动与极简爽点输出，节奏极快，强调“下山”、“复仇”、“总裁”等强冲突标签。\n**读者偏好**：读者热衷于强情绪化的爽文，对“爆火短剧原著”标签有极高认同感，且偏好反差感强、带有癫狂色彩的剧情。\n**变动解读**：榜单活跃度较高，新书《美女总裁，请上车》快速入榜，显示出都市类题材对新流量的强吸纳能力。\n**值得关注**：重点跟踪《SSSSSSSSSSSSS级镇狱狂龙》，其作为短剧原著，在热度增长表现上证明了“短剧反哺网文”模式的有效性。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -51,24 +61,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "135.36万字",
-        "word_count": 1353600,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "136.79万字",
+        "word_count": 1367900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第543章  养虎为患",
-        "updated_at": "2026-10-05 01:09:05",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第547章  傲气自负",
+        "updated_at": "2026-10-06 00:12:17",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -80,18 +90,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "344.35万字",
-        "word_count": 3443500,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "345.05万字",
+        "word_count": 3450500,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1490章   演习开始",
-        "updated_at": "2026-10-05 07:02:16",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第1493章  你们太脆皮了",
+        "updated_at": "2026-10-06 07:02:14",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 20,
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "338.7万字",
+        "word_count": 3387000,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
+        "latest_chapter": " 第1242章  神秘的白水晶！",
+        "updated_at": "2026-10-06 01:08:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

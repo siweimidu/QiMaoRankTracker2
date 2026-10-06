@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 31000,
+    "total_heat": 34000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "book_id": 12896292,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "heat_change": 2000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：都市校园题材深度绑定“重生/怀旧+情感养成”模式，侧重于对女性角色的群像塑造。\n**读者偏好**：读者热衷于“重回青春”的怀旧感，对商业成功与情感互动兼具的“养成系”桥段有较高留存意愿。\n**变动解读**：排名稳步上升，反映出该类目在轻松、怀旧叙事上的市场反馈良好，读者对特定时间节点（2010年）的代入感较强。\n**值得关注**：需持续观察此类书籍在后期剧情中，如何平衡“商业搞钱”与“校园情感”的权重，以维持长线热度。",
+      "summary": "**题材趋势** “重回过去+攻略校花”的都市创业/恋爱文，是目前校园分类最稳固的流量密码。\n**读者偏好** 读者热衷于“养成”与“怀旧”并举的叙事，即通过主角的先知优势，低成本获取高成就感。\n**变动解读** 该类目热度上涨明显，显示出较强的用户黏性与市场潜力，是目前三个类目中活跃度最高、增长势头最稳的板块。\n**值得关注** 随着“2010年”这一时间节点的反复使用，未来内容需在人设差异化上寻找新的切入点。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.75万字",
-        "word_count": 307500,
-        "heat": 31000,
+        "word_count_text": "31.7万字",
+        "word_count": 317000,
+        "heat": 34000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第135章  李倩的变化",
-        "updated_at": "2026-10-04 08:12:10",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第139章  盲盒卖疯了！",
+        "updated_at": "2026-10-06 08:12:10",
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

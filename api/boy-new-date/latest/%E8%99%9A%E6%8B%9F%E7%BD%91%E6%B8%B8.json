@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "虚拟网游",
     "major": "游戏",
     "count": 1,
-    "total_heat": 38000,
+    "total_heat": 37000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "网游：全是数值，你管这叫圣骑士？",
-          "book_id": 12801060,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "网游：全是数值，你管这叫圣骑士？",
           "book_id": 12801060,
-          "heat_change": 9000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：网游文正从传统升级流转向“数据化异能”与“重生先知”的结合，强调数值碾压的快感。\n**读者偏好**：读者对“重生+唯一天赋”的经典金手指组合买单意愿极强，偏爱从底层反转的逆袭叙事。\n**变动解读**：本期热度涨幅显著（+9000），排名跃升2位，证明该书内容触达了核心玩家的爽点，拉新效果明显。\n**值得关注**：该书展现了较强的爆发力，后续应关注其在维持高热度下的剧情节奏把控与数值体系稳定性。",
+      "summary": "**题材趋势** “游戏降临现实”与“数值流”依然是网游类目的核心驱动力。\n**读者偏好** 读者追求极简的重生复仇逻辑，即通过“唯一天赋”快速实现阶级跃升的爽感。\n**变动解读** 榜单表现高度稳定，单品支撑现象明显，热度小幅波动属正常范围，暂无强力竞争者冲击。\n**值得关注** 此类目对“开局唯一性”依赖极高，后续内容能否通过数值膨胀维持新鲜感是续航的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 232,
         "minor_url": "https://www.qimao.com/shuku/a-75-232-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.85万字",
-        "word_count": 318500,
-        "heat": 38000,
-        "platform_trend": "rise",
+        "word_count_text": "32.25万字",
+        "word_count": 322500,
+        "heat": 37000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "这穿越者啊，有被女朋友绿帽子绿死的，有被兄弟捅刀子捅死的，有被恶势力欺负死的……王铮却是活活窝囊死的。\n作为游戏里挖矿三年的矿工，在游戏降临的那一刻，被最垃圾的怪物砍死，王铮方才知道实力比钱重要。\n重生第一件事，自然是拿到唯一天赋。\n重生第二件事，就是超度怪物。\n超度野狼，敏捷+1，超度野猪，力量+1……\n左拳伤害高，右拳高伤害。\n没有操作，全是数值。\n有什么不服就跟我的十字镐说吧。\n不要跟本骑士哔哔赖赖。\n谁说圣骑士不能用十字镐？十字镐难道不是十字？\n原谅你那是光明神的事，我只负责送你去见光明神。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12801060_360x480.jpg?time=1784192210",
-        "latest_chapter": " 第154章  大盗贼卡尔",
-        "updated_at": "2026-10-04 13:33:02",
-        "rank_change": 2,
-        "heat_change": 9000,
+        "latest_chapter": " 第156章  解决问题的方案",
+        "updated_at": "2026-10-05 13:38:03",
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

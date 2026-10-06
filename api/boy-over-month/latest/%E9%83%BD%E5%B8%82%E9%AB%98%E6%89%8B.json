@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：战神归来与修仙入世的经典融合，强调“强力主角+多重社交关系”的爽点结构。\n**读者偏好**：受众倾向于极具压迫感的战力设定，以及通过“出狱/归来”引发的群像式爽感反馈。\n**变动解读**：榜单结构高度稳定，头部书籍凭借强设定形成护城河，短期内缺乏新势力冲击。\n**值得关注**：建议关注“特殊身份+退婚/寻亲”的强冲突开篇，这类高辨识度设定是保持长尾热度的核心。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -80,7 +80,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "都市高手"
       }

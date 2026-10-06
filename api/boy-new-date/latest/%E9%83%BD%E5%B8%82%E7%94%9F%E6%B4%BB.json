@@ -8,27 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 3,
-    "total_heat": 130000,
+    "total_heat": 139000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "都重生了谁还老实创业啊？",
-          "book_id": 12594366
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "重生70：我在空间狩猎，狂宠妻儿",
           "book_id": 13340112,
           "rank_change": 3
+        },
+        {
+          "title": "都重生了谁还老实创业啊？",
+          "book_id": 12594366,
+          "rank_change": 2
+        },
+        {
+          "title": "暴雪1962，绝美邻居上门求肉",
+          "book_id": 12972600,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -41,15 +46,20 @@
         {
           "title": "重生70：我在空间狩猎，狂宠妻儿",
           "book_id": 13340112,
-          "heat_change": 4000
+          "heat_change": 3000
+        },
+        {
+          "title": "都重生了谁还老实创业啊？",
+          "book_id": 12594366,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：年代重生文占据绝对主流，特别是融合“空间流、物资流、虐渣流”的年代生活文表现强势。\n**读者偏好**：读者偏爱“弥补遗憾、底层崛起、宠妻致富”的叙事，对充满怀旧色彩的背景设定和强烈的反差爽感需求旺盛。\n**变动解读**：市场活跃度高，新书《都重生了谁还老实创业啊？》的入榜预示着“重生+反套路创业”题材正重新获得读者青睐。\n**值得关注**：《暴雪1962》凭借极具张力的“年代+虐渣”噱头领跑，该题材在短时间内仍有极高的流量吸附能力。",
+      "summary": "**题材趋势**：年代重生文呈现压倒性优势，特别是融合了“空间经营”、“打猎致富”及“复仇虐渣”的复合型爽文是当前市场的绝对流量高地。\n**读者偏好**：读者偏好强烈的爽感反馈，尤其是针对“白莲花/恶邻”的打脸复仇，以及通过重生弥补前世缺憾、实现家庭致富的温情爽文模式。\n**变动解读**：榜单呈现明显头部效应，凭借强冲突和高情绪价值的《暴雪1962》持续领跑，年代文内部竞争加剧，存量作品热度持续上浮。\n**值得关注**：“重生+空间+打猎”的组合拳在都市生活类中表现极佳，是当前转化率极高的吸睛题材。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 1,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -61,16 +71,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.12万字",
-        "word_count": 401200,
-        "heat": 94000,
+        "word_count_text": "40.73万字",
+        "word_count": 407300,
+        "heat": 99000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第180章  铁皮炉，暖气，取暖神器！",
-        "updated_at": "2026-10-04 17:12:03",
-        "rank_change": 0,
+        "latest_chapter": " 第183章  还是大野猪来的震撼！",
+        "updated_at": "2026-10-05 17:12:04",
+        "rank_change": 1,
         "heat_change": 5000,
         "is_new": false,
         "boards_count": 2,
@@ -78,7 +88,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 17,
+        "rank": 14,
         "title": "重生70：我在空间狩猎，狂宠妻儿",
         "book_id": 13340112,
         "url": "https://www.qimao.com/shuku/13340112/",
@@ -90,24 +100,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "29.95万字",
-        "word_count": 299500,
-        "heat": 19000,
+        "word_count_text": "30.77万字",
+        "word_count": 307700,
+        "heat": 22000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一边，手持猎枪进深山，三枪轰出万元户！\n别人不敢进的深山，他前世兵王神枪手如履平地！\n野鸡、飞鸭、大野猪，人参、鹿茸、灵芝草。\n物资匮乏的年代，全村人还在啃咽菜窝窝头，王阳家已经顿顿大肉，油水直冒。\n他要把前世欠下的债，千倍万倍地补回来，把漂亮老婆和一双儿女宠上天，让那些曾经瞧不起他的人，全都嫉妒到发狂！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
-        "latest_chapter": " 第135章  传家宝",
-        "updated_at": "2026-10-04 21:24:02",
+        "latest_chapter": " 第139章  犹豫就会败北",
+        "updated_at": "2026-10-05 19:50:02",
         "rank_change": 3,
-        "heat_change": 4000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "都重生了谁还老实创业啊？",
         "book_id": 12594366,
         "url": "https://www.qimao.com/shuku/12594366/",
@@ -119,18 +129,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.6万字",
-        "word_count": 396000,
-        "heat": 17000,
+        "word_count_text": "40万字",
+        "word_count": 400000,
+        "heat": 18000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "互联网大亨魏东重生2000年，回到了被表哥踢出公司的那天。\n这一世，他只想做三件事：\n让父母不再抱憾离世，让白月光不再只是回忆，让上辈子的仇人破产倒闭。\n至于创业……都重生了，谁还老实创业？\n先来一招空手套白狼，再顺手牵羊、无中生有、趁火打劫、浑水摸鱼……总之，一切皆可白嫖，万物皆能变现。\n世人的非议？虚妄啊。\n等你遥遥领先，自有大儒为你强辩。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594366_360x480.jpg?time=1786101197",
-        "latest_chapter": " 第99章  你狂野的不像是个老师",
-        "updated_at": "2026-10-05 00:03:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第100章  国内的大专生都这么强了？",
+        "updated_at": "2026-10-06 01:03:03",
+        "rank_change": 2,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

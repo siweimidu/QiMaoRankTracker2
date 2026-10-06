@@ -8,43 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 2,
-    "total_heat": 6,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": -5
-        },
-        {
-          "title": "五次入伍，我给全军上强度！",
-          "book_id": 12958047,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "heat_change": 3
+          "heat_change": -4
         },
         {
           "title": "五次入伍，我给全军上强度！",
           "book_id": 12958047,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：军事爽文赛道趋于饱和，题材高度聚焦于“退伍兵王重返/入伍”的强人设反差流。\n**读者偏好**：读者热衷于“扮猪吃虎”与“身份错位”带来的爽感，尤其是高考状元、千万富翁等社会精英身份与军旅生活的冲突设定最易引发共鸣。\n**变动解读**：本期榜单虽排名全线下滑，但热度值均有显著增长，说明存量书目的读者黏性与追读活跃度较高。\n**值得关注**：建议重点关注《顶替我高考状元？我勇冠海陆空三军！》，其强烈的社会矛盾冲突设定在短剧化改编与流量获取上具备天然优势。",
+      "summary": "**题材趋势**：题材高度集中于“重生/退伍兵王+系统流”的爽文套路，强调主角在平民身份与顶级战力间的反差。\n**读者偏好**：读者热衷于“扮猪吃虎”与“身份打脸”的叙事节奏，尤其青睐带有社会性冲突（如高考顶替、社会地位落差）的开篇。\n**变动解读**：榜单缺乏新鲜血液，存量竞争激烈，整体热度处于低位，排名微调主要由读者互动量（热度）的轻微波动驱动。\n**值得关注**：《顶替我高考状元？我勇冠海陆空三军！》通过强冲突开局保持了排名优势，是此类题材的核心竞争力所在。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +56,24 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.88万字",
-        "word_count": 458800,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "46.71万字",
+        "word_count": 467100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第221章  即将出发伞训",
-        "updated_at": "2026-10-04 10:12:04",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第225章  给爽完了",
+        "updated_at": "2026-10-05 10:12:05",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "现代军事"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -90,17 +85,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.96万字",
-        "word_count": 499600,
-        "heat": 5,
-        "platform_trend": "drop",
+        "word_count_text": "51.18万字",
+        "word_count": 511800,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第204章  跟美利坚士兵相遇！",
-        "updated_at": "2026-10-04 00:12:16",
-        "rank_change": -5,
-        "heat_change": 3,
+        "latest_chapter": " 第210章  楚队，你听我解释！",
+        "updated_at": "2026-10-06 00:12:17",
+        "rank_change": 1,
+        "heat_change": -4,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

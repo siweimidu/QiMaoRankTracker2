@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "categories": [
     {
       "name": "都市高武",
@@ -135,11 +135,6 @@
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
-    },
-    {
-      "name": "无限快穿",
-      "major": "幻想言情",
-      "url": "api/categories/latest/%E6%97%A0%E9%99%90%E5%BF%AB%E7%A9%BF.json"
     }
   ]
 }

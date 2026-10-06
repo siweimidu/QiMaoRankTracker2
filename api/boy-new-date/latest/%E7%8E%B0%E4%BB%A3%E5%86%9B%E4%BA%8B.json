@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 2,
-    "total_heat": 49000,
+    "total_heat": 51000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "五次入伍，我给全军上强度！",
-          "book_id": 12958047
+          "book_id": 12958047,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
           "heat_change": 1000
+        },
+        {
+          "title": "五次入伍，我给全军上强度！",
+          "book_id": 12958047,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：现代军事类进入“爽点前置”时代，通过“高考顶替”、“千万富翁当兵”等强冲突设定快速抓取读者眼球。\n**读者偏好**：读者偏好“满级兵王”与“现实反差”的结合，喜欢看主角在体制内打破常规、引发集体震感的爽文逻辑。\n**变动解读**：新书《五次入伍，我给全军上强度！》上榜，显示出该品类对“老兵回归”及“降维打击”类爽点的持续追捧。\n**值得关注**：该类目热度保持稳健增长，建议关注“退伍/入伍叠加”设定，此类题材在七猫生态中具备较强的长尾效应。",
+      "summary": "**题材趋势**：系统流与“反差爽”主导，侧重于身份受压迫后的极速反转与军营竞技。\n**读者偏好**：倾向于阅读具有强烈社会冲突感（如高考顶替、贫富差距）的开篇，以及主角拥有“满级大佬装萌新”的爽点逻辑。\n**变动解读**：榜单结构稳定，头部效应明显；《五次入伍》排名稳步上扬，显示出读者对“多重身份+职业降维打击”设定的持续认可。\n**值得关注**：两部作品均通过“身份落差”快速建立期待感，建议后续作者在设定中强化“主角个人能力与集体评价”的冲突对比。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,16 +56,16 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.96万字",
-        "word_count": 499600,
-        "heat": 31000,
+        "word_count_text": "51.18万字",
+        "word_count": 511800,
+        "heat": 32000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第204章  跟美利坚士兵相遇！",
-        "updated_at": "2026-10-04 00:12:16",
-        "rank_change": -2,
+        "latest_chapter": " 第210章  楚队，你听我解释！",
+        "updated_at": "2026-10-06 00:12:17",
+        "rank_change": 0,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,
@@ -73,7 +73,7 @@
         "category": "现代军事"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "title": "五次入伍，我给全军上强度！",
         "book_id": 12958047,
         "url": "https://www.qimao.com/shuku/12958047/",
@@ -85,18 +85,18 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.88万字",
-        "word_count": 458800,
-        "heat": 18000,
+        "word_count_text": "46.71万字",
+        "word_count": 467100,
+        "heat": 19000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第221章  即将出发伞训",
-        "updated_at": "2026-10-04 10:12:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第225章  给爽完了",
+        "updated_at": "2026-10-05 10:12:05",
+        "rank_change": 2,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "现代军事"

@@ -12,7 +12,7 @@
       "board": "girl-new-date",
       "board_name": "女生新书日榜",
       "rank": 7,
-      "heat": 71000
+      "heat": 72000
     },
     {
       "board": "girl-new-month",
@@ -114,6 +114,18 @@
     },
     {
       "d": "2026-10-05",
+      "b": "girl-new-month",
+      "r": 12,
+      "h": 675000
+    },
+    {
+      "d": "2026-10-06",
+      "b": "girl-new-date",
+      "r": 7,
+      "h": 72000
+    },
+    {
+      "d": "2026-10-06",
       "b": "girl-new-month",
       "r": 12,
       "h": 675000
