@@ -8,21 +8,16 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 137000,
+    "total_heat": 135000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
@@ -30,10 +25,10 @@
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": -1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：战神归来与都市修仙融合题材仍是流量主旋律，且愈发向高爽度、强冲突的“出狱/退婚”设定倾斜。\n**读者偏好**：读者倾向于快节奏的爽点叠加，特别是将“特殊身份”与“女性角色互动”捆绑的强人设文。\n**变动解读**：新书入榜挤入前20，显示该题材迭代速度较快，拥有极强的吸粉能力，能迅速填补榜单空缺。\n**值得关注**：建议关注《被关女子监狱三年，我修炼成仙了》的后续留存表现，以此验证“监狱流”在都市高手中的转化潜力。",
+      "summary": "**题材趋势**：经典的“战神/归来”流与“极度反差”设定（如女子监狱修炼）依然是都市高手类目下的核心驱动力。\n**读者偏好**：读者热衷于快节奏的身份反差与强冲突叙事，尤其是“强力主角回归+多女性角色羁绊”的经典爽文套路，依然具有极高的市场号召力。\n**变动解读**：榜单排名趋于静止，头部热度出现小幅回落，说明在成熟赛道中，缺乏创新设定的作品已进入流量消耗阶段。\n**值得关注**：关注如何通过更具张力的“开局退婚”或“特殊场景修炼”等强冲突设定，在完结期维持读者的阅读冲动。",
       "ai_source": "ai"
     },
     "books": [
@@ -52,7 +47,7 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 84000,
+        "heat": 82000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
@@ -60,7 +55,7 @@
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -82,7 +77,7 @@
         "word_count_text": "760.62万字",
         "word_count": 7606200,
         "heat": 53000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
@@ -90,7 +85,7 @@
         "updated_at": "2026-08-17 18:03:16",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高手"

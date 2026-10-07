@@ -9,16 +9,16 @@
   "word_count_text": "68.87万字",
   "latest": [
     {
-      "board": "girl-hot-date",
-      "board_name": "女生大热日榜",
-      "rank": 17,
-      "heat": 204000
-    },
-    {
       "board": "girl-hot-month",
       "board_name": "女生大热月榜",
       "rank": 17,
       "heat": 7973000
+    },
+    {
+      "board": "girl-hot-date",
+      "board_name": "女生大热日榜",
+      "rank": 18,
+      "heat": 193000
     }
   ],
   "history": [
@@ -456,6 +456,18 @@
     },
     {
       "d": "2026-10-06",
+      "b": "girl-hot-month",
+      "r": 17,
+      "h": 7973000
+    },
+    {
+      "d": "2026-10-07",
+      "b": "girl-hot-date",
+      "r": 18,
+      "h": 193000
+    },
+    {
+      "d": "2026-10-07",
       "b": "girl-hot-month",
       "r": 17,
       "h": 7973000

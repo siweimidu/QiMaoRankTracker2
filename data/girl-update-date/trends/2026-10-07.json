@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-07",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 19,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": -2
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": -1
+          },
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "二嫁通房太撩人，清冷权臣揽腰宠",
+            "book_id": 12871662,
+            "heat_change": -4
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": -3
+          },
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「宫闱宅斗」《侯爷绝嗣？好孕丫鬟又又又是喜脉》下滑2位；《二嫁通房太撩人，清冷权臣揽腰宠》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《离婚后她惊艳了世界》上升2位领涨；《霍二爷，新婚请克制！》下滑1位；《离婚后她惊艳了世界》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 4
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 3
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨；《五岁小神女：我靠兽语救了废柴将军爹爹》下滑1位；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "七零退婚嫌我瞎？我嫁军少旺全家",
+            "book_id": 12637551
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "挺孕肚被首长捧手心，家属院羡慕疯了",
+            "book_id": 13200543,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "挺孕肚被首长捧手心，家属院羡慕疯了",
+            "book_id": 13200543,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「年代重生」新上榜 《七零退婚嫌我瞎？我嫁军少旺全家》；《军婚超甜！闪婚后成了首长的心尖宠》 掉出榜单；《挺孕肚被首长捧手心，家属院羡慕疯了》上升2位领涨；《挺孕肚被首长捧手心，家属院羡慕疯了》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑1位；《家有玄妻，百邪不侵！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "仙君今天也想杀我",
+            "book_id": 13281888,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「玄幻仙侠」《仙君今天也想杀我》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

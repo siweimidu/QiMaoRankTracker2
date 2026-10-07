@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "虚拟网游",
     "major": "游戏",
     "count": 1,
-    "total_heat": 37000,
+    "total_heat": 35000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "网游：全是数值，你管这叫圣骑士？",
+          "book_id": 12801060,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "网游：全是数值，你管这叫圣骑士？",
           "book_id": 12801060,
-          "heat_change": -1000
+          "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势** “游戏降临现实”与“数值流”依然是网游类目的核心驱动力。\n**读者偏好** 读者追求极简的重生复仇逻辑，即通过“唯一天赋”快速实现阶级跃升的爽感。\n**变动解读** 榜单表现高度稳定，单品支撑现象明显，热度小幅波动属正常范围，暂无强力竞争者冲击。\n**值得关注** 此类目对“开局唯一性”依赖极高，后续内容能否通过数值膨胀维持新鲜感是续航的关键。",
+      "summary": "**题材趋势**：游戏降临现实与数值流/唯一天赋流是当前网游文的创作核心，强调主角重生后的先发优势。\n**读者偏好**：读者热衷于“反差感”设定，即通过看似弱势的职业（圣骑士）叠加极端化的数值优势来获取快感。\n**变动解读**：本类目出现热度下滑及排名下调，说明该赛道近期缺乏新鲜血液填充，存量作品在读者的新鲜感驱动力上存在疲软。\n**值得关注**：禅心道骨的作品后续需通过更密集的副本升级爽点或职业进阶创新来挽回流失的热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "网游：全是数值，你管这叫圣骑士？",
         "book_id": 12801060,
         "url": "https://www.qimao.com/shuku/12801060/",
@@ -45,17 +51,17 @@
         "minor_id": 232,
         "minor_url": "https://www.qimao.com/shuku/a-75-232-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.25万字",
-        "word_count": 322500,
-        "heat": 37000,
+        "word_count_text": "32.68万字",
+        "word_count": 326800,
+        "heat": 35000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "这穿越者啊，有被女朋友绿帽子绿死的，有被兄弟捅刀子捅死的，有被恶势力欺负死的……王铮却是活活窝囊死的。\n作为游戏里挖矿三年的矿工，在游戏降临的那一刻，被最垃圾的怪物砍死，王铮方才知道实力比钱重要。\n重生第一件事，自然是拿到唯一天赋。\n重生第二件事，就是超度怪物。\n超度野狼，敏捷+1，超度野猪，力量+1……\n左拳伤害高，右拳高伤害。\n没有操作，全是数值。\n有什么不服就跟我的十字镐说吧。\n不要跟本骑士哔哔赖赖。\n谁说圣骑士不能用十字镐？十字镐难道不是十字？\n原谅你那是光明神的事，我只负责送你去见光明神。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12801060_360x480.jpg?time=1784192210",
-        "latest_chapter": " 第156章  解决问题的方案",
-        "updated_at": "2026-10-05 13:38:03",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第158章  铁头娃",
+        "updated_at": "2026-10-06 15:11:03",
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

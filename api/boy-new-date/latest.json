@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "types": [
     {
       "name": "全部",
@@ -27,32 +27,32 @@
       "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     },
     {
-      "name": "现代军事",
-      "url": "api/boy-new-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
       "name": "恐怖灵异",
       "url": "api/boy-new-date/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
-    },
-    {
-      "name": "都市高武",
-      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
       "name": "东方玄幻",
       "url": "api/boy-new-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
     {
-      "name": "虚拟网游",
-      "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
+      "name": "都市高武",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
       "name": "热血校园",
       "url": "api/boy-new-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
     },
     {
+      "name": "虚拟网游",
+      "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
+    },
+    {
       "name": "明星娱乐",
       "url": "api/boy-new-date/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
+    },
+    {
+      "name": "现代军事",
+      "url": "api/boy-new-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
     },
     {
       "name": "幻想修真",

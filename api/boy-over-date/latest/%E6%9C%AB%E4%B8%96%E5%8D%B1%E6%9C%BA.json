@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 64000,
+    "total_heat": 68000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "末世，从吞尸体开始进化",
-          "book_id": 2051697,
-          "intro": "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。\n徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！\n没有食物？遍地都是“食材”，以身为炉，炼化万"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势**：末世类题材正从简单的生存挑战转向“杀伐果断”的重生复仇逻辑，且存在跨媒体IP联动的商业化探索。\n**读者偏好**：读者对于道德挣扎的抗拒感上升，倾向于阅读主角通过杀戮与进化实现生存位阶跃迁的“硬核”末世文。\n**变动解读**：榜单出现小幅洗牌，掉出榜单书籍暗示了废土生存类题材的竞争压力，头部作品热度波动反映了存量市场的衰退风险。\n**值得关注**：关注作者能否通过多平台联动（如漫画化）有效延长作品生命周期，提升用户转化率。",
+      "summary": "**题材趋势**：末世题材热度回升，强调“杀伐果断”的残酷生存流叙事依然是该品类的核心卖点。\n**读者偏好**：读者更偏好于“重生+游戏化”的复合型设定，追求强烈的爽感反馈与对抗性情节。\n**变动解读**：《全球灾变之末日游戏》排名稳步提升且热度增幅明显，显示出完结书在长尾期仍具备较强的读者粘性。\n**值得关注**：该作通过跨媒介（漫画化）联动进一步扩大IP影响力，是网文IP多端开发的典型成功案例。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -59,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 64000,
-        "platform_trend": "drop",
+        "heat": 68000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

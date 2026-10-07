@@ -8,31 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
     "total_heat": 17000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "诡异民国，从缝尸开始长生",
-          "book_id": 12706761
+          "book_id": 12706761,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「幻想修真」新上榜 《诡异民国，从缝尸开始长生》。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：传统修真向“诡异+民国+职业”的融合型风格转型，悬疑元素成为吸睛核心。\n**读者偏好**：读者偏好具备“生存危机感”的开局，如缝尸匠等特殊职业设定，配合长生系统带来的成长预期。\n**变动解读**：该作在无人竞争的情况下排名上升，说明题材具备较强的用户粘性，在特定圈层内口碑稳固。\n**值得关注**：民国诡异风与传统修真的结合点，是当前幻想修真类目中极具差异化竞争力的方向。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 16,
         "title": "诡异民国，从缝尸开始长生",
         "book_id": 12706761,
         "url": "https://www.qimao.com/shuku/12706761/",
@@ -44,18 +45,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.95万字",
-        "word_count": 389500,
+        "word_count_text": "39.38万字",
+        "word_count": 393800,
         "heat": 17000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "大顺民国初年，新学与旧俗碰撞，枪炮与妖魔共舞。\n高高在上的“求法者”们窃取天机，却不知自己早已被不可名状的恐怖污染，化作一具具行走在人间的灾厄诡尸。\n穿越而来的李长生，成了菜市口最下贱的缝尸匠，开局只剩四十天寿命。\n所幸，他有一卷【万寿书】。\n煎寿命！\n熬神通！\n从最底层的街头横死者，到高高在上的修仙大能，再到那端坐云端不可直视的旧日仙佛……\n既然这满天神佛都病了，那便由我这凡人，来为诸位敛骨送终！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4236/12706761_360x480.jpg?time=1789289847",
-        "latest_chapter": " 第157章  来自总部的任命书",
-        "updated_at": "2026-10-06 00:11:03",
-        "rank_change": 0,
+        "latest_chapter": " 第159章  火车赴任，又上头条",
+        "updated_at": "2026-10-07 00:02:27",
+        "rank_change": 2,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"

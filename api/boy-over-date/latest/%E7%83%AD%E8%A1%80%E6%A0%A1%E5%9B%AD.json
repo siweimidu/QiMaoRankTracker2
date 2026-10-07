@@ -8,24 +8,18 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 2,
-    "total_heat": 134000,
+    "total_heat": 137000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
@@ -36,11 +30,11 @@
         {
           "title": "我和软萌女友的恋爱日常",
           "book_id": 214789,
-          "heat_change": 2000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：重生年代文与恋爱日常文热度持续攀升，市场重心已完全向“重返青春+商业补全+纯爱狗粮”转型。\n**读者偏好**：读者对轻量化、治愈系且具备时代情怀的“甜宠”类校园文需求旺盛，阅读意愿呈上升趋势。\n**变动解读**：整体热度涨幅明显，核心作品排名稳中有升，反映出该类题材在完结期仍具备极强的二次传播力。\n**值得关注**：关注此类作品如何通过“商业帝国”与“情感羁绊”的双线叙事，持续拉高读者的留存时长。",
-      "ai_source": "ai"
+      "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》热度+2000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -58,14 +52,14 @@
         "status": "已完结",
         "word_count_text": "429.99万字",
         "word_count": 4299900,
-        "heat": 73000,
+        "heat": 75000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【重生+青梅校花+恋爱日常+狗粮+赚钱】身患绝症的陈凡重生2000年，再次见到了自己的白月光校花同桌苏若初。\n前世，两人的爱情相敬如宾，举案齐眉，女友却因为一场车祸意外身亡。陈凡抱憾终身。\n这一世，陈凡发誓绝不放手，要创造一个崭新的商业帝国，给她最完美的爱情跟未来。\n“苏若初，这辈子我要牵着你的手，看尽星河灿烂，人间繁华！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
@@ -87,7 +81,7 @@
         "status": "已完结",
         "word_count_text": "299.99万字",
         "word_count": 2999900,
-        "heat": 61000,
+        "heat": 62000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
@@ -95,7 +89,7 @@
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

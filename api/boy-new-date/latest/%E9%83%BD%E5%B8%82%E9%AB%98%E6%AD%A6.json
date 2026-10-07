@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 44000,
+    "total_heat": 40000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：高武题材趋向“出狱/回归流”，结合玄幻体质设定，注重极端的压抑与爆发式反击。\n**读者偏好**：读者热衷于“受辱后韬光养晦”的传统叙事，特别青睐带有特殊地理背景（如女子监狱）的开局，具备极强的猎奇吸引力。\n**变动解读**：榜单排名持平，热度表现平稳，说明该类目当前正处于成熟的存量竞争阶段。\n**值得关注**：作品通过“九阳圣体”与“婚约冲突”构建了经典的爽点闭环，是都市高武类目中低开高走、强调个人威压的典型样本。",
+      "top_fallers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "heat_change": -4000
+        }
+      ],
+      "summary": "**题材趋势**：融合“监狱背景”与“特殊体质”的都市高武流，强调出狱后的无敌感与反差装逼。\n**读者偏好**：读者热衷于极具戏剧冲突的开篇，即通过“昔日恋人背叛”与“反手娶妻”的对比营造爽点。\n**变动解读**：本期热度出现小幅回撤，排名下滑，反映出该类题材在激烈的榜单竞争中存在一定的用户留存压力。\n**值得关注**：剧情后续如何处理“废女”身份带来的悬念，将决定该书能否在后续周期稳住热度。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 6,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -39,17 +51,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.74万字",
-        "word_count": 497400,
-        "heat": 44000,
-        "platform_trend": "rise",
+        "word_count_text": "50.53万字",
+        "word_count": 505300,
+        "heat": 40000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第213章  残剑，修炼榜单上之人",
-        "updated_at": "2026-10-06 08:32:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第216章  徐凯的奸计",
+        "updated_at": "2026-10-06 22:22:02",
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 39000,
+    "total_heat": 43000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "长生猎户，从形意拳到人间武圣！",
-          "book_id": 12789207,
-          "intro": "古武传人陈寻一朝穿越，成为家徒四壁的猎户之子，父母双亡，只余一个妹妹。\n然而妖魔乱世，贼寇横行，生存艰难，朝不保夕。\n幸好他觉醒了【武道面板】。\n只要斩杀妖魔、恶匪，就能源源不断地获取武道点！\n武道点"
+          "title": "阴阳天帝诀",
+          "book_id": 12749622,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "heat_change": -1000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势** 传统玄幻复仇与“赘婿流”元素深度融合，侧重于快节奏的爽感反馈。\n**读者偏好** 偏好强互动性、多红颜羁绊及“夺取修为”类极度利己的爽点设定。\n**变动解读** 本周榜单出现缩水，头部作品热度小幅下滑且缺乏新书更迭，显示该类目在七猫渠道的流量获取进入存量竞争阶段。\n**值得关注** 掉榜作品《长生猎户》体现了“凡人流/武道流”在玄幻类目的生存压力，单纯的种田成长难以快速留存用户。",
+      "summary": "**题材趋势**：赘婿文与“多红颜养成/掠夺”流派热度不减，强调主角从低谷到巅峰的极速反转。\n**读者偏好**：读者偏好强节奏、强爽感的升级路线，尤其是通过掠夺他人机缘实现快速成长的设定。\n**变动解读**：该作品排名逆势上升，且热度增幅明显，显示出其核心卖点在当前受众群体中具有极强的转化潜力。\n**值得关注**：如何平衡“多女主”设定与剧情推进的逻辑，将是该类作品维持长效热度的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "阴阳天帝诀",
         "book_id": 12749622,
         "url": "https://www.qimao.com/shuku/12749622/",
@@ -51,17 +51,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.76万字",
-        "word_count": 397600,
-        "heat": 39000,
-        "platform_trend": "drop",
+        "word_count_text": "40.18万字",
+        "word_count": 401800,
+        "heat": 43000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第187章  你们给不了的公道，我会给她！",
-        "updated_at": "2026-10-05 13:37:03",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第189章  越此线者，立斩无赦",
+        "updated_at": "2026-10-06 13:41:03",
+        "rank_change": 1,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：奇门秘术类目目前处于极度冷门或断层状态，市场供给与活跃度在榜单层面几乎陷入停滞。\n**读者偏好**：受众倾向于具备强烈民俗恐怖氛围与“人吃人”暗黑设定的悬疑类作品，对生存压迫感有一定需求。\n**变动解读**：本期榜单无任何变动，该类目在七猫男生频道缺乏头部内容支撑，处于明显的流量洼地。\n**值得关注**：在榜作品《天黑请点灯》作为唯一留存，其诡异民俗风格虽具辨识度，但缺乏热度增长动力，需警惕该细分赛道在平台的边缘化趋势。",
+      "heat_leaders": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：民俗恐怖与诡异流题材在细分市场保持存在感，强调压抑氛围与生存危机。\n**读者偏好**：受众倾向于极具代入感的民俗设定，以及“主角以暴制暴”或“反转生存”的强冲突剧情。\n**变动解读**：该小类在榜书籍较少，市场处于低频活跃状态，榜单流动性极低，当前仅存的《天黑请点灯》具备一定的长尾留存能力。\n**值得关注**：需观察后续是否有同类题材新书入榜以打破僵局，目前该垂类处于供需双向收缩的存量竞争阶段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -39,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "489.89万字",
-        "word_count": 4898900,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "491.16万字",
+        "word_count": 4911600,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1789章  中士章舆，魂散无命！",
-        "updated_at": "2026-10-06 06:57:13",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1793章  先天生气融魂，无处不在的胎灵！",
+        "updated_at": "2026-10-07 06:57:12",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

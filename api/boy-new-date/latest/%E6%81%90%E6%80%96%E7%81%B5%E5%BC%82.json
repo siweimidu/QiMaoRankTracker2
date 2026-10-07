@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "category": {
     "name": "恐怖灵异",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 95000,
+    "total_heat": 96000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "恐怖复苏：离婚后，我不替她挡灾了",
           "book_id": 12418653,
-          "rank_change": -1
+          "heat_change": 1000
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：传统恐怖向“都市情感+诡异复苏”融合，强调主角摆脱“舔狗”身份后的孤傲逆袭。\n**读者偏好**：读者更青睐带有强烈情绪宣泄的开局，即“断绝关系后诡异降临”的因果报应戏码，满足心理平衡感。\n**变动解读**：仅存一本书籍且排名下滑，显示该题材在当前日榜中的竞争力和曝光率处于相对真空期。\n**值得关注**：该书热度极高，说明核心受众粘性强，但单品支撑乏力，后续需观察是否有更多风格化作品补位。",
+      "summary": "**题材趋势**：恐怖与家庭伦理、情感背叛元素结合的趋势明显，强调“离婚”后的爽感释放。\n**读者偏好**：读者倾向于带有强烈现实反差、主角通过特殊能力逆袭打脸的复仇类灵异叙事。\n**变动解读**：本期榜单稳定性极高，头部作品保持稳健的自然增长，未受外部冲击。\n**值得关注**：该题材正尝试通过“职场/家庭PUA+诡异能力”的组合拳，强化读者的情绪共鸣与期待感。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 229,
         "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.08万字",
-        "word_count": 420800,
-        "heat": 95000,
+        "word_count_text": "43.2万字",
+        "word_count": 432000,
+        "heat": 96000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "秦序给妻子江紫当了五年牛马，换来的只有一句“你没本事”。\n离婚那天，他从镜子后抽出一张发黄的红纸，当她的面烧了。\n“你的命，归你自己了。”\n当晚，江紫家的楼道里多了一排湿脚印。\n而秦序推开一扇落灰五年的大门……\n“秦记旧物，开始接单。”\n从那天起，滨海的豪宅、银行、赌场与酒店，开始接连闹鬼。\n冷艳女总裁让他贴身压鬼，野狼山女王在死亡弯道抱紧他的腰，漂亮销售开着法拉利，陪他满城抢魂。\n而秦序抓鬼的规矩很简单。\n能打服就留下。\n打不服，就喂给手下。\n别人见鬼，只想逃命。\n秦序见鬼，却活动了一下布满尸斑的右手，笑得比鬼还兴奋。\n“可算找到你了。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12418653_360x480.jpg?time=1781768562",
-        "latest_chapter": " 第153章  离了你，他就该过得惨？",
-        "updated_at": "2026-10-05 00:03:04",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第157章  白听澜殒命",
+        "updated_at": "2026-10-07 00:40:04",
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
