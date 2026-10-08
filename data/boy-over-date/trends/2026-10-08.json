@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-08",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 96850,
+    "total_heat": 1937000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": 1
+          },
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": 4000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 3000
+          },
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "**题材趋势**：传统废柴流与系统/机缘流依然是核心赛道，题材趋于成熟且高度同质化。\n**读者偏好**：读者热衷于“反压迫”与“极速崛起”的爽点，带入感强、节奏明快的无敌流文本更具吸睛力。\n**变动解读**：头部格局稳定，中腰部作品热度微涨，显示出该类目在完结期依然有长尾阅读粘性。\n**值得关注**：如《荒古武神》般具备强冲突、强节奏的经典爽文，仍是目前维持榜单活力的压舱石。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边关猎户，我粮肉满仓富甲一方",
+            "book_id": 2093494,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": 1000
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "**题材趋势**：穿越权谋与基建种田融合趋势明显，侧重于“开局即地狱”后的反转经营。\n**读者偏好**：读者青睐“扮猪吃虎”与“富甲天下”的爽感，对轻松搞钱、多女主情感线有较高接受度。\n**变动解读**：榜单整体流动性极低，头部作品热度增长平稳，显示读者对成熟架构作品的依赖性强。\n**值得关注**：《边关猎户》等带有生活气息与经营元素的历史文，正逐步提升在榜单中的竞争力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "**题材趋势**：题材边界模糊，都市爽文与神医、高武元素深度嵌套，强力依赖短剧化IP转化。\n**读者偏好**：偏好“战力天花板”叠加“情感羁绊”的强节奏叙事，对短剧改编作品有显著的流量倾斜。\n**变动解读**：榜单处于存量博弈状态，头部作品热度出现微降，缺乏新鲜血液注入，市场活跃度有所放缓。\n**值得关注**：短剧标签已成为该类目转化率的关键，具备影视化潜质的作品更易获得平台的长效曝光。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": 3000
+          },
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「奇门秘术」《民间诡闻实录》上升1位领涨；《民间诡闻实录》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -1
+          },
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑1位；《我和软萌女友的恋爱日常》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -1000
+          },
+          {
+            "title": "被关女子监狱三年，我修炼成仙了",
+            "book_id": 1697715,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位；《让你带问题女兵，你全养成特种兵王了？》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

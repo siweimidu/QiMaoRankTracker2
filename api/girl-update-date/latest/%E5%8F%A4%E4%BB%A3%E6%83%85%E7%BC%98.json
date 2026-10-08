@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 6,
+    "total_heat": 7,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,15 +23,15 @@
         {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
-          "rank_change": 4
-        },
-        {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [
+        {
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
+          "rank_change": -4
+        },
         {
           "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
           "book_id": 13288209,
@@ -40,51 +40,22 @@
       ],
       "heat_leaders": [
         {
-          "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
-          "book_id": 13463133,
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
           "heat_change": 3
         },
         {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "heat_change": 1
+          "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+          "book_id": 13463133,
+          "heat_change": -2
         }
       ],
-      "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨；《五岁小神女：我靠兽语救了废柴将军爹爹》下滑1位；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+3。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：流放基建、玄学神女与萌宝救赎是该分类的三大核心赛道，强调“大女主”爽感与家庭温情的结合。\n**读者偏好**：读者倾向于阅读带有生存挑战（流放）或超自然能力（兽语、妖骨）的成长型爽文。\n**变动解读**：榜单波动剧烈，虽然《王妃一身妖骨》热度领先，但排名下滑显示出读者对长线剧情的审美疲劳，基建题材热度回升。\n**值得关注**：《新婚夜流放》凭借“流放+种田+打脸”的复合爽点成功实现排名逆袭，是当前市场最具性价比的题材组合。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
-        "title": "王妃一身妖骨，京城百祟俯首",
-        "book_id": 12328977,
-        "url": "https://www.qimao.com/shuku/12328977/",
-        "author": "少尹",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%91%E5%B0%B9_14/",
-        "major": "古代言情",
-        "minor": "古代情缘",
-        "major_id": 2,
-        "minor_id": 216,
-        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "52.44万字",
-        "word_count": 524400,
-        "heat": 1,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
-        "latest_chapter": " 第234章  这人吧，应该是渡劫失败了",
-        "updated_at": "2026-10-06 08:12:07",
-        "rank_change": 1,
-        "heat_change": 1,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "古代情缘"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
         "book_id": 13463133,
         "url": "https://www.qimao.com/shuku/13463133/",
@@ -96,16 +67,45 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "18.53万字",
-        "word_count": 185300,
-        "heat": 4,
+        "word_count_text": "19.14万字",
+        "word_count": 191400,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
-        "latest_chapter": " 第89章  前一秒定终身，下一秒被逼喝妾室茶？",
-        "updated_at": "2026-10-06 08:32:03",
-        "rank_change": 4,
+        "latest_chapter": " 第92章  可以用意念操控了",
+        "updated_at": "2026-10-07 08:32:04",
+        "rank_change": 2,
+        "heat_change": -2,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 10,
+        "title": "王妃一身妖骨，京城百祟俯首",
+        "book_id": 12328977,
+        "url": "https://www.qimao.com/shuku/12328977/",
+        "author": "少尹",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%91%E5%B0%B9_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "52.85万字",
+        "word_count": 528500,
+        "heat": 4,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
+        "latest_chapter": " 第236章  虚影",
+        "updated_at": "2026-10-07 08:12:07",
+        "rank_change": -4,
         "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
@@ -113,7 +113,7 @@
         "category": "古代情缘"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
         "book_id": 13288209,
         "url": "https://www.qimao.com/shuku/13288209/",
@@ -125,15 +125,15 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27万字",
-        "word_count": 270000,
+        "word_count_text": "27.68万字",
+        "word_count": 276800,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【五岁软萌宝×落难战神，父女向，养崽崽，复仇】\n谁能想到，西山破庙的小奶团子安安，竟能和鸟兽唠嗑！\n才五岁大，圆乎乎一小只，饥荒时喊着松鼠带路猎狍，救下全村饥民，被村民当成小神女。\n旁人只疼她软萌懂事，却不知她守着一个大秘密　——　身边沉默瘸腿的爹爹，是蒙冤逃亡的镇国大将军林啸。\n朝廷追兵、山中匪寇步步紧逼，安安半点不怕。\n她使唤飞鸟放哨、野兽警戒，一点点采药储粮，用自己独有的本事护着伤痕累累的爹爹。\n待到时机成熟，小神女牵着爹爹离开西山，奔赴京城，要把害人的奸相彻底扳倒！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4430/13288209_360x480.jpg?time=1787819785",
-        "latest_chapter": " 第88章  寿宴猫鸣",
-        "updated_at": "2026-10-06 21:02:02",
+        "latest_chapter": " 第90章  街畔对质",
+        "updated_at": "2026-10-07 22:02:02",
         "rank_change": -1,
         "heat_change": 0,
         "is_new": false,

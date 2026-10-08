@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加"
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
+          "rank_change": 1
         }
       ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "heat_change": -1
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：都市高手类目前处于洗牌阶段，以“医武双绝”和“入狱复仇”为代表的强设定文是市场基石。\n**读者偏好**：读者追求极致的爽感反馈，对“短剧联动”类作品接受度较高，但对老套路的审美疲劳正导致部分书籍热度下滑。\n**变动解读**：榜单出现人员流动，原有的快节奏爽文被替换，且部分头部作品热度出现下滑，显示出存量竞争的残酷性。\n**值得关注**：关注此类题材中，具备短剧改编属性或强冲突矛盾点的作品在后续榜单中的抗压表现。",
+      "summary": "**题材趋势**：下山流与战神流依旧是都市高手赛道的绝对主流，强冲突、快节奏是核心标签。\n**读者偏好**：读者对“退婚、医武双绝、复仇”等强情绪价值的剧情有着极高且稳定的需求。\n**变动解读**：头部作品凭借典型爽文套路实现排名上升，显示出此类题材在短平快阅读环境下极强的抗压性。\n**值得关注**：短剧IP化标签（如《SSSSSSSSSSSSS级镇狱狂龙》）已成为引流的重要手段，即便热度起伏，其商业模式联动价值依然突出。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 9,
         "title": "医武双绝：下山捡个总裁当老婆",
         "book_id": 11745600,
         "url": "https://www.qimao.com/shuku/11745600/",
@@ -51,17 +51,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "138.22万字",
-        "word_count": 1382200,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "139.68万字",
+        "word_count": 1396800,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第551章  大阵显威",
-        "updated_at": "2026-10-07 00:12:17",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第555章  真正的屠戮",
+        "updated_at": "2026-10-08 00:12:15",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -80,17 +80,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "345.74万字",
-        "word_count": 3457400,
+        "word_count_text": "346.44万字",
+        "word_count": 3464400,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1496章  剿匪行动",
-        "updated_at": "2026-10-07 07:02:15",
+        "latest_chapter": " 第1499章  我来问你借东西",
+        "updated_at": "2026-10-08 07:02:16",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

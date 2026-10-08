@@ -8,43 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 3,
-    "total_heat": 140000,
+    "total_heat": 155000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "皇上开门，福宝带物资来送温暖啦",
-          "book_id": 12856758
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "听女儿心声，侯夫人挺孕肚乱杀",
-          "book_id": 12800205,
-          "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+          "book_id": 12856758,
+          "rank_change": 4
+        },
         {
           "title": "劝爹入赘公主府，玄学嫡女被团宠",
           "book_id": 13123386,
-          "heat_change": 2000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：由传统的“宅斗”向“玄学+团宠+萌宝”轻量化转型，强调女主自带福气改变家族命运的爽感。\n**读者偏好**：读者更偏爱带有治愈系色彩的“萌宝文”，尤其是“通古今”或“玄学改命”等能够快速解决憋屈情节、提供即时反馈的内容。\n**变动解读**：新入榜的《皇上开门，福宝带物资来送温暖啦》挤掉传统宅斗文，标志着“萌宝+物资+治愈”题材正逐步挤压传统压抑宅斗的市场空间。\n**值得关注**：玄学题材在宅斗小类中表现亮眼，通过“换命格”等元素构建的爽文逻辑，是目前该类目下吸引流量的核心卖点。",
+      "top_fallers": [
+        {
+          "title": "侯府来了个小阎王，满朝权贵争又抢",
+          "book_id": 12479613,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "皇上开门，福宝带物资来送温暖啦",
+          "book_id": 12856758,
+          "heat_change": 12000
+        },
+        {
+          "title": "劝爹入赘公主府，玄学嫡女被团宠",
+          "book_id": 13123386,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "**题材趋势**：玄学元素与“萌宝”设定深度绑定，成为当前宫闱宅斗题材的流量核心，强调爽感与团宠属性。\n**读者偏好**：读者高度青睐“玄学+重生+逆袭”的复合型爽点，对弱势开局后通过超自然能力实现阶级跃迁的内容粘性极高。\n**变动解读**：上榜书籍排名波动剧烈，其中《皇上开门，福宝带物资来送温暖啦》热度激增，显示出“通古今+治愈系”萌宝文在宅斗背景下具有极强的爆发力。\n**值得关注**：玄学嫡女与萌宝救世类作品在榜单内形成竞争闭环，后续需关注此类题材在“爽文节奏”上的进一步创新。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "劝爹入赘公主府，玄学嫡女被团宠",
         "book_id": 13123386,
         "url": "https://www.qimao.com/shuku/13123386/",
@@ -56,53 +67,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.99万字",
-        "word_count": 349900,
-        "heat": 63000,
+        "word_count_text": "35.61万字",
+        "word_count": 356100,
+        "heat": 66000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼缠身，还被侯府榨干最后一丝价值，嫁给心有所属的宁王，最后被钉骨活埋，险些魂飞魄散。\n再次睁眼，姐姐调换了命签，顶着她的“荣华富贵命”，抢着跟娘嫁入侯府。\n原来姐姐也重生了。\n她以为，跟着爹就会在被贬途中被山匪砍死，跟着娘就能坐享侯府荣华？\n呵，殊不知，侯府才是龙潭虎穴。\n顾令窈很期待，侯府继姐换上姐姐的“刑克六亲命”后，侯府会是什么下场。\n而她一眼看破父亲与长公主姻缘线，劝爹入赘公主府，在家当福星团宠，在外当一卦难求的国师。\n这一世，她要复仇，要改变父亲、长公主和三位继兄的命运，找到前世恩人保他一世平安！\n当姐姐还在做着王妃梦时，她所在的侯府和她想嫁的王爷，都已被顾令窈送上了黄泉路！\n只是，她怎么报恩报着报着，被那位惊才绝艳的昭王殿下，按在了皇后宝座上？\n“既要报恩，前世我与你共赴黄泉，今生你与我同享皇权，如何？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123386_360x480.jpg?time=1789283551",
-        "latest_chapter": " 第113章  你掀我幕篱，我杀你倚重的武林高手！",
-        "updated_at": "2026-10-07 00:07:11",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "latest_chapter": " 第115章  所谓的神神鬼鬼是云十九带给你的！",
+        "updated_at": "2026-10-07 23:54:03",
+        "rank_change": 1,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 12,
-        "title": "侯府来了个小阎王，满朝权贵争又抢",
-        "book_id": 12479613,
-        "url": "https://www.qimao.com/shuku/12479613/",
-        "author": "明明酥",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E6%98%8E%E9%85%A5_14/",
-        "major": "古代言情",
-        "minor": "宫闱宅斗",
-        "major_id": 2,
-        "minor_id": 209,
-        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "47.43万字",
-        "word_count": 474300,
-        "heat": 39000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
-        "latest_chapter": " 第229章  朝堂震惊仁宝之举",
-        "updated_at": "2026-10-07 06:02:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "宫闱宅斗"
-      },
-      {
-        "rank": 13,
+        "rank": 9,
         "title": "皇上开门，福宝带物资来送温暖啦",
         "book_id": 12856758,
         "url": "https://www.qimao.com/shuku/12856758/",
@@ -114,19 +96,48 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.23万字",
-        "word_count": 312300,
-        "heat": 38000,
+        "word_count_text": "31.63万字",
+        "word_count": 316300,
+        "heat": 50000,
         "platform_trend": "rise",
-        "badge": "飙升35名",
+        "badge": "",
         "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕，她能从现代带来红薯和土豆！\n老太傅眼睛看不清，她回去买个老花镜带过来！\n后宫嫔妃宫斗严重，来点香水和口红，所有人开始闭门研究化妆！\n皇上太稀罕她了，非要封她做公主。\n皇子公主们不同意，暖暖抱来一堆零食奶茶，通通收买！\n皇宫上下再也没有一个反对的声音，所有人都在盼着暖暖什么时候过来。\n暖暖抱着一堆古董回去，住进大别墅，还被顶级豪门收养做继承人。\n之前抛弃她争抢姐姐的父母知道后，肠子都悔青了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1788158117",
-        "latest_chapter": " 第153章  奇怪的称呼",
-        "updated_at": "2026-10-06 23:52:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第155章  神兵利器啊",
+        "updated_at": "2026-10-07 23:53:03",
+        "rank_change": 4,
+        "heat_change": 12000,
+        "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 13,
+        "title": "侯府来了个小阎王，满朝权贵争又抢",
+        "book_id": 12479613,
+        "url": "https://www.qimao.com/shuku/12479613/",
+        "author": "明明酥",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E6%98%8E%E9%85%A5_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.85万字",
+        "word_count": 478500,
+        "heat": 39000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求见，皇帝求着当她爹。\n各路得道高人纷纷下山，力争在仁宝面前刷存在感。\n地府阴差们骄傲又急眼：仁宝是我地府的小阎王，都别抢啊！\n萌崽一路吃喝玩乐，断吉凶，化是非，带飞全京城全天下。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4160/12479613_360x480.jpg?time=1781661204",
+        "latest_chapter": " 第231章  酒楼摆摊赚钱",
+        "updated_at": "2026-10-08 06:02:06",
+        "rank_change": -1,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

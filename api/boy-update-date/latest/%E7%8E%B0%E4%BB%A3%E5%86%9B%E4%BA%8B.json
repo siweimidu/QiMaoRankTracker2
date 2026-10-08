@@ -8,32 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "顶替我高考状元？我勇冠海陆空三军！",
           "book_id": 12931542,
-          "rank_change": 1
+          "rank_change": -3
+        },
+        {
+          "title": "五次入伍，我给全军上强度！",
+          "book_id": 12958047,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：军事题材呈现“强设定+爽文叙事”特征，通过“老兵重返”与“军功打脸”双重卖点构建快节奏爽感。\n**读者偏好**：读者更倾向于具备“满级大佬”开局且带有强烈身份反转冲突的作品，对“打脸”情节的期待值较高。\n**变动解读**：榜单整体处于低活跃期，仅《顶替我高考状元？我勇冠海陆空三军！》出现微幅上升，显示出带有社会议题（高考、亲情背叛）的军事爽文更具读者黏性。\n**值得关注**：建议后续关注此类带有强冲突背景的军旅文在榜单中的持续上升潜力。",
+      "heat_leaders": [
+        {
+          "title": "顶替我高考状元？我勇冠海陆空三军！",
+          "book_id": 12931542,
+          "heat_change": 2
+        },
+        {
+          "title": "五次入伍，我给全军上强度！",
+          "book_id": 12958047,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：进入“兵王系统”与“个人英雄主义”的纯熟期，强调“身份被顶替”后的复仇与职业成就感满足。\n**读者偏好**：读者青睐“扮猪吃虎”与“身份打脸”的叙事逻辑，即主角在军营中迅速崛起，通过军衔差异实现对现实势利眼的降维打击。\n**变动解读**：榜单整体热度回撤，说明该品类目前缺乏强力新书支撑，现有头部书籍正处于热度周期的平稳期。\n**值得关注**：《顶替我高考状元？我勇冠海陆空三军！》虽排名有所下滑，但热度依然是品类内的核心驱动力，证明“高考状元+军旅”的组合极具爆款潜质。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "五次入伍，我给全军上强度！",
         "book_id": 12958047,
         "url": "https://www.qimao.com/shuku/12958047/",
@@ -45,24 +61,24 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.53万字",
-        "word_count": 475300,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "48.4万字",
+        "word_count": 484000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第229章  伞训前开训动员",
-        "updated_at": "2026-10-06 10:12:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第233章  关于以前在空降兵军的传说",
+        "updated_at": "2026-10-07 10:12:04",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "现代军事"
       },
       {
-        "rank": 17,
+        "rank": 20,
         "title": "顶替我高考状元？我勇冠海陆空三军！",
         "book_id": 12931542,
         "url": "https://www.qimao.com/shuku/12931542/",
@@ -74,17 +90,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "51.8万字",
-        "word_count": 518000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "52.62万字",
+        "word_count": 526200,
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他高考状元身份的亲弟弟，也刚好放暑假回来……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12931542_360x480.jpg?time=1786008904",
-        "latest_chapter": " 第213章  赵东亮，你想活嘛？",
-        "updated_at": "2026-10-07 00:12:17",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第217章  马安军！",
+        "updated_at": "2026-10-08 00:08:04",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 154000,
+    "total_heat": 151000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "第一瞳术师",
           "book_id": 215243,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "第一瞳术师",
           "book_id": 215243,
-          "heat_change": 1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：大女主玄幻群像文表现稳健，融合出版与综艺背书成为长尾流量的关键支点。\n**读者偏好**：读者倾向于“废材逆袭+天才瞳术”的强设定爽文，对具备跨平台IP联动属性的作品认可度极高。\n**变动解读**：榜单处于存量博弈状态，虽排名微调，但热度持续小幅增长，显示该类目受众粘性强，完结后仍有长尾阅读价值。\n**值得关注**：该类目头部效应极其明显，单本作品通过多渠道宣发维持热度，是典型的IP化运营范本。",
+      "summary": "**题材趋势**：大女主玄幻群像文热度稳固，跨界联动与出版IP化成为提升影响力的重要手段。\n**读者偏好**：读者倾向于“废材流”逆袭叙事，且对具有强社交属性、多平台背书的优质长篇作品认可度高。\n**变动解读**：该类目头部效应显著，尽管热度小幅回调，但凭借极高的单书热度（151000）稳居类目核心，排名持续攀升。\n**值得关注**：该题材正向“泛娱乐化”演进，综艺推荐与出版预售是拉升长尾热度的关键策略，体现了强IP开发的商业潜力。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "第一瞳术师",
         "book_id": 215243,
         "url": "https://www.qimao.com/shuku/215243/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "397.31万字",
         "word_count": 3973100,
-        "heat": 154000,
-        "platform_trend": "rise",
+        "heat": 151000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【已签出版】9月20日晚8:00全网预售\n《奔跑吧》《王牌对王牌》《你好种地少年》推荐，孟子义、高瀚宇、蒋敦豪在看的玄幻群像文。\n云筝，是华国隐世族地的天才瞳术师以及玄术师！\n一朝穿越，成了世人唾弃的废材！\n废材？翻手覆云间算尽天下事，一双妖异赤红色异瞳驭万兽！\n可偏偏算不了，看不穿那个尊贵雅致，风光月霁般的帝尊。\n云筝不解地问：“你图什么？”\n傲娇帝尊别扭地转过头，喃喃自语道：“不过是只图你一个罢了……”\n-\n推荐我的新书《第一召唤师》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

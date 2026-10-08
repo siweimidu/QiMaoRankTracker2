@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-08",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 3247350,
+    "total_heat": 64947000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：异世大陆类目目前进入存量竞争阶段，以“网游穿越+赘婿+系统天赋”的复合流派为主导。\n**读者偏好**：读者更倾向于快节奏的“逆袭流”，即通过金手指实现修为暴涨与阶级跨越，满足爽感体验。\n**变动解读**：榜单呈现高度稳态，头部作品垄断效应明显，短期内缺乏新晋爆款冲击。\n**值得关注**：该类目热度极高，建议关注此类“游戏系统+赘婿”融合架构的后续作品，其受众粘性极强。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：末世题材走“全球灾变”路线，强调极端环境下的杀伐果断与人性抉择。\n**读者偏好**：受众偏好带有强烈“末日重生”标签的作品，追求极致的爽文逻辑与残酷现实下的生存博弈。\n**变动解读**：当前榜单结构单一且稳定，说明该赛道头部作品已建立深厚用户壁垒。\n**值得关注**：作者通过漫画联动（如《末日剑神》）进行IP跨平台引流的运营方式，是该题材扩大用户圈层的关键策略。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：乡村题材集中于“年代文+种田+挽回遗憾”的叙事模板，侧重于展现时代变迁中的奋斗史。\n**读者偏好**：读者热衷于平凡人通过劳动（如挖药材、捕猎）致富的叙事，具有较强的现实代入感与情感共鸣。\n**变动解读**：榜单处于平稳期，未见剧烈波动，反映出该类目读者群对稳健型种田文的稳定需求。\n**值得关注**：以“家庭救赎”为核心驱动的年代文，通过极具烟火气的描写，在下沉市场拥有极强的长尾阅读效应。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：现代军事题材在完结榜单中呈现窄众化趋势，强情节驱动的“特种兵养成”流派仍是该类目的核心叙事载体。\n**读者偏好**：读者倾向于“军旅+养成+反差”的复合设定，尤其偏好通过严苛训练将个性化、问题型角色转化为顶级战力的爽感叙事。\n**变动解读**：本期榜单结构高度稳固，头部作品《让你带问题女兵，你全养成特种兵王了？》以单一超高热度占据类目，显示出该细分领域当前缺乏有力竞争者。\n**值得关注**：该作品通过角色群像化与“特种兵王”爽点的精准结合，牢牢锁定细分受众，证明了强人设驱动在军事题材中的长效生命力。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

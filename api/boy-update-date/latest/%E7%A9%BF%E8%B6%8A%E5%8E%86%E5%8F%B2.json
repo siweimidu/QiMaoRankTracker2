@@ -8,38 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-04",
+  "date": "2026-10-08",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 4,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "我率秦军三百万，为秦续命万万年",
-          "book_id": 9464730,
-          "rank_change": -3
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "我率秦军三百万，为秦续命万万年",
-          "book_id": 9464730,
-          "heat_change": 3
-        }
-      ],
-      "summary": "**题材趋势**：历史权谋类题材在榜单中呈现窄幅震荡，头部效应弱，整体更新活跃度不足。\n**读者偏好**：读者倾向于“秦汉争霸”与“强权介入”叙事，偏好主角以绝对武力改变历史走向的爽感。\n**变动解读**：该小类仅余一本在榜，且排名与热度同步下行，说明缺乏新书填充，市场关注度处于低位。\n**值得关注**：需观察是否存在题材迭代，或该类目是否因缺乏强力更新支撑而陷入流量瓶颈。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：历史题材目前处于相对冷门区间，以强爽感、改写大秦命运的“强权流”为主导。\n**读者偏好**：读者倾向于快节奏的开局，即“身份反转+掌握重兵+暴力夺权”的爽文套路，对历史推演的沉浸感要求较低。\n**变动解读**：榜单仅存一本新书，显示该小类在七猫平台的活跃度较低，市场处于缺乏头部作品支撑的平稳期。\n**值得关注**：本书通过“秦始皇之子”这一高辨识度IP切入，结合“清君侧”的政治爽点，是当前历史文吸引流量的典型范式。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 17,
         "title": "我率秦军三百万，为秦续命万万年",
         "book_id": 9464730,
         "url": "https://www.qimao.com/shuku/9464730/",
@@ -51,18 +44,18 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "206.23万字",
-        "word_count": 2062300,
-        "heat": 3,
-        "platform_trend": "drop",
+        "word_count_text": "208.84万字",
+        "word_count": 2088400,
+        "heat": 4,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第945章  霸王一戟出",
-        "updated_at": "2026-10-04 00:06:13",
-        "rank_change": -3,
-        "heat_change": 3,
-        "is_new": false,
+        "latest_chapter": " 第957章  小道消息",
+        "updated_at": "2026-10-08 00:07:09",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "穿越历史"

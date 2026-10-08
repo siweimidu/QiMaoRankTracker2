@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "types": [
     {
       "name": "全部",
@@ -45,6 +45,10 @@
     {
       "name": "幻想修真",
       "url": "api/boy-hot-date/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
+    },
+    {
+      "name": "古典仙侠",
+      "url": "api/boy-hot-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     }
   ]
 }

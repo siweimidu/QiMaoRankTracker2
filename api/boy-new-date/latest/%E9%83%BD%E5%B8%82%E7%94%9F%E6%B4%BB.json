@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 3,
-    "total_heat": 146000,
+    "total_heat": 145000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,9 +21,9 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "重生70：我在空间狩猎，狂宠妻儿",
-          "book_id": 13340112,
-          "rank_change": 3
+          "title": "都重生了谁还老实创业啊？",
+          "book_id": 12594366,
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -31,12 +31,12 @@
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 5000
+          "heat_change": 1000
         },
         {
           "title": "重生70：我在空间狩猎，狂宠妻儿",
           "book_id": 13340112,
-          "heat_change": 3000
+          "heat_change": -1000
         },
         {
           "title": "都重生了谁还老实创业啊？",
@@ -44,8 +44,8 @@
           "heat_change": -1000
         }
       ],
-      "summary": "「都市生活」《重生70：我在空间狩猎，狂宠妻儿》上升3位领涨；《暴雪1962，绝美邻居上门求肉》热度+5000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：年代文占据绝对统治地位，尤其是“重生+物资/空间+致富”的组合已形成稳定的流量闭环。\n**读者偏好**：读者热衷于通过“重生改命”弥补遗憾，带有爽文色彩的“虐渣打脸”与“温馨生活”并重。\n**变动解读**：榜单结构极其稳固，头部效应明显，仅《都重生了谁还老实创业啊？》有微调，反映出该类目读者粘性高且对精品内容需求较单一。\n**值得关注**：《暴雪1962，绝美邻居上门求肉》展现出极强的长尾效应，其“年代+人情冷暖”的写法是当前都市板块的流量密码。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -61,17 +61,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.38万字",
-        "word_count": 413800,
-        "heat": 104000,
+        "word_count_text": "42.02万字",
+        "word_count": 420200,
+        "heat": 105000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第186章  变脸比翻书快！",
-        "updated_at": "2026-10-06 17:12:02",
+        "latest_chapter": " 第189章  出名？怕死的不够快吗？",
+        "updated_at": "2026-10-07 22:07:04",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -90,24 +90,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.59万字",
-        "word_count": 315900,
-        "heat": 25000,
-        "platform_trend": "rise",
+        "word_count_text": "32.43万字",
+        "word_count": 324300,
+        "heat": 24000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一边，手持猎枪进深山，三枪轰出万元户！\n别人不敢进的深山，他前世兵王神枪手如履平地！\n野鸡、飞鸭、大野猪，人参、鹿茸、灵芝草。\n物资匮乏的年代，全村人还在啃咽菜窝窝头，王阳家已经顿顿大肉，油水直冒。\n他要把前世欠下的债，千倍万倍地补回来，把漂亮老婆和一双儿女宠上天，让那些曾经瞧不起他的人，全都嫉妒到发狂！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
-        "latest_chapter": " 第143章  换个地方进山",
-        "updated_at": "2026-10-06 21:22:04",
-        "rank_change": 3,
-        "heat_change": 3000,
+        "latest_chapter": " 第147章  绝对不会有下次",
+        "updated_at": "2026-10-07 16:58:03",
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "title": "都重生了谁还老实创业啊？",
         "book_id": 12594366,
         "url": "https://www.qimao.com/shuku/12594366/",
@@ -119,16 +119,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.41万字",
-        "word_count": 404100,
-        "heat": 17000,
+        "word_count_text": "40.81万字",
+        "word_count": 408100,
+        "heat": 16000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "互联网大亨魏东重生2000年，回到了被表哥踢出公司的那天。\n这一世，他只想做三件事：\n让父母不再抱憾离世，让白月光不再只是回忆，让上辈子的仇人破产倒闭。\n至于创业……都重生了，谁还老实创业？\n先来一招空手套白狼，再顺手牵羊、无中生有、趁火打劫、浑水摸鱼……总之，一切皆可白嫖，万物皆能变现。\n世人的非议？虚妄啊。\n等你遥遥领先，自有大儒为你强辩。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594366_360x480.jpg?time=1786101197",
-        "latest_chapter": " 第101章  眼镜一摘，火力全开。",
-        "updated_at": "2026-10-07 01:06:04",
-        "rank_change": 0,
+        "latest_chapter": " 第102章  我不装了，我摊牌了。",
+        "updated_at": "2026-10-08 00:05:03",
+        "rank_change": 2,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,

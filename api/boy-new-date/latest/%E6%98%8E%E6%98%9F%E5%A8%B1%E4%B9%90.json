@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "明星娱乐",
     "major": "都市",
@@ -19,21 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "恋综修罗场，女嘉宾全是我前女友？",
           "book_id": 13009026,
-          "heat_change": -1000
+          "rank_change": 1
         }
       ],
-      "summary": "**题材趋势**：系统加持下的“修罗场”与“前任梗”是娱乐文的流量密码，通过极具冲突感的开局迅速抓住读者眼球。\n**读者偏好**：读者偏好高强度的情感博弈与身份反差，特别是主角在娱乐圈背景下处理复杂男女关系的互动戏份。\n**变动解读**：榜单热度微跌且排名持平，显示该类目处于平稳过渡期，缺乏强力新作冲击榜单头部。\n**值得关注**：又白又菜的《恋综修罗场，女嘉宾全是我前女友？》依赖强冲突情节支撑，建议后续加强剧情的节奏把控以维持热度。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：都市娱乐文正向“强冲突+恋综流”转型，通过情感修罗场提升读者的阅读粘性。\n**读者偏好**：读者热衷于“系统+海王式修罗场”的设定，偏好主角在事业与情感双线中展现出的掌控力。\n**变动解读**：该书在榜单中顺位上升，说明其“前女友”话题具备较强的点击转化能力，市场生命力较强。\n**值得关注**：恋综题材的社交属性与网文的爽点结合紧密，是当前娱乐文破局的主要方向。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "恋综修罗场，女嘉宾全是我前女友？",
         "book_id": 13009026,
         "url": "https://www.qimao.com/shuku/13009026/",
@@ -45,17 +45,17 @@
         "minor_id": 46,
         "minor_url": "https://www.qimao.com/shuku/a-203-46-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.05万字",
-        "word_count": 480500,
+        "word_count_text": "48.87万字",
+        "word_count": 488700,
         "heat": 23000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "江枫穿越平行世界，获得神级巨星系统，掌握巨星所有能力。\n系统只有一个条件。\n那就是必须谈七次恋爱，还得女方的好感度达到百分百，才能结束。\n于是，三年间，江枫辜负了一个又一个女孩，说出了一个又一个的谎言。\n直到三年后，江枫系统各项能力解锁，他终于可以在娱乐圈展露拳脚。\n却意外被好兄弟叫去参加恋综？\n本来参加恋综也无所谓，但江枫却发现，恋综上的女嘉宾，全是他前女友？\n这一刻，江枫只想退出节目！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13009026_360x480.jpg?time=1785927308",
-        "latest_chapter": " 第235章  真心话？江枫，你最爱的前女友是谁！",
-        "updated_at": "2026-10-06 23:49:04",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "latest_chapter": " 第239章  无良媒体，恶意抹黑，江枫能反击吗？",
+        "updated_at": "2026-10-07 23:41:03",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 5,
-    "total_heat": 696000,
+    "total_heat": 706000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,38 +24,32 @@
           "title": "葬天神帝",
           "book_id": 213697,
           "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "rank_change": -1
         },
         {
           "title": "九转星辰诀",
           "book_id": 202636,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "heat_change": 5000
-        },
         {
           "title": "荒古武神",
           "book_id": 216404,
+          "heat_change": 4000
+        },
+        {
+          "title": "葬天神帝",
+          "book_id": 213697,
           "heat_change": 3000
         },
         {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "heat_change": 1000
+          "title": "九转星辰诀",
+          "book_id": 202636,
+          "heat_change": 2000
         }
       ],
-      "summary": "**题材趋势**：传统玄幻套路占据主导，以“废柴流”、“赘婿流”及“多女主+无敌暴爽”为核心驱动，节奏快、爽点密集是完结作品的共同特征。\n**读者偏好**：读者热衷于逆袭叙事，尤其是武魂被废、身世揭秘后横扫万界的强压制型爽文，对“娘胎修炼”、“炼化万物”等强金手指设定有较高粘性。\n**变动解读**：榜单整体格局趋于固化，头部效应显著，《荒古武神》稳居榜首。排名小幅更迭主要源于存量读者的自然波动，缺乏新晋黑马冲击。\n**值得关注**：建议重点监控《葬天神帝》的上升势头，此类经典的“赘婿+复仇”题材在完结榜单中仍具备极强的长尾转化能力。",
+      "summary": "**题材趋势**：传统废柴流与系统/机缘流依然是核心赛道，题材趋于成熟且高度同质化。\n**读者偏好**：读者热衷于“反压迫”与“极速崛起”的爽点，带入感强、节奏明快的无敌流文本更具吸睛力。\n**变动解读**：头部格局稳定，中腰部作品热度微涨，显示出该类目在完结期依然有长尾阅读粘性。\n**值得关注**：如《荒古武神》般具备强冲突、强节奏的经典爽文，仍是目前维持榜单活力的压舱石。",
       "ai_source": "ai"
     },
     "books": [
@@ -74,7 +68,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 327000,
+        "heat": 331000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -82,7 +76,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -111,14 +105,14 @@
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "葬天神帝",
         "book_id": 213697,
         "url": "https://www.qimao.com/shuku/213697/",
@@ -132,7 +126,7 @@
         "status": "已完结",
         "word_count_text": "1007.28万字",
         "word_count": 10072800,
-        "heat": 74000,
+        "heat": 77000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
@@ -140,7 +134,7 @@
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
         "rank_change": 1,
-        "heat_change": 5000,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -161,22 +155,22 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 70000,
-        "platform_trend": "drop",
+        "heat": 71000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "九转星辰诀",
         "book_id": 202636,
         "url": "https://www.qimao.com/shuku/202636/",
@@ -190,15 +184,15 @@
         "status": "已完结",
         "word_count_text": "842.8万字",
         "word_count": 8428000,
-        "heat": 67000,
+        "heat": 69000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界，只为一心向前！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
         "latest_chapter": " 第3793章  碎天道，去束缚，得自由！（大结局）",
         "updated_at": "2024-03-11 19:37:28",
-        "rank_change": -1,
-        "heat_change": 1000,
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
