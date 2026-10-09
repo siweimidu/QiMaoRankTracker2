@@ -8,25 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 286000,
+    "total_heat": 284000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
@@ -34,12 +34,12 @@
           "heat_change": -2000
         }
       ],
-      "summary": "**题材趋势**：传统历史架空题材依然稳健，强调“从底层崛起”的权谋与武力结合模式。\n**读者偏好**：读者倾向于具备强冲突开局（如将军府杂役身份）与“改变世道”宏大愿景的爽文结构。\n**变动解读**：本期榜单稳定性极高，头部产品虽有微小热度波动，但凭借核心受众支撑，排名仍呈小幅上升态势。\n**值得关注**：该题材目前处于存量竞争期，需警惕长期未有新书入榜带来的题材活力下降风险。",
+      "summary": "**题材趋势**：传统权谋争霸题材进入存量博弈阶段，市场热度表现趋于平稳。\n**读者偏好**：读者倾向于“底层逆袭+家国天下”的强互动叙事，武夫流设定仍具备较强爽点吸引力。\n**变动解读**：头部作品热度微降2000，排名下滑反映出该品类近期缺乏强力新书注入，市场活跃度有所回落。\n**值得关注**：需警惕榜单头部过于集中，建议关注后续是否有融合了权谋与快节奏升级的新作填补空白。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 13,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,16 +51,16 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "225.51万字",
-        "word_count": 2255100,
-        "heat": 286000,
+        "word_count_text": "226.16万字",
+        "word_count": 2261600,
+        "heat": 284000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1042章  再回妖海",
-        "updated_at": "2026-10-07 18:51:08",
-        "rank_change": 1,
+        "latest_chapter": " 第1045章  陈玄被绑了",
+        "updated_at": "2026-10-08 20:07:08",
+        "rank_change": -2,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,

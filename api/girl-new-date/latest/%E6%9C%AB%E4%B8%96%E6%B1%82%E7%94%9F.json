@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
@@ -19,23 +19,11 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "大小姐，都末世了谁还惯着你",
-          "book_id": 12813204,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "大小姐，都末世了谁还惯着你",
-          "book_id": 12813204,
-          "heat_change": 12000
-        }
-      ],
-      "summary": "**题材趋势**：末世题材出现明显的“反套路”趋势，男性视角重生复仇与“恶女”人设的碰撞成为市场新看点。\n**读者偏好**：读者对传统末世生存兴趣点已转向“多角雄竞”与“人性博弈”，尤其是带有复仇爽感与情感纠葛的内容更具吸引力。\n**变动解读**：该作在短期内热度大幅上涨，排名跃升显著，说明融合了“男主重生”与“恶女驯化”的差异化叙事在末世类目中极具突围潜力。\n**值得关注**：末世背景下情感线与爽点的平衡，将决定此类作品能否在红海市场中持续留存用户。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「末世求生」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -51,17 +39,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.89万字",
-        "word_count": 328900,
+        "word_count_text": "33.3万字",
+        "word_count": 333000,
         "heat": 45000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1785229117",
-        "latest_chapter": " 第157章  下马威",
-        "updated_at": "2026-10-07 23:39:04",
-        "rank_change": 3,
-        "heat_change": 12000,
+        "latest_chapter": " 第159章  嫂子嫂子",
+        "updated_at": "2026-10-08 23:38:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

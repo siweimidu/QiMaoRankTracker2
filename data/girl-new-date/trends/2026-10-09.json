@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-09",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 89400,
+    "total_heat": 1788000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "窝才五岁，算卦咋就火遍京圈啦？",
+            "book_id": 12932523
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "难戒，上上婚！",
+            "book_id": 12573738,
+            "intro": "【新婚后爱+细水长流+甜宠】【明媚阳光神外医生+禁欲斯文总裁】\n祝禧跟周应淮结婚，完全是意外。\n继姐不嫁，继妹傲娇，这美差就落在她身上。\n周应淮是荔北市顶级豪门，长相绝佳，丰姿俊秀，仪表堂堂。\n祝禧是"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "夫人反差太大，司总沦陷了",
+            "book_id": 13030701,
+            "rank_change": 3
+          },
+          {
+            "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+            "book_id": 12802161,
+            "rank_change": 2
+          },
+          {
+            "title": "暗恋姜医生的第十年，她离婚了",
+            "book_id": 12860100,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "rank_change": -1
+          },
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "heat_change": -14000
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "heat_change": -11000
+          },
+          {
+            "title": "暗恋姜医生的第十年，她离婚了",
+            "book_id": 12860100,
+            "heat_change": 9000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《窝才五岁，算卦咋就火遍京圈啦？》；《难戒，上上婚！》 掉出榜单；《夫人反差太大，司总沦陷了》上升3位领涨；《分居三年，高冷商总跪地求不离》下滑1位；《分居三年，高冷商总跪地求不离》热度-14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": 10
+          },
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": 96000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 3000
+          },
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「古代情缘」《娇软美人出嫁后》上升10位领涨；《春闺小寡妇》下滑1位；《娇软美人出嫁后》热度+96000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": -2
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -5000
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": -4000
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「宫闱宅斗」《劝爹入赘公主府，玄学嫡女被团宠》下滑2位；《劝爹入赘公主府，玄学嫡女被团宠》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 183000
+          },
+          {
+            "title": "七零嫁爹去入赘，抱大腿的我嘎嘎好运",
+            "book_id": 12952116,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《军婚超甜！闪婚后成了首长的心尖宠》 掉出榜单；《错嫁随军：新婚夜冷面军少沦陷了》热度+183000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》下滑2位；《悍妇穿边关，一手烂牌打出王炸》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升2位领涨；《年下弟弟，人前乖软人后野》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "兽世万人迷：大佬们为占她一胎抢疯了",
+            "book_id": 12828771
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世幻想」新上榜 《兽世万人迷：大佬们为占她一胎抢疯了》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

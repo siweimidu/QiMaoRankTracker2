@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 67000,
+    "total_heat": 62000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "悍妇穿边关，一手烂牌打出王炸",
           "book_id": 12658929,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "悍妇穿边关，一手烂牌打出王炸",
           "book_id": 12658929,
-          "heat_change": 3000
+          "heat_change": -5000
         }
       ],
-      "summary": "**题材趋势**：种田文正向“强生存+强人设”转型，将美食、异能与家长里短结合，弱化枯燥劳作，强化开局困境的逆袭感。\n**读者偏好**：读者倾向于阅读“一手烂牌打出王炸”的快节奏成长叙事，对具备强执行力、能迅速改善生活质量的“悍妇”型女主接受度高。\n**变动解读**：该小类目前呈现头部效应，单本作品通过持续的剧情铺陈稳步吸纳热度，排名稳中有升。\n**值得关注**：在“先婚后爱”与“养娃”元素的加持下，该题材已具备深厚的女性读者基本盘，后续重点在于生活化叙事的深度挖掘。",
-      "ai_source": "ai"
+      "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》下滑2位；《悍妇穿边关，一手烂牌打出王炸》热度-5000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 8,
         "title": "悍妇穿边关，一手烂牌打出王炸",
         "book_id": 12658929,
         "url": "https://www.qimao.com/shuku/12658929/",
@@ -51,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.12万字",
-        "word_count": 391200,
-        "heat": 67000,
-        "platform_trend": "rise",
+        "word_count_text": "39.53万字",
+        "word_count": 395300,
+        "heat": 62000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而生。\n就在她想着怎么摆脱此时的困境时，一个目光凌厉的刀疤脸突然走上前指着她道:“我要买她。”\n就这样许清禾成了沈知买来的媳妇，跟他一起回了家。\n结果刚进家门就引起了老沈家的轩然大波，还没反应过来就被沈大嫂连人带东西赶了出去。\n沈知望着自己分批带回来的一大两小，有些无奈道:“你放心，我一定能养得活你们。”\n就这样沈知开始了自己的牛马生活，谁知他带回来的那个小媳妇竟然这么能干。\n洗衣做饭收拾屋子带孩子不说，还能挣钱。\n沈知看着家里不断扩张的土地，数不清的钱财，第一次有些不好意思道:“媳妇，我想跟着造反，缺点钱。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4220/12658929_360x480.jpg?time=1790648938",
-        "latest_chapter": " 第193章  沈大强买的胭脂",
-        "updated_at": "2026-10-07 09:01:05",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "latest_chapter": " 第195章  爬树摘猴头菇",
+        "updated_at": "2026-10-08 08:21:04",
+        "rank_change": -2,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

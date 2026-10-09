@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,39 +23,28 @@
         {
           "title": "公主退婚？我买下了满朝文武",
           "book_id": 12878790,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "公主退婚？我买下了满朝文武",
           "book_id": 12878790,
-          "heat_change": 1
+          "heat_change": -1
         },
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "heat_change": 1
-        },
-        {
-          "title": "我爹让我弑君，陛下却把公主赐给我",
-          "book_id": 11895729,
           "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：聚焦于“权谋逆袭”与“身份反差”，通过“被退婚”、“假太监”、“反贼卧底”等戏剧化开局制造悬念。\n**读者偏好**：读者偏好带有强身份反差的爽文模式，即主角从社会底层或被动困境中通过智谋实现权力反转的叙事结构。\n**变动解读**：榜单内书籍热度波动较大，排名交换频繁，显示出该题材读者活跃度高，对节奏快、反转多的剧情粘性更强。\n**值得关注**：《公主退婚？我买下了满朝文武》通过快节奏的商业与权谋结合，展现了极强的上升动力，是该品类中高转化率的典型范本。",
+      "summary": "**题材趋势** 侧重“权谋+反套路”风格，融合了败家子、假太监、反贼卧底等强冲突设定。\n**读者偏好** 读者偏爱“身份错位”带来的戏剧性，如反贼被迫成为天子心腹、败家子通过经商逆袭等高爽感剧情。\n**变动解读** 榜单呈现僵持态势，除《公主退婚？我买下了满朝文武》凭借经商爽点实现排名上移外，其余作品热度波动微弱，处于存量维稳期。\n**值得关注** 带有强“身份反差”与“朝堂博弈”元素的历史文仍是读者首选，但整体缺乏创新题材带来的爆发式增长。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "公主退婚？我买下了满朝文武",
         "book_id": 12878790,
         "url": "https://www.qimao.com/shuku/12878790/",
@@ -67,17 +56,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.45万字",
-        "word_count": 424500,
-        "heat": 2,
+        "word_count_text": "43.02万字",
+        "word_count": 430200,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢回三百匹战马，也让沈浪一夜赚到近两千两白银。\n此后，毁容歌姬、疯癫匠人、落榜书生、逃亡老卒……那些被世人当成废物的人，全被他买回牙行，养成名动天下的大人物。\n多年以后，满朝文武排队登门，四方帝王重金求才。那位当年嫌他不学无术的公主才终于明白——她退掉的不是一个纨绔，而是一个能买下天下英雄的男人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4293/12878790_360x480.jpg?time=1784871732",
-        "latest_chapter": " 第210章  账明日再算",
-        "updated_at": "2026-10-08 00:02:20",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第213章  四海先赔二十四两",
+        "updated_at": "2026-10-09 00:02:21",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -96,17 +85,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "122.81万字",
-        "word_count": 1228100,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "123.46万字",
+        "word_count": 1234600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第366章  劝魏无忌称帝！",
-        "updated_at": "2026-10-08 00:32:04",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第368章  降服圣人佩剑！",
+        "updated_at": "2026-10-09 00:32:04",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -135,7 +124,7 @@
         "latest_chapter": " 第300章  我还是站在账旁边",
         "updated_at": "2026-09-28 08:12:07",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

@@ -8,56 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-12",
+  "date": "2026-10-09",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 20000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "野性攀登",
+          "book_id": 13408218
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "**题材趋势**：写实风格抬头，主打“重生+无系统+逻辑流”，强调真实创业过程与人间清醒的价值观。\n**读者偏好**：读者厌倦了无脑爽文，更倾向于通过主角的商业决策与逆袭逻辑获得更深层次的代入感。\n**变动解读**：榜单表现虽保持持平，但热度略有下滑（-2000），说明硬核商战文在推流节奏上对读者的耐心有较高要求。\n**值得关注**：该题材正处于从“套路化”向“质感化”过渡的阶段，注重逻辑自洽的精品化作品更容易沉淀高价值读者。",
+      "heat_leaders": [],
+      "summary": "**题材趋势**：商战职场类题材正向“现实逆袭+桃花运”融合，将职场奋斗与都市异性社交深度绑定。\n**读者偏好**：读者热衷于底层小人物通过机缘巧合实现身份跃升，并伴随多线情感纠葛的爽快叙事。\n**变动解读**：新书《野性攀登》强势入榜，为该小类注入新鲜血液，显示出强代入感、重情感反馈的职场文仍具潜力。\n**值得关注**：该书的“被动逆袭”模式能否在后续章节保持商战与感情线的平衡，将决定其是否能稳固榜单地位。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "二本没毕业，你怎么登上福布斯了",
-        "book_id": 12606405,
-        "url": "https://www.qimao.com/shuku/12606405/",
-        "author": "任逍游",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BB%BB%E9%80%8D%E6%B8%B8_14/",
+        "rank": 12,
+        "title": "野性攀登",
+        "book_id": 13408218,
+        "url": "https://www.qimao.com/shuku/13408218/",
+        "author": "老虎本尊",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%80%81%E8%99%8E%E6%9C%AC%E5%B0%8A_14/",
         "major": "都市",
         "minor": "商战职场",
         "major_id": 203,
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.13万字",
-        "word_count": 501300,
-        "heat": 29000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第202章  做人，还是谦虚一点好",
-        "updated_at": "2026-09-12 00:32:03",
+        "word_count_text": "21.69万字",
+        "word_count": 216900,
+        "heat": 20000,
+        "platform_trend": "rise",
+        "badge": "飙升19名",
+        "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1789371629",
+        "latest_chapter": " 第95章  直接怼他丫的",
+        "updated_at": "2026-10-09 03:02:02",
         "rank_change": 0,
-        "heat_change": -2000,
-        "is_new": false,
-        "boards_count": 3,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "商战职场"
       }

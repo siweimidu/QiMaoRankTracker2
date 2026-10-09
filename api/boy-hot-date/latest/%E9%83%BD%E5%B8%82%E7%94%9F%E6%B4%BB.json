@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 365000,
+    "total_heat": 381000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -13000
+          "heat_change": 16000
         }
       ],
-      "summary": "**题材趋势**：现实主义与社会生存题材仍有受众，但整体热度增长乏力。\n**变动解读**：本期出现排名下滑，且热度伴随负增长，说明该类作品在当前榜单环境下的流量转化效率有所下降。\n**读者偏好**：倾向于带有成长感、社会写实及情感纠葛的叙事，对“小人物逆袭”有一定共鸣。\n**值得关注**：建议重点观察其联动有声剧的导流效果，评估音频转化对文字阅读热度的实际支撑力。",
+      "summary": "**题材趋势**：现实向生活题材呈现出稳扎稳打的上升态势，具备较好的长尾阅读潜力。\n**读者偏好**：偏好带有社会写实色彩、关注小人物进阶与人性博弈的故事，有声剧的联动推广对提升作品热度具有明显助推作用。\n**变动解读**：榜单呈现微小波动，随着《步步登阶》排名稳步上升且热度持续走高，该书已成为该类目下的核心增长点。\n**值得关注**：建议关注“网文+有声”联动模式的转化效果，此类跨平台推广在都市生活类目中已显现出显著的流量赋能效应。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -51,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "293万字",
-        "word_count": 2930000,
-        "heat": 365000,
-        "platform_trend": "drop",
+        "word_count_text": "293.21万字",
+        "word_count": 2932100,
+        "heat": 381000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1395章  枪呢？",
-        "updated_at": "2026-10-08 00:02:16",
-        "rank_change": -1,
-        "heat_change": -13000,
+        "latest_chapter": " 第1396章  感性和理性！",
+        "updated_at": "2026-10-09 07:11:10",
+        "rank_change": 1,
+        "heat_change": 16000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

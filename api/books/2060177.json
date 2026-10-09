@@ -9,16 +9,16 @@
   "word_count_text": "269.31万字",
   "latest": [
     {
-      "board": "boy-over-date",
-      "board_name": "男生完结日榜",
-      "rank": 7,
-      "heat": 81000
-    },
-    {
       "board": "boy-over-month",
       "board_name": "男生完结月榜",
       "rank": 7,
       "heat": 3097000
+    },
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 9,
+      "heat": 81000
     }
   ],
   "history": [
@@ -234,6 +234,18 @@
     },
     {
       "d": "2026-10-08",
+      "b": "boy-over-month",
+      "r": 7,
+      "h": 3097000
+    },
+    {
+      "d": "2026-10-09",
+      "b": "boy-over-date",
+      "r": 9,
+      "h": 81000
+    },
+    {
+      "d": "2026-10-09",
       "b": "boy-over-month",
       "r": 7,
       "h": 3097000

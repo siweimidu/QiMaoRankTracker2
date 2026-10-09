@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 15000,
+    "total_heat": 18000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "五次入伍，我给全军上强度！",
           "book_id": 12958047,
-          "rank_change": -2
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "五次入伍，我给全军上强度！",
           "book_id": 12958047,
-          "heat_change": -3000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：军事题材目前呈现高度集中态势，单品独占榜单说明赛道供给稀缺，市场进入存量博弈阶段。\n**读者偏好**：读者热衷于“兵王重回新兵”的爽点结构，偏爱通过降维打击与反差感带来极致阅读体验的作品。\n**变动解读**：该作热度下滑3000且排名下挫，反映出单一作品在缺乏同类竞争或新鲜内容填充时，读者留存面临挑战。\n**值得关注**：需警惕该题材在缺乏新书冲击下的市场疲软，后续应关注是否有差异化人设的新作入场激活品类热度。",
+      "summary": "**题材趋势**：军事爽文类目持续聚焦“老兵回炉”与“降维打击”模式，强调主角背景与身份反差带来的爽感。\n**读者偏好**：受众倾向于具有强冲突性、快节奏的“兵王”叙事，尤其偏好主角以资深身份在基层“反向整顿”的情节。\n**变动解读**：《五次入伍，我给全军上强度！》热度上涨3000且排名跃升，显示该题材在七猫生态中具备较强的读者粘性与口碑发酵潜力。\n**值得关注**：该类目当前上榜书目单一，市场竞争处于存量博弈阶段，后续需关注是否有同类竞品通过题材微创新（如特种兵+系统或战术竞技）进入榜单。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 14,
         "title": "五次入伍，我给全军上强度！",
         "book_id": 12958047,
         "url": "https://www.qimao.com/shuku/12958047/",
@@ -51,17 +51,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.4万字",
-        "word_count": 484000,
-        "heat": 15000,
-        "platform_trend": "drop",
+        "word_count_text": "49.25万字",
+        "word_count": 492500,
+        "heat": 18000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第233章  关于以前在空降兵军的传说",
-        "updated_at": "2026-10-07 10:12:04",
-        "rank_change": -2,
-        "heat_change": -3000,
+        "latest_chapter": " 第237章  老兵班长，你的姿势好标准",
+        "updated_at": "2026-10-08 10:12:05",
+        "rank_change": 3,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,98 @@
+{
+  "board": {
+    "slug": "girl-update-date",
+    "name": "女生更新日榜",
+    "channel": "female",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-09",
+  "category": {
+    "name": "异世幻想",
+    "major": "幻想言情",
+    "count": 2,
+    "total_heat": 13,
+    "trend": {
+      "new_count": 2,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "兽世万人迷：大佬们为占她一胎抢疯了",
+          "book_id": 12828771
+        },
+        {
+          "title": "穿成星际恶毒公主，我截胡了未来大佬",
+          "book_id": 13303752
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：兽世与星际背景下的“万人迷”、“多雄竞”模式成为新晋热点，剧情驱动与爽感叠加特征明显。\n**读者偏好**：读者偏好“炮灰穿书”、“截胡大佬”及“生崽/后宫”等高浓度爽感元素，对强雄竞修罗场有极高容忍度与期待值。\n**变动解读**：由于两本新书直接占据榜单且贡献了极高热度，表明该题材在特定用户群中具备极强的吸睛与留存能力。\n**值得关注**：《兽世万人迷》以10点热度领跑，证明“兽世+追妻火葬场+生崽”的组合依然是异世幻想类目的流量收割机。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "兽世万人迷：大佬们为占她一胎抢疯了",
+        "book_id": 12828771,
+        "url": "https://www.qimao.com/shuku/12828771/",
+        "author": "心非木石岂无感",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%BF%83%E9%9D%9E%E6%9C%A8%E7%9F%B3%E5%B2%82%E6%97%A0%E6%84%9F_14/",
+        "major": "幻想言情",
+        "minor": "异世幻想",
+        "major_id": 4,
+        "minor_id": 285,
+        "minor_url": "https://www.qimao.com/shuku/a-4-285-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.96万字",
+        "word_count": 369600,
+        "heat": 10,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【追妻火葬场+开后宫+生崽+男主全洁+雄竞修罗场】\n大巴坠崖，农学博士尤念意外穿越兽世。\n刚睁眼，就被黑虎前夫扣下不忠污名，逐出部落！\n前夫扬言唯有她亲手杀掉幼崽才能苟活！\n可她尤念骨子里从无卑躬屈膝！\n没做过的事情，她绝对不认！\n尤念果断带崽出走，开垦土地、搭建城邦，绑定好孕系统一路猛收后宫。\n病娇白蛇兽夫:念念给我生一窝蛇崽！\n傲娇恋爱脑羽族兽夫:就算是为念念背井离乡，我也要和你在一起！\n高冷兽王狻猊：乖，奶能留给我喝吗？崽崽们不需要。\n温柔自卑的赤狐兽夫:我一定会好好伺候雌主，雌主喜欢我的尾巴吗？\n疯批极端占有欲的人鱼：念念，你为什么不能和我一直留在深海里呢？\n等冷脸前夫黑虎终于发现真相，后悔追妻。\n却发现尤念身边早站满了各路大佬。\n众兽夫:你也配上桌吃饭？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4277/12828771_360x480.jpg?time=1786340535",
+        "latest_chapter": " 第137章  想和她一起离开",
+        "updated_at": "2026-10-08 09:02:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "异世幻想"
+      },
+      {
+        "rank": 20,
+        "title": "穿成星际恶毒公主，我截胡了未来大佬",
+        "book_id": 13303752,
+        "url": "https://www.qimao.com/shuku/13303752/",
+        "author": "九序",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E5%BA%8F_14/",
+        "major": "幻想言情",
+        "minor": "异世幻想",
+        "major_id": 4,
+        "minor_id": 285,
+        "minor_url": "https://www.qimao.com/shuku/a-4-285-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "27.45万字",
+        "word_count": 274500,
+        "heat": 3,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "姜明月穿成星际兽世里的炮灰公主，精神力低下、名声恶劣，最后还会惨死荒星。\n幸好，她提前两年知道了剧情。\n既然女主的男人不能抢，那她就专捡那些还没崛起的未来大佬！\n奴隶场黑狼、落魄药剂师、废星机械师……\n多年后，姜明月看着身后一个比一个恐怖的男人，陷入沉默。\n她只是想投资未来，怎么全都赖着不走了？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4435/13303752_360x480.jpg?time=1787907294",
+        "latest_chapter": " 第86章  接风晚宴",
+        "updated_at": "2026-10-08 19:47:02",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "异世幻想"
+      }
+    ]
+  }
+}

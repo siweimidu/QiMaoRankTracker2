@@ -8,56 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 3,
-    "total_heat": 414000,
+    "count": 2,
+    "total_heat": 549000,
     "trend": {
       "new_count": 0,
       "dropped_count": 1,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "一胎五宝，我成军属院顶流",
-          "book_id": 12655653,
-          "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "七零嫁爹去入赘，抱大腿的我嘎嘎好运",
-          "book_id": 12952116,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
           "title": "军婚超甜！闪婚后成了首长的心尖宠",
           "book_id": 12803265,
-          "rank_change": -1
+          "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军"
         }
       ],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "错嫁随军：新婚夜冷面军少沦陷了",
           "book_id": 12792057,
-          "heat_change": -42000
+          "heat_change": 183000
         },
         {
           "title": "七零嫁爹去入赘，抱大腿的我嘎嘎好运",
           "book_id": 12952116,
-          "heat_change": 5000
-        },
-        {
-          "title": "军婚超甜！闪婚后成了首长的心尖宠",
-          "book_id": 12803265,
-          "heat_change": 1000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势** “年代+强反差+爽文套路”是核心赛道，尤其是结合了空间、灵泉等金手指的复仇逆袭文，依然是该类目的吸金主力。\n**读者偏好** 读者更倾向于快节奏的“打脸”与“暴富”叙事，对女主从对照组逆袭为人生赢家的成长路径有极高认同感。\n**变动解读** 榜单头部效应显著，尽管《错嫁随军》热度小幅回调，但其作为头部IP的地位稳固，其余作品正通过优化金手指设定争夺上升空间。\n**值得关注** 关注带有“双重生”或“极致对照组”设定的题材，此类作品通过极端的命运反转能有效维持读者的阅读粘性。",
-      "ai_source": "ai"
+      "summary": "「年代重生」《军婚超甜！闪婚后成了首长的心尖宠》 掉出榜单；《错嫁随军：新婚夜冷面军少沦陷了》热度+183000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -73,48 +56,19 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.09万字",
-        "word_count": 380900,
-        "heat": 330000,
-        "platform_trend": "drop",
+        "word_count_text": "38.5万字",
+        "word_count": 385000,
+        "heat": 513000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二代，夫妻恩爱，风光无限。\n她自私懒惰嫁穷苦男配，丈夫还要爱慕女主。\n甚至为了救下扭伤的女主，任由她被横梁砸碎，落个惨死的结局。\n姜珍霓不想死，抗争后发现根本没办法摆脱剧情，她准备熬一熬。\n熬到剧情上线——\n等周厉骁爱上女主，她就可以离婚，以后好好爱自己。\n姜珍霓揉着酸痛的腰，抚着一天天大起来的肚子，看着蹲在水池边给她洗内衣的周厉骁，有些疑惑，他怎么还不去给女主当舔狗？？\n……\n本该嫁红二代，风光无限的江明月，背着孩子洗衣服，看着被周厉骁百般疼宠的姜珍霓彻底傻眼——\n她怎么也想不通，　明明红二代是属于她的姻缘，怎么阴差阳错，周厉骁才是隐藏的红二代？\n到底是哪一步出了错？\n【时代背景一九七八年】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4265/12792057_360x480.jpg?time=1784770379",
-        "latest_chapter": " 第185章  孩子？是种出来的？！",
-        "updated_at": "2026-10-07 21:57:03",
+        "latest_chapter": " 第187章  小周同志请立正",
+        "updated_at": "2026-10-08 21:31:04",
         "rank_change": 0,
-        "heat_change": -42000,
+        "heat_change": 183000,
         "is_new": false,
         "boards_count": 3,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 11,
-        "title": "军婚超甜！闪婚后成了首长的心尖宠",
-        "book_id": 12803265,
-        "url": "https://www.qimao.com/shuku/12803265/",
-        "author": "灵岫",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%81%B5%E5%B2%AB_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.13万字",
-        "word_count": 501300,
-        "heat": 47000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军区活下来，\n阴差阳错，她住进了战功赫赫却冷厉可怖的团长商颂年的宿舍。\n原本只是一次偶然，却意外治好了这位极品军官严重的厌食症。\n从此以后，苏婉清成了商颂年的小厨娘……\n可日子一长，男人的眼神却越来越不对劲，吃醋、护短、甚至连她看别人一眼都要黑脸。\n直到有一天，平日里高高在上、令人闻风丧胆的商团长，把他的小厨娘抵在灶台边：“清清，我吃饱了，现在该喂你了……”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803265_360x480.jpg?time=1790125642",
-        "latest_chapter": " 第206章  你们想干什么？",
-        "updated_at": "2026-10-07 11:22:04",
-        "rank_change": -1,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
@@ -131,17 +85,17 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.94万字",
-        "word_count": 339400,
-        "heat": 37000,
-        "platform_trend": "rise",
+        "word_count_text": "34.36万字",
+        "word_count": 343600,
+        "heat": 36000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【双重生】【年代】【空间】【灵泉】【团宠】【金手指】【嫁爹】【暴富】【医学奇才】\n李若溪和姐姐一起重生了。\n前世，她跟着亲妈改嫁住进顾家，被当作白老鼠试药，被折磨得不成人样。\n跟亲爹留在乡下的姐姐嫉妒她在顾家过好日子，恨她刀她。\n这一世，亲妈又要带她走，姐姐跪地抢着代替她去顾家。\n李若溪爽快让位，转身去找惦记他爹多年的女猎户。\n“大英姨，你要男人不要？”\n林大英筷子哐当落地。\n林家三兄弟惊得嘴巴能塞鸡蛋。\n亲爹李长青羞红了脸，被林大英扛在肩上带回家。\n入赘的日子真好啊！天天吃肉，还被宠得七荤八素。\n三个继兄，一个憨，一个精，一个冷，把她当亲妹宠。\n这一世的目标很简单，荣华富贵一样不能少！\n等她抱上真正的大腿，前世害我的人一个个慢慢嘎！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4318/12952116_360x480.jpg?time=1787294189",
-        "latest_chapter": " 第156章  二牛有喜欢的人了",
-        "updated_at": "2026-10-07 12:12:04",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "latest_chapter": " 第158章  你喊谁姨太太呢？",
+        "updated_at": "2026-10-08 12:12:05",
+        "rank_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

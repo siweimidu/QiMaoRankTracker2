@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-09",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1255900,
+    "total_heat": 25118000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：强取豪夺与禁忌感驱动市场，核心标签集中在“寡妇/婢女+上位者/高岭之花”的身份错位。\n**读者偏好**：读者热衷于极具张力的情感博弈，如“爬床”、“强取豪夺”及“追妻火葬场”等高冲突桥段。\n**变动解读**：本期榜单呈现高度稳定性，头部作品护城河深，市场进入存量竞争阶段，缺乏新锐黑马冲击。\n**值得关注**：高热度作品通过极致的人设反差（如冷面阎罗与寡妇）稳固了受众心智，具备极强的用户粘性。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：穿越+生存挑战模式成为主流，通过“开局地狱模式”与“资源置换/异能辅助”实现爽点叠加。\n**读者偏好**：偏好节奏明快的“救场”剧情，倾向于看女主如何处理家庭矛盾及利用特长实现阶层逆袭。\n**变动解读**：榜单格局固化，两部作品均通过“先婚后爱”模式平衡种田文的平淡，维持了稳定的阅读转化。\n**值得关注**：题材内卷下，“买卖赘婿”、“罪臣家眷”等强人设开局是吸引点击的关键，后续需关注角色成长性。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

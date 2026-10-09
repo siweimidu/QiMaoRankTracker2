@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 68000,
+    "total_heat": 70000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "阴当",
-          "book_id": 1979356
+          "book_id": 1979356,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：民俗悬疑与灵异志怪题材在都市背景下展现出强劲的完结长尾效应，市场需求稳定。\n**读者偏好**：读者倾向于带有宿命感、民俗禁忌及职业特殊性（如当铺掌事）的奇幻故事，且对“命格”设定具有高度粘性。\n**变动解读**：本期《阴当》以68000热度新晋上榜并占据唯一席位，说明该类目头部产品迭代较慢，但单品渗透力极强。\n**值得关注**：聚焦于带有东方民俗色彩的悬疑探案类作品，此类题材在都市奇幻赛道中具备较好的读者转化潜力。",
+      "heat_leaders": [
+        {
+          "title": "阴当",
+          "book_id": 1979356,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "**题材趋势**：都市奇幻赛道兼具悬疑与灵异元素，凭借差异化叙事在榜单中展现出较强的生命力。\n**读者偏好**：读者偏好带有宿命论色彩的“民俗/职业”设定，尤其是以“当铺/祭品”为核心的强悬念开篇。\n**变动解读**：本期《阴当》排名上扬2位且热度持续攀升，表明此类题材在完结榜内具备较强的读者黏性与口碑发酵能力。\n**值得关注**：该题材具备极佳的沉浸式阅读体验，是目前榜单中少数具备上升势头的非甜宠类赛道。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -46,16 +53,16 @@
         "status": "已完结",
         "word_count_text": "211.63万字",
         "word_count": 2116300,
-        "heat": 68000,
+        "heat": 70000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "我生于乙酉年八月初一，头顶一撮白发，接生婆说我是孤鶕独只带孝来，留下我，我家每三年就会死一个人。\n为了保命，我奶将我死当给五福镇一家当铺做了祭品。\n被扔了太多次，寄人篱下，从小我就学会了乖巧听话。\n谁曾想，18年后，我成了当铺名副其实的掌事者。\n说最软的话，抱最强的大腿，收最厉害的阴邪之物！\n灵蛇当铺，欢迎您的到来！\n柳珺焰（蛇君）：小九，这次是你先\n招惹我的！想跑，打断你的腿。\n胡玉麟（狐君）：小九，无论遇到什么事，你都可以来找我，我等你。\n凤献秋（凤主）：小九，玩够了，该回家了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": 2,
+        "heat_change": 2000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市奇幻"

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -19,21 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "重生57：开局傻子，白捡个漂亮媳妇",
           "book_id": 13118376,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：年代文与乡村生活题材高度融合，以“生存危机+生活改善”作为叙事驱动力。\n**读者偏好**：读者对“重生年代+家庭羁绊+先苦后甜”的成长模式买单，尤其偏好主角通过专业技能改变生存现状的情节。\n**变动解读**：在榜作品排名稳步上升，反映出该类题材在七猫用户群体中拥有稳定的基本盘与长尾效应。\n**值得关注**：建议深入挖掘年代背景下的生活细节，强化主角在特定时代背景下的独特成就感。",
+      "summary": "**题材趋势**：年代文与乡村生活类目紧密结合，聚焦“重生+时代节点+家庭奋斗”的经典叙事逻辑。\n**读者偏好**：读者热衷于极具时代感的生存挑战（如57年大饥荒背景），偏好“开局地狱模式”到“通过个人能力改善生活”的经营流爽感。\n**变动解读**：《重生57：开局傻子，白捡个漂亮媳妇》排名微降，反映在无新书冲击的情况下，该书热度进入平稳波动期，市场表现趋于饱和。\n**值得关注**：该类目目前呈现单点支撑状态，建议观察此类“年代+种田+软饭硬吃”的复合型题材在后续榜单中是否会出现同质化竞争。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "重生57：开局傻子，白捡个漂亮媳妇",
         "book_id": 13118376,
         "url": "https://www.qimao.com/shuku/13118376/",
@@ -45,16 +45,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.37万字",
-        "word_count": 363700,
+        "word_count_text": "37.18万字",
+        "word_count": 371800,
         "heat": 15000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第175章  进山大礼包",
-        "updated_at": "2026-10-07 19:54:03",
-        "rank_change": 1,
+        "latest_chapter": " 第179章  当一回好人",
+        "updated_at": "2026-10-08 21:33:02",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

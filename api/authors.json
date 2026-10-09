@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T08:47:33",
-  "date": "2026-10-08",
+  "generated_at": "2026-10-09T09:03:30",
+  "date": "2026-10-09",
   "authors": [
     {
       "author": "化十",
@@ -47,10 +47,21 @@
       ]
     },
     {
+      "author": "晨弈",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
+      "books": 2,
+      "boards": 2,
+      "total_heat": 88000,
+      "titles": [
+        "九转星辰诀",
+        "魔天鼎：我能炼化万物"
+      ]
+    },
+    {
       "author": "云中觅",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E4%B8%AD%E8%A7%85_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 1,
       "total_heat": 60314000,
       "titles": [
         "封总，太太想跟你离婚很久了"
@@ -294,16 +305,6 @@
       "total_heat": 8567000,
       "titles": [
         "家有玄妻，百邪不侵！"
-      ]
-    },
-    {
-      "author": "墨墨卿卿",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%A2%A8%E5%8D%BF%E5%8D%BF_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 8525000,
-      "titles": [
-        "霍二爷，新婚请克制！"
       ]
     }
   ]

@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 57000,
+    "total_heat": 58000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "让你带问题女兵，你全养成特种兵王了？",
           "book_id": 2091811,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "让你带问题女兵，你全养成特种兵王了？",
           "book_id": 2091811,
-          "heat_change": -1000
+          "heat_change": 1000
         }
       ],
-      "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位；《让你带问题女兵，你全养成特种兵王了？》热度-1000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：军事题材向“养成+轻松+反差”风格转型，强调特种兵王与“问题女兵”的冲突碰撞。\n**变动解读**：排名稳中有升，热度持续上涨，证明在完结榜单中，具备独特人设和强冲突情节的作品更具持久竞争力。\n**读者偏好**：偏爱强人设、高反差的群像文，通过“调教”养成实现爽感释放，而非单一的军事硬核写实。\n**值得关注**：该类目下“战术养成”元素的市场表现良好，建议创作者深挖角色性格冲突，增加故事的趣味性与互动感。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "让你带问题女兵，你全养成特种兵王了？",
         "book_id": 2091811,
         "url": "https://www.qimao.com/shuku/2091811/",
@@ -51,17 +51,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "197.84万字",
-        "word_count": 1978400,
-        "heat": 57000,
-        "platform_trend": "drop",
+        "word_count_text": "199.52万字",
+        "word_count": 1995200,
+        "heat": 58000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "桀骜不驯的大小姐、手眼通天的军二代、一心提干的农村女兵、孤僻高冷的狙击枪王、脾气火爆的格斗冠军　智商超群的女博士……\n空降兵王林战穿越而来，临危受命接管了这支，“神仙过海，各显神通”的‘小仙女’‘公主兵’小队。\n以情带兵？关爱女同志？对不起，在我这儿不存在！\n“报告！我…我大姨妈来了！”\n“正好，趁热乎，去洗个冷水澡降降温！”\n“报告！紫外线会损伤皮肤！申请保养！”\n“好习惯！看到那泥潭了吗？这新鲜的高蛋白泥浆面膜，赶紧敷上！”\n训练不科学？女兵体能天生弱势？很遗憾，我的规矩就是规矩，只要练不死，就往死里练！\n哭？哭也要全队加餐！\n众女兵哭声一片：“呜呜，以后要是生不了孩子，教官你必须负全责！”\n林战：“空降兵不相信眼泪！还女武神？我看你们就是一群小母鸡！”\n然而多年之后，全球联合军演现场，震惊军区大佬。\n说好混资历，让你带一群公主兵，怎么一个个全成特战空降女兵王了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
-        "latest_chapter": " 第915章  实战授权，勇士行动！",
-        "updated_at": "2026-10-07 22:12:08",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "latest_chapter": " 第923章  还有谁？！你过来啊！",
+        "updated_at": "2026-10-09 08:37:10",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

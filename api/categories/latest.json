@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "categories": [
     {
       "name": "都市高武",
@@ -97,14 +97,14 @@
       "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "总裁豪门",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
-    },
-    {
       "name": "宫闱宅斗",
       "major": "古代言情",
       "url": "api/categories/latest/%E5%AE%AB%E9%97%B1%E5%AE%85%E6%96%97.json"
+    },
+    {
+      "name": "总裁豪门",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
     },
     {
       "name": "年代重生",
@@ -135,6 +135,11 @@
       "name": "职场情缘",
       "major": "现代言情",
       "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "异世幻想",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
       "name": "玄幻仙侠",
