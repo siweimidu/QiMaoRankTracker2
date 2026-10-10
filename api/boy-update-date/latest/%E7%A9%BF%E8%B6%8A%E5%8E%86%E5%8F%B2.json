@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "rank_change": 1
+          "rank_change": -2
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "heat_change": -3
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：大秦背景的历史权谋与争霸文仍是赛道核心，强调“改写二世而亡”的爽点叙事。\n**读者偏好**：读者倾向于“开局即手握重兵”的强掌控力设定，偏爱快节奏、强冲突的权力更迭剧情。\n**变动解读**：本期榜单仅剩单本支撑，热度出现明显回落（-3），反映出该细分题材在七猫渠道目前处于存量盘整期，缺乏爆款新作拉动。\n**值得关注**：需观察该题材后续是否有具备新颖切入点的作品补位，以打破当前的单书垄断局面。",
+      "summary": "**题材趋势**：历史权谋与爽文结合仍是核心，具备强烈的“改写大秦命运”叙事导向。\n**读者偏好**：读者倾向于快节奏、高张力的权谋博弈，尤其是“夺权+对外征伐”的爽点组合。\n**变动解读**：本类目仅存一本在榜作品且热度下行，显示该细分品类在当前榜单周期内缺乏头部流量支撑，市场表现低迷。\n**值得关注**：需观察后续是否有具备强开局冲突的历史爽文入榜，以激活该类目的流量池。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 18,
         "title": "我率秦军三百万，为秦续命万万年",
         "book_id": 9464730,
         "url": "https://www.qimao.com/shuku/9464730/",
@@ -51,17 +51,17 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "209.27万字",
-        "word_count": 2092700,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "209.71万字",
+        "word_count": 2097100,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第959章  各显神通",
-        "updated_at": "2026-10-09 00:02:23",
-        "rank_change": 1,
-        "heat_change": -3,
+        "latest_chapter": " 第961章  韩信：既然如此",
+        "updated_at": "2026-10-10 00:01:13",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

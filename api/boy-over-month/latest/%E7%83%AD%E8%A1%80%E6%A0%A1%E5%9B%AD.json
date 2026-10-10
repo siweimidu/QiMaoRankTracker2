@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：以“重生+商业+恋爱”为核心构建的怀旧向叙事，强调纯爱氛围与奋斗补偿心理。\n**读者偏好**：受众倾向于具有治愈感、轻松向的校园生活描写，尤其是对“弥补前世遗憾”的青涩初恋情节买单。\n**变动解读**：榜单呈现高度固化，存量作品依靠成熟的甜宠节奏维持黏性，缺乏竞品变动。\n**值得关注**：此类题材“商业帝国”与“甜蜜恋爱”的配比平衡，是决定作品能否长尾留存的关键。",
-      "ai_source": "ai"
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -80,7 +80,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 2,
         "stale_update": true,
         "category": "热血校园"
       }

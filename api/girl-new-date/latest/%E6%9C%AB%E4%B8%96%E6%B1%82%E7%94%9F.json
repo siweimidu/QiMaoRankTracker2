@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 45000,
+    "total_heat": 52000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大小姐，都末世了谁还惯着你",
+          "book_id": 12813204,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「末世求生」榜单结构稳定，无明显变动。",
-      "ai_source": "rule"
+      "heat_leaders": [
+        {
+          "title": "大小姐，都末世了谁还惯着你",
+          "book_id": 12813204,
+          "heat_change": 7000
+        }
+      ],
+      "summary": "**题材趋势**：末世题材正向“反套路”转型，强调恶女设定与雄竞修罗场，弱化传统的单纯生存逻辑。\n**读者偏好**：读者对“男主重生复仇”与“高智商恶女”的博弈情节表现出浓厚兴趣，情感张力与冲突密度成为核心卖点。\n**变动解读**：本类目表现出极强的上升动能，热度增幅明显，排名大幅跃升，说明读者对该类“非典型”末世文的接受度极高。\n**值得关注**：该书的逆势增长证明了“恶女+雄竞”要素在末世文中的变现潜力，建议后续创作者深挖此类差异化人设。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 10,
         "title": "大小姐，都末世了谁还惯着你",
         "book_id": 12813204,
         "url": "https://www.qimao.com/shuku/12813204/",
@@ -39,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.3万字",
-        "word_count": 333000,
-        "heat": 45000,
+        "word_count_text": "33.71万字",
+        "word_count": 337100,
+        "heat": 52000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1785229117",
-        "latest_chapter": " 第159章  嫂子嫂子",
-        "updated_at": "2026-10-08 23:38:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第161章  杀不死",
+        "updated_at": "2026-10-09 23:54:05",
+        "rank_change": 2,
+        "heat_change": 7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

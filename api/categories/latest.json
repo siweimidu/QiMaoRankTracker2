@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "categories": [
     {
       "name": "都市高武",
@@ -135,11 +135,6 @@
       "name": "职场情缘",
       "major": "现代言情",
       "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
-    },
-    {
-      "name": "异世幻想",
-      "major": "幻想言情",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
       "name": "玄幻仙侠",

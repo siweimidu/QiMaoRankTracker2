@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：侧重“无敌流”与“战神/修仙”元素的强结合，强调身份反差带来的爽感。\n**读者偏好**：热衷于“回归”叙事，偏好包含多位女性角色互动、具备强大世俗权柄的都市爽文。\n**变动解读**：本期榜单稳定性极高，头部作品热度极化明显，缺乏新书冲击，市场竞争进入存量博弈阶段。\n**值得关注**：高热度作品普遍具备“修仙/特殊背景+都市装逼”的复合属性，此类设定是该品类维持高热度的核心。",
-      "ai_source": "ai"
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -80,7 +80,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

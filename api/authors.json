@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T09:03:30",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-10T08:33:50",
+  "date": "2026-10-10",
   "authors": [
     {
       "author": "化十",
@@ -11,6 +11,17 @@
       "titles": [
         "荒古武神",
         "吞天神体"
+      ]
+    },
+    {
+      "author": "十二妖",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
+      "books": 2,
+      "boards": 2,
+      "total_heat": 3783000,
+      "titles": [
+        "第一凤女",
+        "裂春风"
       ]
     },
     {
@@ -29,7 +40,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287001,
+      "total_heat": 2287000,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -39,22 +50,11 @@
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 2167000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
-      ]
-    },
-    {
-      "author": "晨弈",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
-      "books": 2,
-      "boards": 2,
-      "total_heat": 88000,
-      "titles": [
-        "九转星辰诀",
-        "魔天鼎：我能炼化万物"
       ]
     },
     {
@@ -151,7 +151,7 @@
       "author": "吟雾",
       "author_url": "https://www.qimao.com/zuozhe/%E5%90%9F%E9%9B%BE_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 3,
       "total_heat": 13178000,
       "titles": [
         "盛总，太太让您签的是去父留子协议"

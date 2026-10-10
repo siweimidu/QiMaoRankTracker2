@@ -8,33 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 136000,
+    "count": 1,
+    "total_heat": 82000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "SSS级狂龙归来，全球戒备！",
-          "book_id": 2060177,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
+      "dropped_books": [
         {
           "title": "被关女子监狱三年，我修炼成仙了",
           "book_id": 1697715,
+          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
           "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：战神归来与开局退婚仍是都市高手文的基础配置，强调身份反差与群像互动（多女主）的爽感供应。\n**读者偏好**：读者倾向于极具冲突性的开篇（如女子监狱、退婚等），追求主角在世俗权力体系下的绝对压制力。\n**变动解读**：头部作品出现热度波动，显示出该赛道用户对同质化套路的审美疲劳，需更具冲击力的剧情推进来维系热度。\n**值得关注**：都市高手文的生命周期取决于“爽感输出的密集度”，建议关注如何通过创新场景（如特殊环境出狱）来打破传统套路。",
+      "summary": "**题材趋势**：都市战神流依然是刚需，强调“无敌爽感”与“多女主修罗场”的结合，是男频流量的基本盘。\n**读者偏好**：读者倾向于强冲突的归来复仇逻辑，同时对“多类女性角色簇拥”的爽点反馈积极。\n**变动解读**：榜单更迭频繁，显示该细分领域竞争激烈，单书热度增长虽平稳但缺乏爆发性支撑，面临汰换压力。\n**值得关注**：需警惕题材同质化带来的审美疲劳，如何在战神归来框架下创新情感互动是维持热度的关键。",
       "ai_source": "ai"
     },
     "books": [
@@ -53,42 +53,13 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 81000,
+        "heat": 82000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": -2,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "都市高手"
-      },
-      {
-        "rank": 20,
-        "title": "被关女子监狱三年，我修炼成仙了",
-        "book_id": 1697715,
-        "url": "https://www.qimao.com/shuku/1697715/",
-        "author": "一只狸猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "760.62万字",
-        "word_count": 7606200,
-        "heat": 55000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
-        "latest_chapter": " 第1891章  番外",
-        "updated_at": "2026-08-17 18:03:16",
         "rank_change": 0,
         "heat_change": 1000,
         "is_new": false,

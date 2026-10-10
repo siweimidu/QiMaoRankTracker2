@@ -8,38 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 1,
+    "count": 2,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "dropped_books": [
         {
-          "title": "公主退婚？我买下了满朝文武",
-          "book_id": 12878790,
-          "rank_change": 1
+          "title": "我爹让我弑君，陛下却把公主赐给我",
+          "book_id": 11895729,
+          "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼"
         }
       ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "公主退婚？我买下了满朝文武",
           "book_id": 12878790,
           "heat_change": -1
-        },
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势** 侧重“权谋+反套路”风格，融合了败家子、假太监、反贼卧底等强冲突设定。\n**读者偏好** 读者偏爱“身份错位”带来的戏剧性，如反贼被迫成为天子心腹、败家子通过经商逆袭等高爽感剧情。\n**变动解读** 榜单呈现僵持态势，除《公主退婚？我买下了满朝文武》凭借经商爽点实现排名上移外，其余作品热度波动微弱，处于存量维稳期。\n**值得关注** 带有强“身份反差”与“朝堂博弈”元素的历史文仍是读者首选，但整体缺乏创新题材带来的爆发式增长。",
+      "summary": "**题材趋势**：以“爽文流”为主导，侧重于身份反差与权谋逆袭，具备较强的网文娱乐属性。\n**读者偏好**：读者偏爱“底层崛起”与“打脸权贵”的叙事快感，对穿越后利用现代知识改变阶层的逻辑接受度高。\n**变动解读**：榜单出现微调，有旧书掉出，反映出该类目在稳定中存在一定的竞争更迭，读者对新奇开局仍有探索意愿。\n**值得关注**：《公主退婚？我买下了满朝文武》展现了较强的商业化叙事特征，是目前该类目的典型头部风向。",
       "ai_source": "ai"
     },
     "books": [
@@ -56,16 +51,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.02万字",
-        "word_count": 430200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "43.79万字",
+        "word_count": 437900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢回三百匹战马，也让沈浪一夜赚到近两千两白银。\n此后，毁容歌姬、疯癫匠人、落榜书生、逃亡老卒……那些被世人当成废物的人，全被他买回牙行，养成名动天下的大人物。\n多年以后，满朝文武排队登门，四方帝王重金求才。那位当年嫌他不学无术的公主才终于明白——她退掉的不是一个纨绔，而是一个能买下天下英雄的男人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4293/12878790_360x480.jpg?time=1784871732",
-        "latest_chapter": " 第213章  四海先赔二十四两",
-        "updated_at": "2026-10-09 00:02:21",
-        "rank_change": 1,
+        "latest_chapter": " 第217章  一百袋只能装七十",
+        "updated_at": "2026-10-10 00:12:12",
+        "rank_change": 0,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
@@ -85,49 +80,20 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "123.46万字",
-        "word_count": 1234600,
+        "word_count_text": "124.18万字",
+        "word_count": 1241800,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第368章  降服圣人佩剑！",
-        "updated_at": "2026-10-09 00:32:04",
-        "rank_change": 0,
-        "heat_change": -1,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 18,
-        "title": "我爹让我弑君，陛下却把公主赐给我",
-        "book_id": 11895729,
-        "url": "https://www.qimao.com/shuku/11895729/",
-        "author": "云飞乱",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E9%A3%9E%E4%B9%B1_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "94.15万字",
-        "word_count": 941500,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "",
-        "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼，公主在试探，内卫盯我紧，老爹逼我杀。\n皇帝明明知道我是谁，却偏要宠我、信我、护我。\n刀尖上行走，我握着杀他的刀，却成了他最信任的人。\n“陛下，我是来杀你的。”\n“朕知道。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
-        "latest_chapter": " 第300章  我还是站在账旁边",
-        "updated_at": "2026-09-28 08:12:07",
+        "latest_chapter": " 第370章  天下读书人的怒火！",
+        "updated_at": "2026-10-10 00:32:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": true,
+        "stale_update": false,
         "category": "架空历史"
       }
     ]

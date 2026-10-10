@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
-          "title": "顶替我高考状元？我勇冠海陆空三军！",
-          "book_id": 12931542,
-          "intro": "高考749分，全国高考状元，却被亲弟弟顶替身份。\n秦战阳扭头就报名参军入伍！\n【叮！】\n【恭喜主人参军入伍，成功授衔！】\n【任务完成奖励：全属性+1！】\n一年后，当秦战阳肩扛两杠一星，回家探亲，顶替他"
+          "title": "五次入伍，我给全军上强度！",
+          "book_id": 12958047,
+          "rank_change": -2
         }
       ],
-      "top_risers": [],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "五次入伍，我给全军上强度！",
           "book_id": 12958047,
-          "heat_change": -1
+          "heat_change": 2
         }
       ],
-      "summary": "**题材趋势**：兵王流与“退伍后再入伍”的反差设定依然是军事网文的流量基石。\n**读者偏好**：读者热衷于“满级大佬重回新手村”的装逼打脸爽感，对军旅生活中的专业技能展示具有较高黏性。\n**变动解读**：榜单出现新旧交替，原上榜书《顶替我高考状元》掉榜，反映出此类题材竞争激烈，作品生命周期受更新频率影响显著。\n**值得关注**：当前总热度较低（0），建议创作者在“特种兵王”基础上叠加更具社会话题性的前置冲突（如高考顶替），以提升读者的代入感。",
+      "summary": "**题材趋势**：现代军事题材进入精品化竞争，强调“兵王”人设与竞技感，注重单兵素质的极致展现。\n**读者偏好**：读者热衷于“老兵回炉”与“降维打击”式的强度对比，对军队生活中的实战化细节与爽点反馈强烈。\n**变动解读**：尽管排名略有下滑，但热度逆势增长（+2），说明书籍内容质量与互动性较好，用户留存度高。\n**值得关注**：该类目目前处于头部聚拢状态，单本在榜展现了极强的题材统治力，需关注其后续热度能否持续走高。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 15,
         "title": "五次入伍，我给全军上强度！",
         "book_id": 12958047,
         "url": "https://www.qimao.com/shuku/12958047/",
@@ -51,19 +51,19 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.25万字",
-        "word_count": 492500,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "50.09万字",
+        "word_count": 500900,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第237章  老兵班长，你的姿势好标准",
-        "updated_at": "2026-10-08 10:12:05",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第241章  林班长是你吗？",
+        "updated_at": "2026-10-09 10:12:05",
+        "rank_change": -2,
+        "heat_change": 2,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "现代军事"
       }

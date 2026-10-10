@@ -8,43 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 3,
-    "total_heat": 5,
+    "count": 4,
+    "total_heat": 11,
     "trend": {
       "new_count": 1,
       "dropped_count": 0,
       "new_books": [
         {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347
+          "title": "爷爷托梦后，我靠戒指掌控万界",
+          "book_id": 12357096
         }
       ],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "rank_change": 2
+          "title": "美女总裁，请上车",
+          "book_id": 2091347,
+          "rank_change": 3
         },
         {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
           "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
+          "heat_change": -1
+        },
+        {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "heat_change": 2
+          "heat_change": -1
+        },
+        {
+          "title": "美女总裁，请上车",
+          "book_id": 2091347,
+          "heat_change": 1
         }
       ],
-      "summary": "**题材趋势** 题材向“短剧原著”与“强人设爽文”靠拢，强调医武、复仇、豪门冲突等经典商业元素。\n**读者偏好** 读者对带有短剧IP标签的作品接受度极高，倾向于快节奏、强冲突、具有一定“癫”感和反差萌的都市故事。\n**变动解读** 榜单活跃度较好，新书《美女总裁，请上车》成功入榜，且《SSSSSSSSSSSSS级镇狱狂龙》凭借短剧背书热度显著上升，展现了IP联动的强劲势头。\n**值得关注** 带有“短剧原著”标签的作品在变现与流量获取上具备明显优势，是都市类目下极具潜力的增量方向。",
+      "summary": "**题材趋势**：都市爽文呈现“短剧化”与“金手指奇幻化”趋势，强冲突、快节奏的商业爽文更具吸睛力。\n**读者偏好**：读者倾向于带有“反差感”和“跨界爽点”的内容，如从底层逆袭或通过特殊金手指掌控万界。\n**变动解读**：榜单流动性强，新书《爷爷托梦后，我靠戒指掌控万界》迅速登榜并占据热度高位，表现抢眼。\n**值得关注**：短剧原著改编作品持续发力，且题材开始由单纯的医武争霸向带有玄幻元素的“万界流”转型。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,24 +71,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "141.12万字",
-        "word_count": 1411200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "142.55万字",
+        "word_count": 1425500,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第559章  千古罪人",
-        "updated_at": "2026-10-09 00:12:17",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第563章  要打造一座城池",
+        "updated_at": "2026-10-10 00:12:18",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -90,24 +100,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "347.13万字",
-        "word_count": 3471300,
-        "heat": 2,
+        "word_count_text": "347.83万字",
+        "word_count": 3478300,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1502章  劫匪的真实身份",
-        "updated_at": "2026-10-09 07:02:17",
-        "rank_change": 2,
-        "heat_change": 2,
+        "latest_chapter": " 第1505章  没开保险",
+        "updated_at": "2026-10-10 07:02:14",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "美女总裁，请上车",
         "book_id": 2091347,
         "url": "https://www.qimao.com/shuku/2091347/",
@@ -119,15 +129,44 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "341.97万字",
-        "word_count": 3419700,
-        "heat": 2,
+        "word_count_text": "343.06万字",
+        "word_count": 3430600,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1254章  乌娜！",
-        "updated_at": "2026-10-09 00:12:22",
+        "latest_chapter": " 第1258章  谁给你提的力量？",
+        "updated_at": "2026-10-10 00:21:10",
+        "rank_change": 3,
+        "heat_change": 1,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 19,
+        "title": "爷爷托梦后，我靠戒指掌控万界",
+        "book_id": 12357096,
+        "url": "https://www.qimao.com/shuku/12357096/",
+        "author": "一缕微光",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E7%BC%95%E5%BE%AE%E5%85%89_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "75.52万字",
+        "word_count": 755200,
+        "heat": 7,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "打工人的苦，林骁完整的体验了一遍，被现实压的无法喘息，女朋友的移情别恋，成了压垮他的最后一根稻草。\n爷爷托梦了。\n“不孝孙子，你终于跟那小娘们儿分手了！还不快给我烧纸！爷爷在坟头上给你留了宝贝呢！”\n空间戒指？通万界？跨界交换物资？\n末世世界，一碗水能换百两黄金？\n修真大陆，水果能换无上功法？\n林晓，站起来了！\n前任跪求复合？晚了！\n曾经风靡校园的校花主动倒追，末世的娇媚首领下跪认主，修真大陆的宗门圣女撒娇求包养！我还要你这烂货？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4120/12357096_360x480.jpg?time=1781940481",
+        "latest_chapter": " 第371章  我的老公，你行不行！",
+        "updated_at": "2026-10-10 01:11:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 284000,
+    "total_heat": 287000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -2000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：传统权谋争霸题材进入存量博弈阶段，市场热度表现趋于平稳。\n**读者偏好**：读者倾向于“底层逆袭+家国天下”的强互动叙事，武夫流设定仍具备较强爽点吸引力。\n**变动解读**：头部作品热度微降2000，排名下滑反映出该品类近期缺乏强力新书注入，市场活跃度有所回落。\n**值得关注**：需警惕榜单头部过于集中，建议关注后续是否有融合了权谋与快节奏升级的新作填补空白。",
+      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，节奏趋于平稳，缺乏新鲜血液冲击。\n**读者偏好**：读者更倾向于带有“武夫”元素、强调个人伟力与权谋斗争相结合的爽文模式。\n**变动解读**：榜单结构高度固化，仅存的头部作品热度小幅增长，显示该细分品类在七猫平台目前处于用户黏性高但扩张性不足的周期。\n**值得关注**：需警惕榜单单一化风险，建议关注此类作品在快节奏剧情推进或反套路人设上的微创新表现。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "226.16万字",
-        "word_count": 2261600,
-        "heat": 284000,
-        "platform_trend": "drop",
+        "word_count_text": "226.8万字",
+        "word_count": 2268000,
+        "heat": 287000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1045章  陈玄被绑了",
-        "updated_at": "2026-10-08 20:07:08",
-        "rank_change": -2,
-        "heat_change": -2000,
+        "latest_chapter": " 第1048章  别无选择",
+        "updated_at": "2026-10-09 22:37:08",
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

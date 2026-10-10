@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 62000,
+    "total_heat": 63000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "悍妇穿边关，一手烂牌打出王炸",
           "book_id": 12658929,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "悍妇穿边关，一手烂牌打出王炸",
           "book_id": 12658929,
-          "heat_change": -5000
+          "heat_change": 1000
         }
       ],
-      "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》下滑2位；《悍妇穿边关，一手烂牌打出王炸》热度-5000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：当前赛道处于“单书支撑”的窄众状态，以“穿书+生存+技能”为主线。\n**读者偏好**：读者对“逆风翻盘”的叙事模板关注度高，尤其是从“罪臣婢女”等底层困境出发的升级之路具备较强黏性。\n**变动解读**：由于上榜书籍数量稀少，榜单变动主要受自然流量波动影响，虽排名下行但热度呈上升趋势，显示出基本盘尚稳。\n**值得关注**：该题材急需更多优质新书补充，建议关注将“种田”与“强人设/强情节”深度结合的快节奏作品。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 9,
         "title": "悍妇穿边关，一手烂牌打出王炸",
         "book_id": 12658929,
         "url": "https://www.qimao.com/shuku/12658929/",
@@ -51,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.53万字",
-        "word_count": 395300,
-        "heat": 62000,
-        "platform_trend": "drop",
+        "word_count_text": "39.93万字",
+        "word_count": 399300,
+        "heat": 63000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而生。\n就在她想着怎么摆脱此时的困境时，一个目光凌厉的刀疤脸突然走上前指着她道:“我要买她。”\n就这样许清禾成了沈知买来的媳妇，跟他一起回了家。\n结果刚进家门就引起了老沈家的轩然大波，还没反应过来就被沈大嫂连人带东西赶了出去。\n沈知望着自己分批带回来的一大两小，有些无奈道:“你放心，我一定能养得活你们。”\n就这样沈知开始了自己的牛马生活，谁知他带回来的那个小媳妇竟然这么能干。\n洗衣做饭收拾屋子带孩子不说，还能挣钱。\n沈知看着家里不断扩张的土地，数不清的钱财，第一次有些不好意思道:“媳妇，我想跟着造反，缺点钱。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4220/12658929_360x480.jpg?time=1790648938",
-        "latest_chapter": " 第195章  爬树摘猴头菇",
-        "updated_at": "2026-10-08 08:21:04",
-        "rank_change": -2,
-        "heat_change": -5000,
+        "latest_chapter": " 第197章  沈大丫的八卦",
+        "updated_at": "2026-10-09 09:07:03",
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

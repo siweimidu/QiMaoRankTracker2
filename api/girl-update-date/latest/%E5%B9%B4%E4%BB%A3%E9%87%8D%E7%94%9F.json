@@ -8,40 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 2,
+    "count": 2,
+    "total_heat": 7,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "挺孕肚被首长捧手心，家属院羡慕疯了",
-          "book_id": 13200543,
-          "intro": "前世，秦简嫁给陆擎深刚三个月，对方就打电话回家属院要离婚。\n秦母气急，带着秦简去部队大闹，得来的却是陆擎深主动申请驻守边疆，连她已经怀孕的消息都不听，常年不回家，冷淡了她三十年。\n直到她重病，临死前才"
+          "title": "军婚超甜！闪婚后成了首长的心尖宠",
+          "book_id": 12803265
         }
       ],
-      "top_risers": [
-        {
-          "title": "神医军嫂要离婚，冷面团长急红眼",
-          "book_id": 13164777,
-          "rank_change": 2
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "神医军嫂要离婚，冷面团长急红眼",
           "book_id": 13164777,
-          "heat_change": 2
+          "heat_change": -2
         }
       ],
-      "summary": "「年代重生」《挺孕肚被首长捧手心，家属院羡慕疯了》 掉出榜单；《神医军嫂要离婚，冷面团长急红眼》上升2位领涨；《神医军嫂要离婚，冷面团长急红眼》热度+2。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：军婚题材占据绝对统治地位，核心卖点集中在“先婚后爱”与“打脸逆袭”的强冲突剧情。\n**读者偏好**：读者热衷于带有强烈身份地位差的设定，尤其是“清醒事业型”女主与“冷面军官”的互动模式。\n**变动解读**：榜单呈现存量竞争态势，头部作品更替频繁，新上榜的《军婚超甜！》凭借直接的虐渣打脸节奏迅速抢占热度高地。\n**值得关注**：需警惕榜单整体热度下滑风险，内容创作应进一步强化剧情爽感，避免同质化严重的传统军婚套路。",
+      "ai_source": "ai"
     },
     "books": [
       {
@@ -57,18 +50,47 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.89万字",
-        "word_count": 288900,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "29.32万字",
+        "word_count": 293200,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【清醒事业型神医军嫂许知意×冷面禁欲军官沈砚川】\n【军婚+先婚后爱＋追妻火葬场＋地位差＋萌宝+爽文】\n林清芩穿书了。\n穿成年代文里的炮灰军嫂，没过一天好日子就惨被军官丈夫离婚。\n睁眼时，她已经坐上了前往部队的火车。\n为了逃避原主的悲惨命运，她决定先提离婚！\n可等她千里迢迢赶到驻地，面对高热惊厥的孩子，医生的DNA先动了。\n根本顾不上冷漠寡言的丈夫，她立刻开始抢救。\n孩子成功救回来了。\n家属院炸了锅！\n救急症、治顽疾、针灸止血、抢救产妇……\n曾经人人嫌弃的娇气军嫂，一步步成了人人求着看病的林医生。\n她进卫生院、入县医院、赴省城进修，靠一身医术闯出属于自己的天地。\n曾经惜字如金的男人慌了。\n上班抢着送，下班一定接，她爱吃的东西全记住了。\n三个月期限一到，林清芩拿出离婚申请。\n贺承岭却将她堵在门口，向来冷静克制的男人第一次红了眼。\n“林清芩，求你别不要我。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4389/13164777_360x480.jpg?time=1787216441",
-        "latest_chapter": " 第113章  有没有想过去县医院待一阵？",
-        "updated_at": "2026-10-08 09:57:03",
-        "rank_change": 2,
-        "heat_change": 2,
+        "latest_chapter": " 第114章  他第一次舍得把人往外推",
+        "updated_at": "2026-10-09 11:08:03",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 20,
+        "title": "军婚超甜！闪婚后成了首长的心尖宠",
+        "book_id": 12803265,
+        "url": "https://www.qimao.com/shuku/12803265/",
+        "author": "灵岫",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%81%B5%E5%B2%AB_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "51.65万字",
+        "word_count": 516500,
+        "heat": 7,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军区活下来，\n阴差阳错，她住进了战功赫赫却冷厉可怖的团长商颂年的宿舍。\n原本只是一次偶然，却意外治好了这位极品军官严重的厌食症。\n从此以后，苏婉清成了商颂年的小厨娘……\n可日子一长，男人的眼神却越来越不对劲，吃醋、护短、甚至连她看别人一眼都要黑脸。\n直到有一天，平日里高高在上、令人闻风丧胆的商团长，把他的小厨娘抵在灶台边：“清清，我吃饱了，现在该喂你了……”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803265_360x480.jpg?time=1790125642",
+        "latest_chapter": " 第212章  新手奶爸不会换尿布",
+        "updated_at": "2026-10-10 00:12:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-10",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 3247350,
+    "total_heat": 64947000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 经典套路依然占据绝对统治地位，以“废柴流”、“系统/金手指流”为核心的复仇成长叙事是市场的压舱石。\n**读者偏好** 读者对“开局被废+金手指逆袭”的爽感节奏认可度极高，同时伴随多女主、女帝元素的内容更易激发阅读兴趣。\n**变动解读** 本期榜单呈现高度固化态势，头部作品排名稳定，显示出该类目在当前周期内缺乏挑战者，存量竞争特征明显。\n**值得关注** 《荒古武神》以超千万热度稳居榜首，体现了纯粹武道爽文在七猫平台依然具备极强的吸金与留存能力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 历史类目呈现“种田+争霸”与“权谋+老六”并行的格局，主角多以皇子身份切入，通过降维打击实现阶级跃迁。\n**读者偏好** 读者偏好带有经营养成和快节奏爽感的作品，尤其是“苦寒地反转为资源地”的建设流叙事，极大地满足了读者的征服欲。\n**变动解读** 榜单排名全线持平，反映出该细分领域头部作品的粉丝粘性极高，市场格局处于一个相对稳定的饱和期。\n**值得关注** 商业化联动效应显著，如《世子无双》通过有声剧、短剧多渠道引流，证明了IP跨媒体开发是维持长尾热度的关键。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 都市类目高度依赖“都市+神医/战神”元素，强调身份反差带来的爽感，融合了玄幻高武的战斗设定与都市的情感社交。\n**读者偏好** 读者倾向于“入世修行”的快节奏爽文，尤其是带有婚书、总裁等都市标签的内容，能有效降低阅读门槛并提升爽度。\n**变动解读** 仅有两本核心书籍在榜且排名静止，说明该类目在当前流量分配中呈“极度头部化”趋势，新书入局门槛极高。\n**值得关注** 短剧化改编是当前都市类目的标配，内容创作需兼顾网文节奏与影像传播的视觉刺激，以应对激烈的流量竞争。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

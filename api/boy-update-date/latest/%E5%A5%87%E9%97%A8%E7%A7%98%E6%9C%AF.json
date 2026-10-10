@@ -8,27 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -1
+          "heat_change": -1
         }
       ],
-      "heat_leaders": [],
-      "summary": "**题材趋势**：聚焦诡异民俗与惊悚氛围，强调“人吃人”式的残酷生存法则。\n**读者偏好**：受众偏好强沉浸感的恐怖氛围和带有博弈性质的生存挑战故事。\n**变动解读**：榜单呈现单点支撑状态，头部作品热度波动明显，显示出该品类在当前榜单中的流量流动性较低。\n**值得关注**：该类作品的核心竞争力在于世界观的独特性，内容深度是决定其在榜单持久性的关键。",
+      "summary": "**题材趋势**：民俗恐怖与诡异流盛行，注重构建压抑且充满未知危险的异界生存环境。\n**读者偏好**：读者偏爱极具代入感的生存惊悚，对“诡异规则”及“以暴制暴”的人性博弈反馈强烈。\n**变动解读**：该类目维持极低热度且排名停滞，说明在当前更新周期内，该题材的受众活跃度及新增阅读量面临瓶颈。\n**值得关注**：关注此类目内容是否能通过更具张力的诡异设定或反转剧情，重新吸引读者的更新关注度。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "492.82万字",
-        "word_count": 4928200,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "493.86万字",
+        "word_count": 4938600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1799章  他，我就笑纳了！",
-        "updated_at": "2026-10-09 06:57:12",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第1802章  灰四爷：苟富贵，勿相忘，小秦子能处",
+        "updated_at": "2026-10-10 06:57:13",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

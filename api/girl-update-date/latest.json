@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "types": [
     {
       "name": "全部",
@@ -21,10 +21,6 @@
     {
       "name": "总裁豪门",
       "url": "api/girl-update-date/latest/%E6%80%BB%E8%A3%81%E8%B1%AA%E9%97%A8.json"
-    },
-    {
-      "name": "异世幻想",
-      "url": "api/girl-update-date/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
       "name": "古代情缘",
@@ -45,6 +41,10 @@
     {
       "name": "玄幻仙侠",
       "url": "api/girl-update-date/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "种田经商",
+      "url": "api/girl-update-date/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     }
   ]
 }

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 150000,
+    "total_heat": 144000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "第一瞳术师",
+          "book_id": 215243,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "第一瞳术师",
           "book_id": 215243,
-          "heat_change": -1000
+          "heat_change": -6000
         }
       ],
-      "summary": "**题材趋势**：玄幻赛道在女生完结榜表现单薄，但头部作品依托全媒体宣发与出版加持，构筑了高热度护城河。\n**读者偏好**：读者更倾向于“废材逆袭+群像养成”的经典爽文模式，对具备影视化潜力的作品包容度较高。\n**变动解读**：榜单保持高度静默，《第一瞳术师》以绝对热度占据席位，市场竞争格局处于短期停滞状态。\n**值得关注**：单一作品支撑整体品类热度，若缺乏新书补位，该品类在完结榜的声量可能面临结构性萎缩。",
+      "summary": "**题材趋势** 市场进入存量博弈阶段，头部作品依靠强IP联动维持热度。\n**读者偏好** 偏爱“大女主+瞳术/玄术”的爽文设定，对长篇群像文有较高粘性。\n**变动解读** 榜单缺乏新鲜血液，受限于题材长尾效应减弱，头部作品排名与热度均现微幅回落。\n**值得关注** 需警惕单一头部作品独撑局面的风险，建议关注此类题材在影视化联动后的长尾表现。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 10,
         "title": "第一瞳术师",
         "book_id": 215243,
         "url": "https://www.qimao.com/shuku/215243/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "397.31万字",
         "word_count": 3973100,
-        "heat": 150000,
+        "heat": 144000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【已签出版】9月20日晚8:00全网预售\n《奔跑吧》《王牌对王牌》《你好种地少年》推荐，孟子义、高瀚宇、蒋敦豪在看的玄幻群像文。\n云筝，是华国隐世族地的天才瞳术师以及玄术师！\n一朝穿越，成了世人唾弃的废材！\n废材？翻手覆云间算尽天下事，一双妖异赤红色异瞳驭万兽！\n可偏偏算不了，看不穿那个尊贵雅致，风光月霁般的帝尊。\n云筝不解地问：“你图什么？”\n傲娇帝尊别扭地转过头，喃喃自语道：“不过是只图你一个罢了……”\n-\n推荐我的新书《第一召唤师》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "rank_change": -2,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

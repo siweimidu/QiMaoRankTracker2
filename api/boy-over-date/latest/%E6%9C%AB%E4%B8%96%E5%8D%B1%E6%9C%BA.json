@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 70000,
+    "total_heat": 66000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": 1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：以“末日游戏”为核心框架，强调杀伐果断的生存法则，符合快节奏网文的爽点诉求。\n**变动解读**：榜单表现极度稳定，头部作品热度微涨，显示出该题材在完结榜中具备极强的生命力和长尾读者粘性。\n**读者偏好**：热衷于“重生+系统+杀伐果断”的硬核末世文，追求极致的代入感与权力掌控感。\n**值得关注**：该书通过联动漫画进行跨平台引流，这种“网文+漫画”的IP联动策略是提升完结作品热度的有效手段。",
-      "ai_source": "ai"
+      "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度-4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 15,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 70000,
-        "platform_trend": "rise",
+        "heat": 66000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "rank_change": -1,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
