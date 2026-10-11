@@ -8,44 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 1,
-    "total_heat": 45000,
+    "count": 2,
+    "total_heat": 49000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "魔天鼎：我能炼化万物",
-          "book_id": 13297746,
-          "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六"
+          "book_id": 13297746
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "heat_change": 2000
+          "heat_change": -12000
         }
       ],
-      "summary": "**题材趋势**：传统“赘婿重生+夺取修为”的爽文模式依然是市场刚需，通过高频的情感冲突与掠夺式升级锚定读者。\n**读者偏好**：受众偏好强对抗、强利益驱动的快节奏叙事，对“红颜炉鼎”类带有软色情擦边元素的设定具备较高粘性。\n**变动解读**：头部作品热度虽有小幅增长但排名下滑，表明该细分赛道近期新书储备不足，市场处于存量博弈阶段。\n**值得关注**：需警惕同类题材因套路固化导致的读者审美疲劳，以及玄幻类目在无系统流与系统流之间的流量摇摆。",
+      "summary": "**题材趋势**：回归经典的“废柴流/赘婿流”开局，强调“掠夺式”修炼与“红颜炉鼎”设定，突出个人实力的极速膨胀。\n**读者偏好**：读者追求高密度的打脸快感与后宫收集感，偏好“炼化万物”、“岁月流速”等直观且具备成长性的强力金手指。\n**变动解读**：榜单流动性较弱，头部作品《阴阳天帝诀》热度出现明显回撤，说明此类高强度爽文若缺乏持续的剧情创新，极易出现读者审美疲劳。\n**值得关注**：新入榜的《魔天鼎》主打“无系统+炼化万物”，在系统文泛滥的当下，强调硬核功法设定或能吸引一部分追求纯粹力量体系的硬核读者。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 8,
         "title": "阴阳天帝诀",
         "book_id": 12749622,
         "url": "https://www.qimao.com/shuku/12749622/",
@@ -57,19 +56,48 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.49万字",
-        "word_count": 414900,
-        "heat": 45000,
-        "platform_trend": "rise",
+        "word_count_text": "41.93万字",
+        "word_count": 419300,
+        "heat": 33000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第195章  大荒古矿，圣痕石消息！",
-        "updated_at": "2026-10-09 12:58:02",
-        "rank_change": -1,
-        "heat_change": 2000,
+        "latest_chapter": " 第197章  此人定是狐族外援！",
+        "updated_at": "2026-10-10 16:09:03",
+        "rank_change": -2,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 20,
+        "title": "魔天鼎：我能炼化万物",
+        "book_id": 13297746,
+        "url": "https://www.qimao.com/shuku/13297746/",
+        "author": "晨弈",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "23.5万字",
+        "word_count": 235000,
+        "heat": 16000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
+        "latest_chapter": " 第110章  完整功法，第九式去哪儿了！",
+        "updated_at": "2026-10-10 12:02:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
       }

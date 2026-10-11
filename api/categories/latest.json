@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "categories": [
     {
       "name": "都市高武",
@@ -42,11 +42,6 @@
       "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
-      "name": "古典仙侠",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
-    },
-    {
       "name": "现代军事",
       "major": "军事",
       "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
@@ -67,14 +62,14 @@
       "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
     },
     {
-      "name": "明星娱乐",
-      "major": "都市",
-      "url": "api/categories/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
-    },
-    {
       "name": "乡村生活",
       "major": "都市",
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "明星娱乐",
+      "major": "都市",
+      "url": "api/categories/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
     },
     {
       "name": "奇门秘术",
@@ -90,11 +85,6 @@
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
-    },
-    {
-      "name": "穿越历史",
-      "major": "历史",
-      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "宫闱宅斗",
@@ -137,14 +127,19 @@
       "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
     },
     {
-      "name": "玄幻仙侠",
+      "name": "异世幻想",
       "major": "幻想言情",
-      "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "玄幻仙侠",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     }
   ]
 }

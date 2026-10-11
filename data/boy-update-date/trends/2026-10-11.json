@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-11",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 13,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "heat_change": -1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：传统玄幻依然占据统治地位，核心卖点高度集中在“大帝传承”、“吞噬流”及“稳健/反套路”设定。\n**读者偏好**：读者对爽文节奏要求极高，倾向于“开局逆天背景”或“自带外挂”的快速成长模式。\n**变动解读**：榜单整体处于存量竞争状态，排名波动微小，说明头部作品竞争格局趋于固化，读者忠诚度较高。\n**值得关注**：《让你当炉做鼎，你炼阴阳证大道？》通过差异化的“反向炉鼎”设定成功上位，显示出读者对创新设定的渴求。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 3
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": -4
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -2
+          }
+        ],
+        "summary": "**题材趋势**：短剧改编作品及脑洞类爽文成为流量引擎，标签化、强冲突的“复仇流”与“系统/异能流”表现强势。\n**读者偏好**：读者偏好简单粗暴的节奏，对“爆爽预警”、“圣母慎入”等强刺激标签反馈积极。\n**变动解读**：短剧联动书目《SSSSSSSSSSSSS级镇狱狂龙》与脑洞爽文强势攀升，反映出跨平台流量导入对榜单排名的显著驱动力。\n**值得关注**：高热度作品的快速更迭表明都市类读者流动性大，具备强网文属性的“脑洞+系统”设定是当前突围的关键。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：历史类作品呈现“小人物逆袭”特征，聚焦于“假太监”、“败家子”等带有强烈戏剧张力的开局设定。\n**读者偏好**：读者倾向于带有“专业技能+系统辅助”的平民崛起模式，对权谋与个人能力展现的结合点较为买账。\n**变动解读**：榜单处于低活跃期，新书《边军悍卒：一把长弓定天下！》的入榜填补了热度空白，整体竞争压力较小。\n**值得关注**：拥有“现代技能（体育/医学）+历史背景”的穿越文仍是稳定受众群体的核心偏好，后续可关注此类题材的增长空间。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -2
+          },
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》下滑2位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势** 奇门秘术类目当前处于极度冷门或流量断层状态，市场活跃度极低。\n**读者偏好** 仅存的在榜作品侧重于“诡异复苏”与“民俗恐怖”风格，强调生存压抑感与异界穿越元素。\n**变动解读** 榜单缺乏流动性，仅存一本作品维持低热度运行，反映出该细分领域在七猫男频当前生态中缺乏曝光与读者关注。\n**值得关注** 关注该题材是否因缺乏新书填充而面临类目合并风险，或是否存在潜在的题材迭代断档期。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

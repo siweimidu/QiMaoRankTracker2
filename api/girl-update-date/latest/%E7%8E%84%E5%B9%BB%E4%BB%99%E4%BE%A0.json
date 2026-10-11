@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "仙君今天也想杀我",
+          "book_id": 13281888,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 仙侠言情赛道目前处于存量博弈阶段，市场热度表现平淡，缺乏新晋爆款带动活跃度。\n**读者偏好** 读者仍倾向于“任务型女主+禁欲系男主”的经典攻略套路，强调反差萌与情感张力。\n**变动解读** 榜单呈现极度固化状态，无新书入局或排位变动，显示该小类在当前更新周期内缺乏流量驱动。\n**值得关注** 现有在榜书籍处于热度冰点，需关注后续是否有破局作品打破题材的同质化瓶颈。",
+      "heat_leaders": [
+        {
+          "title": "仙君今天也想杀我",
+          "book_id": 13281888,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势**：仙侠文正处于轻量化调整期，以“系统任务+攻略”为核心的快节奏爽文仍是主要表现形式。\n**读者偏好**：读者热衷于“非典型关系”设定，特别是“杀人者与被攻略者”之间充满张力的矛盾冲突。\n**变动解读**：榜单整体热度偏低且流动性弱，显示该赛道目前处于市场存量竞争阶段，缺乏大规模流量注入。\n**值得关注**：在“任务驱动”的框架下，通过强化女主的性格反差（如“没心没肺”）来提升阅读趣味性，是该类目破局的关键。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "仙君今天也想杀我",
         "book_id": 13281888,
         "url": "https://www.qimao.com/shuku/13281888/",
@@ -39,17 +51,17 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "21.26万字",
-        "word_count": 212600,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "21.71万字",
+        "word_count": 217100,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【没心没肺任务型女主 × 端方克制逐渐沦陷仙君】\n黎想穿越了。\n好消息，她绑定了系统，只要把攻略对象的好感度刷到七十，就能回家。\n坏消息，她穿成了一只妖。\n更坏的消息，攻略对象裴云逸，是个见妖拔剑、恨不得把“妖邪必诛”刻在脑门的修士。\n第一次见面，他一剑划破了她的脖子。\n黎想：“系统，咱不行换个人呢？”\n系统：“不行。”\n黎想：“那我任务完不成咋办？”\n系统温柔一笑：“狠狠电你哦。”\n为了活着回家，黎想只能兢兢业业跟在裴云逸身后刷好感。\n黎想本以为，这任务最大的困难，是如何让一个恨妖入骨的人不杀她。\n后来她才发现——\n裴云逸看她的眼神，好像越来越不对劲了。\n黎想：等等，我刷的是你的好感，你怎么先疯了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4428/13281888_360x480.jpg?time=1788240267",
-        "latest_chapter": " 第100章  人很好，也未必会喜欢",
-        "updated_at": "2026-10-09 11:12:02",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第102章  任务只让你抱",
+        "updated_at": "2026-10-10 11:12:03",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,38 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
-    "total_heat": 19000,
+    "count": 2,
+    "total_heat": 34000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "下山即无敌，美女总裁逼我去领证！",
           "book_id": 12594795,
-          "rank_change": -5
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "下山即无敌，美女总裁逼我去领证！",
           "book_id": 12594795,
-          "heat_change": -2000
+          "heat_change": -1000
         }
       ],
-      "summary": "**题材趋势**：都市高手类题材进入调整期，传统的“下山无敌+退婚”套路面临审美疲劳挑战。\n**读者偏好**：读者对快节奏的杀伐果断要求极高，若剧情推演缺乏新意或爽点断层，极易导致用户流失。\n**变动解读**：头部作品《下山即无敌》排名大幅下滑5位且热度流失，反映出该细分赛道在缺乏新鲜感时，榜单稳定性较差。\n**值得关注**：需警惕同质化严重导致的“榜单失灵”，后续作品需在“无敌”设定外强化独特的冲突背景以挽回读者。",
+      "summary": "**题材趋势**：下山流与美女总裁套路依然是都市高手赛道的绝对核心，爽点高度同质化。\n**读者偏好**：读者热衷于“绝世天骄+退婚/误会+强势女主”的强冲突配置，追求扮猪吃虎的快节奏爽感。\n**变动解读**：榜单呈现存量博弈，新书通过“暴力宠”等高频词精准切入，导致头部书目热度微降，竞争压力加大。\n**值得关注**：在同质化严重的背景下，如何通过差异化的“金手指”或更具张力的开篇钩子突破流量瓶颈。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 17,
         "title": "下山即无敌，美女总裁逼我去领证！",
         "book_id": 12594795,
         "url": "https://www.qimao.com/shuku/12594795/",
@@ -51,18 +56,47 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.39万字",
-        "word_count": 463900,
-        "heat": 19000,
+        "word_count_text": "46.79万字",
+        "word_count": 467900,
+        "heat": 18000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第161章  无头行尸",
-        "updated_at": "2026-10-09 23:29:03",
-        "rank_change": -5,
-        "heat_change": -2000,
+        "latest_chapter": " 第162章  后手？我怎么不知道？",
+        "updated_at": "2026-10-10 21:33:03",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 19,
+        "title": "下山第一天，逮个美女总裁暴力宠",
+        "book_id": 13008696,
+        "url": "https://www.qimao.com/shuku/13008696/",
+        "author": "文字画家",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%96%87%E5%AD%97%E7%94%BB%E5%AE%B6_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "30.95万字",
+        "word_count": 309500,
+        "heat": 16000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
+        "latest_chapter": " 第140章  幸灾乐祸",
+        "updated_at": "2026-10-11 05:02:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"

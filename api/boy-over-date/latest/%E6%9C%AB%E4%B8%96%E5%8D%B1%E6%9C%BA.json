@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 66000,
+    "total_heat": 65000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -31,15 +31,15 @@
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "heat_change": -4000
+          "heat_change": -1000
         }
       ],
-      "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度-4000。",
-      "ai_source": "rule"
+      "summary": "**题材趋势**：末日生存与杀伐果断风格依然是市场主流，具备较强的IP联动开发潜力。\n**变动解读**：榜单表现相对平稳，仅出现微弱热度波动，显示该题材在完结阶段具备较好的用户粘性。\n**读者偏好**：读者更青睐于反英雄式的主角设定，即通过极端的杀戮与重生构建出的压抑释放感。\n**值得关注**：关注该类目下已完结作品通过跨媒介（如漫画化）导流带来的长尾热度转化效果。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -53,7 +53,7 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 66000,
+        "heat": 65000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
@@ -61,7 +61,7 @@
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
         "rank_change": -1,
-        "heat_change": -4000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

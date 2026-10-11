@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 287000,
+    "total_heat": 281000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 3000
+          "heat_change": -6000
         }
       ],
-      "summary": "**题材趋势**：传统王朝争霸题材进入存量博弈阶段，节奏趋于平稳，缺乏新鲜血液冲击。\n**读者偏好**：读者更倾向于带有“武夫”元素、强调个人伟力与权谋斗争相结合的爽文模式。\n**变动解读**：榜单结构高度固化，仅存的头部作品热度小幅增长，显示该细分品类在七猫平台目前处于用户黏性高但扩张性不足的周期。\n**值得关注**：需警惕榜单单一化风险，建议关注此类作品在快节奏剧情推进或反套路人设上的微创新表现。",
+      "summary": "**题材趋势**：传统王朝争霸题材目前处于存量盘整期，市场头部效应明显，缺乏新晋爆款冲击榜单。\n**读者偏好**：读者对结合“武夫”元素与“逆袭”开局的爽文模式具有较高粘性，偏好强冲突的叙事。\n**变动解读**：榜单结构高度固化，唯一上榜作品《大周第一武夫》热度小幅回落，反映出该类目短期内缺乏流量增量。\n**值得关注**：关注此类作品在长尾运营中的留存表现，以及是否有具备强人设的新作打破现有的单品垄断局面。",
       "ai_source": "ai"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "226.8万字",
-        "word_count": 2268000,
-        "heat": 287000,
-        "platform_trend": "rise",
+        "word_count_text": "227.46万字",
+        "word_count": 2274600,
+        "heat": 281000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1048章  别无选择",
-        "updated_at": "2026-10-09 22:37:08",
+        "latest_chapter": " 第1051章  好好照顾一下他",
+        "updated_at": "2026-10-10 20:17:08",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
