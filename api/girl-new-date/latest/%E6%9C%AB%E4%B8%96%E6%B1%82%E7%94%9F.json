@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 56000,
+    "total_heat": 57000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "长得太漂亮，在末世里会被疯狂觊觎",
           "book_id": 12813204,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "长得太漂亮，在末世里会被疯狂觊觎",
           "book_id": 12813204,
-          "heat_change": 4000
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：细分赛道进入深耕期，纯生存类题材已转向“情感博弈+雄竞”的强人设驱动模式。\n**读者偏好**：受众对“恶女+重生+雄竞”的复杂人物关系表现出较高兴趣，倾向于观看具有强烈反差感和情感拉扯的内容。\n**变动解读**：尽管排名小幅下调，但热度逆势增长，证明该题材在特定群体中具备较强的粘性和成长性。\n**值得关注**：应挖掘“恶女”人设的深度，通过极端环境下的多角博弈进一步拉高读者的情绪价值。",
-      "ai_source": "ai"
+      "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨；《长得太漂亮，在末世里会被疯狂觊觎》热度+1000。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "长得太漂亮，在末世里会被疯狂觊觎",
         "book_id": 12813204,
         "url": "https://www.qimao.com/shuku/12813204/",
@@ -51,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.17万字",
-        "word_count": 341700,
-        "heat": 56000,
+        "word_count_text": "34.58万字",
+        "word_count": 345800,
+        "heat": 57000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1791612967",
-        "latest_chapter": " 第163章  “自相残杀”",
-        "updated_at": "2026-10-10 23:37:06",
-        "rank_change": -1,
-        "heat_change": 4000,
+        "latest_chapter": " 第165章  一家人整整齐齐",
+        "updated_at": "2026-10-11 23:59:04",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

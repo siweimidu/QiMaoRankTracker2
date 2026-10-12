@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "types": [
     {
       "name": "全部",
@@ -33,10 +33,6 @@
     {
       "name": "权谋天下",
       "url": "api/girl-update-date/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
-    },
-    {
-      "name": "玄幻仙侠",
-      "url": "api/girl-update-date/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     },
     {
       "name": "都市奇幻",

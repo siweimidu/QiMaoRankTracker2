@@ -8,48 +8,65 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 5,
-    "total_heat": 220000,
+    "total_heat": 215000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
         {
-          "title": "透视神眼：看尽天下玉，揽尽世上美",
-          "book_id": 12898650,
-          "rank_change": 3
-        },
+          "title": "高冷校花香香软软，凭啥还舔你啊",
+          "book_id": 13220790
+        }
+      ],
+      "dropped_books": [
+        {
+          "title": "重生72：三枪轰出万元户！",
+          "book_id": 13340145,
+          "intro": "【年代+打猎+多女主+纯爽爆笑流！】\n重生72年，开局被寡妇和兄弟仙人跳，你会怎么选？\n选项A：来都来了，跪着也要占便宜！\n选项B：化身老实人，父亲挺起的腰杆应声而断。\n选项C：三枪崩哭龟儿子！猎财猎"
+        }
+      ],
+      "top_risers": [
         {
           "title": "红妆贵人",
           "book_id": 13231977,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "重生70：我在空间狩猎，狂宠妻儿",
           "book_id": 13340112,
-          "heat_change": -4000
+          "rank_change": -1
         },
         {
           "title": "透视神眼：看尽天下玉，揽尽世上美",
           "book_id": 12898650,
-          "heat_change": 4000
-        },
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": 2000
+          "heat_change": -4000
+        },
+        {
+          "title": "重生70：我在空间狩猎，狂宠妻儿",
+          "book_id": 13340112,
+          "heat_change": -3000
+        },
+        {
+          "title": "透视神眼：看尽天下玉，揽尽世上美",
+          "book_id": 12898650,
+          "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：年代重生文占据绝对统治地位，核心卖点聚焦于“60/70年代背景+空间致富+弥补前世遗憾+硬核宠妻”。\n**读者偏好**：读者热衷于“底层逆袭”与“爽感补偿”，对带有时代气息的民俗、邻里冲突以及强力金手指（如狩猎空间、透视眼）的接受度极高。\n**变动解读**：头部书籍稳居榜首，中后部书籍热度波动较大，通过引入“职场/替身/悬疑”等强冲突元素，实现了排名的有效反超。\n**值得关注**：《透视神眼》与《红妆贵人》的排名上升显示，纯年代文之外，融合都市异能或社会议题的多元化作品正逐渐分流市场热度。",
+      "summary": "**题材趋势**：年代文与重生流高度同质化，以“物资匮乏背景下的邻里摩擦”或“重生打脸白莲花”为核心卖点。\n**读者偏好**：读者青睐“空间/系统辅助+致富/爽文”模式，对带点灰色地带的“职场/情感博弈”类题材保持高度关注。\n**变动解读**：榜首《暴雪1962》热度虽小幅回调但统治力依旧，新书《高冷校花香香软软》尝试切入反舔狗赛道，拓宽了都市细分维度。\n**值得关注**：职场博弈题材如《红妆贵人》排名上升，说明纯粹的爽文之外，具有一定戏剧冲突和人际张力的故事开始吸睛。",
       "ai_source": "ai"
     },
     "books": [
@@ -66,24 +83,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44万字",
-        "word_count": 440000,
-        "heat": 113000,
-        "platform_trend": "rise",
+        "word_count_text": "44.66万字",
+        "word_count": 446600,
+        "heat": 109000,
+        "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第198章  野鸡？聊胜于无！",
-        "updated_at": "2026-10-10 15:37:03",
+        "latest_chapter": " 第201章  大丰收！",
+        "updated_at": "2026-10-11 20:01:04",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "重生70：我在空间狩猎，狂宠妻儿",
         "book_id": 13340112,
         "url": "https://www.qimao.com/shuku/13340112/",
@@ -95,24 +112,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.92万字",
-        "word_count": 349200,
-        "heat": 42000,
+        "word_count_text": "35.74万字",
+        "word_count": 357400,
+        "heat": 39000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一边，手持猎枪进深山，三枪轰出万元户！\n别人不敢进的深山，他前世兵王神枪手如履平地！\n野鸡、飞鸭、大野猪，人参、鹿茸、灵芝草。\n物资匮乏的年代，全村人还在啃咽菜窝窝头，王阳家已经顿顿大肉，油水直冒。\n他要把前世欠下的债，千倍万倍地补回来，把漂亮老婆和一双儿女宠上天，让那些曾经瞧不起他的人，全都嫉妒到发狂！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
-        "latest_chapter": " 第159章  一鱼几吃",
-        "updated_at": "2026-10-10 18:27:03",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "latest_chapter": " 第163章  他现在到底怎么样",
+        "updated_at": "2026-10-11 18:29:02",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "透视神眼：看尽天下玉，揽尽世上美",
         "book_id": 12898650,
         "url": "https://www.qimao.com/shuku/12898650/",
@@ -124,24 +141,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.16万字",
-        "word_count": 381600,
-        "heat": 28000,
+        "word_count_text": "38.59万字",
+        "word_count": 385900,
+        "heat": 29000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石入袋，美人入怀。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12898650_360x480.jpg?time=1785160037",
-        "latest_chapter": " 第175章  你今天只属于我！",
-        "updated_at": "2026-10-10 20:21:05",
-        "rank_change": 3,
-        "heat_change": 4000,
+        "latest_chapter": " 第177章  这怎么都成双成对了？",
+        "updated_at": "2026-10-11 20:25:03",
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "红妆贵人",
         "book_id": 13231977,
         "url": "https://www.qimao.com/shuku/13231977/",
@@ -153,47 +170,47 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.81万字",
-        "word_count": 328100,
+        "word_count_text": "33.47万字",
+        "word_count": 334700,
         "heat": 20000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "我是老板的司机，为了给妹妹续命，老板让我去酒店替他顶雷——他老婆来捉奸。\n老板娘推开门，把我们堵在床上。\n她没打没闹，只是笑：“演，继续演。演得像，我给你们活路。”\n那一夜我为了活命把戏做全套，结果第二天，老板娘把我叫进办公室：\n“你那个女朋友，我要了。你也搬来我家住。”\n我以为她是要报复我。\n直到某天深夜，她把我按在车里，咬着我的耳朵说：\n“赵强碰过的东西，我要一样一样抢过来。你，算头一个。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4411/13231977_360x480.jpg?time=1787219005",
-        "latest_chapter": " 第156章  谁给你的胆子插手",
-        "updated_at": "2026-10-10 17:42:03",
-        "rank_change": 3,
-        "heat_change": 2000,
+        "latest_chapter": " 第159章  蛊控心智，骨肉相残",
+        "updated_at": "2026-10-11 17:42:03",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 18,
-        "title": "重生72：三枪轰出万元户！",
-        "book_id": 13340145,
-        "url": "https://www.qimao.com/shuku/13340145/",
-        "author": "天地无憾",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E5%9C%B0%E6%97%A0%E6%86%BE_14/",
+        "rank": 14,
+        "title": "高冷校花香香软软，凭啥还舔你啊",
+        "book_id": 13220790,
+        "url": "https://www.qimao.com/shuku/13220790/",
+        "author": "云瓷",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E7%93%B7_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.14万字",
-        "word_count": 271400,
-        "heat": 17000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【年代+打猎+多女主+纯爽爆笑流！】\n重生72年，开局被寡妇和兄弟仙人跳，你会怎么选？\n选项A：来都来了，跪着也要占便宜！\n选项B：化身老实人，父亲挺起的腰杆应声而断。\n选项C：三枪崩哭龟儿子！猎财猎宝猎红尘！\n重生72，看陈超如何逆袭改命，绝猎红尘！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340145_360x480.jpg?time=1788278081",
-        "latest_chapter": " 第130章  刚回家就传来了噩耗？",
-        "updated_at": "2026-10-10 23:17:03",
+        "word_count_text": "25.46万字",
+        "word_count": 254600,
+        "heat": 18000,
+        "platform_trend": "rise",
+        "badge": "飙升21名",
+        "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
+        "latest_chapter": " 第113章  要一辈子都在一起",
+        "updated_at": "2026-10-11 18:32:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

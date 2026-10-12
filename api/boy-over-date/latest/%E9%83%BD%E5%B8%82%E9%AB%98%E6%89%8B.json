@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 81000,
+    "total_heat": 78000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": -1000
+          "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：战神归来类题材依然是都市赛道的压舱石，凭借强冲突与爽点密集的设定，维持着极高的单书热度产出。\n**读者偏好**：读者偏好“强权+多女主+修罗场”的复合型爽文模式，尤其青睐身份反差带来的权力感与社交成就感。\n**变动解读**：该题材表现出极强的稳定性，虽未有增长，但极高的留存率使其在榜单中具备极强的防御力。\n**值得关注**：该类目已高度固化，新入局者若无更具差异化的“身份设定”或“社交冲突”升级，很难撼动头部存量。",
+      "summary": "**题材趋势**：传统战神归来题材进入边际效应递减阶段，受众对套路化叙事的疲劳感显现。\n**读者偏好**：读者依然保持对“多女主+强背景+快节奏反派打脸”的刚性需求，但对作品的创新性提出了更高要求。\n**变动解读**：由于缺乏新鲜叙事刺激，该品类热度出现小幅回撤，排名下滑反映出作品生命周期正处于自然衰减期。\n**值得关注**：在都市高手类日趋同质化的背景下，如何通过强化女主性格差异或升级爽点爽感，是后续留住读者的核心挑战。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -47,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 81000,
+        "heat": 78000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

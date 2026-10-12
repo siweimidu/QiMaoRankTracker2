@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-12",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 956700,
+    "total_heat": 19134000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：市场竞争进入存量博弈阶段，剧情向“虐恋+追妻火葬场”及“先婚后爱”题材高度集中。\n**读者偏好**：读者对强冲突情节（如真假千金、契约婚姻、背叛与复仇）需求稳固，尤其青睐具备“人间清醒”女主和“高岭之花下神坛”的推拉互动。\n**变动解读**：本期榜单稳定性极高，缺乏新书冲击，显示出头部作品拥有极强的长尾留存能力，读者粘性较高。\n**值得关注**：题材同质化严重，如何在经典框架下通过“身份错位”或“疯批人设”制造新鲜感，是后续突破的关键。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：年代文呈现“爽文+金手指”的固化格局，核心驱动力在于女主通过预知或特殊技能逆袭改命。\n**读者偏好**：读者热衷于“打脸对照组”和“搞事业”的双重快感，强调在物资匮乏年代通过智斗极品实现阶层跃迁。\n**变动解读**：榜单热度呈现断层式领先，头部书籍《错嫁随军》以绝对优势占据统治地位，市场资源极度向头部集中。\n**值得关注**：当前题材侧重于女性奋斗与家庭伦理的融合，后续可关注加入更多行业背景或职业化叙事以拓展内容深度。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：传统宅斗与玄学、萌崽、强取豪夺等细分元素深度融合，叙事风格由严肃向高能爽文转型。\n**读者偏好**：读者偏好“权谋+感情”的复杂博弈，尤其是“疯批权臣”与“清冷/机敏女主”的极限拉扯，具有极高的阅读沉浸感。\n**变动解读**：榜单结构稳定，头部两部作品热度遥遥领先，体现出读者对高质量权谋虐恋作品的持续追捧。\n**值得关注**：在纯粹宅斗基础上融入“玄学/萌崽”元素已成为提升热度的有效策略，未来可挖掘更多非典型人设碰撞出的火花。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

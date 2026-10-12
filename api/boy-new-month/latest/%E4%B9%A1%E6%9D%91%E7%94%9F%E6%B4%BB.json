@@ -8,43 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 2,
     "total_heat": 823000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "重生70：一枪一个，狩猎人生",
-          "book_id": 13113909
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "重回83：赶山猎熊发家致富",
-          "book_id": 12519594,
-          "intro": "【重生+弥补遗憾+年代种田+无系统+单女主+狩猎采药】在东北的深山老林中，狩猎最强的叫炮头，采药最强的叫把头。陈向阳在经历亲人相继离去后，瘸腿的他拒绝了青梅竹马，独自一人不得不靠木匠活养活一双弟妹，最"
-        },
-        {
-          "title": "重生七零资本家大少爷，开局被寡妇堵门",
-          "book_id": 12779493,
-          "intro": "软饭硬吃的陈建明，被富婆一屁股干到了79年的黑五类资本家大少爷身上。\n着急生孩子的田寡妇夜夜压榨、高利贷的村会计一出十三归，贪图他祖传玉佩的大伯号召批斗，还有谋划他厂子的二叔老谋深算……\n他该如何破局"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "重生57：开局傻子，白捡个漂亮媳妇",
-          "book_id": 13118376,
-          "rank_change": 9
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：“年代+狩猎+种田”成为乡村生活类的主流叙事，通过物资匮乏时代的逆袭实现爽感积累。\n**读者偏好**：读者热衷于“重回过去”带来的信息差红利，尤其是带有“打猎”、“发家致富”及情感纠葛的草莽英雄式叙事。\n**变动解读**：榜单更迭较快，新上榜作品通过精准的“猎艳+囤粮”标签迅速获客，显示出该品类读者对新鲜题材叙事背景的开放态度。\n**值得关注**：年代文的竞争点已从简单的种田向更具感官刺激的“赶山狩猎”细分赛道转移，需加强对时代背景的还原与爽点节奏的把控。",
+      "summary": "**题材趋势**：年代文与乡村生活深度融合，以“重生+囤粮+狩猎”为核心驱动的生存类爽文成为增长点。\n**读者偏好**：读者热衷于“从零开始”的奋斗叙事，特别是带有时代色彩的资源积累与情感线叠加。\n**变动解读**：榜单表现平稳，年代背景下的“猎艳”与“求生”元素结合紧密，受众群体极其固定且忠诚。\n**值得关注**：随着年代文竞争加剧，强化“生活流”的细腻描写与“硬核求生”的爽点平衡是未来胜负手。",
       "ai_source": "ai"
     },
     "books": [
@@ -61,16 +39,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.79万字",
-        "word_count": 377900,
+        "word_count_text": "38.42万字",
+        "word_count": 384200,
         "heat": 438000,
         "platform_trend": "rise",
         "badge": "飙升66名",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第182章  红颜知己",
-        "updated_at": "2026-10-10 17:56:03",
-        "rank_change": 9,
+        "latest_chapter": " 第185章  杀熊而止",
+        "updated_at": "2026-10-11 18:17:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -90,18 +68,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.65万字",
-        "word_count": 376500,
+        "word_count_text": "38.27万字",
+        "word_count": 382700,
         "heat": 385000,
         "platform_trend": "rise",
         "badge": "飙升61名",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1977的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
-        "latest_chapter": " 第159章  三只笨贼",
-        "updated_at": "2026-10-10 16:39:03",
+        "latest_chapter": " 第162章  小红",
+        "updated_at": "2026-10-11 16:26:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 387000,
+    "total_heat": 373000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,34 +23,28 @@
         {
           "title": "警报！龙国出现SSS级修仙者！",
           "book_id": 1812053,
-          "rank_change": 4
+          "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "镇天神医",
-          "book_id": 1675640,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "警报！龙国出现SSS级修仙者！",
-          "book_id": 1812053,
-          "heat_change": 17000
-        },
         {
           "title": "小司机的美女总裁老婆",
           "book_id": 2052700,
-          "heat_change": -3000
+          "heat_change": -15000
+        },
+        {
+          "title": "警报！龙国出现SSS级修仙者！",
+          "book_id": 1812053,
+          "heat_change": 5000
         },
         {
           "title": "镇天神医",
           "book_id": 1675640,
-          "heat_change": -1000
+          "heat_change": -4000
         }
       ],
-      "summary": "**题材趋势**：高武与都市生活结合，涵盖了“赘婿/小司机”与“出狱/下山”两大经典流派，强调极致的武力值与社会地位反差。\n**读者偏好**：读者更青睐“身份落差+战力爆表”的爽感，如身怀绝技的囚犯或小人物，在都市中通过医术、修仙或武力解决世俗麻烦。\n**变动解读**：《警报！龙国出现SSS级修仙者！》热度激增，显示出带有“监狱/出狱”标签的战力天花板叙事，比纯粹的都市职场文更具爆发力。\n**值得关注**：头部书籍《小司机的美女总裁老婆》虽热度微降但地位稳固，说明都市类爽文的“红颜+财富”配置仍是维系读者留存的关键因素。",
+      "summary": "**题材趋势**：融合了“都市赘婿/战神”与“高武修仙”元素，核心卖点在于主角身份反差与超强武力的极致释放。\n**读者偏好**：节奏极快，偏好强冲突、高密度的爽点铺陈，尤其是“战神出狱/下山”类强人设模板。\n**变动解读**：《警报！龙国出现SSS级修仙者！》排名上升，显示读者对带有“都市异能/修仙”标签的强爽文需求增长；头部《小司机》热度下滑，暗示都市类作品受众流失较快。\n**值得关注**：短剧化改编对都市类作品的带动作用显著，短剧标签已成为吸引用户点击的重要诱饵。",
       "ai_source": "ai"
     },
     "books": [
@@ -69,7 +63,7 @@
         "status": "已完结",
         "word_count_text": "201.22万字",
         "word_count": 2012200,
-        "heat": 182000,
+        "heat": 167000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "月薪六千的专属小司机张成做梦都没想到，老板死后，26岁的绝色老板娘就带着百亿财富嫁给了他……\n————————————————————\n新书《鉴宝：我能从文物中提取技能》，已经在七猫上传。",
@@ -77,7 +71,7 @@
         "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
         "updated_at": "2026-04-02 18:35:10",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -15000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -98,22 +92,22 @@
         "status": "已完结",
         "word_count_text": "543.03万字",
         "word_count": 5430300,
-        "heat": 113000,
+        "heat": 109000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "《镇天神医》短剧已上线！够燃，够爽，够嗨皮！\n三年前，萧逸因嗜杀成性，被师父禁足不周山；\n三年后，他携九封婚书下山，寻神秘身世，找十大神器，醒掌天下权，醉卧美人膝！\n他，修仙强者，任你武力多强，都一剑可杀！\n他，医术逆天，阎王让你三更死，他能留你到五更！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
         "latest_chapter": " 第2590章  圆满。",
         "updated_at": "2025-12-15 11:18:20",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "警报！龙国出现SSS级修仙者！",
         "book_id": 1812053,
         "url": "https://www.qimao.com/shuku/1812053/",
@@ -127,15 +121,15 @@
         "status": "已完结",
         "word_count_text": "503.43万字",
         "word_count": 5034300,
-        "heat": 92000,
+        "heat": 97000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
         "latest_chapter": " 第2448章  终战:时空圆满",
         "updated_at": "2026-10-01 00:02:31",
-        "rank_change": 4,
-        "heat_change": 17000,
+        "rank_change": 1,
+        "heat_change": 5000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

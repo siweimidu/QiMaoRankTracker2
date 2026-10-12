@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 26000,
+    "total_heat": 30000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "野性攀登",
+          "book_id": 13408218,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": 2000
+          "heat_change": 4000
         }
       ],
-      "summary": "**题材趋势** 职场商战类新书整体处于存量竞争阶段，题材呈现出强烈的“都市生活流”与“情感爽文”融合倾向。\n**读者偏好** 读者更倾向于具备极强冲突性（如巨额彩礼、背叛逆袭）的草根崛起题材，多女性角色互动仍是核心驱动力。\n**变动解读** 《野性攀登》占据独苗位置且热度稳中有升，说明在缺乏强力竞品的情况下，此类“小人物逆袭”的经典套路依然具有较强的用户粘性。\n**值得关注** 后续需观察是否有同类竞品通过更具张力的职场权谋或更密集的情感冲突切入市场。",
+      "summary": "**题材趋势**：商战职场类题材当前处于存量竞争阶段，单书上榜且热度中等，市场缺乏强力新书供给。\n**读者偏好**：读者更青睐带有“小人物逆袭”、“多女主互动”及“社会阶层跨越”元素的草根奋斗叙事。\n**变动解读**：《野性攀登》排名上升且热度增长显著，反映出该书强冲突的开局和情感爽点符合当前读者的阅读胃口。\n**值得关注**：需警惕此类题材同质化严重的风险，后续应关注是否有具备强情节推动力的新作打破榜单垄断。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 9,
         "title": "野性攀登",
         "book_id": 13408218,
         "url": "https://www.qimao.com/shuku/13408218/",
@@ -45,17 +51,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.06万字",
-        "word_count": 230600,
-        "heat": 26000,
+        "word_count_text": "23.71万字",
+        "word_count": 237100,
+        "heat": 30000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1789371629",
-        "latest_chapter": " 第101章  让准老丈人跪了？",
-        "updated_at": "2026-10-11 03:02:03",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "latest_chapter": " 第104章  刘斌真正的底牌",
+        "updated_at": "2026-10-12 03:02:03",
+        "rank_change": 2,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

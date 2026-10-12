@@ -8,26 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 6,
-    "total_heat": 807000,
+    "total_heat": 823000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "噬神鼎",
-          "book_id": 1868453
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "葬天神帝",
-          "book_id": 213697,
+          "title": "噬神鼎",
+          "book_id": 1868453,
           "rank_change": 1
         }
       ],
@@ -35,27 +30,27 @@
         {
           "title": "荒古圣体：在娘胎开始悟道",
           "book_id": 1849458,
-          "rank_change": -5
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "荒古圣体：在娘胎开始悟道",
-          "book_id": 1849458,
-          "heat_change": -9000
-        },
-        {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": -5000
+          "heat_change": 15000
         },
         {
           "title": "玲珑塔",
           "book_id": 1754203,
+          "heat_change": 4000
+        },
+        {
+          "title": "荒古圣体：在娘胎开始悟道",
+          "book_id": 1849458,
           "heat_change": -3000
         }
       ],
-      "summary": "**题材趋势**：传统“废柴流”与“系统/外挂流”高度融合，赘婿、重生、胎穿等经典爽点架构依然是流量压舱石。\n**读者偏好**：读者对强节奏的开局陷害、被废修为后迅速获得“神鼎/古戒”类外挂的复仇爽文买单意愿极强，强调“横扫万界”的无敌感。\n**变动解读**：头部梯队热度出现小幅回撤，《荒古圣体》排名大幅下滑，说明读者对单一的胎穿设定出现审美疲劳，反而是《噬神鼎》这类经典炼化流更具粘性。\n**值得关注**：《噬神鼎》凭借典型的炼化升级爽点成功上榜，证明了融合多重外挂（剑体+妖兽+功法）的“养成+碾压”模式在完结榜单中仍具统治力。",
+      "summary": "**题材趋势**：传统废柴流与系统/神器流依然是市场基石，题材高度同质化，强调“逆袭”与“无敌”爽感。\n**读者偏好**：读者热衷于压抑后的爆发，尤其偏好“开局被废+金手指觉醒”的经典叙事节奏。\n**变动解读**：榜单整体稳固，头部作品《荒古武神》统治力强；《噬神鼎》微涨，《荒古圣体》略有回落，显示存量市场竞争已进入细微热度博弈期。\n**值得关注**：各作品更新压力大，榜单中多部作品出现“新书引流”现象，表明作者正通过完结作品向新书进行流量导流。",
       "ai_source": "ai"
     },
     "books": [
@@ -74,15 +69,15 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 337000,
-        "platform_trend": "drop",
+        "heat": 352000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -5000,
+        "heat_change": 15000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -103,15 +98,15 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 159000,
-        "platform_trend": "drop",
+        "heat": 163000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -132,15 +127,15 @@
         "status": "已完结",
         "word_count_text": "1007.28万字",
         "word_count": 10072800,
-        "heat": 117000,
+        "heat": 119000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -161,7 +156,7 @@
         "status": "已完结",
         "word_count_text": "842.8万字",
         "word_count": 8428000,
-        "heat": 70000,
+        "heat": 68000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界，只为一心向前！",
@@ -177,35 +172,6 @@
       },
       {
         "rank": 18,
-        "title": "荒古圣体：在娘胎开始悟道",
-        "book_id": 1849458,
-        "url": "https://www.qimao.com/shuku/1849458/",
-        "author": "鱼生",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E7%94%9F_14/",
-        "major": "玄幻奇幻",
-        "minor": "东方玄幻",
-        "major_id": 202,
-        "minor_id": 37,
-        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "276.73万字",
-        "word_count": 2767300,
-        "heat": 63000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
-        "latest_chapter": " 第1077章  大结局",
-        "updated_at": "2026-06-10 17:01:11",
-        "rank_change": -5,
-        "heat_change": -9000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "东方玄幻"
-      },
-      {
-        "rank": 19,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -226,9 +192,38 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": true,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 19,
+        "title": "荒古圣体：在娘胎开始悟道",
+        "book_id": 1849458,
+        "url": "https://www.qimao.com/shuku/1849458/",
+        "author": "鱼生",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E7%94%9F_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "276.73万字",
+        "word_count": 2767300,
+        "heat": 60000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
+        "latest_chapter": " 第1077章  大结局",
+        "updated_at": "2026-06-10 17:01:11",
+        "rank_change": -1,
+        "heat_change": -3000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"

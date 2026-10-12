@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "girl-hot-date",
+    "name": "女生大热日榜",
+    "channel": "female",
+    "type": "hot",
+    "type_name": "大热榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-12",
+  "category": {
+    "name": "古代情缘",
+    "major": "古代言情",
+    "count": 1,
+    "total_heat": 190000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "嫡姐惨死？王妃她杀爆京城",
+          "book_id": 13021647
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "**题材趋势**：复仇爽文占据绝对话语权，强调“女强”与“极致打脸”的叙事节奏，弱化传统言情中的软弱元素。\n**读者偏好**：读者热衷于快节奏的因果报应与激进的复仇桥段，偏好女主手段凌厉、不圣母的爽文逻辑。\n**变动解读**：新书入榜即展现出较强竞争力，说明“嫡姐惨死”这一高冲突开篇切中了读者的情绪爽点。\n**值得关注**：该类目迭代频繁，新书能否在后续剧情中保持高强度的打脸密度，是稳住排名的关键。",
+      "ai_source": "ai"
+    },
+    "books": [
+      {
+        "rank": 19,
+        "title": "嫡姐惨死？王妃她杀爆京城",
+        "book_id": 13021647,
+        "url": "https://www.qimao.com/shuku/13021647/",
+        "author": "青黛",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%9D%92%E9%BB%9B_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "32.49万字",
+        "word_count": 324900,
+        "heat": 190000,
+        "platform_trend": "rise",
+        "badge": "飙升37名",
+        "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1791515044",
+        "latest_chapter": " 第139章  宋南枝，这一局，你还是赢不了",
+        "updated_at": "2026-10-12 08:02:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "古代情缘"
+      }
+    ]
+  }
+}

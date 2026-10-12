@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "现代军事",
     "major": "军事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,16 +24,22 @@
         {
           "title": "五次入伍，我给全军上强度！",
           "book_id": 12958047,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
-      "heat_leaders": [],
-      "summary": "「现代军事」《五次入伍，我给全军上强度！》下滑2位。",
-      "ai_source": "rule"
+      "heat_leaders": [
+        {
+          "title": "五次入伍，我给全军上强度！",
+          "book_id": 12958047,
+          "heat_change": -1
+        }
+      ],
+      "summary": "**题材趋势**：军事题材高度集中于“老兵重回军营”与“兵王降维打击”的爽文逻辑。\n**读者偏好**：读者倾向于阅读具备“反差萌”与“专业技能碾压”的强节奏叙事，追求主角以新兵身份行老兵之实的快感。\n**变动解读**：唯一在榜书籍排名微降且热度流失，显示该类目处于存量消耗阶段，缺乏新内容供给。\n**值得关注**：该品类市场表现依赖于单一作品的更新强度，需关注后续是否有具备高话题度的军事新书入局。",
+      "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "五次入伍，我给全军上强度！",
         "book_id": 12958047,
         "url": "https://www.qimao.com/shuku/12958047/",
@@ -45,17 +51,17 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.93万字",
-        "word_count": 509300,
-        "heat": 2,
+        "word_count_text": "51.89万字",
+        "word_count": 518900,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“千万富翁跑来当新兵？脑子进水了！”\n林青峰八年横跨四大兵种，刚退伍暴富，却又闲得发慌第五次穿上军装。\n顶着“0杠”新兵衔，他的骨子里却装满了海陆空满级兵王的变态操作！\n班长试图教他叠豆腐块，他反手弄出一个特级内务；老兵想给他上规矩，他一招制敌全放倒。\n军演大放异彩，蓝军司令被他活捉，全军哗然！\n“报告！那个叫林青峰的新兵，把咱军区司令部端了！”\n林青峰：“基操勿六，第五次来总得弄点大动静。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958047_360x480.jpg?time=1785297012",
-        "latest_chapter": " 第245章  登机，准备跳伞！",
-        "updated_at": "2026-10-10 10:12:05",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第249章  倒霉的李大蛋",
+        "updated_at": "2026-10-11 10:12:04",
+        "rank_change": -1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

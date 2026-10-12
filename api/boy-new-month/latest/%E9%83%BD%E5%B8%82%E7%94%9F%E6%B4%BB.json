@@ -8,32 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
     "total_heat": 1130000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "透视神眼：看尽天下玉，揽尽世上美",
-          "book_id": 12898650
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "暴雪1962，绝美邻居上门求肉",
-          "book_id": 12972600,
-          "rank_change": 4
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：都市生活类题材正向“年代怀旧”与“异能捡漏”两极分化，复仇爽感是核心驱动力。\n**读者偏好**：读者热衷于“重生回过去纠正遗憾”的年代文，以及“底层逆袭+美人辅助”的强主角光环叙事。\n**变动解读**：榜单稳定性较强，但《暴雪1962》凭借鲜明的年代冲突与复仇爽点大幅上升，证明了特定时代背景下的强情绪输出极具市场号召力。\n**值得关注**：透视捡漏类题材虽为传统赛道，但融合“美人辅助”元素仍能有效吸引读者，是稳定输出的类型。",
+      "summary": "**题材趋势**：聚焦于“重生复仇”与“异能奇遇”两大核心，题材带有鲜明的年代感或草根逆袭色彩。\n**读者偏好**：读者倾向于阅读带有强烈情绪宣泄的复仇故事，以及通过异能手段实现财富与感情双丰收的爽感叙事。\n**变动解读**：榜单流动性极低，当前两部作品占据主要曝光资源，市场处于存量竞争状态。\n**值得关注**：《暴雪1962》凭借鲜明的年代背景与强冲突的复仇开局，展现了极强的用户粘性与吸睛能力。",
       "ai_source": "ai"
     },
     "books": [
@@ -50,16 +39,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44万字",
-        "word_count": 440000,
+        "word_count_text": "44.66万字",
+        "word_count": 446600,
         "heat": 785000,
         "platform_trend": "rise",
         "badge": "飙升36名",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第198章  野鸡？聊胜于无！",
-        "updated_at": "2026-10-10 15:37:03",
-        "rank_change": 4,
+        "latest_chapter": " 第201章  大丰收！",
+        "updated_at": "2026-10-11 20:01:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -79,18 +68,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.16万字",
-        "word_count": 381600,
+        "word_count_text": "38.59万字",
+        "word_count": 385900,
         "heat": 345000,
         "platform_trend": "rise",
         "badge": "飙升14名",
         "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石入袋，美人入怀。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12898650_360x480.jpg?time=1785160037",
-        "latest_chapter": " 第175章  你今天只属于我！",
-        "updated_at": "2026-10-10 20:21:05",
+        "latest_chapter": " 第177章  这怎么都成双成对了？",
+        "updated_at": "2026-10-11 20:25:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
