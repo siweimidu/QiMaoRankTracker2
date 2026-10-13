@@ -6,9 +6,6 @@
 name: 每日榜单抓取与构建
 
 on:
-  schedule:
-    # UTC 21:00 = 北京时间（Asia/Shanghai）次日 05:00 触发
-    - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       boards:
@@ -16,17 +13,6 @@ on:
         required: false
         default: ''
         type: string
-  push:
-    branches: [main]
-    # 仅当抓取/构建代码或本工作流自身变更时触发验证性全量运行；
-    # 前端文件（html/css/js）的变更交给 pages.yml 兜底部署，避免重复跑管线
-    paths:
-      - 'scrape_qimao_ranks.py'
-      - 'boards_config.py'
-      - 'scripts/build_latest.py'
-      - 'requirements.txt'
-      - '.github/workflows/scrape.yml'
-
 permissions:
   contents: write   # 提交 data/ api/ 变更
   pages: write      # 部署 GitHub Pages
