@@ -8,14 +8,6 @@
 name: Pages 兜底部署
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'index.html'
-      - 'trend.html'
-      - 'book.html'
-      - 'css/**'
-      - 'js/**'
   workflow_dispatch:
 
 permissions:
