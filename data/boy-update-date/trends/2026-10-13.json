@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-13",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 12,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "rank_change": -2
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "heat_change": 1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -1
+          }
+        ],
+        "summary": "**题材趋势**：传统玄幻赛道趋于饱和，题材高度同质化，集中在“废柴逆袭”、“系统/传承流”及“无敌流”模式。\n**读者偏好**：读者对“杀伐果断”、“背景逆天”及“养成系（如收徒流）”爽点仍有稳定需求。\n**变动解读**：整体热度低迷，头部作品排名波动频繁，显示出存量竞争下市场吸引力有所减弱，缺乏爆款支撑。\n**值得关注**：《史上最强师父》凭借差异化的“师徒养成+多位逆天徒弟”设定维持热度，表现优于纯粹的传统升级文。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": 4
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": -2
+          },
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -3
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「都市高手」《爷爷托梦后，我靠戒指掌控万界》上升4位领涨；《SSSSSSSSSSSSS级镇狱狂龙》下滑2位；《狂龙出渊，开局拿捏女战神！》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「架空历史」《边军悍卒：一把长弓定天下！》上升2位领涨；《边军悍卒：一把长弓定天下！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "全家托举，我苟成盖世仙王",
+            "book_id": 13441152,
+            "rank_change": 8
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "**题材趋势**：传统修真流派依然占据主导，强调“废柴逆袭”与“金手指觉醒”的经典爽点。\n**读者偏好**：读者对带有强烈情感羁绊（如寡嫂托举）或系统化金手指（如九转仙葫）的成长叙事具有较高黏性。\n**变动解读**：榜单呈现固化态势，热度整体低迷，排名波动主要受作品连载更新的节奏影响，缺乏新鲜血液注入。\n**值得关注**：《全家托举，我苟成盖世仙王》通过极具噱头的开篇设定实现大幅度跃升，展现了强冲突开头对拉动排名的有效性。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：题材集中于“都市异能”与“系统流”结合，强调主角从社会底层通过特殊际遇获得超凡能力的叙事模式。\n**读者偏好**：受众偏好带有“绝境重生”和“隐藏身份”元素的爽文，对主角从平凡走向巅峰的逆袭过程有较强代入感。\n**变动解读**：榜单上榜书籍极少，整体热度处于低位震荡，显示该品类目前在榜单竞争中处于相对弱势的阶段。\n**值得关注**：《神武天下之睚眦》虽排名下滑，但热度微涨，说明该类作品在小众圈层内仍保有稳定的粉丝关注度。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势**：主流趋势为“老兵重回军营”或“满级大佬回归”的爽文模式，侧重展现主角在纪律部队中的降维打击感。\n**读者偏好**：读者热衷于硬核军事背景下，主角以“兵王”姿态打破常规、挑战权威的快节奏爽文体验。\n**变动解读**：仅存的一本在榜作品热度下滑且排名下挫，反映出该细分题材在当前榜单中受众面较窄，市场活跃度不足。\n**值得关注**：该题材急需具备创新人设的作品填补市场空缺，目前存量作品的竞争力有待加强，需关注其后续更新热度表现。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": 1
+          }
+        ],
+        "summary": "**题材趋势** 奇门秘术类目当前处于极度冷门期，市场供给与读者活跃度均处于低位，缺乏头部作品支撑。\n**读者偏好** 读者偏好带有强悬疑色彩、民俗诡异感及末世生存元素的快节奏叙事，对“人吃人”等生存压力题材有一定关注。\n**变动解读** 榜单仅存一本作品，且排名出现下行，反映出该细分领域在七猫平台的流量获取能力较弱，用户粘性不足。\n**值得关注** 需观察此类目是否会持续萎缩，或是否有具备强网文爽点的新作通过题材融合进行突围。",
+        "ai_source": "ai"
+      }
+    }
+  ]
+}

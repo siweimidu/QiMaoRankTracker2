@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-13",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 182400,
+    "total_heat": 3648000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
+            "book_id": 2093961
+          },
+          {
+            "title": "京夜心动",
+            "book_id": 2024344
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": 1
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": -2
+          },
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": -2
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -36000
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": -14000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -9000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《嫌我不孕？另嫁京圈首富一胎又一胎》、《京夜心动》；《六年后，我携四个幼崽炸翻前夫家》上升1位领涨；《消失十五年，孩子妈穿回来了！》下滑2位；《盛总，太太让您签的是去父留子协议》热度-36000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          },
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": 1
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -26000
+          },
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": 26000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -11000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升1位领涨；《随母改嫁旺新家，重生嫡女嘎嘎乱杀》下滑1位；《凤池生春》热度-26000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《第一瞳术师》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「都市奇幻」《阴当》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "intro": "许长夏第一次见江耀时，厅堂之上，小姑娘肤白如雪，一双含烟带雾的动人杏眸能勾魂，江家一大家子看着她直抽凉气。\n唯独男人一身笔挺军装，浑身肃气，盯着她的眼神平淡冷漠毫无波澜。\n上一辈的救命之恩无以为报，江"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「年代重生」《小娇媳要随军，禁欲指挥官心慌慌》 掉出榜单；《穿成六零小炮灰，大小姐带物资养兵王》下滑3位；《穿成六零小炮灰，大小姐带物资养兵王》热度-2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

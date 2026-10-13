@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "透视鉴宝：美女财富两不误",
+          "book_id": 12708261,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势** 市场表现趋于平稳，都市异能与鉴宝流的融合题材占据单点阵地，整体呈现出高度的稳定性。\n**读者偏好** 读者群体偏好“扮猪吃虎”与“反杀爽文”结合的经典叙事，对主角从底层逆袭、掌控超凡能力的爽感需求强烈。\n**变动解读** 本期榜单处于固化期，无新书入局亦无老书掉队，说明该细分题材的头部效应显著，当前在榜作品具备极强的长尾粘性。\n**值得关注** 需留意题材内容同质化风险，在市场缺乏增量波动的情况下，建议关注此类作品如何通过剧情节奏升级来维持高位热度。",
+      "summary": "**题材趋势**：都市异能与鉴宝捡漏结合，融合“赘婿/打脸”节奏，强调爽感的快速释放。\n**读者偏好**：读者偏爱“扮猪吃虎”与“三年之期”的经典爽文套路，追求金钱与武力的双重压制。\n**变动解读**：本月排名大幅跃升，说明此类强节奏、强冲突的爽文在七猫渠道依然具有极强的长尾转化力。\n**值得关注**：都市背景下的“爽点叠加”策略（鉴宝+武力+艳遇）依然是提高读者留存的有效手段。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 12,
         "title": "透视鉴宝：美女财富两不误",
         "book_id": 12708261,
         "url": "https://www.qimao.com/shuku/12708261/",
@@ -39,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.57万字",
-        "word_count": 355700,
+        "word_count_text": "35.99万字",
+        "word_count": 359900,
         "heat": 354000,
         "platform_trend": "rise",
-        "badge": "",
+        "badge": "飙升12名",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第168章  让你们都成为宗师",
-        "updated_at": "2026-10-12 00:46:02",
-        "rank_change": 0,
+        "latest_chapter": " 第170章  伊莲娜的邀请",
+        "updated_at": "2026-10-12 23:30:09",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

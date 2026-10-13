@@ -8,54 +8,59 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 4,
-    "total_heat": 7,
+    "total_heat": 2,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "爷爷托梦后，我靠戒指掌控万界",
+          "book_id": 12357096,
+          "rank_change": 4
+        },
         {
           "title": "狂龙出渊，开局拿捏女战神！",
-          "book_id": 13227645
+          "book_id": 13227645,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [
-        {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加"
-        }
-      ],
-      "top_risers": [],
       "top_fallers": [
         {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "rank_change": -3
+          "rank_change": -2
         },
         {
-          "title": "爷爷托梦后，我靠戒指掌控万界",
-          "book_id": 12357096,
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "爷爷托梦后，我靠戒指掌控万界",
-          "book_id": 12357096,
+          "title": "狂龙出渊，开局拿捏女战神！",
+          "book_id": 13227645,
+          "heat_change": -3
+        },
+        {
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
           "heat_change": -2
         }
       ],
-      "summary": "**题材趋势**：短剧IP化趋势显著，融合“赘婿”、“兵王”、“异能”及“都市修仙”元素的爆爽文仍是流量核心。\n**读者偏好**：读者极度追求强刺激的“打脸”情节与“女战神/总裁”等快节奏情感爽点，对标签化、脑洞化的设定接受度高。\n**变动解读**：榜单波动剧烈，新书《狂龙出渊》凭借高浓度爽点迅速入局，挤压了原有榜首作品的生存空间。\n**值得关注**：短剧原著改编作品《SSSSSSSSSSSSS级镇狱狂龙》虽排名下滑，但仍保持较高热度，建议监控此类IP转化效率。",
-      "ai_source": "ai"
+      "summary": "「都市高手」《爷爷托梦后，我靠戒指掌控万界》上升4位领涨；《SSSSSSSSSSSSS级镇狱狂龙》下滑2位；《狂龙出渊，开局拿捏女战神！》热度-3。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 9,
         "title": "医武双绝：下山捡个总裁当老婆",
         "book_id": 11745600,
         "url": "https://www.qimao.com/shuku/11745600/",
@@ -67,16 +72,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "145.42万字",
-        "word_count": 1454200,
+        "word_count_text": "146.85万字",
+        "word_count": 1468500,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
-        "latest_chapter": " 第571章  隐藏高手",
-        "updated_at": "2026-10-12 00:12:15",
-        "rank_change": 0,
+        "latest_chapter": " 第575章  怎能言而无信",
+        "updated_at": "2026-10-13 00:12:16",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -84,36 +89,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 16,
-        "title": "SSSSSSSSSSSSS级镇狱狂龙",
-        "book_id": 2038385,
-        "url": "https://www.qimao.com/shuku/2038385/",
-        "author": "封情老衲",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%81%E6%83%85%E8%80%81%E8%A1%B2_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "349.23万字",
-        "word_count": 3492300,
-        "heat": 3,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1511章   摇钱树",
-        "updated_at": "2026-10-12 07:02:14",
-        "rank_change": -3,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 17,
+        "rank": 13,
         "title": "爷爷托梦后，我靠戒指掌控万界",
         "book_id": 12357096,
         "url": "https://www.qimao.com/shuku/12357096/",
@@ -125,16 +101,45 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "80.03万字",
-        "word_count": 800300,
+        "word_count_text": "82.49万字",
+        "word_count": 824900,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "打工人的苦，林骁完整的体验了一遍，被现实压的无法喘息，女朋友的移情别恋，成了压垮他的最后一根稻草。\n爷爷托梦了。\n“不孝孙子，你终于跟那小娘们儿分手了！还不快给我烧纸！爷爷在坟头上给你留了宝贝呢！”\n空间戒指？通万界？跨界交换物资？\n末世世界，一碗水能换百两黄金？\n修真大陆，水果能换无上功法？\n林晓，站起来了！\n前任跪求复合？晚了！\n曾经风靡校园的校花主动倒追，末世的娇媚首领下跪认主，修真大陆的宗门圣女撒娇求包养！我还要你这烂货？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4120/12357096_360x480.jpg?time=1781940481",
-        "latest_chapter": " 第393章  圣女交心，同甘共苦",
-        "updated_at": "2026-10-12 01:47:05",
-        "rank_change": -1,
+        "latest_chapter": " 第405章  对抗六品，略胜一筹？",
+        "updated_at": "2026-10-13 01:21:04",
+        "rank_change": 4,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 18,
+        "title": "SSSSSSSSSSSSS级镇狱狂龙",
+        "book_id": 2038385,
+        "url": "https://www.qimao.com/shuku/2038385/",
+        "author": "封情老衲",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B0%81%E6%83%85%E8%80%81%E8%A1%B2_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "349.91万字",
+        "word_count": 3499100,
+        "heat": 1,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
+        "latest_chapter": " 第1514章  援兵已到",
+        "updated_at": "2026-10-13 07:02:14",
+        "rank_change": -2,
         "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
@@ -142,7 +147,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "狂龙出渊，开局拿捏女战神！",
         "book_id": 13227645,
         "url": "https://www.qimao.com/shuku/13227645/",
@@ -154,18 +159,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.87万字",
-        "word_count": 338700,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "34.86万字",
+        "word_count": 348600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "一夜九次，我解了女战神的情毒。\n她转头塞给我一纸婚书，让我入赘金陵宋家，迎娶痴傻千金。\n众人都笑我一个开情趣店的软饭男配不上豪门，可没人知道我是潜龙之主，身负真龙之体，手握通天本领，号八方豪杰。\n潜龙蛰伏五载，今朝破村出海。\n昔日所有轻视、欺辱、伤害苏家之人，都将迎来百倍痛击！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4410/13227645_360x480.jpg?time=1791469943",
-        "latest_chapter": " 第102章  痴傻千金惊艳世家香叙，宋思纯嫉妒发狂",
-        "updated_at": "2026-10-11 23:29:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第105章  保姆十箭齐发带倒靶，打平对局再加码",
+        "updated_at": "2026-10-12 23:30:03",
+        "rank_change": 1,
+        "heat_change": -3,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

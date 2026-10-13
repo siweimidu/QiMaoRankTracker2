@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T08:18:28",
-  "date": "2026-10-12",
+  "generated_at": "2026-10-13T10:29:23",
+  "date": "2026-10-13",
   "authors": [
     {
       "author": "化十",
@@ -17,7 +17,7 @@
       "author": "锦锦不是妖",
       "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
       "books": 2,
-      "boards": 5,
+      "boards": 6,
       "total_heat": 13703000,
       "titles": [
         "第五年重逢，驰先生再度失控",
@@ -29,7 +29,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 3807000,
+      "total_heat": 3833000,
       "titles": [
         "第一凤女",
         "裂春风"
@@ -51,7 +51,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287000,
+      "total_heat": 2287001,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -73,20 +73,10 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 85000,
+      "total_heat": 79000,
       "titles": [
         "九转星辰诀",
         "魔天鼎：我能炼化万物"
-      ]
-    },
-    {
-      "author": "云中觅",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E4%B8%AD%E8%A7%85_14/",
-      "books": 1,
-      "boards": 1,
-      "total_heat": 60314000,
-      "titles": [
-        "封总，太太想跟你离婚很久了"
       ]
     },
     {
@@ -133,7 +123,7 @@
       "author": "琼玉",
       "author_url": "https://www.qimao.com/zuozhe/%E7%90%BC%E7%8E%89_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 3,
       "total_heat": 19907000,
       "titles": [
         "朱门春闺"
@@ -163,7 +153,7 @@
       "author": "吟雾",
       "author_url": "https://www.qimao.com/zuozhe/%E5%90%9F%E9%9B%BE_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 4,
       "total_heat": 13178000,
       "titles": [
         "盛总，太太让您签的是去父留子协议"
@@ -293,7 +283,7 @@
       "author": "严以妃",
       "author_url": "https://www.qimao.com/zuozhe/%E4%B8%A5%E4%BB%A5%E5%A6%83_14/",
       "books": 1,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 9032000,
       "titles": [
         "八年冷淡你提离婚，我签字你疯什么"
@@ -307,6 +297,16 @@
       "total_heat": 8910000,
       "titles": [
         "解春衫"
+      ]
+    },
+    {
+      "author": "雪落听风",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%9B%AA%E8%90%BD%E5%90%AC%E9%A3%8E_14/",
+      "books": 1,
+      "boards": 3,
+      "total_heat": 8567000,
+      "titles": [
+        "家有玄妻，百邪不侵！"
       ]
     }
   ]

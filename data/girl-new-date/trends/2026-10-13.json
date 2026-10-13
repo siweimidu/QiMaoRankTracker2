@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-13",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 121050,
+    "total_heat": 2421000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": 4
+          },
+          {
+            "title": "夫人太馋怎么办？司总更爱了",
+            "book_id": 13030701,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "rank_change": -3
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": -2
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": 301000
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": 16000
+          },
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "**题材趋势**：虐恋情深与追妻火葬场仍是核心，京圈背景叠加“离婚/闪婚”的高冲突设定是流量密码。\n**读者偏好**：读者极度偏好情绪价值拉满的爽文，尤其是“女主觉醒后事业逆袭”与“男主卑微补救”的强反差情节。\n**变动解读**：《唯她是图》热度断层领先，说明深度情感纠葛与极致拉扯的设定极具吸睛力，而传统套路的排名有所下滑。\n**值得关注**：萌宝+玄学元素正向总裁文渗透，如《窝才五岁》等轻快爽文在沉重虐恋中形成差异化竞争，值得留意。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": 78000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": -33000
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -24000
+          }
+        ],
+        "summary": "**题材趋势**：复仇爽文与种田养成并存，强调女主在封建压迫下的反抗与自我意识觉醒。\n**读者偏好**：读者青睐“嫡姐惨死”这类高情绪浓度的开局，对“女强打脸”与“体型差/糙汉”的组合表现出稳定关注。\n**变动解读**：榜单结构趋于稳定，《嫡姐惨死？王妃她杀爆京城》热度大幅领跑，显示出读者对极致复仇爽感的强烈需求。\n**值得关注**：经典“带球跑”或“权贵纠葛”题材竞争激烈，需关注具备强人设冲突的作品是否能持续留住用户。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "rank_change": 1
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": 21000
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "heat_change": 3000
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "**题材趋势**：玄学元素与“萌宝”设定深度绑定，成为该品类目前的主流叙事框架。\n**读者偏好**：读者偏好“换命/改命”带来的命运翻盘感，以及萌宝自带治愈异能改变家族颓势的团宠爽文。\n**变动解读**：榜单整体处于微调期，以玄学为卖点的书籍占据绝对主导，体现了读者对“爽感+治愈+逆袭”复合体验的追求。\n**值得关注**：通古今、物资配送等元素正为宅斗文注入新活力，这类兼具种田与爽文逻辑的作品具备长效留存潜力。",
+        "ai_source": "ai"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 4000
+          },
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升1位领涨；《悍妇穿边关，一手烂牌打出王炸》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": -6
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "heat_change": -17000
+          }
+        ],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》下滑6位；《长得太漂亮，在末世里会被疯狂觊觎》热度-17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」新上榜 《长庚引》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

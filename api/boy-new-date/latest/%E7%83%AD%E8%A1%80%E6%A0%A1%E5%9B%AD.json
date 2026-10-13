@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 72000,
+    "total_heat": 87000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "book_id": 12896292,
-          "rank_change": 4
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "heat_change": 33000
+          "heat_change": 15000
         }
       ],
-      "summary": "**题材趋势**：重生年代文与校园恋爱的结合爆发力极强，成为当前都市类目中极具统治力的增长曲线。\n**读者偏好**：读者热衷于“重回过去+养成系+多视角邂逅”，对怀旧滤镜下的“忽悠”式恋爱互动有极高的追读热情。\n**变动解读**：该书热度暴增3.3万，排名强势上冲4位，显示出强烈的黑马潜质与极佳的口碑转化效应。\n**值得关注**：作为单书支撑起7.2万热度的小类，其内容模式极易被市场效仿，建议重点监测其后续剧情的爽点铺排。",
+      "summary": "**题材趋势**：重生怀旧流结合“养成+攻略”模式，精准击中读者对青春遗憾的补偿心理与对校园女神的幻想。\n**读者偏好**：读者热衷于重回2010年左右的时代背景，倾向于“开局低配、收割各路天之骄女”的轻松爽感。\n**变动解读**：该书热度持续大幅攀升（+15000），显示出极强的用户留存与传播效应，占据校园题材绝对统治力。\n**值得关注**：此类题材的流量密码在于对“女神”身份的差异化设计，需持续挖掘角色互动中的情感反差感。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.38万字",
-        "word_count": 343800,
-        "heat": 72000,
+        "word_count_text": "35.84万字",
+        "word_count": 358400,
+        "heat": 87000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第150章  好家伙，连电视剧都不敢这么演吧！",
-        "updated_at": "2026-10-11 08:42:03",
-        "rank_change": 4,
-        "heat_change": 33000,
+        "latest_chapter": " 第156章  要是你能挣一千万，我和你爸就不上班了！",
+        "updated_at": "2026-10-13 08:12:12",
+        "rank_change": 0,
+        "heat_change": 15000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

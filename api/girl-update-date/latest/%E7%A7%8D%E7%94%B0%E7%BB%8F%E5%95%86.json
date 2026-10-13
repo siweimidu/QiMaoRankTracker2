@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 6,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,17 +21,18 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "大雪封山闹饥荒，福宝开挂富全村",
-          "book_id": 13264440,
-          "rank_change": 3
-        },
-        {
           "title": "乱世被流放，我在深山造温泉！",
           "book_id": 13123812,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "大雪封山闹饥荒，福宝开挂富全村",
+          "book_id": 13264440,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "乱世被流放，我在深山造温泉！",
@@ -41,15 +42,15 @@
         {
           "title": "大雪封山闹饥荒，福宝开挂富全村",
           "book_id": 13264440,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "**题材趋势**：细分赛道呈现出“基建+异能”与“温馨+经营”双向并行的趋势，强调主角通过特殊能力改变生存环境的核心爽点。\n**读者偏好**：读者对带有“救赎”、“逆袭”色彩的群像养成及大女主基建文兴趣浓厚，偏好强反差的生存挑战环境。\n**变动解读**：榜单稳定性强，两部作品排名均大幅上扬，显示出该类目在更新活跃度上的竞争优势，用户粘性较高。\n**值得关注**：建议创作者关注“特殊能力+极端环境”的组合模式，此类题材在当前环境下更容易通过高频更新带动热度拉升。",
-      "ai_source": "ai"
+      "summary": "「种田经商」《乱世被流放，我在深山造温泉！》上升1位领涨；《大雪封山闹饥荒，福宝开挂富全村》下滑2位；《乱世被流放，我在深山造温泉！》热度-2。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 12,
         "title": "大雪封山闹饥荒，福宝开挂富全村",
         "book_id": 13264440,
         "url": "https://www.qimao.com/shuku/13264440/",
@@ -61,24 +62,24 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.27万字",
-        "word_count": 262700,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "26.87万字",
+        "word_count": 268700,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【治愈温馨+家长里短+非情绪流+美食+全村逆袭+认亲】\n大雪封山，又遭山崩断路，清露村彻底断了与外界的联系。\n小糯糯在山神庙祈福，被山神爷爷赋予“神力”，她穿梭两界卖野菜买米肉，把早就空了粮仓的村子盘活了。\n糯糯脚踩小凳子，声音奶呼呼的：“咱们吃饱了有力气，不能坐以待毙！”\n“没糯糯大家都活不成，听糯糯的。”\n“糯糯就是咱们村的小福星，她说什么就是什么。大家伙儿支棱起来，咱们耕地修路！”\n后来最宠糯糯的村长家哥哥谢寻，被送到镇上读书了，多年后再见时，他成熟稳重，将她护在身后，有求必应，糯糯不知道，谢寻哥哥早就是她的毒唯了！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4422/13264440_360x480.jpg?time=1790217894",
-        "latest_chapter": " 第56章  心疼囡囡",
-        "updated_at": "2026-10-12 08:02:18",
-        "rank_change": 3,
-        "heat_change": 1,
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4422/13264440_360x480.jpg?time=1791771814",
+        "latest_chapter": " 第57章  莲花村来服软了",
+        "updated_at": "2026-10-13 08:02:16",
+        "rank_change": -2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "种田经商"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "乱世被流放，我在深山造温泉！",
         "book_id": 13123812,
         "url": "https://www.qimao.com/shuku/13123812/",
@@ -90,16 +91,16 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.08万字",
-        "word_count": 250800,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "25.7万字",
+        "word_count": 257000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【穿越地质大佬+流放真千金+地脉异能+北境基建+双强争霸+女主称帝】\n前方高燃暴爽来袭！！！\n苏棠，现代顶尖地质学家，穿成了被家族流放北境的真千金。\n黑山万奴营，四大家族一手打造的人间炼狱，罪奴白骨遍地。\n首战斩敌，她觉醒地脉异能！掌山川，控岩土，探地下泉眼。\n尸山血海，她凭一己之力杀出生路，把这地狱绝境硬生生建成天下第一温泉山庄！\n顺手捡回极品山野美男，附赠九岁腹黑小正太、六岁暴躁小萝莉。\n一家四口个个满肚子坏水，组团虐渣，玩转四大家族！\n蛮族犯边，苏棠携众人挥师北境，打得蛮族溃逃，百年不敢南下。\n她与美男强强联手，收复北境十六州，横扫各方势力。\n昔日万奴营罪奴，终成长为威震塞外的北境女霸王。\n朝堂昏聩，奸臣当道，铁骑南下，重返京城。\n一朝改朝换代，苏棠登上帝位，执掌锦绣江山！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123812_360x480.jpg?time=1790661011",
-        "latest_chapter": " 第124章  人人都有活干",
-        "updated_at": "2026-10-11 23:29:05",
-        "rank_change": 3,
+        "latest_chapter": " 第127章  手里的是一封催婚书",
+        "updated_at": "2026-10-12 23:23:04",
+        "rank_change": 1,
         "heat_change": -2,
         "is_new": false,
         "boards_count": 1,

@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-13",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 29,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "intro": "【男二上位+人间清醒+追妻火葬场+叔嫂文学+男二绝嗣x女二好孕】\n\n　　燕筝和太子夫君少年情深，从没想过夫君会背弃她。\n\n　　她死了才知，只有好孕侧妃才能生下绝嗣夫君的孩子，说要与她一生一世一双人的夫"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": -3
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -1
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《朱门春闺》；《媚君侧》 掉出榜单；《玉帐春》上升2位领涨；《皇叔借点功德，王妃把符画猛了》下滑1位；《侯爷绝嗣？好孕丫鬟又又又是喜脉》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "不熟，但和封总有个崽",
+            "book_id": 13197558,
+            "intro": "【二婚女×不婚男，旗袍传人×离婚律师】\n【女非男c+男二追妻火葬场+暧昧拉扯】\n结婚五年，相宜捉奸抓到了老公和资助多年的学生。\n她提出离婚，永不回头。\n住在隔壁的律师宽肩窄腰，镜片下的眸永远冷静自持，"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -2
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": -2
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -1
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《不熟，但和封总有个崽》 掉出榜单；《疯犬玫瑰》上升3位领涨；《她玩火》下滑2位；《离婚当天，和京圈太子爷闪婚了》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": 1
+          },
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《王妃一身妖骨，京城百祟俯首》上升2位领涨；《五岁小神女：我靠兽语救了废柴将军爹爹》下滑4位；《王妃一身妖骨，京城百祟俯首》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "heat_change": -2
+          },
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「种田经商」《乱世被流放，我在深山造温泉！》上升1位领涨；《大雪封山闹饥荒，福宝开挂富全村》下滑2位；《乱世被流放，我在深山造温泉！》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "rank_change": -7
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「权谋天下」《恨卿迟》下滑7位；《恨卿迟》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "七零娇娇十八，喜当萌娃亲妈",
+            "book_id": 13282398
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《七零娇娇十八，喜当萌娃亲妈》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,26 +8,42 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 877000,
+    "count": 3,
+    "total_heat": 1126000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "女总裁的小邪医",
+          "book_id": 12932601
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "下山即无敌，美女总裁逼我去领证！",
+          "book_id": 12594795,
+          "rank_change": 1
+        },
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：高度同质化的“高手下山+美女总裁”套路依然占据市场主流，核心逻辑依然是强爽文节奏。\n**读者偏好**：读者对快节奏的“婚恋开局”和“扮猪吃虎”爽点有极高黏性，尤其偏爱强冲突的开篇。\n**变动解读**：榜单结构极度稳定，头部作品热度持平，显示该垂类进入存量竞争阶段，新书缺乏强力竞争者。\n**值得关注**：在题材高度饱和的背景下，如何通过差异化的“金手指”设定或更紧凑的节奏突破审美疲劳是关键。",
+      "summary": "**题材趋势**：高度同质化，“下山高手+美女总裁”依然是核心卖点，剧情公式化程度极高。\n**读者偏好**：读者需求明确，即“极简爽感”：通过退婚、医武双绝、多女主互动等快节奏桥段获取即时满足。\n**变动解读**：头部作品竞争激烈，排名小幅波动反映了读者对同类作品的快速更迭需求，存量市场竞争已进入“细节比拼”阶段。\n**值得关注**：新入榜的《女总裁的小邪医》通过“姐弟恋”标签进一步细分了高手文的受众，显示出该题材在人设上的微创新趋势。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "下山即无敌，美女总裁逼我去领证！",
         "book_id": 12594795,
         "url": "https://www.qimao.com/shuku/12594795/",
@@ -48,15 +64,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
         "latest_chapter": " 第163章  难不成，他真的是武道神境？",
         "updated_at": "2026-10-12 00:47:03",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -68,19 +84,48 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.61万字",
-        "word_count": 316100,
+        "word_count_text": "32.05万字",
+        "word_count": 320500,
         "heat": 414000,
         "platform_trend": "rise",
-        "badge": "飙升52名",
+        "badge": "飙升53名",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第143章  绝望的汪如海",
-        "updated_at": "2026-10-12 05:12:02",
-        "rank_change": 0,
+        "latest_chapter": " 第145章  保险的手段",
+        "updated_at": "2026-10-13 05:02:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 18,
+        "title": "女总裁的小邪医",
+        "book_id": 12932601,
+        "url": "https://www.qimao.com/shuku/12932601/",
+        "author": "拉姆哥",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8B%89%E5%A7%86%E5%93%A5_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "44.15万字",
+        "word_count": 441500,
+        "heat": 249000,
+        "platform_trend": "rise",
+        "badge": "飙升37名",
+        "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12932601_360x480.jpg?time=1788795032",
+        "latest_chapter": " 第212章  港岛李家",
+        "updated_at": "2026-10-12 15:29:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       }

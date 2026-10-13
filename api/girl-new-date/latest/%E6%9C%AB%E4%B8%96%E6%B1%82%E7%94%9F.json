@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 57000,
+    "total_heat": 40000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "长得太漂亮，在末世里会被疯狂觊觎",
           "book_id": 12813204,
-          "rank_change": 1
+          "rank_change": -6
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "长得太漂亮，在末世里会被疯狂觊觎",
           "book_id": 12813204,
-          "heat_change": 1000
+          "heat_change": -17000
         }
       ],
-      "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨；《长得太漂亮，在末世里会被疯狂觊觎》热度+1000。",
+      "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》下滑6位；《长得太漂亮，在末世里会被疯狂觊觎》热度-17000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 16,
         "title": "长得太漂亮，在末世里会被疯狂觊觎",
         "book_id": 12813204,
         "url": "https://www.qimao.com/shuku/12813204/",
@@ -53,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "34.58万字",
         "word_count": 345800,
-        "heat": 57000,
-        "platform_trend": "rise",
+        "heat": 40000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1791612967",
         "latest_chapter": " 第165章  一家人整整齐齐",
         "updated_at": "2026-10-11 23:59:04",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": -6,
+        "heat_change": -17000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

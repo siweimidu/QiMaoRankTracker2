@@ -8,26 +8,48 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 6,
-    "total_heat": 46204000,
+    "count": 5,
+    "total_heat": 43898000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "王府里来了个捡破烂的崽崽",
+          "book_id": 2061856,
+          "intro": "宁王妃带回了一个爱捡破烂的幼崽。\n自从她进了王府，败落的王府从此一飞冲天！\n祖母的眼睛能看清了，大哥手好了，二哥不瘸了，三哥会交际了，昏迷了几年的王爷的彻底痊愈了……。\n幼崽带着她的破烂大杀四方，正冤"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "第一凤女",
+          "book_id": 1803136,
+          "rank_change": -2
+        },
+        {
+          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+          "book_id": 2074363,
+          "rank_change": -1
+        },
+        {
+          "title": "凤池生春",
+          "book_id": 1830569,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "**题材趋势**：重生复仇与权谋大女主文占据绝对主流，多部作品与影视综艺联动，显示出“IP化”叙事对提升作品影响力的重要性。\n**读者偏好**：读者偏好“全家火葬场”、“虐渣复仇”及“嘎嘎乱杀”的爽点，强调女主从弃子到掌控全局的成长与心理博弈。\n**变动解读**：榜单结构极度稳固，上榜作品多为经过市场深度验证的精品，新书进入门槛极高，热度分布相对集中。\n**值得关注**：幼崽元素在宅斗文中的应用（如《王府里来了个捡破烂的崽崽》）表现出极强的反差萌效应，是小类破圈的创新方向。",
-      "ai_source": "ai"
+      "summary": "「宫闱宅斗」《王府里来了个捡破烂的崽崽》 掉出榜单；《第一凤女》下滑2位。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 3,
         "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
         "book_id": 2074363,
         "url": "https://www.qimao.com/shuku/2074363/",
@@ -48,7 +70,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -56,7 +78,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "凤池生春",
         "book_id": 1830569,
         "url": "https://www.qimao.com/shuku/1830569/",
@@ -77,7 +99,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -85,7 +107,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "title": "解春衫",
         "book_id": 2065888,
         "url": "https://www.qimao.com/shuku/2065888/",
@@ -106,7 +128,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -114,7 +136,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
         "book_id": 2019227,
         "url": "https://www.qimao.com/shuku/2019227/",
@@ -135,7 +157,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -143,7 +165,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -164,39 +186,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": 0,
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "宫闱宅斗"
-      },
-      {
-        "rank": 20,
-        "title": "王府里来了个捡破烂的崽崽",
-        "book_id": 2061856,
-        "url": "https://www.qimao.com/shuku/2061856/",
-        "author": "三颗小石头",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%89%E9%A2%97%E5%B0%8F%E7%9F%B3%E5%A4%B4_14/",
-        "major": "古代言情",
-        "minor": "宫闱宅斗",
-        "major_id": 2,
-        "minor_id": 209,
-        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "206.25万字",
-        "word_count": 2062500,
-        "heat": 2306000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "宁王妃带回了一个爱捡破烂的幼崽。\n自从她进了王府，败落的王府从此一飞冲天！\n祖母的眼睛能看清了，大哥手好了，二哥不瘸了，三哥会交际了，昏迷了几年的王爷的彻底痊愈了……。\n幼崽带着她的破烂大杀四方，正冤案，破敌国，护百姓……所有人都求着想要她捡的破烂。\n皇帝金口玉言，哪个敢欺负幼崽，我诛他九族！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
-        "latest_chapter": " 第946章  回家喽",
-        "updated_at": "2026-07-16 23:27:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "宫闱宅斗"
       }

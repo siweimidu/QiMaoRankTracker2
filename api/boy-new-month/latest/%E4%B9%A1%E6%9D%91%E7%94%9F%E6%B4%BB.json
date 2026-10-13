@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -19,15 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909,
+          "rank_change": 3
+        },
+        {
+          "title": "重生57：开局傻子，白捡个漂亮媳妇",
+          "book_id": 13118376,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：年代文与乡村生活深度融合，以“重生+囤粮+狩猎”为核心驱动的生存类爽文成为增长点。\n**读者偏好**：读者热衷于“从零开始”的奋斗叙事，特别是带有时代色彩的资源积累与情感线叠加。\n**变动解读**：榜单表现平稳，年代背景下的“猎艳”与“求生”元素结合紧密，受众群体极其固定且忠诚。\n**值得关注**：随着年代文竞争加剧，强化“生活流”的细腻描写与“硬核求生”的爽点平衡是未来胜负手。",
+      "summary": "**题材趋势**：年代文红利持续，以“重生+物资匮乏背景+狩猎/种田”为核心卖点，突出生存与狩猎的爽点。\n**读者偏好**：读者偏好极具张力的“年代奋斗”叙事，尤其青睐“狩猎、囤粮、家庭关系改善”等强代入感元素。\n**变动解读**：本类书籍排名整体上扬，显示出极强的用户粘性，尤其是《重生70》这类融合了狩猎与乡土情感元素的作品，增长潜力巨大。\n**值得关注**：年代文已进入精细化竞争阶段，融合“狩猎”、“拉帮套”等硬核且具有争议性的话题，更易在七猫生态中获得高点击。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "重生57：开局傻子，白捡个漂亮媳妇",
         "book_id": 13118376,
         "url": "https://www.qimao.com/shuku/13118376/",
@@ -39,16 +50,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.42万字",
-        "word_count": 384200,
+        "word_count_text": "39.03万字",
+        "word_count": 390300,
         "heat": 438000,
         "platform_trend": "rise",
-        "badge": "飙升66名",
+        "badge": "飙升67名",
         "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第185章  杀熊而止",
-        "updated_at": "2026-10-11 18:17:03",
-        "rank_change": 0,
+        "latest_chapter": " 第188章  始乱而结局",
+        "updated_at": "2026-10-12 22:04:05",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -56,7 +67,7 @@
         "category": "乡村生活"
       },
       {
-        "rank": 14,
+        "rank": 11,
         "title": "重生70：一枪一个，狩猎人生",
         "book_id": 13113909,
         "url": "https://www.qimao.com/shuku/13113909/",
@@ -68,16 +79,16 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.27万字",
-        "word_count": 382700,
+        "word_count_text": "38.88万字",
+        "word_count": 388800,
         "heat": 385000,
         "platform_trend": "rise",
-        "badge": "飙升61名",
+        "badge": "飙升64名",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1977的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
-        "latest_chapter": " 第162章  小红",
-        "updated_at": "2026-10-11 16:26:03",
-        "rank_change": 0,
+        "latest_chapter": " 第165章  小马六的嘱托",
+        "updated_at": "2026-10-12 17:35:03",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

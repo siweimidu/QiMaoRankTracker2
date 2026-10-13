@@ -8,21 +8,27 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 4934000,
+    "count": 1,
+    "total_heat": 3097000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "被关女子监狱三年，我修炼成仙了",
+          "book_id": 1697715,
+          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
+        }
+      ],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：聚焦“战神/修仙归来+都市红颜”模式，强调极端的身份反差与爽点铺陈。\n**读者偏好**：受众偏好强力主角的回归复仇，以及通过多女性角色互动带来的“爽感+修罗场”复合体验。\n**变动解读**：本期榜单结构极度稳固，头部作品通过长尾效应维持热度，缺乏新晋竞品冲击，反映该细分市场进入存量竞争阶段。\n**值得关注**：虽然排名未变，但《SSS级狂龙归来》以超300万热度断层领先，显示“龙王/战神”类题材在七猫生态中仍具备极强的用户粘性。",
+      "summary": "**题材趋势**：典型的“战神归来+多位女性角色”配置，通过强冲突的身份反差与多线感情羁绊驱动爽感，是都市爽文的经典范本。\n**读者偏好**：受众追求极致的压制感与被众星捧月的快感，对“退婚流”、“各色美女倒贴”等桥段具备高度爽点认同。\n**变动解读**：榜单出现更迭，原《被关女子监狱三年》被替换，显示该品类虽然爽点固定，但受众对书籍更新速度与新鲜感仍有动态要求。\n**值得关注**：该类作品生命周期依赖爽点堆叠，后续需关注“战神”类题材在情节创新上如何规避审美疲劳，保持市场吸引力。",
       "ai_source": "ai"
     },
     "books": [
@@ -52,35 +58,6 @@
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": true,
-        "category": "都市高手"
-      },
-      {
-        "rank": 20,
-        "title": "被关女子监狱三年，我修炼成仙了",
-        "book_id": 1697715,
-        "url": "https://www.qimao.com/shuku/1697715/",
-        "author": "一只狸猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%8F%AA%E7%8B%B8%E7%8C%AB_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "760.62万字",
-        "word_count": 7606200,
-        "heat": 1837000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
-        "latest_chapter": " 第1891章  番外",
-        "updated_at": "2026-08-17 18:03:16",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

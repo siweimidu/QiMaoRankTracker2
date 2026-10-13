@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 30000,
+    "total_heat": 47000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "rank_change": 2
+          "rank_change": 4
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": 4000
+          "heat_change": 17000
         }
       ],
-      "summary": "**题材趋势**：商战职场类题材当前处于存量竞争阶段，单书上榜且热度中等，市场缺乏强力新书供给。\n**读者偏好**：读者更青睐带有“小人物逆袭”、“多女主互动”及“社会阶层跨越”元素的草根奋斗叙事。\n**变动解读**：《野性攀登》排名上升且热度增长显著，反映出该书强冲突的开局和情感爽点符合当前读者的阅读胃口。\n**值得关注**：需警惕此类题材同质化严重的风险，后续应关注是否有具备强情节推动力的新作打破榜单垄断。",
+      "summary": "**题材趋势**：职场逆袭流正向“都市情感+野性成长”融合，通过小人物被动上位引发的爽感是目前的主流叙事。\n**读者偏好**：读者偏爱“底层职员+突发际遇+多线女性纠葛”的组合，侧重于职场人际博弈带来的社会地位反转。\n**变动解读**：该作排名大幅跃升（+4）且热度增幅极高，说明其“野性逆袭”标签精准切中了读者的情绪爽点。\n**值得关注**：后续应保持强烈的冲突节奏，通过职场矛盾与情感纠纷的叠加，进一步刺激读者的阅读期待。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 5,
         "title": "野性攀登",
         "book_id": 13408218,
         "url": "https://www.qimao.com/shuku/13408218/",
@@ -51,17 +51,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.71万字",
-        "word_count": 237100,
-        "heat": 30000,
+        "word_count_text": "24.82万字",
+        "word_count": 248200,
+        "heat": 47000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1789371629",
-        "latest_chapter": " 第104章  刘斌真正的底牌",
-        "updated_at": "2026-10-12 03:02:03",
-        "rank_change": 2,
-        "heat_change": 4000,
+        "latest_chapter": " 第109章  美女无尽的呼唤",
+        "updated_at": "2026-10-13 05:02:02",
+        "rank_change": 4,
+        "heat_change": 17000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

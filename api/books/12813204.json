@@ -11,8 +11,8 @@
     {
       "board": "girl-new-date",
       "board_name": "女生新书日榜",
-      "rank": 10,
-      "heat": 57000
+      "rank": 16,
+      "heat": 40000
     }
   ],
   "history": [
@@ -69,6 +69,12 @@
       "b": "girl-new-date",
       "r": 10,
       "h": 57000
+    },
+    {
+      "d": "2026-10-13",
+      "b": "girl-new-date",
+      "r": 16,
+      "h": 40000
     }
   ]
 }

@@ -8,21 +8,26 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 4,
-    "total_heat": 13487000,
+    "count": 5,
+    "total_heat": 15489000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "被贬边疆，成就最强藩王",
+          "book_id": 1965987
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势** “种田流”与“权谋爽文”并行，侧重于通过现代工业或军事思维改变落后封建格局。\n**读者偏好** 读者偏爱“皇子夺嫡”背景下的轻松搞怪或硬核基建，尤其关注主角从边缘走向权力中心的过程。\n**变动解读** 榜单处于完全静止状态，说明当前在榜作品已精准覆盖了该类目读者的核心爽点。\n**值得关注** IP联动效应明显，如《世子无双》通过有声剧与短剧多渠道引流，证明“内容+多维开发”是长效运营关键。",
+      "summary": "**题材趋势**：以“封地经营”与“皇子夺嫡”为核心的种田争霸流依旧是市场主流，强调从天崩开局到富甲一方的爽感转化。\n**读者偏好**：读者热衷于“扮猪吃虎”与“现代工业/农业知识降维打击”的爽点，偏爱基建与权谋并行的快节奏剧情。\n**变动解读**：榜单结构极度稳定，新入榜的《被贬边疆，成就最强藩王》延续了典型的流放开局与反击逻辑，证明该细分赛道读者黏性极高。\n**值得关注**：多部作品已完成短剧、有声剧转化，IP联动效应明显，内容跨媒体开发已成为该类目头部作品的标配。",
       "ai_source": "ai"
     },
     "books": [
@@ -138,6 +143,35 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
+        "boards_count": 2,
+        "stale_update": true,
+        "category": "架空历史"
+      },
+      {
+        "rank": 19,
+        "title": "被贬边疆，成就最强藩王",
+        "book_id": 1965987,
+        "url": "https://www.qimao.com/shuku/1965987/",
+        "author": "绯雨",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%BB%AF%E9%9B%A8_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "258.32万字",
+        "word_count": 2583200,
+        "heat": 2002000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放的不是弃子，而是大周真正的潜龙！\n“陛下，这万里边疆……现在归我了！”\n原来流放，才是他称霸的开始！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
+        "latest_chapter": " 第1222章  完本",
+        "updated_at": "2026-10-05 10:07:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"

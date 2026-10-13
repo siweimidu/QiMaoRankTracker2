@@ -11,8 +11,14 @@
     {
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
-      "rank": 13,
+      "rank": 12,
       "heat": 73000
+    },
+    {
+      "board": "boy-over-month",
+      "board_name": "男生完结月榜",
+      "rank": 19,
+      "heat": 2002000
     }
   ],
   "history": [
@@ -33,6 +39,18 @@
       "b": "boy-over-date",
       "r": 13,
       "h": 73000
+    },
+    {
+      "d": "2026-10-13",
+      "b": "boy-over-date",
+      "r": 12,
+      "h": 73000
+    },
+    {
+      "d": "2026-10-13",
+      "b": "boy-over-month",
+      "r": 19,
+      "h": 2002000
     }
   ]
 }

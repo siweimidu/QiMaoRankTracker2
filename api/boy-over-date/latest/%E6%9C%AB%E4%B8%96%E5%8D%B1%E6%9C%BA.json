@@ -8,25 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 66000,
+    "total_heat": 67000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "全球灾变之末日游戏",
@@ -34,7 +28,7 @@
           "heat_change": 1000
         }
       ],
-      "summary": "**题材趋势**：末日题材正处于从传统生存向“末日游戏化”演变的成熟期。\n**读者偏好**：读者更青睐带有强烈杀伐果断人设的末日文，对人性博弈与极端环境下的生存爽点有高度共鸣。\n**变动解读**：榜单热度出现微幅调整，排名下滑反映了该品类在完结榜单中正面临新的流量分配压力。\n**值得关注**：作者通过跨界联动（如漫画化）导流的运营策略，是延长完结作品生命周期的有效手段。",
+      "summary": "**题材趋势** 末世题材呈现“杀伐果断+游戏化生存”的硬核基调，强调极端环境下的生存博弈与人性抉择。\n**读者偏好** 读者偏好主角在末世规则下实现个体崛起，对带有“重生”、“杀戮”标签的强节奏剧情表现出较高的忠诚度。\n**变动解读** 榜单变动平稳，热度小幅增长，说明该头部作品已进入成熟期，依靠稳定的粉丝基础维持榜位。\n**值得关注** 关注该题材如何通过跨平台互动（如漫画联动）进一步挖掘长尾价值，实现IP生命周期的持续延长。",
       "ai_source": "ai"
     },
     "books": [
@@ -53,14 +47,14 @@
         "status": "已完结",
         "word_count_text": "502.3万字",
         "word_count": 5023000,
-        "heat": 66000,
-        "platform_trend": "rise",
+        "heat": 67000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,

@@ -8,39 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 559000,
+    "total_heat": 566000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
-          "book_id": 12952116,
-          "rank_change": 4
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "错嫁随军：新婚夜冷面军少沦陷了",
           "book_id": 12792057,
-          "heat_change": -17000
+          "heat_change": 4000
         },
         {
           "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
           "book_id": 12952116,
-          "heat_change": 13000
+          "heat_change": 3000
         }
       ],
-      "summary": "**题材趋势**：军婚甜宠与空间团宠双赛道并行，年代文仍是七猫女生市场的核心基本盘。\n**读者偏好**：读者钟情于“扮猪吃虎”、“双重生”及“暴富”类爽点，对带有强烈反差感和金手指的叙事模式接受度极高。\n**变动解读**：头部作品《错嫁随军》虽热度略有回落但地位稳固，腰部作品《带空间跟爹抱大腿》凭借强标签组合实现大幅爬升。\n**值得关注**：标签堆叠（如空间、医学、团宠）带来的复合爽感，是后续年代文提升热度的关键驱动力。",
-      "ai_source": "ai"
+      "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度+4000。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -56,17 +50,17 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.33万字",
-        "word_count": 393300,
-        "heat": 513000,
+        "word_count_text": "39.74万字",
+        "word_count": 397400,
+        "heat": 517000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二代，夫妻恩爱，风光无限。\n她自私懒惰嫁穷苦男配，丈夫还要爱慕女主。\n甚至为了救下扭伤的女主，任由她被横梁砸碎，落个惨死的结局。\n姜珍霓不想死，抗争后发现根本没办法摆脱剧情，她准备熬一熬。\n熬到剧情上线——\n等周厉骁爱上女主，她就可以离婚，以后好好爱自己。\n姜珍霓揉着酸痛的腰，抚着一天天大起来的肚子，看着蹲在水池边给她洗内衣的周厉骁，有些疑惑，他怎么还不去给女主当舔狗？？\n……\n本该嫁红二代，风光无限的江明月，背着孩子洗衣服，看着被周厉骁百般疼宠的姜珍霓彻底傻眼——\n她怎么也想不通，　明明红二代是属于她的姻缘，怎么阴差阳错，周厉骁才是隐藏的红二代？\n到底是哪一步出了错？\n【时代背景一九七八年】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4265/12792057_360x480.jpg?time=1784770379",
-        "latest_chapter": " 第191章  为了媳妇算计领导",
-        "updated_at": "2026-10-10 23:04:03",
+        "latest_chapter": " 第193章  不能生？就说我不行",
+        "updated_at": "2026-10-12 13:51:03",
         "rank_change": 0,
-        "heat_change": -17000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -85,17 +79,17 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.63万字",
-        "word_count": 356300,
-        "heat": 46000,
-        "platform_trend": "rise",
+        "word_count_text": "36.05万字",
+        "word_count": 360500,
+        "heat": 49000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【双重生】【年代】【空间】【灵泉】【团宠】【金手指】【嫁爹】【暴富】【医学奇才】\n李若溪和姐姐一起重生了。\n前世，她跟着亲妈改嫁住进顾家，被当作白老鼠试药，被折磨得不成人样。\n跟亲爹留在乡下的姐姐嫉妒她在顾家过好日子，恨她刀她。\n这一世，亲妈又要带她走，姐姐跪地抢着代替她去顾家。\n李若溪爽快让位，转身去找惦记他爹多年的女猎户。\n“大英姨，你要男人不要？”\n林大英筷子哐当落地。\n林家三兄弟惊得嘴巴能塞鸡蛋。\n亲爹李长青羞红了脸，被林大英扛在肩上带回家。\n入赘的日子真好啊！天天吃肉，还被宠得七荤八素。\n三个继兄，一个憨，一个精，一个冷，把她当亲妹宠。\n这一世的目标很简单，荣华富贵一样不能少！前世害我的人一个个慢慢嘎！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4318/12952116_360x480.jpg?time=1791622774",
-        "latest_chapter": " 第164章  六和丸卖疯了",
-        "updated_at": "2026-10-11 12:12:03",
-        "rank_change": 4,
-        "heat_change": 13000,
+        "latest_chapter": " 第166章  该死，你这样会让人想要犯罪",
+        "updated_at": "2026-10-12 12:12:04",
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

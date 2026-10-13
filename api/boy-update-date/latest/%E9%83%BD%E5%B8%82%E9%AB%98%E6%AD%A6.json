@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,7 +24,7 @@
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
@@ -34,7 +34,7 @@
           "heat_change": 1
         }
       ],
-      "summary": "**题材趋势**：以“生死考核”和“系统觉醒”为核心的都市异能题材占据主导，强调绝境下的力量反转。\n**读者偏好**：受众偏向于高爽感的“身份隐藏”与“战力暴涨”设定，期待主角在平凡身份下展现碾压级实力。\n**变动解读**：榜单热度处于低迷期，整体呈小幅下滑趋势，反映出当前在榜作品对读者的长线留存吸引力不足。\n**值得关注**：需警惕榜单活跃度过低风险，建议观察是否有具备强冲突、快节奏的新作冲击榜单。",
+      "summary": "**题材趋势**：题材集中于“都市异能”与“系统流”结合，强调主角从社会底层通过特殊际遇获得超凡能力的叙事模式。\n**读者偏好**：受众偏好带有“绝境重生”和“隐藏身份”元素的爽文，对主角从平凡走向巅峰的逆袭过程有较强代入感。\n**变动解读**：榜单上榜书籍极少，整体热度处于低位震荡，显示该品类目前在榜单竞争中处于相对弱势的阶段。\n**值得关注**：《神武天下之睚眦》虽排名下滑，但热度微涨，说明该类作品在小众圈层内仍保有稳定的粉丝关注度。",
       "ai_source": "ai"
     },
     "books": [
@@ -51,15 +51,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "66.94万字",
-        "word_count": 669400,
+        "word_count_text": "67.56万字",
+        "word_count": 675600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "很多人在经历过生死大劫之后，就会性情大变，人生也像开挂一样。\n那是因为每个人在临死前，都会进入一片死前考核空间。\n只要通过考核就能活过来，而且在考核空间获得的特殊能力也会带回现世。\n所谓大难不死必有后福其实就是这么来的，是真的开了挂！\n世上有极少部分人是从死前考核空间走出来的。\n而有些人，去过一次，还想再去…...\n凌无就是其中之一！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606348_360x480.jpg?time=1784385499",
-        "latest_chapter": " 第196章  因为护主而死",
-        "updated_at": "2026-10-12 00:40:04",
+        "latest_chapter": " 第198章  明明有选择却还要做坏人",
+        "updated_at": "2026-10-12 22:59:05",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -68,7 +68,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -80,16 +80,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "451.03万字",
-        "word_count": 4510300,
-        "heat": 1,
+        "word_count_text": "452.07万字",
+        "word_count": 4520700,
+        "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1046章  世界之巅 龙争虎斗",
-        "updated_at": "2026-10-11 09:02:13",
-        "rank_change": -1,
+        "latest_chapter": " 第1048章  世界之巅 拖延",
+        "updated_at": "2026-10-13 09:02:12",
+        "rank_change": -2,
         "heat_change": 1,
         "is_new": false,
         "boards_count": 1,

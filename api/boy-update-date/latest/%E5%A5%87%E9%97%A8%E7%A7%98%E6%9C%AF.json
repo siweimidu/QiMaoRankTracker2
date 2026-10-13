@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "**题材趋势** 奇门秘术类目目前处于极度冷门状态，市场供给与活跃度均处于冰点。\n**读者偏好** 仅存的一部作品《天黑请点灯》主打中式民俗惊悚与诡异生存，反映了细分受众对“诡异流”和“民俗恐怖”题材的特定关注。\n**变动解读** 榜单表现平稳但缺乏活力，无新书入局，无热度波动，显示该小类目前在七猫男生频道缺乏有效的流量扶持或创作增量。\n**值得关注** 需观察该题材后续是否有头部作品通过民俗惊悚元素实现破圈，或是否有更多同类作品补充以激活榜单。",
+      "top_fallers": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "rank_change": -3
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "天黑请点灯",
+          "book_id": 1982358,
+          "heat_change": 1
+        }
+      ],
+      "summary": "**题材趋势** 奇门秘术类目当前处于极度冷门期，市场供给与读者活跃度均处于低位，缺乏头部作品支撑。\n**读者偏好** 读者偏好带有强悬疑色彩、民俗诡异感及末世生存元素的快节奏叙事，对“人吃人”等生存压力题材有一定关注。\n**变动解读** 榜单仅存一本作品，且排名出现下行，反映出该细分领域在七猫平台的流量获取能力较弱，用户粘性不足。\n**值得关注** 需观察此类目是否会持续萎缩，或是否有具备强网文爽点的新作通过题材融合进行突围。",
       "ai_source": "ai"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 12,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -39,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "495.87万字",
-        "word_count": 4958700,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "496.71万字",
+        "word_count": 4967100,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1808章  大鹏一日同风起，扶摇直上九万里！",
-        "updated_at": "2026-10-12 06:57:12",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1811章  需要我给你指路吗？",
+        "updated_at": "2026-10-13 06:57:12",
+        "rank_change": -3,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
